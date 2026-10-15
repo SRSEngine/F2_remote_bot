@@ -260,3 +260,8 @@
                   f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
           ConnectionError: ریموت B25 در دسترس نیست (\\.\pipe\xbrp-B25). xbrp باز است؟
 ════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:41:53  |  خطا 3، تلاش دوباره 3، توقف موقت 4، خطای کد 1 ════
+
+════ 2026-10-15 15:39:50  شروع اجرا  (ریموت B25، pid 20424) START_GAME=True  SHARED=True ════
+15:39:57  ·            اکانت Donna › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'ella matthews' — اکانت لازم: Donna
+15:40:16  ✓ انجام شد   اکانت Donna › شروع بازی › CheckAccount  |  اکانت Donna روی کنسول است (گیمرتگ: Donna#5974)
+15:43:28  ·            اکانت Donna › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)

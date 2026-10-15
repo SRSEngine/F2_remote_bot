@@ -1796,7 +1796,10 @@ class StatusTab(QWidget):
         self.reset_all = QPushButton("Reset all SBCs"); self.reset_all.setObjectName("danger")
         self.reset_all.setToolTip("Clear the completed SBCs of EVERY account so the bot runs them all again")
         self.reset_all.clicked.connect(self.on_reset_all)
-        bar.addWidget(self.reset_all); bar.addStretch(1); bar.addWidget(self.count)
+        self.export_btn = QPushButton("Export CSV"); self.export_btn.setObjectName("ghost")
+        self.export_btn.setToolTip("Save this table as a CSV file (without the Last error column)")
+        self.export_btn.clicked.connect(self.on_export)
+        bar.addWidget(self.reset_all); bar.addWidget(self.export_btn); bar.addStretch(1); bar.addWidget(self.count)
         lay.addLayout(bar)
         self.table = QTableWidget(0, len(self.COLS))
         self.table.setHorizontalHeaderLabels(self.COLS)
@@ -1977,6 +1980,45 @@ class StatusTab(QWidget):
         core.clear_account_status([account.key()])
         self.refresh()
 
+    def on_export(self):
+        """Table as shown -> CSV (UTF-8 with BOM so Excel reads it), every column except Last error."""
+        import csv
+        from datetime import datetime
+        self.refresh()
+        cols = [c for c, name in enumerate(self.COLS) if name != "Last error"]
+        plain = {self.COLS.index(n) for n in ("Start coins", "Coin", "End coins")}   # 12,500 -> 12500
+        sbc_col = self.COLS.index("SBCs")
+        name = f"F2-status-{datetime.now():%Y%m%d-%H%M}.csv"
+        path, _ = QFileDialog.getSaveFileName(self, "Export status", os.path.join(os.path.expanduser("~"), "Desktop", name),
+                                              "CSV files (*.csv)")
+        if not path:
+            return
+        rows = []
+        for r in range(self.table.rowCount()):
+            vals = []
+            for c in cols:
+                it = self.table.item(r, c)
+                v = it.text() if it else ""
+                if c == sbc_col:                  # SBCs is a widget (label + reset button), not an item
+                    cells = getattr(self, "_sbc_cells", None)
+                    if cells and r < len(cells):
+                        v = cells[r][0].text()
+                    v = v.replace("✓", "done").replace("/", " of ").strip()   # '3/5' would become a date in Excel
+                if c in plain:
+                    v = v.replace(",", "")
+                vals.append(v)
+            if any(vals):
+                rows.append(vals)
+        try:
+            with open(path, "w", newline="", encoding="utf-8-sig") as f:
+                w = csv.writer(f)
+                w.writerow([self.COLS[c] for c in cols])
+                w.writerows(rows)
+        except OSError as e:
+            QMessageBox.warning(self, "Export CSV", f"Could not save the file:\n{e}\n(Is it open in Excel?)")
+            return
+        QMessageBox.information(self, "Export CSV", f"{len(rows)} rows saved to\n{path}")
+
     def on_reset_all(self):
         """Clear the SBC progress of every account (after a confirmation)."""
         self.timer.stop()
@@ -2063,12 +2105,65 @@ class WatchdogTimer:
         except OSError:
             return []
 
+    _live_start = 0.0
+
+    def ensure_live(self):
+        """Start Watchdog/live.py (real-time watcher) when its heartbeat is old; it keeps running after F2 closes.
+        A second copy exits by itself, so starting it once a minute at most is harmless."""
+        import subprocess
+        if time.time() - self._live_start < 60:
+            return
+        self._live_start = time.time()
+        exe = os.path.join(os.path.dirname(sys.executable), "pythonw.exe")
+        if not os.path.exists(exe):
+            exe = sys.executable
+        try:
+            subprocess.Popen([exe, str(WATCHDOG_DIR / "live.py")], cwd=str(WATCHDOG_DIR),
+                             stdin=subprocess.DEVNULL, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
+                             creationflags=0x00000008 | 0x00000200 | 0x08000000)  # detached, new group, no window
+        except OSError:
+            pass
+
+    def _live(self, tail_tip):
+        """Header line from Watchdog/live.json while the real-time watcher is alive, else None."""
+        import json
+        try:
+            st = json.loads((WATCHDOG_DIR / "live.json").read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            st = None
+        if not st or time.time() - st.get("heartbeat", 0) > 20:
+            if self.enabled:                     # task "F2 Watchdog" disabled = user turned the watchdog off
+                self.ensure_live()
+            return None
+        rem = st.get("remotes", {})
+        lines = [f"{n}: bot={r.get('bot')}  {r.get('todo')}" for n, r in sorted(rem.items())]
+        tip = ("Real-time watchdog: checks every remote every "
+               f"{st.get('poll', 3)} s and starts the agent the moment a bot pauses.\n\n"
+               + ("\n".join(lines) or "no live remote") + "\n\n" + tail_tip)
+        agents = st.get("agents", {})
+        if agents:
+            first = min(a["started"] for a in agents.values())
+            mins, secs = divmod(int(time.time() - first), 60)
+            q = st.get("queue") or []
+            more = f" (+{len(q)} waiting)" if q else ""
+            return f"Watchdog: agent fixing {', '.join(sorted(agents))}{more} ({mins}:{secs:02d})", ORANGE, tip
+        held = st.get("held") or []
+        if held:
+            return f"Watchdog: live • still stuck: {', '.join(held)}", RED, tip
+        bad = [n for n, r in rem.items() if str(r.get("todo", "")).startswith(("FIX", "CHECK"))]
+        if bad:
+            return f"Watchdog: live • {', '.join(sorted(bad))} needs help - agent starts in a moment", ORANGE, tip
+        return f"Watchdog: live • {len(rem)} remotes OK", GREEN2, tip
+
     def status(self):
         """(text, color, tooltip)."""
         from datetime import datetime, timedelta
         self._query_task()
         tail = self._log_tail(8)
         tip = "Watchdog log (last lines):\n" + "\n".join(tail) if tail else "Watchdog: no log yet"
+        live = self._live(tip)
+        if live:
+            return live
         if self.enabled is False:
             return "Watchdog: OFF (task disabled)", RED, tip
         lock = WATCHDOG_DIR / ".lock"

@@ -53,3 +53,244 @@
             12:44:23 Squad players (bought): Samuel Po...
             12:44:24 [Marquee Matchups 3:2/11] Silver | Brazil | RB | OFF | OFF | 550
 ════ پایان: ■ توقف از پنل  |  مدت 41:34  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-15 13:31:58  شروع اجرا  (ریموت A12، pid 12472) START_GAME=True  SHARED=True ════
+13:32:13  ✓ انجام شد   اکانت Lynn › شروع بازی › CheckAccount  |  اکانت Lynn روی کنسول است (گیمرتگ: Lynntt4089)
+13:34:11  ✓ انجام شد   اکانت Lynn  |  بازی باز شد و صفحه‌ی SBC آمد
+13:34:17  ·            اکانت Lynn › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+13:34:18  ·            اکانت Lynn › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+13:34:38  ·            اکانت Lynn › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+13:35:23  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:36:35  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:39:11  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+13:40:51  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:41:55  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:42:42  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:43:58  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:46:01  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+13:47:43  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:50:53  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+13:52:56  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+13:53:11  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+13:53:33  ·            اکانت Lynn › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+13:55:28  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+13:57:35  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+13:59:15  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+14:00:33  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+14:02:22  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:03:35  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+14:05:13  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:05:15  ■ توقف       اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:04:57 Cote d'Ivorie پیدا شد
+            14:04:58 Looking for 'Rarity'
+            14:05:05 Bronze پیدا شد
+            14:05:07 Looking for 'Position'
+            14:05:07 Looking for 'BuyNow' (قیمت 200)
+            14:05:10 My Coins: 18290
+            14:05:11 Card 1: Zaddy -> buy
+            14:05:11 Found 'No'
+            14:05:12 Found 'Yes'
+            14:05:13 Bought (قیمت 200)
+            14:05:13 Squad players (bought): Mamardas..., Koutoune, Niakhate, Aguerd, Efuele Ng..., Udol, Zaddy
+            14:05:13 [Marquee Matchups 4:8/11] Bronze | France | CM | OFF | Ligue 1 McDonald | 200
+════ پایان: ■ توقف از پنل  |  مدت 33:16  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-15 14:10:38  شروع اجرا  (ریموت A12، pid 24352) START_GAME=True  SHARED=True ════
+14:10:49  ·            اکانت Lynn › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Dora Ken' — اکانت لازم: Lynn
+14:11:07  ✓ انجام شد   اکانت Lynn › شروع بازی › CheckAccount  |  اکانت Lynn روی کنسول است (گیمرتگ: Lynn English)
+14:13:03  ✓ انجام شد   اکانت Lynn  |  بازی باز شد و صفحه‌ی SBC آمد
+14:13:09  ·            اکانت Lynn › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+14:13:10  ·            اکانت Lynn › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+14:13:11  ·            اکانت Lynn › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+14:13:30  ·            اکانت Lynn › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+14:14:25  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+14:15:27  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:16:16  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+14:16:55  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+14:17:37  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:18:13  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+14:19:01  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:20:37  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:23:16  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+14:24:16  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+14:26:14  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:27:12  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+14:27:12  ✓ انجام شد   اکانت Lynn  |  اکانت Lynn تمام شد
+14:27:23  ·            اکانت Cameron › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Lynn English' — اکانت لازم: Cameron
+14:27:53  ✓ انجام شد   اکانت Cameron › شروع بازی › CheckAccount  |  اکانت Cameron روی کنسول است (گیمرتگ: Cameron#9764)
+14:29:49  ✓ انجام شد   اکانت Cameron  |  بازی باز شد و صفحه‌ی SBC آمد
+14:30:36  ·            اکانت Cameron › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+14:30:38  ·            اکانت Cameron › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+14:30:39  ·            اکانت Cameron › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+14:30:40  ·            اکانت Cameron › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+14:30:40  ✓ انجام شد   اکانت Cameron  |  اکانت Cameron تمام شد
+14:30:51  ·            اکانت FIFA 4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Cameron Barton' — اکانت لازم: FIFA 4
+14:31:15  ✓ انجام شد   اکانت FIFA 4 › شروع بازی › CheckAccount  |  اکانت FIFA 4 روی کنسول است (گیمرتگ: Fifa 6#8235)
+14:33:12  ✓ انجام شد   اکانت FIFA 4  |  بازی باز شد و صفحه‌ی SBC آمد
+14:33:18  ·            اکانت FIFA 4 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+14:33:39  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 2  |  Clear_Squad اول چالش نشد
+          تابع: Clear_Squad اول چالش ← run_challenge ← run_plan ← main
+          عکس: shots\A12\1015_143339_001_Clear_Squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:33:12 Looking for set 'Marquee Matchups'
+            14:33:17 Set Marquee Matchups: 4 challenge(s)
+            14:33:17 ===== Marquee Matchups 1 =====
+            14:33:17 Marquee Matchups 1.csv: 11 rows
+            14:33:18 Challenge 1: قبلاً کامل شده (Completed)
+            14:33:18 ===== Marquee Matchups 2 =====
+            14:33:18 Marquee Matchups 2.csv: 11 rows
+            14:33:22 Challenge 2: وارد شد
+            14:33:22 Looking for 'Challenge'
+            14:33:24 Found 'Sub (2)' , Start Challenge
+            14:33:26 Looking for 'Clear Squad'
+            14:33:39 Clear Squad: نشد
+14:33:52  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A12\1015_143352_002_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:33:39 ✗ Clear_Squad اول چالش failed (shot: 1015_143339_001_Clear_Squad.png)
+            14:33:39 [Marquee Matchups 2:1/11] Silver | OFF | GK | OFF | EFL Championship | 550
+14:33:52  ↻ تلاش دوباره اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:34:10  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A12\1015_143410_003_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:33:52 ✗ enter_slot failed (shot: 1015_143352_002_enter_slot.png)
+            14:33:52 [Marquee Matchups 2:1] try 1 of 3 failed, back to the squad
+14:34:10  ⏸ توقف موقت  اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  [Marquee Matchups 2:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\A12\1015_143410_004_pause__Marquee_Matchups_2_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:34:10 ✗ back_to_squad failed (shot: 1015_143410_003_back_to_squad.png)
+14:35:06  ▶ ادامه      اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بعد از 0:56 توقف
+14:37:00  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:37:46  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:38:25  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+14:39:33  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:40:33  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:42:45  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+14:44:34  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:45:21  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:46:08  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:48:06  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+14:49:45  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:49:58  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+14:50:21  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 3  |  Clear_Squad اول چالش نشد
+          تابع: Clear_Squad اول چالش ← run_challenge ← run_plan ← main
+          عکس: shots\A12\1015_145021_005_Clear_Squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:49:43 Card 1: Dykes -> buy
+            14:49:43 Found 'No'
+            14:49:44 Found 'Yes'
+            14:49:45 Bought (قیمت 350)
+            14:49:45 Squad players (bought): Bielica, Ngakia, Lucchesi, Mlacic, Scarles, Grifo, Myhre, Yeo, Moran, Kean, Dykes
+            14:49:58 ===== Marquee Matchups 3 =====
+            14:49:58 Marquee Matchups 3.csv: 11 rows
+            14:50:04 Challenge 3: وارد شد
+            14:50:04 Looking for 'Challenge'
+            14:50:06 Found 'Sub (2)' , Start Challenge
+            14:50:08 Looking for 'Clear Squad'
+            14:50:21 Clear Squad: نشد
+14:50:34  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A12\1015_145034_006_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:50:21 ✗ Clear_Squad اول چالش failed (shot: 1015_145021_005_Clear_Squad.png)
+            14:50:21 [Marquee Matchups 3:1/11] Silver | Brazil | GK | OFF | OFF | 550
+14:50:34  ↻ تلاش دوباره اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:50:52  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A12\1015_145052_007_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:50:34 ✗ enter_slot failed (shot: 1015_145034_006_enter_slot.png)
+            14:50:34 [Marquee Matchups 3:1] try 1 of 3 failed, back to the squad
+14:50:52  ⏸ توقف موقت  اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  [Marquee Matchups 3:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\A12\1015_145052_008_pause__Marquee_Matchups_3_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:50:52 ✗ back_to_squad failed (shot: 1015_145052_007_back_to_squad.png)
+14:51:26  ▶ ادامه      اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بعد از 0:34 توقف
+14:53:22  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:54:09  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:55:22  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+14:56:53  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:57:55  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:59:03  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:59:53  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:01:57  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+15:03:41  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:06:41  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+15:08:27  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+15:08:43  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+15:09:07  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 4  |  Clear_Squad اول چالش نشد
+          تابع: Clear_Squad اول چالش ← run_challenge ← run_plan ← main
+          عکس: shots\A12\1015_150907_009_Clear_Squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:08:21 Card 1: Cleber -> buy
+            15:08:25 Found 'No'
+            15:08:25 Found 'Yes'
+            15:08:27 Bought (قیمت 400)
+            15:08:27 Squad players (bought): Warleson, Gustavo C..., Gerard ..., Kaique Ro..., Caju, Diogo Bez..., Igor Jesus, Lo Celso, Nathan Fe..., Gulacsi, Cleber
+            15:08:43 ===== Marquee Matchups 4 =====
+            15:08:43 Marquee Matchups 4.csv: 11 rows
+            15:08:50 Challenge 4: وارد شد
+            15:08:50 Looking for 'Challenge'
+            15:08:52 Found 'Sub (2)' , Start Challenge
+            15:08:54 Looking for 'Clear Squad'
+            15:09:07 Clear Squad: نشد
+15:09:20  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A12\1015_150920_010_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:09:07 ✗ Clear_Squad اول چالش failed (shot: 1015_150907_009_Clear_Squad.png)
+            15:09:07 [Marquee Matchups 4:1/11] GOLD | OFF | GK | Liverpool | Premier League | 1300
+15:09:20  ↻ تلاش دوباره اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+15:09:37  ✗ خطا        اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A12\1015_150937_011_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:09:20 ✗ enter_slot failed (shot: 1015_150920_010_enter_slot.png)
+            15:09:20 [Marquee Matchups 4:1] try 1 of 3 failed, back to the squad
+15:09:37  ⏸ توقف موقت  اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  [Marquee Matchups 4:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\A12\1015_150937_012_pause__Marquee_Matchups_4_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:09:37 ✗ back_to_squad failed (shot: 1015_150937_011_back_to_squad.png)
+15:10:06  ▶ ادامه      اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بعد از 0:29 توقف
+15:11:02  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+15:13:08  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:14:51  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+15:16:10  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+15:17:35  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:18:48  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+15:20:26  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:21:31  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:24:40  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+15:25:06  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+15:26:54  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:27:50  ✓ انجام شد   اکانت FIFA 4 › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+15:27:50  ✓ انجام شد   اکانت FIFA 4  |  اکانت FIFA 4 تمام شد
+15:27:55  ✓ انجام شد   اکانت FIFA 6 › شروع بازی › CheckAccount  |  اکانت FIFA 6 روی کنسول است (گیمرتگ: Fifa 6#8235)
+15:29:52  ✓ انجام شد   اکانت FIFA 6  |  بازی باز شد و صفحه‌ی SBC آمد
+15:30:30  ·            اکانت FIFA 6 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:30:31  ·            اکانت FIFA 6 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:30:32  ·            اکانت FIFA 6 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:30:34  ·            اکانت FIFA 6 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+15:30:34  ✓ انجام شد   اکانت FIFA 6  |  اکانت FIFA 6 تمام شد
+15:30:44  ·            اکانت valerie › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'alston germaine' — اکانت لازم: valerie
+15:31:07  ✓ انجام شد   اکانت valerie › شروع بازی › CheckAccount  |  اکانت valerie روی کنسول است (گیمرتگ: Valerie#2437)
+15:33:30  ✓ انجام شد   اکانت valerie  |  بازی باز شد و صفحه‌ی SBC آمد
+15:33:53  ·            اکانت valerie › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+15:34:36  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:35:44  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:36:20  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+15:36:51  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:37:21  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:37:50  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:38:45  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:39:34  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:40:19  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:42:16  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+15:43:50  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+15:44:09  ✓ انجام شد   اکانت valerie › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد

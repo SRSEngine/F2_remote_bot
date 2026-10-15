@@ -30,6 +30,7 @@ Report/
 Watchdog/logs/
 Watchdog/snaps/
 Watchdog/restarts.json
+Watchdog/live.json
 Screenshot/Shots/
 Play/fails/
 Football/debug/

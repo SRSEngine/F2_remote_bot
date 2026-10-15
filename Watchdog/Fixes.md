@@ -441,3 +441,38 @@
 - نتیجه: 12:23:06 بازیکن 8/11 (LM) اضافه شد و ربات سراغ 9/11 CAM رفت (bot=run)
 - عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\A12_1015_122217.png
 
+## 2026-10-15 14:36:30 — A12
+- مشکل: pause بازیکن 1/11 (Silver GK، EFL، 550) در Marquee 2، اکانت FIFA 4: Clear_Squad اول چالش، enter_slot و back_to_squad نشد؛ صفحه روی پاپ‌آپ 'Would you like to clear your squad?' مانده بود (اسکواد خالی)
+- کار انجام‌شده: B پاپ‌آپ را نبست؛ Down روی No؛ A -> Squad خالی، نشانگر روی GK؛ Resume
+- نتیجه: 14:35:06 ادامه داد؛ 14:36 ربات روی فیلترهای Transfer Market (Silver GK، Championship) در حال جستجو است (bot=run)
+- عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\A12_1015_143459.png
+
+## 2026-10-15 14:52:46 — A12
+- مشکل: pause بازیکن 1/11 (Silver برزیل GK، 550) در Marquee 3، اکانت FIFA 4: Clear_Squad اول چالش، enter_slot و back_to_squad نشد؛ صفحه روی پاپ‌آپ 'Would you like to clear your squad?' مانده بود (اسکواد خالی) — تکرار همان مشکل 14:36 در Marquee 2
+- کار انجام‌شده: Down روی No؛ A -> Squad خالی، نشانگر روی GK؛ Resume
+- نتیجه: 14:51:26 ادامه داد (bot=run، todo=OK). ریشه در کد: Clear_Squad پاپ‌آپ تأیید پاک کردن را نمی‌بندد وقتی اسکواد از قبل خالی است
+- عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\A12_1015_145118.png
+
+## 2026-10-15 15:11:07 — A12
+- مشکل: pause بازیکن 1/11 (Gold لیورپول GK، 1300) در Marquee 4، اکانت FIFA 4: Clear_Squad اول چالش، enter_slot و back_to_squad نشد؛ صفحه روی پاپ‌آپ 'Would you like to clear your squad?' مانده بود (اسکواد خالی) — بار سوم همین مشکل (14:36 و 14:52)
+- کار انجام‌شده: Down روی No؛ A -> Squad خالی (5-3-2)، نشانگر روی GK؛ Resume
+- نتیجه: 15:10:06 ادامه داد؛ 15:10:59 ربات در تب Club روی Mamardashvili (GK لیورپول) است (bot=run، todo=OK). ریشه در کد: Clear_Squad پاپ‌آپ تأیید را وقتی اسکواد خالی است نمی‌بندد
+- عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\A12_1015_150951.png
+
+## 2026-10-15 15:13:03 — XBOX
+- مشکل: اجرای قبلی XBOX (2026-10-11) ناتمام تمام شده بود؛ health=reconnecting و snap تصویر نداد (no picture)
+- کار انجام‌شده: بدون تصویر دکمه‌ای نزدم؛ Resume
+- نتیجه: 15:11:42 اجرای جدید شروع شد (pid 2364) ولی کمی بعد xbrp XBOX دیگر در status نیست (no live remote)؛ باز کردن ریموت کار واچ‌داگ نیست
+
+## 2026-10-15 15:39:08 — B52
+- مشکل: اجرای قبلی B52 با 'ریموت قطع' تمام شده بود (bot=wait)؛ ریموت دوباره زنده است؛ صفحه روی Xbox Home با Mack#1806 بدون پاپ‌آپ
+- کار انجام‌شده: دکمه‌ای لازم نبود؛ Resume
+- نتیجه: 15:38:27 اجرای جدید شروع شد؛ 15:39:01 ربات به Keenan#8755 سوییچ کرد و CheckAccount تأیید شد (bot=run، todo=OK)
+- عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\B52_1015_153821.png
+
+## 2026-10-15 15:40:35 — B25
+- مشکل: اجرای قبلی (Marquee 2، اکانت DONNA) دیروز 21:57 با ConnectionError (ریموت قطع) تمام شده بود؛ صفحه روی Xbox Home با ella#47812 بدون پاپ‌آپ
+- کار انجام‌شده: Resume (تایل run شد ولی اجرای جدید شروع نشد)؛ بعد restart
+- نتیجه: 15:39:50 اجرای جدید شروع شد و 15:40:16 اکانت Donna تأیید شد (Donna#5974) (bot=run)
+- عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\B25_1015_153854.png
+

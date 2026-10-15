@@ -1,4 +1,6 @@
-# run_watchdog.ps1 - one watchdog cycle (Task Scheduler runs it every 10 minutes via run_hidden.vbs)
+# run_watchdog.ps1 - Task Scheduler runs it every 10 minutes via run_hidden.vbs.
+# 0) keeps the real-time watcher live.py running; if it is alive, nothing else to do.
+# Fallback when live.py cannot run: one old-style watchdog cycle:
 # 1) cheap check: python wd.py need   (no Claude call when every bot is fine)
 # 2) something needs help -> headless Claude (claude -p) follows AGENT.md, output saved in logs\
 $ErrorActionPreference = "Continue"
@@ -22,6 +24,18 @@ function Show-Toast([string]$title, [string]$text) {
         [Windows.UI.Notifications.ToastNotificationManager]::CreateToastNotifier($app).Show([Windows.UI.Notifications.ToastNotification]::new($xml))
     } catch { }
 }
+
+# real-time watcher (live.py) does all the work when it is alive: start it if needed (a second copy exits by
+# itself), then only fall back to the old 10-minute check when it is not running
+$pyw = (Get-Command pythonw -ErrorAction SilentlyContinue).Source
+if ($pyw) { Start-Process $pyw -ArgumentList "`"$here\live.py`"" -WorkingDirectory $here -WindowStyle Hidden }
+Start-Sleep -Seconds 8
+try {
+    $st = Get-Content "$here\live.json" -Raw -Encoding utf8 | ConvertFrom-Json
+    $hb = [DateTimeOffset]::UtcNow.ToUnixTimeSeconds() - [double]$st.heartbeat
+    if ($hb -lt 30) { Add-Content $log "$stamp ok: live watcher running (pid $($st.pid))" -Encoding utf8; exit 0 }
+} catch { }
+Add-Content $log "$stamp live watcher NOT running - doing the old 10-minute check" -Encoding utf8
 
 $lock = "$here\.lock"
 if (Test-Path $lock) {

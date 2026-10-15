@@ -679,3 +679,9 @@
 
 ════ 2026-10-11 13:25:38  شروع اجرا  (ریموت XBOX، pid 18292) START_GAME=True  SHARED=True ════
 ════ پایان: ناتمام  |  مدت 0:02  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-15 15:11:42  شروع اجرا  (ریموت XBOX، pid 2364) START_GAME=True  SHARED=True ════
+15:14:08  ■ توقف       -  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:11:42 No panel accounts for console XBOX: running without account check
+════ پایان: ✗ ریموت قطع  |  مدت 2:26  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

@@ -1,13 +1,16 @@
 # Watchdog agent — instructions (read fully every run)
 
-You are the local watchdog for the F2 / xbrp SBC bots. You run every 10 minutes from `run_watchdog.ps1`.
+You are the local watchdog for the F2 / xbrp SBC bots. `live.py` watches every remote all the time and starts
+you THE MOMENT one needs help, for ONE remote named in the prompt. Handle only that remote: other remotes get
+their own runs at the same time (do not snap / press / resume / restart them). If the prompt names several
+remotes (old 10-minute fallback `run_watchdog.ps1`), handle all of them.
 Work ONLY through `python wd.py ...` in this folder (C:\Users\Reach\Desktop\New Remote\Watchdog) and by
 reading files/images. Never edit code, never touch Pannel\data\*.json, never close or start remotes.
 
 ## Each run
 1. `python wd.py status` -> every live remote with `bot`, `health`, `todo`, last report events and `last_shot`.
 2. `python wd.py history -n 40` -> what worked before. Reuse known fixes.
-3. For every remote whose `todo` starts with FIX or CHECK (skip LEAVE / OK; WATCH = only look):
+3. For the remote(s) of this run whose `todo` starts with FIX or CHECK (skip LEAVE / OK; WATCH = only look):
    a. Read the events: what step failed and the hint in the ⏸ line ("put the screen on ...").
    b. `python wd.py snap NAME`, then Read the PNG. Also Read `last_shot` if useful.
    c. Decide the smallest set of button presses that brings the screen to where the hint says.
@@ -29,7 +32,7 @@ reading files/images. Never edit code, never touch Pannel\data\*.json, never clo
      = the row's Pos; if none matches, any empty pitch slot, e.g. GK). Snap to confirm, then resume.
    - Any other hint: get to that screen with B / A on Ok / tab buttons, then resume.
    - Escalation only if the SAME remote paused at the SAME step again after your resume in the previous
-     cycle (see history): `python wd.py restart NAME` = stop Play and start a fresh run (it goes Home, opens
+     run (see history; live.py retries a minute after your run if it is still stuck): `python wd.py restart NAME` = stop Play and start a fresh run (it goes Home, opens
      the challenge, clears the squad, refills from the Club; no extra coins). Never leave it paused.
 5. End with a one-paragraph summary (Persian) of what you did; it is saved in logs\.
 

@@ -142,3 +142,37 @@
 20261015_125102 ok: nothing to do
 20261015_130102 ok: nothing to do
 20261015_131102 ok: nothing to do
+20261015_132102 ok: nothing to do
+20261015_133102 ok: nothing to do
+20261015_133403 live watcher started (pid 6540, check every 3 s)
+20261015_134102 ok: live watcher running (pid 6540)
+20261015_135102 ok: live watcher running (pid 6540)
+20261015_140102 ok: live watcher running (pid 6540)
+20261015_141102 ok: live watcher running (pid 6540)
+20261015_142102 ok: live watcher running (pid 6540)
+20261015_143102 ok: live watcher running (pid 6540)
+20261015_143414 need: A12: bot=pause -> FIX_AND_RESUME
+20261015_143414 agent started A12 -> logs\run_20261015_143414_A12.md
+20261015_143635 agent done A12 -> logs\run_20261015_143414_A12.md (exit 0, 2 min)
+20261015_144102 ok: live watcher running (pid 6540)
+20261015_145057 need: A12: bot=pause -> FIX_AND_RESUME
+20261015_145057 agent started A12 -> logs\run_20261015_145057_A12.md
+20261015_145103 ok: live watcher running (pid 6540)
+20261015_145254 agent done A12 -> logs\run_20261015_145057_A12.md (exit 0, 1 min)
+20261015_150102 ok: live watcher running (pid 6540)
+20261015_150941 need: A12: bot=pause -> FIX_AND_RESUME
+20261015_150941 agent started A12 -> logs\run_20261015_150941_A12.md
+20261015_151102 ok: live watcher running (pid 6540)
+20261015_151111 need: XBOX: bot=run -> FIX_AND_RESTART
+20261015_151111 agent started XBOX -> logs\run_20261015_151111_XBOX.md
+20261015_151114 agent done A12 -> logs\run_20261015_150941_A12.md (exit 0, 1 min)
+20261015_151311 agent done XBOX -> logs\run_20261015_151111_XBOX.md (exit 0, 2 min)
+20261015_152103 ok: live watcher running (pid 6540)
+20261015_153102 ok: live watcher running (pid 6540)
+20261015_153810 need: B52: bot=wait -> FIX_AND_RESTART
+20261015_153810 agent started B52 -> logs\run_20261015_153810_B52.md
+20261015_153843 need: B25: bot=wait -> FIX_AND_RESTART
+20261015_153843 agent started B25 -> logs\run_20261015_153843_B25.md
+20261015_153928 agent done B52 -> logs\run_20261015_153810_B52.md (exit 0, 1 min)
+20261015_154040 agent done B25 -> logs\run_20261015_153843_B25.md (exit 0, 1 min)
+20261015_154103 ok: live watcher running (pid 6540)

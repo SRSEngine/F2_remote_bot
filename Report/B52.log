@@ -273,3 +273,25 @@
             21:47:36 Looking for 'Main Ultimate'
             21:50:22 Looking for 'Main Ultimate'
 ════ پایان: ✗ ریموت قطع  |  مدت 1:36:57  |  خطا 7، تلاش دوباره 5، توقف موقت 3، خطای کد 0 ════
+
+════ 2026-10-15 15:38:27  شروع اجرا  (ریموت B52، pid 22596) START_GAME=True  SHARED=True ════
+15:38:38  ·            اکانت Keenan › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Mack#1806' — اکانت لازم: Keenan
+15:39:01  ✓ انجام شد   اکانت Keenan › شروع بازی › CheckAccount  |  اکانت Keenan روی کنسول است (گیمرتگ: Keenan#8755)
+15:42:19  ·            اکانت Keenan › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+15:44:01  ✗ خطا        اکانت Keenan › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\B52\1015_154401_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:42:09 Looking for 'Ultimate'
+            15:42:19 FindUltimate نشد؛ ادامه
+            15:42:19 Looking for 'Main Ultimate'
+            15:42:29 Looking for 'Main Ultimate'
+            15:42:39 Looking for 'Main Ultimate'
+            15:42:50 Looking for 'Main Ultimate'
+            15:43:00 Looking for 'Main Ultimate'
+            15:43:10 Looking for 'Main Ultimate'
+            15:43:20 Looking for 'Main Ultimate'
+            15:43:30 Looking for 'Main Ultimate'
+            15:43:41 Looking for 'Main Ultimate'
+            15:43:51 Looking for 'Main Ultimate'
+15:44:01  ↻ تلاش دوباره اکانت Keenan › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
