@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-15T13:09:14",
- "prices_published": "2026-10-15T13:08:14",
+ "updated": "2026-10-15T13:13:18",
+ "prices_published": "2026-10-15T13:13:00",
  "platform": "console",
  "source": "fut.gg",
  "rows": [
@@ -126,10 +126,10 @@
    "count": 1902,
    "cards": [
     {
-     "eaId": 234167,
+     "eaId": 253296,
      "price": 300,
-     "overall": 73,
-     "name": "Siebe Van der Heyden"
+     "overall": 72,
+     "name": "Mathías Laborda"
     },
     {
      "eaId": 70082,
@@ -183,12 +183,6 @@
      "name": "Jid Okeke"
     },
     {
-     "eaId": 70035,
-     "price": 200,
-     "overall": 64,
-     "name": "Micah Hamilton"
-    },
-    {
      "eaId": 70063,
      "price": 200,
      "overall": 59,
@@ -205,6 +199,12 @@
      "price": 200,
      "overall": 64,
      "name": "Max Larsson"
+    },
+    {
+     "eaId": 70099,
+     "price": 200,
+     "overall": 62,
+     "name": "Olly Sanderson"
     }
    ]
   },
@@ -285,12 +285,6 @@
      "name": "Jid Okeke"
     },
     {
-     "eaId": 70035,
-     "price": 200,
-     "overall": 64,
-     "name": "Micah Hamilton"
-    },
-    {
      "eaId": 70063,
      "price": 200,
      "overall": 59,
@@ -307,6 +301,12 @@
      "price": 200,
      "overall": 64,
      "name": "Max Larsson"
+    },
+    {
+     "eaId": 70099,
+     "price": 200,
+     "overall": 62,
+     "name": "Olly Sanderson"
     }
    ]
   },
@@ -381,12 +381,6 @@
    "count": 39,
    "cards": [
     {
-     "eaId": 70035,
-     "price": 200,
-     "overall": 64,
-     "name": "Micah Hamilton"
-    },
-    {
      "eaId": 73159,
      "price": 200,
      "overall": 64,
@@ -409,6 +403,12 @@
      "price": 200,
      "overall": 54,
      "name": "Benedict Benagr"
+    },
+    {
+     "eaId": 75804,
+     "price": 200,
+     "overall": 61,
+     "name": "Lola Brown"
     }
    ]
   },
@@ -489,12 +489,6 @@
      "name": "Julian Etse"
     },
     {
-     "eaId": 183513,
-     "price": 400,
-     "overall": 63,
-     "name": "Jens Grahl"
-    },
-    {
      "eaId": 202316,
      "price": 400,
      "overall": 63,
@@ -507,10 +501,16 @@
      "name": "Amil Šiljević"
     },
     {
-     "eaId": 71672,
+     "eaId": 183513,
+     "price": 450,
+     "overall": 63,
+     "name": "Jens Grahl"
+    },
+    {
+     "eaId": 78088,
      "price": 500,
-     "overall": 69,
-     "name": "Keita Kosugi"
+     "overall": 63,
+     "name": "Otávio"
     }
    ]
   },
@@ -585,6 +585,12 @@
    "count": 45,
    "cards": [
     {
+     "eaId": 74726,
+     "price": 350,
+     "overall": 69,
+     "name": "Balázs Tóth"
+    },
+    {
      "eaId": 77044,
      "price": 350,
      "overall": 69,
@@ -607,12 +613,6 @@
      "price": 350,
      "overall": 65,
      "name": "Sam Walker"
-    },
-    {
-     "eaId": 200715,
-     "price": 350,
-     "overall": 68,
-     "name": "Adam Davies"
     }
    ]
   },
@@ -683,21 +683,9 @@
    "matched": "Silver | Italy",
    "problems": [],
    "csv_price": 850,
-   "cheapest": 350,
+   "cheapest": 400,
    "count": 434,
    "cards": [
-    {
-     "eaId": 73379,
-     "price": 350,
-     "overall": 73,
-     "name": "Issa Doumbia"
-    },
-    {
-     "eaId": 270926,
-     "price": 350,
-     "overall": 73,
-     "name": "Niccolò Pierozzi"
-    },
     {
      "eaId": 70825,
      "price": 400,
@@ -711,10 +699,22 @@
      "name": "Leonardo Cerri"
     },
     {
-     "eaId": 71003,
+     "eaId": 71401,
      "price": 400,
-     "overall": 71,
-     "name": "Yannick Bright"
+     "overall": 66,
+     "name": "Justin Kumi"
+    },
+    {
+     "eaId": 72097,
+     "price": 400,
+     "overall": 66,
+     "name": "Alessandro Dellavalle"
+    },
+    {
+     "eaId": 72834,
+     "price": 400,
+     "overall": 70,
+     "name": "Giuseppe Leone"
     }
    ]
   },
@@ -813,10 +813,10 @@
      "name": "Callum Elder"
     },
     {
-     "eaId": 226012,
+     "eaId": 232759,
      "price": 350,
-     "overall": 74,
-     "name": "Ryan Manning"
+     "overall": 73,
+     "name": "Josh Tymon"
     }
    ]
   },
@@ -846,28 +846,28 @@
      "name": "Leonardo Spinazzola"
     },
     {
+     "eaId": 211361,
+     "price": 650,
+     "overall": 78,
+     "name": "Danilo Cataldi"
+    },
+    {
      "eaId": 212096,
      "price": 650,
      "overall": 79,
      "name": "Vincenzo Grifo"
     },
     {
+     "eaId": 212404,
+     "price": 650,
+     "overall": 75,
+     "name": "Federico Bernardeschi"
+    },
+    {
      "eaId": 216409,
      "price": 650,
      "overall": 80,
      "name": "Matteo Politano"
-    },
-    {
-     "eaId": 220534,
-     "price": 650,
-     "overall": 75,
-     "name": "Sebastiano Luperto"
-    },
-    {
-     "eaId": 224982,
-     "price": 650,
-     "overall": 75,
-     "name": "Antonio Palumbo"
     }
    ]
   },
@@ -897,10 +897,10 @@
      "name": "Millenic Alli"
     },
     {
-     "eaId": 206083,
+     "eaId": 78426,
      "price": 350,
      "overall": 73,
-     "name": "Josh Murphy"
+     "name": "Joseph Opoku"
     },
     {
      "eaId": 215798,
@@ -915,10 +915,10 @@
      "name": "Ryan Hedges"
     },
     {
-     "eaId": 227686,
+     "eaId": 220633,
      "price": 350,
-     "overall": 69,
-     "name": "Keshi Anderson"
+     "overall": 72,
+     "name": "Demarai Gray"
     }
    ]
   },
@@ -1005,6 +1005,12 @@
      "name": "John Swift"
     },
     {
+     "eaId": 219216,
+     "price": 350,
+     "overall": 73,
+     "name": "Josh Windass"
+    },
+    {
      "eaId": 220139,
      "price": 350,
      "overall": 72,
@@ -1015,12 +1021,6 @@
      "price": 350,
      "overall": 73,
      "name": "Todd Cantwell"
-    },
-    {
-     "eaId": 233510,
-     "price": 350,
-     "overall": 70,
-     "name": "Tahith Chong"
     }
    ]
   },
@@ -1040,20 +1040,20 @@
    "matched": "Gold | Serie A Enilive | Como 1907",
    "problems": [],
    "csv_price": 1200,
-   "cheapest": 650,
+   "cheapest": 700,
    "count": 20,
    "cards": [
     {
      "eaId": 262842,
-     "price": 650,
+     "price": 700,
      "overall": 79,
      "name": "Martin Baturina"
     },
     {
-     "eaId": 50560437,
-     "price": 700,
-     "overall": 80,
-     "name": "Robert Sánchez"
+     "eaId": 225149,
+     "price": 750,
+     "overall": 78,
+     "name": "Jean Butez"
     },
     {
      "eaId": 242201,
@@ -1062,16 +1062,16 @@
      "name": "Luis Milla"
     },
     {
+     "eaId": 50560437,
+     "price": 750,
+     "overall": 80,
+     "name": "Robert Sánchez"
+    },
+    {
      "eaId": 50568258,
      "price": 750,
      "overall": 82,
      "name": "Moise Kean"
-    },
-    {
-     "eaId": 230918,
-     "price": 800,
-     "overall": 80,
-     "name": "Trevoh Chalobah"
     }
    ]
   },
@@ -1158,12 +1158,6 @@
      "name": "Léo Linck"
     },
     {
-     "eaId": 192397,
-     "price": 350,
-     "overall": 71,
-     "name": "Rafael"
-    },
-    {
      "eaId": 193107,
      "price": 350,
      "overall": 69,
@@ -1174,6 +1168,12 @@
      "price": 350,
      "overall": 69,
      "name": "Marcos Felipe"
+    },
+    {
+     "eaId": 238604,
+     "price": 350,
+     "overall": 72,
+     "name": "Daniel"
     }
    ]
   },
@@ -1221,10 +1221,10 @@
      "name": "Matheus Silva"
     },
     {
-     "eaId": 268411,
-     "price": 350,
-     "overall": 71,
-     "name": "Vinícius Tobías"
+     "eaId": 73453,
+     "price": 400,
+     "overall": 70,
+     "name": "Gustavo Garcia"
     }
    ]
   },
@@ -1244,14 +1244,20 @@
    "matched": "Gold | Spain | LALIGA EA SPORTS | Villarreal CF",
    "problems": [],
    "csv_price": 1200,
-   "cheapest": 900,
+   "cheapest": 850,
    "count": 6,
    "cards": [
     {
-     "eaId": 270728,
+     "eaId": 264388,
+     "price": 850,
+     "overall": 82,
+     "name": "Moleiro"
+    },
+    {
+     "eaId": 262402,
      "price": 900,
-     "overall": 80,
-     "name": "Carlos Romero"
+     "overall": 79,
+     "name": "Sergi Cardona"
     },
     {
      "eaId": 208093,
@@ -1260,22 +1266,16 @@
      "name": "Gerard Moreno"
     },
     {
-     "eaId": 264388,
-     "price": 950,
-     "overall": 82,
-     "name": "Moleiro"
-    },
-    {
-     "eaId": 215590,
-     "price": 1000,
-     "overall": 80,
-     "name": "Ayoze"
-    },
-    {
      "eaId": 235781,
-     "price": 1000,
+     "price": 950,
      "overall": 79,
      "name": "Santi Comesaña"
+    },
+    {
+     "eaId": 270728,
+     "price": 950,
+     "overall": 80,
+     "name": "Carlos Romero"
     }
    ]
   },
@@ -1305,18 +1305,6 @@
      "name": "Raul Gustavo"
     },
     {
-     "eaId": 73044,
-     "price": 350,
-     "overall": 67,
-     "name": "Ulisses Wilson"
-    },
-    {
-     "eaId": 73128,
-     "price": 350,
-     "overall": 72,
-     "name": "Zé Vítor"
-    },
-    {
      "eaId": 80021,
      "price": 350,
      "overall": 70,
@@ -1327,6 +1315,18 @@
      "price": 350,
      "overall": 67,
      "name": "Allan Godoi"
+    },
+    {
+     "eaId": 81324,
+     "price": 350,
+     "overall": 67,
+     "name": "Gustavo Mancha"
+    },
+    {
+     "eaId": 81941,
+     "price": 350,
+     "overall": 71,
+     "name": "Gabriel Xavier"
     }
    ]
   },
@@ -1350,12 +1350,6 @@
    "count": 24,
    "cards": [
     {
-     "eaId": 74962,
-     "price": 350,
-     "overall": 66,
-     "name": "Paulo Victor"
-    },
-    {
      "eaId": 78686,
      "price": 350,
      "overall": 69,
@@ -1372,6 +1366,12 @@
      "price": 350,
      "overall": 71,
      "name": "Caju"
+    },
+    {
+     "eaId": 232388,
+     "price": 350,
+     "overall": 65,
+     "name": "Vítor Costa"
     },
     {
      "eaId": 241629,
@@ -1509,12 +1509,6 @@
      "name": "Matías Dituro"
     },
     {
-     "eaId": 225659,
-     "price": 650,
-     "overall": 78,
-     "name": "Guido Rodríguez"
-    },
-    {
      "eaId": 226226,
      "price": 650,
      "overall": 80,
@@ -1527,10 +1521,16 @@
      "name": "Augusto Batalla"
     },
     {
-     "eaId": 214979,
-     "price": 700,
-     "overall": 82,
-     "name": "Juan Musso"
+     "eaId": 260404,
+     "price": 650,
+     "overall": 77,
+     "name": "Zaid Romero"
+    },
+    {
+     "eaId": 267860,
+     "price": 650,
+     "overall": 76,
+     "name": "Valentín Gómez"
     }
    ]
   },
@@ -1601,12 +1601,12 @@
    "matched": "Gold | Hungary | LALIGA EA SPORTS | Villarreal CF",
    "problems": [],
    "csv_price": 1200,
-   "cheapest": 900,
+   "cheapest": 850,
    "count": 1,
    "cards": [
     {
      "eaId": 185122,
-     "price": 900,
+     "price": 850,
      "overall": 82,
      "name": "Péter Gulácsi"
     }
@@ -1632,16 +1632,16 @@
    "count": 40,
    "cards": [
     {
+     "eaId": 73864,
+     "price": 350,
+     "overall": 72,
+     "name": "Juan"
+    },
+    {
      "eaId": 76383,
      "price": 350,
      "overall": 68,
      "name": "Tamara Bolt"
-    },
-    {
-     "eaId": 77760,
-     "price": 350,
-     "overall": 71,
-     "name": "Kauã Elias"
     },
     {
      "eaId": 80603,
@@ -1842,8 +1842,14 @@
      "name": "Romain Perraud"
     },
     {
+     "eaId": 261616,
+     "price": 800,
+     "overall": 77,
+     "name": "Quentin Merlin"
+    },
+    {
      "eaId": 72100,
-     "price": 900,
+     "price": 850,
      "overall": 77,
      "name": "Arsène Kouassi"
     },
@@ -1852,12 +1858,6 @@
      "price": 900,
      "overall": 75,
      "name": "Ali Abdi"
-    },
-    {
-     "eaId": 210736,
-     "price": 950,
-     "overall": 77,
-     "name": "Emerson Palmieri"
     }
    ]
   },
@@ -1955,12 +1955,12 @@
    "matched": "Gold | Premier League | Liverpool | CM",
    "problems": [],
    "csv_price": 1300,
-   "cheapest": 900,
+   "cheapest": 700,
    "count": 1,
    "cards": [
     {
      "eaId": 239837,
-     "price": 900,
+     "price": 700,
      "overall": 84,
      "name": "Alexis Mac Allister"
     }
@@ -1986,10 +1986,22 @@
    "count": 39,
    "cards": [
     {
-     "eaId": 231943,
+     "eaId": 236461,
+     "price": 650,
+     "overall": 81,
+     "name": "Jean-Philippe Mateta"
+    },
+    {
+     "eaId": 250961,
+     "price": 650,
+     "overall": 77,
+     "name": "Joshua Zirkzee"
+    },
+    {
+     "eaId": 253444,
      "price": 650,
      "overall": 78,
-     "name": "Richarlison"
+     "name": "Arnaud Kalimuendo"
     },
     {
      "eaId": 256612,
@@ -1998,22 +2010,10 @@
      "name": "Evanilson"
     },
     {
-     "eaId": 186146,
-     "price": 700,
-     "overall": 80,
-     "name": "Danny Welbeck"
-    },
-    {
      "eaId": 192123,
      "price": 700,
      "overall": 81,
      "name": "Chris Wood"
-    },
-    {
-     "eaId": 225539,
-     "price": 700,
-     "overall": 79,
-     "name": "Dominic Solanke"
     }
    ]
   },
