@@ -1,0 +1,2191 @@
+
+════ 2026-10-11 15:59:29  شروع اجرا  (ریموت C24، pid 10672) START_GAME=True  SHARED=True ════
+15:59:30  ✓ انجام شد   اکانت simpson › شروع بازی › CheckAccount  |  اکانت simpson روی کنسول است (گیمرتگ: simpson carleen)
+16:01:55  ·            اکانت simpson › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:03:37  ✗ خطا        اکانت simpson › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C24\1011_160337_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:01:44 Looking for 'Ultimate'
+            16:01:55 FindUltimate نشد؛ ادامه
+            16:01:55 Looking for 'Main Ultimate'
+            16:02:05 Looking for 'Main Ultimate'
+            16:02:15 Looking for 'Main Ultimate'
+            16:02:26 Looking for 'Main Ultimate'
+            16:02:36 Looking for 'Main Ultimate'
+            16:02:46 Looking for 'Main Ultimate'
+            16:02:56 Looking for 'Main Ultimate'
+            16:03:07 Looking for 'Main Ultimate'
+            16:03:17 Looking for 'Main Ultimate'
+            16:03:27 Looking for 'Main Ultimate'
+16:03:37  ↻ تلاش دوباره اکانت simpson › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:03:43  ✓ انجام شد   اکانت simpson › شروع بازی › CheckAccount  |  اکانت simpson روی کنسول است (گیمرتگ: Simpson#9299)
+16:06:11  ·            اکانت simpson › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:07:53  ✗ خطا        اکانت simpson › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C24\1011_160753_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:06:00 Looking for 'Ultimate'
+            16:06:11 FindUltimate نشد؛ ادامه
+            16:06:11 Looking for 'Main Ultimate'
+            16:06:21 Looking for 'Main Ultimate'
+            16:06:31 Looking for 'Main Ultimate'
+            16:06:42 Looking for 'Main Ultimate'
+            16:06:52 Looking for 'Main Ultimate'
+            16:07:02 Looking for 'Main Ultimate'
+            16:07:12 Looking for 'Main Ultimate'
+            16:07:23 Looking for 'Main Ultimate'
+            16:07:33 Looking for 'Main Ultimate'
+            16:07:43 Looking for 'Main Ultimate'
+16:07:53  ↻ تلاش دوباره اکانت simpson › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+16:07:59  ✓ انجام شد   اکانت simpson › شروع بازی › CheckAccount  |  اکانت simpson روی کنسول است (گیمرتگ: Simpson#9299)
+16:08:55  ‼ خطای کد    اکانت simpson › شروع بازی › FindUltimate  |  ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:08:19 Text in box: '25 Xbox One'
+            16:08:20 Found 'Games'
+            16:08:24 Text in box: '25 Xbox Seri'
+            16:08:25 Found 'Games'
+            16:08:29 Text in box: '26 Xbox One'
+            16:08:30 Found 'Games'
+            16:08:33 Text in box: '26 Xbox Seril'
+            16:08:35 Found 'Games'
+            16:08:38 Text in box: '27 XBOX One'
+            16:08:38 Found 'One'
+            16:08:44 Looking for 'Ultimate'
+            16:08:54 Looking for 'Ultimate'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 9:25  |  خطا 2، تلاش دوباره 2، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 16:29:00  شروع اجرا  (ریموت C24، pid 24684) START_GAME=True  SHARED=True ════
+16:29:11  ·            اکانت WEY › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'simpson carleen' — اکانت لازم: WEY
+16:29:36  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+16:30:26  ·            اکانت WEY › شروع بازی › find_platform  |  find_platform نشد (لازم نیست، ادامه)
+16:32:08  ·            اکانت WEY › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:33:50  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+16:34:26  ·            اکانت WEY › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+16:35:55  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:36:41  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:37:26  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:38:11  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:38:56  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:39:41  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:40:27  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:40:55  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:41:14  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:43:04  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+16:43:38  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+16:43:45  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+16:44:20  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 2  |  Open challenge Marquee Matchups 2 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C24\1011_164420_001_pause_Open_challenge_Marquee_Matchups_2.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:43:02 Found 'Yes'
+            16:43:04 Bought (قیمت 900)
+            16:43:04 [Marquee Matchups 1:11/11] Silver | OFF | OFF | OFF | OFF | 450
+            16:43:18 Pricing: club=True، قیمت نادیده گرفته شد
+            16:43:18 Looking for 'Rarity'
+            16:43:26 Silver پیدا شد
+            16:43:36 Found in Club
+            16:43:45 ===== Marquee Matchups 2 =====
+            16:43:45 Marquee2.csv: 11 rows
+            16:43:45 Reward: Claim
+            16:44:01 Challenge 2: challenge page of Marquee Matchups not shown
+            16:44:18 Challenge 2: challenge page of Marquee Matchups not shown
+17:06:31  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 2  |  بعد از 22:10 توقف
+17:06:52  ·            اکانت WEY › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+17:08:35  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:09:25  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:10:18  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:11:07  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:11:57  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:13:30  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_171330_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:12:52 300
+            17:12:53 350
+            17:12:53 400
+            17:12:54 450
+            17:12:55 500
+            17:13:03 Found 'Top9'
+            17:13:06 Italy پیدا شد
+            17:13:07 Looking for 'Position'
+            17:13:14 Looking for 'BuyNow' (قیمت 550)
+            17:13:17 BUY: no cards found -> price 550 to 650
+            17:13:30 FindFilter: به Pricing نرسید
+            17:13:30 BUY: قیمت 650 تنظیم نشد
+17:13:30  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:15:16  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_171516_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:14:31 400
+            17:14:32 450
+            17:14:32 500
+            17:14:41 Found 'Top9'
+            17:14:43 Italy پیدا شد
+            17:14:44 Looking for 'Rarity'
+            17:14:52 Silver پیدا شد
+            17:14:54 Looking for 'Position'
+            17:15:00 Looking for 'BuyNow' (قیمت 550)
+            17:15:04 BUY: no cards found -> price 550 to 650
+            17:15:16 FindFilter: به Pricing نرسید
+            17:15:16 BUY: قیمت 650 تنظیم نشد
+17:15:16  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:17:03  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_171703_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:16:18 400
+            17:16:18 450
+            17:16:19 500
+            17:16:28 Found 'Top9'
+            17:16:30 Italy پیدا شد
+            17:16:31 Looking for 'Rarity'
+            17:16:39 Silver پیدا شد
+            17:16:41 Looking for 'Position'
+            17:16:47 Looking for 'BuyNow' (قیمت 550)
+            17:16:51 BUY: no cards found -> price 550 to 650
+            17:17:03 FindFilter: به Pricing نرسید
+            17:17:03 BUY: قیمت 650 تنظیم نشد
+17:17:04  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_171704_005_pause__Marquee_Matchups_2_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:17:03 ✗ BUY failed (shot: 1011_171703_004_BUY.png)
+            17:17:03 [Marquee Matchups 2:6] try 3 of 3 failed, back to the squad
+17:43:48  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 26:44 توقف
+17:45:33  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_174533_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:44:49 400
+            17:44:49 450
+            17:44:50 500
+            17:44:58 Found 'Top9'
+            17:45:01 Italy پیدا شد
+            17:45:02 Looking for 'Rarity'
+            17:45:10 Silver پیدا شد
+            17:45:11 Looking for 'Position'
+            17:45:17 Looking for 'BuyNow' (قیمت 550)
+            17:45:21 BUY: no cards found -> price 550 to 650
+            17:45:33 FindFilter: به Pricing نرسید
+            17:45:33 BUY: قیمت 650 تنظیم نشد
+17:45:33  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:47:16  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_174716_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:46:32 400
+            17:46:32 450
+            17:46:33 500
+            17:46:42 Found 'Top9'
+            17:46:44 Italy پیدا شد
+            17:46:45 Looking for 'Rarity'
+            17:46:53 Silver پیدا شد
+            17:46:55 Looking for 'Position'
+            17:47:00 Looking for 'BuyNow' (قیمت 550)
+            17:47:04 BUY: no cards found -> price 550 to 650
+            17:47:16 FindFilter: به Pricing نرسید
+            17:47:16 BUY: قیمت 650 تنظیم نشد
+17:47:16  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:48:59  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_174859_008_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:48:15 400
+            17:48:16 450
+            17:48:16 500
+            17:48:25 Found 'Top9'
+            17:48:27 Italy پیدا شد
+            17:48:28 Looking for 'Rarity'
+            17:48:36 Silver پیدا شد
+            17:48:38 Looking for 'Position'
+            17:48:44 Looking for 'BuyNow' (قیمت 550)
+            17:48:47 BUY: no cards found -> price 550 to 650
+            17:48:59 FindFilter: به Pricing نرسید
+            17:48:59 BUY: قیمت 650 تنظیم نشد
+17:49:00  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_174900_009_pause__Marquee_Matchups_2_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:48:59 ✗ BUY failed (shot: 1011_174859_008_BUY.png)
+            17:48:59 [Marquee Matchups 2:6] try 3 of 3 failed, back to the squad
+17:53:29  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 4:29 توقف
+17:53:31  ‼ خطای کد    اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:24:31  |  خطا 6، تلاش دوباره 4، توقف موقت 3، خطای کد 1 ════
+
+════ 2026-10-11 18:23:07  شروع اجرا  (ریموت C24، pid 19008) START_GAME=True  SHARED=True ════
+18:23:17  ·            اکانت WEY › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'simpson carleen' — اکانت لازم: WEY
+18:23:35  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey Balcke)
+18:26:01  ·            اکانت WEY › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:27:42  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+18:27:52  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:28:10  ·            اکانت WEY › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+18:28:54  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:29:13  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:29:32  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:29:50  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:30:09  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:31:48  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_183148_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:31:04 400
+            18:31:04 450
+            18:31:05 500
+            18:31:13 Found 'Top9'
+            18:31:16 Italy پیدا شد
+            18:31:17 Looking for 'Rarity'
+            18:31:25 Silver پیدا شد
+            18:31:27 Looking for 'Position'
+            18:31:32 Looking for 'BuyNow' (قیمت 550)
+            18:31:36 BUY: no cards found -> price 550 to 650
+            18:31:48 FindFilter: به Pricing نرسید
+            18:31:48 BUY: قیمت 650 تنظیم نشد
+18:31:48  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:33:31  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_183331_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:32:47 400
+            18:32:48 450
+            18:32:48 500
+            18:32:57 Found 'Top9'
+            18:32:59 Italy پیدا شد
+            18:33:00 Looking for 'Rarity'
+            18:33:08 Silver پیدا شد
+            18:33:10 Looking for 'Position'
+            18:33:16 Looking for 'BuyNow' (قیمت 550)
+            18:33:19 BUY: no cards found -> price 550 to 650
+            18:33:31 FindFilter: به Pricing نرسید
+            18:33:31 BUY: قیمت 650 تنظیم نشد
+18:33:31  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+18:35:15  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_183515_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:34:31 400
+            18:34:31 450
+            18:34:32 500
+            18:34:41 Found 'Top9'
+            18:34:43 Italy پیدا شد
+            18:34:44 Looking for 'Rarity'
+            18:34:52 Silver پیدا شد
+            18:34:54 Looking for 'Position'
+            18:34:59 Looking for 'BuyNow' (قیمت 550)
+            18:35:03 BUY: no cards found -> price 550 to 650
+            18:35:15 FindFilter: به Pricing نرسید
+            18:35:15 BUY: قیمت 650 تنظیم نشد
+18:35:15  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_183515_004_pause__Marquee_Matchups_2_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:35:15 ✗ BUY failed (shot: 1011_183515_003_BUY.png)
+            18:35:15 [Marquee Matchups 2:6] try 3 of 3 failed, back to the squad
+18:35:51  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 0:36 توقف
+18:37:36  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_183736_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:36:52 400
+            18:36:52 450
+            18:36:53 500
+            18:37:02 Found 'Top9'
+            18:37:04 Italy پیدا شد
+            18:37:05 Looking for 'Rarity'
+            18:37:13 Silver پیدا شد
+            18:37:15 Looking for 'Position'
+            18:37:20 Looking for 'BuyNow' (قیمت 550)
+            18:37:24 BUY: no cards found -> price 550 to 650
+            18:37:36 FindFilter: به Pricing نرسید
+            18:37:36 BUY: قیمت 650 تنظیم نشد
+18:37:36  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:40:03  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد (تلاش 2)
+18:41:27  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:42:17  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:43:43  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:45:55  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 2 › بازیکن 10/11 (GOLD | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+18:47:53  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_184753_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:47:01 Looking for 'Rarity'
+            18:47:11 Silver پیدا شد
+            18:47:13 Looking for 'Position'
+            18:47:19 Found 'Default'
+            18:47:22 EFL Championship پیدا شد
+            18:47:26 Looking for 'BuyNow' (قیمت 550)
+            18:47:31 Found 'BuyNow (2)'
+            18:47:31 Found 'No'
+            18:47:32 Found 'Yes'
+            18:47:40 BUY: no cards found -> price 550 to 650
+            18:47:53 FindFilter: به Pricing نرسید
+            18:47:53 BUY: قیمت 650 تنظیم نشد
+18:47:53  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:48:58  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_184858_007_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:47:53 ✗ BUY failed (shot: 1011_184753_006_BUY.png)
+            18:47:53 [Marquee Matchups 2:11] try 1 of 3 failed, back to the squad
+            18:48:07 Pricing: club=True، قیمت نادیده گرفته شد
+            18:48:12 Looking for 'Rarity'
+            18:48:20 Silver پیدا شد
+            18:48:22 Looking for 'Position'
+            18:48:30 Found 'Default'
+            18:48:33 EFL Championship پیدا شد
+18:48:58  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+18:49:18  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_184918_008_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:48:58 ✗ back_to_market failed (shot: 1011_184858_007_back_to_market.png)
+            18:48:58 [Marquee Matchups 2:11] try 2 of 3 failed, back to the squad
+18:49:21  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  [Marquee Matchups 2:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_184921_009_pause__Marquee_Matchups_2_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:49:18 ✗ enter_slot failed (shot: 1011_184918_008_enter_slot.png)
+            18:49:18 [Marquee Matchups 2:11] try 3 of 3 failed, back to the squad
+18:50:21  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بعد از 1:00 توقف
+18:50:35  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_185035_010_enter_slot.png
+18:50:35  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:50:50  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_185050_011_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:50:35 ✗ enter_slot failed (shot: 1011_185035_010_enter_slot.png)
+            18:50:35 [Marquee Matchups 2:11] try 1 of 3 failed, back to the squad
+18:50:50  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  [Marquee Matchups 2:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_185050_012_pause__Marquee_Matchups_2_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:50:50 ✗ back_to_squad failed (shot: 1011_185050_011_back_to_squad.png)
+18:51:16  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بعد از 0:26 توقف
+18:51:30  ✗ خطا        اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_185130_013_enter_slot.png
+18:51:30  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:51:33  ■ توقف       اکانت WEY › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:51:30 ✗ enter_slot failed (shot: 1011_185130_013_enter_slot.png)
+            18:51:30 [Marquee Matchups 2:11] try 1 of 3 failed, back to the squad
+════ پایان: ■ توقف از پنل  |  مدت 28:25  |  خطا 10، تلاش دوباره 7، توقف موقت 3، خطای کد 0 ════
+
+════ 2026-10-11 18:51:36  شروع اجرا  (ریموت C24، pid 11516) START_GAME=True  SHARED=True ════
+18:51:42  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+18:54:28  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+18:54:39  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:54:41  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:55:02  ·            اکانت WEY › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+18:56:41  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:57:32  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:58:22  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:59:12  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:00:02  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:00:56  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+19:02:12  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:03:00  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:03:48  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:06:06  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+19:07:22  ✗ خطا        اکانت WEY › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_190722_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:06:51 850
+            19:06:51 900
+            19:06:52 950
+            19:06:53 1000
+            19:06:53 1100
+            19:06:56 Looking for 'BuyNow' (قیمت 1200)
+            19:07:01 Found 'BuyNow (2)'
+            19:07:01 Found 'No'
+            19:07:02 Found 'Yes'
+            19:07:10 BUY: no cards found -> price 1200 to 1300
+            19:07:22 FindFilter: به Pricing نرسید
+            19:07:22 BUY: قیمت 1300 تنظیم نشد
+19:07:22  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:08:38  ✗ خطا        اکانت WEY › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_190838_002_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:07:22 ✗ BUY failed (shot: 1011_190722_001_BUY.png)
+            19:07:22 [Marquee Matchups 3:11] try 1 of 3 failed, back to the squad
+            19:07:36 Pricing: club=True، قیمت نادیده گرفته شد
+            19:07:40 Looking for 'Rarity'
+            19:07:49 GOLD پیدا شد
+            19:07:51 Looking for 'Position'
+            19:07:59 Found 'Default'
+            19:08:04 LALIGA EA SPORTS پیدا شد
+            19:08:10 Found 'Any (4)'
+            19:08:18 Villarreal CF پیدا شد
+19:08:38  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:08:57  ✗ خطا        اکانت WEY › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_190857_003_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:08:38 ✗ back_to_market failed (shot: 1011_190838_002_back_to_market.png)
+            19:08:38 [Marquee Matchups 3:11] try 2 of 3 failed, back to the squad
+19:09:03  ■ توقف       اکانت WEY › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:08:57 ✗ enter_slot failed (shot: 1011_190857_003_enter_slot.png)
+            19:08:57 [Marquee Matchups 3:11] try 3 of 3 failed, back to the squad
+════ پایان: ■ توقف از پنل  |  مدت 17:26  |  خطا 3، تلاش دوباره 2، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 19:09:04  شروع اجرا  (ریموت C24، pid 18728) START_GAME=True  SHARED=True ════
+19:09:09  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+19:11:35  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+19:11:46  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:11:47  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:11:50  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:12:12  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:14:28  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:16:02  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:17:19  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:19:58  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_191957_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:19:13 Found 'BuyNow (2)'
+            19:19:20 Found 'BuyNow (2)'
+            19:19:28 Found 'BuyNow (2)'
+            19:19:36 Found 'BuyNow (2)'
+            19:19:44 Found 'BuyNow (2)'
+            19:19:44 expired
+            19:19:46 Found 'BuyNow (2)'
+            19:19:54 Found 'BuyNow (2)'
+            19:19:55 expired
+            19:19:56 Found 'BuyNow (2)'
+            19:19:57 expired
+            19:19:57 BUY: خرید انجام نشد
+19:19:58  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:20:11  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_192011_002_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:19:58 ✗ BUY failed (shot: 1011_191957_001_BUY.png)
+            19:19:58 [Marquee Matchups 4:4] try 1 of 3 failed, back to the squad
+            19:19:58 پاپ‌آپ 'Expired' بسته شد
+            19:20:00 پاپ‌آپ 'Expired' بسته شد
+            19:20:01 پاپ‌آپ 'Expired' بسته شد
+            19:20:03 پاپ‌آپ 'Expired' بسته شد
+            19:20:05 پاپ‌آپ 'Expired' بسته شد
+            19:20:06 پاپ‌آپ 'Expired' بسته شد
+            19:20:08 پاپ‌آپ 'Expired' بسته شد
+            19:20:10 پاپ‌آپ 'Expired' بسته شد
+19:20:11  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  [Marquee Matchups 4:4] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_192011_003_pause__Marquee_Matchups_4_4_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:20:11 ✗ back_to_squad failed (shot: 1011_192011_002_back_to_squad.png)
+19:22:19  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بعد از 2:07 توقف
+19:25:26  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_192526_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:23:55 Ligue 1 McDonald پیدا شد
+            19:24:00 Looking for 'BuyNow' (قیمت 850)
+            19:24:18 Found 'BuyNow (2)'
+            19:25:00 Found 'BuyNow (2)'
+            19:25:01 expired
+            19:25:03 Found 'BuyNow (2)'
+            19:25:10 expired
+            19:25:12 Found 'BuyNow (2)'
+            19:25:12 expired
+            19:25:13 BUY: 3 buys failed -> price 850 to 950
+            19:25:26 FindFilter: به Pricing نرسید
+            19:25:26 BUY: قیمت 950 تنظیم نشد
+19:25:26  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:29:37  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_192937_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:33 Found 'BuyNow (2)'
+            19:28:40 Found 'BuyNow (2)'
+            19:28:47 Found 'BuyNow (2)'
+            19:28:55 Found 'BuyNow (2)'
+            19:29:02 Found 'BuyNow (2)'
+            19:29:09 Found 'BuyNow (2)'
+            19:29:17 Found 'BuyNow (2)'
+            19:29:24 Found 'BuyNow (2)'
+            19:29:24 expired
+            19:29:25 BUY: 3 buys failed -> price 850 to 950
+            19:29:37 FindFilter: به Pricing نرسید
+            19:29:37 BUY: قیمت 950 تنظیم نشد
+19:29:37  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:33:48  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_193348_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:53 expired
+            19:32:55 Found 'BuyNow (2)'
+            19:33:02 Found 'BuyNow (2)'
+            19:33:09 Found 'BuyNow (2)'
+            19:33:17 Found 'BuyNow (2)'
+            19:33:24 Found 'BuyNow (2)'
+            19:33:24 expired
+            19:33:26 Found 'BuyNow (2)'
+            19:33:36 expired
+            19:33:36 BUY: 3 buys failed -> price 850 to 950
+            19:33:48 FindFilter: به Pricing نرسید
+            19:33:48 BUY: قیمت 950 تنظیم نشد
+19:34:00  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_193400_007_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:33:48 ✗ BUY failed (shot: 1011_193348_006_BUY.png)
+            19:33:48 [Marquee Matchups 4:4] try 3 of 3 failed, back to the squad
+            19:33:48 پاپ‌آپ 'Expired' بسته شد
+            19:33:50 پاپ‌آپ 'Expired' بسته شد
+            19:33:51 پاپ‌آپ 'Expired' بسته شد
+            19:33:53 پاپ‌آپ 'Expired' بسته شد
+            19:33:54 پاپ‌آپ 'Expired' بسته شد
+            19:33:55 پاپ‌آپ 'Expired' بسته شد
+            19:33:57 پاپ‌آپ 'Expired' بسته شد
+            19:33:58 پاپ‌آپ 'Expired' بسته شد
+19:34:00  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  [Marquee Matchups 4:4] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_193400_008_pause__Marquee_Matchups_4_4_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:34:00 ✗ back_to_squad failed (shot: 1011_193400_007_back_to_squad.png)
+19:36:13  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بعد از 2:13 توقف
+19:36:26  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_193626_009_enter_slot.png
+19:36:26  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:36:37  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_193637_010_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:26 ✗ enter_slot failed (shot: 1011_193626_009_enter_slot.png)
+            19:36:26 [Marquee Matchups 4:4] try 1 of 3 failed, back to the squad
+            19:36:26 پاپ‌آپ 'Expired' بسته شد
+            19:36:27 پاپ‌آپ 'Expired' بسته شد
+            19:36:29 پاپ‌آپ 'Expired' بسته شد
+            19:36:30 پاپ‌آپ 'Expired' بسته شد
+            19:36:32 پاپ‌آپ 'Expired' بسته شد
+            19:36:33 پاپ‌آپ 'Expired' بسته شد
+            19:36:34 پاپ‌آپ 'Expired' بسته شد
+            19:36:36 پاپ‌آپ 'Expired' بسته شد
+19:36:37  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  [Marquee Matchups 4:4] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1011_193637_011_pause__Marquee_Matchups_4_4_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:37 ✗ back_to_squad failed (shot: 1011_193637_010_back_to_squad.png)
+19:37:07  ■ توقف       اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 28:03  |  خطا 8، تلاش دوباره 4، توقف موقت 3، خطای کد 0 ════
+
+════ 2026-10-11 19:37:08  شروع اجرا  (ریموت C24، pid 20044) START_GAME=True  SHARED=True ════
+19:37:13  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+19:39:10  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+19:39:21  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:39:23  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:39:25  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:39:44  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:40:40  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:41:25  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:41:55  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:45:44  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_194544_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:44:47 Found 'BuyNow (2)'
+            19:44:55 Found 'BuyNow (2)'
+            19:45:02 Found 'BuyNow (2)'
+            19:45:10 Found 'BuyNow (2)'
+            19:45:18 Found 'BuyNow (2)'
+            19:45:26 Found 'BuyNow (2)'
+            19:45:26 expired
+            19:45:28 Found 'BuyNow (2)'
+            19:45:29 expired
+            19:45:29 BUY: 3 buys failed -> price 850 to 950
+            19:45:44 FindFilter: به Pricing نرسید
+            19:45:44 BUY: قیمت 950 تنظیم نشد
+19:45:44  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:47:55  ‼ خطای کد    اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:46:51 550
+            19:46:52 600
+            19:46:52 650
+            19:46:53 700
+            19:46:54 750
+            19:46:54 800
+            19:47:01 Looking for 'Rarity'
+            19:47:09 Gold پیدا شد
+            19:47:11 Looking for 'Position'
+            19:47:18 Found 'Default'
+            19:47:20 Ligue 1 McDonald پیدا شد
+            19:47:24 Looking for 'BuyNow' (قیمت 850)
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 10:46  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 19:53:33  شروع اجرا  (ریموت C24، pid 27500) START_GAME=True  SHARED=True ════
+19:53:44  ·            اکانت WEY › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'simpson carleen' — اکانت لازم: WEY
+19:54:01  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey Balcke)
+19:56:57  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+19:57:07  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:57:08  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:57:12  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:57:33  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:58:27  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:59:09  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:59:38  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+20:02:11  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_200211_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:00:35 Looking for 'Position'
+            20:00:42 Found 'Default'
+            20:00:45 Ligue 1 McDonald پیدا شد
+            20:00:49 Looking for 'BuyNow' (قیمت 850)
+            20:01:47 Found 'BuyNow (2)'
+            20:01:54 expired
+            20:01:55 Found 'BuyNow (2)'
+            20:01:56 expired
+            20:01:57 expired
+            20:01:57 BUY: 3 buys failed -> price 850 to 950
+            20:02:11 FindFilter: به Pricing نرسید
+            20:02:11 BUY: قیمت 950 تنظیم نشد
+20:02:11  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:04:28  ■ توقف       اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:03:17 550
+            20:03:18 600
+            20:03:18 650
+            20:03:19 700
+            20:03:19 750
+            20:03:20 800
+            20:03:26 Looking for 'Rarity'
+            20:03:35 Gold پیدا شد
+            20:03:37 Looking for 'Position'
+            20:03:44 Found 'Default'
+            20:03:46 Ligue 1 McDonald پیدا شد
+            20:03:50 Looking for 'BuyNow' (قیمت 850)
+════ پایان: ■ توقف از پنل  |  مدت 10:55  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 20:04:59  شروع اجرا  (ریموت C24، pid 26580) START_GAME=True  SHARED=True ════
+20:05:22  ■ توقف       اکانت simpson › شروع بازی › GotoHome  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:04:59 ===== Account: simpson (simpson-carleen75@outlook.com) =====
+            20:05:00 ===== باز کردن بازی (تلاش 1) =====
+════ پایان: ■ توقف از پنل  |  مدت 0:22  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 20:05:26  شروع اجرا  (ریموت C24، pid 25220) START_GAME=True  SHARED=True ════
+20:05:50  ✗ خطا        اکانت simpson › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C24\1011_200550_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:05:26 ===== Account: simpson (simpson-carleen75@outlook.com) =====
+            20:05:26 ===== باز کردن بازی (تلاش 1) =====
+20:05:50  ↻ تلاش دوباره اکانت simpson › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:06:14  ✗ خطا        اکانت simpson › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C24\1011_200614_002_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:05:50 ✗ GotoHome failed (shot: 1011_200550_001_GotoHome.png)
+            20:05:50 ===== باز کردن بازی (تلاش 2) =====
+20:06:14  ↻ تلاش دوباره اکانت simpson › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+20:06:37  ✗ خطا        اکانت simpson › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C24\1011_200637_003_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:06:14 ✗ GotoHome failed (shot: 1011_200614_002_GotoHome.png)
+            20:06:14 ===== باز کردن بازی (تلاش 3) =====
+20:06:38  ⏸ توقف موقت  اکانت simpson › شروع بازی › GotoHome  |  Start game (GotoHome) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where GotoHome starts
+          عکس: shots\C24\1011_200638_004_pause_Start_game_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:06:37 ✗ GotoHome failed (shot: 1011_200637_003_GotoHome.png)
+20:07:10  ▶ ادامه      اکانت simpson › شروع بازی › GotoHome  |  بعد از 0:32 توقف
+20:07:29  ·            اکانت simpson › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Wey Balcke' — اکانت لازم: simpson
+20:07:47  ✓ انجام شد   اکانت simpson › شروع بازی › CheckAccount  |  اکانت simpson روی کنسول است (گیمرتگ: simpson carleen)
+20:10:27  ✓ انجام شد   اکانت simpson  |  بازی باز شد و صفحه‌ی SBC آمد
+20:11:39  ⏸ توقف موقت  اکانت simpson › چالش Marquee Matchups 1  |  Open challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C24\1011_201139_005_pause_Open_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:10:53 Looking for set 'Marquee Matchups'
+            20:10:59 Looking for set 'Marquee Matchups'
+            20:11:00 SBC intro: Advance
+            20:11:01 SBC intro: Advance
+            20:11:03 SBC intro: Advance
+            20:11:05 SBC intro: Advance
+            20:11:07 SBC intro: Advance
+            20:11:09 Set Marquee Matchups: 4 challenge(s)
+            20:11:09 ===== Marquee Matchups 1 =====
+            20:11:09 Marquee Matchups 1.csv: 11 rows
+            20:11:22 Challenge 1: به آن نرسید (الان روی None)
+            20:11:37 Challenge 1: به آن نرسید (الان روی None)
+20:11:55  ▶ ادامه      اکانت simpson › چالش Marquee Matchups 1  |  بعد از 0:16 توقف
+20:11:57  ·            اکانت simpson › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:11:58  ·            اکانت simpson › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:12:00  ·            اکانت simpson › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:12:01  ·            اکانت simpson › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:12:01  ✓ انجام شد   اکانت simpson  |  اکانت simpson تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: simpson  |  مدت 6:35  |  خطا 3، تلاش دوباره 2، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-11 20:13:17  شروع اجرا  (ریموت C24، pid 11268) START_GAME=True  SHARED=True ════
+20:13:28  ·            اکانت kael › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'simpson carleen' — اکانت لازم: kael
+20:13:50  ✓ انجام شد   اکانت kael › شروع بازی › CheckAccount  |  اکانت kael روی کنسول است (گیمرتگ: Kael#4297)
+20:14:41  ·            اکانت kael › شروع بازی › find_platform  |  find_platform نشد (لازم نیست، ادامه)
+20:17:14  ·            اکانت kael › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+20:18:56  ✗ خطا        اکانت kael › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C24\1011_201856_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:17:04 Looking for 'Ultimate'
+            20:17:14 FindUltimate نشد؛ ادامه
+            20:17:14 Looking for 'Main Ultimate'
+            20:17:24 Looking for 'Main Ultimate'
+            20:17:34 Looking for 'Main Ultimate'
+            20:17:45 Looking for 'Main Ultimate'
+            20:17:55 Looking for 'Main Ultimate'
+            20:18:05 Looking for 'Main Ultimate'
+            20:18:15 Looking for 'Main Ultimate'
+            20:18:25 Looking for 'Main Ultimate'
+            20:18:36 Looking for 'Main Ultimate'
+            20:18:46 Looking for 'Main Ultimate'
+20:18:56  ↻ تلاش دوباره اکانت kael › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:19:01  ✓ انجام شد   اکانت kael › شروع بازی › CheckAccount  |  اکانت kael روی کنسول است (گیمرتگ: Kael#4297)
+20:21:26  ✓ انجام شد   اکانت kael  |  بازی باز شد و صفحه‌ی SBC آمد
+20:21:55  ·            اکانت kael › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:23:32  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:24:21  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:25:15  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:25:59  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:26:45  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:27:35  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:28:19  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:28:46  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:29:05  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:29:49  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+20:34:12  ✗ خطا        اکانت kael › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_203412_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:30:38 250
+            20:30:39 300
+            20:30:40 350
+            20:30:40 400
+            20:30:47 Looking for 'Rarity'
+            20:30:55 Silver پیدا شد
+            20:30:57 Looking for 'Position'
+            20:30:59 Looking for 'BuyNow' (قیمت 450)
+            20:31:04 Found 'BuyNow (2)'
+            20:31:04 Found 'No'
+            20:31:04 Found 'Yes'
+            20:34:12 BUY: خرید انجام نشد
+20:34:12  ↻ تلاش دوباره اکانت kael › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:34:54  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد (تلاش 2)
+20:35:01  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+20:35:30  ·            اکانت kael › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+20:37:10  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:37:58  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:39:02  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:39:49  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:40:37  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:41:23  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:42:39  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:43:30  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:44:56  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:47:02  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+20:49:08  ✗ خطا        اکانت kael › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_204908_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:48:35 Found 'No'
+            20:48:35 Found 'Yes'
+            20:48:45 Found 'BuyNow (2)'
+            20:48:49 Found 'No'
+            20:48:49 Found 'Yes'
+            20:48:57 BUY: no cards found -> price 550 to 650
+            20:49:03 Looking for 'Pricing'
+            20:49:04 Looking for 'Pricing'
+            20:49:05 Looking for 'Pricing'
+            20:49:07 Looking for 'Pricing'
+            20:49:08 Pricing: خانه‌ی BuyNow پیدا نشد
+            20:49:08 BUY: قیمت 650 تنظیم نشد
+20:49:08  ↻ تلاش دوباره اکانت kael › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:50:15  ✗ خطا        اکانت kael › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1011_205015_004_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:49:08 ✗ BUY failed (shot: 1011_204908_003_BUY.png)
+            20:49:08 [Marquee Matchups 2:11] try 1 of 3 failed, back to the squad
+            20:49:27 Pricing: club=True، قیمت نادیده گرفته شد
+            20:49:32 Looking for 'Rarity'
+            20:49:40 Silver پیدا شد
+            20:49:42 Looking for 'Position'
+            20:49:50 Found 'Default'
+            20:49:52 EFL Championship پیدا شد
+20:50:15  ↻ تلاش دوباره اکانت kael › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:51:49  ‼ خطای کد    اکانت kael › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:50:15 ✗ back_to_market failed (shot: 1011_205015_004_back_to_market.png)
+            20:50:15 [Marquee Matchups 2:11] try 2 of 3 failed, back to the squad
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 38:31  |  خطا 4، تلاش دوباره 4، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-12 14:29:09  شروع اجرا  (ریموت C24، pid 22512) START_GAME=True  SHARED=True ════
+14:29:15  ·            اکانت kael › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Fic05#1814' — اکانت لازم: kael
+14:29:33  ✓ انجام شد   اکانت kael › شروع بازی › CheckAccount  |  اکانت kael روی کنسول است (گیمرتگ: Kael#4297)
+16:42:36  ‼ خطای کد    اکانت kael › شروع بازی › FindUltimate  |  ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C24 در دسترس نیست (\\.\pipe\xbrp-C24). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:29:56 Text in box: '25 Xbox Seri'
+            14:29:57 Found 'Games'
+            14:30:01 Text in box: '26 Xbox One'
+            14:30:02 Found 'Games'
+            14:30:05 Text in box: '26 Xbox Seril'
+            14:30:07 Found 'Games'
+            14:30:10 Text in box: '27 XBOX One'
+            14:30:10 Found 'One'
+            14:30:16 Looking for 'Ultimate'
+            14:30:26 Looking for 'Ultimate'
+            14:30:36 Looking for 'Ultimate'
+            16:42:36 Looking for 'Ultimate'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 2:13:27  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-12 16:50:26  شروع اجرا  (ریموت C24، pid 20360) START_GAME=True  SHARED=True ════
+16:50:50  ✗ خطا        اکانت kael › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C24\1012_165050_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:50:26 ===== Account: kael (kael_rossi81@outlook.com) =====
+            16:50:26 ===== باز کردن بازی (تلاش 1) =====
+16:50:50  ↻ تلاش دوباره اکانت kael › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:51:16  ✗ خطا        اکانت kael › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C24\1012_165116_002_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:50:50 ✗ GotoHome failed (shot: 1012_165050_001_GotoHome.png)
+            16:50:51 ===== باز کردن بازی (تلاش 2) =====
+16:51:16  ↻ تلاش دوباره اکانت kael › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+16:51:41  ✗ خطا        اکانت kael › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C24\1012_165141_003_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:51:16 ✗ GotoHome failed (shot: 1012_165116_002_GotoHome.png)
+            16:51:16 ===== باز کردن بازی (تلاش 3) =====
+16:51:41  ⏸ توقف موقت  اکانت kael › شروع بازی › GotoHome  |  Start game (GotoHome) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where GotoHome starts
+          عکس: shots\C24\1012_165141_004_pause_Start_game_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:51:41 ✗ GotoHome failed (shot: 1012_165141_003_GotoHome.png)
+16:52:23  ▶ ادامه      اکانت kael › شروع بازی › GotoHome  |  بعد از 0:41 توقف
+16:52:32  ·            اکانت kael › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'simpson carleen' — اکانت لازم: kael
+16:52:49  ✓ انجام شد   اکانت kael › شروع بازی › CheckAccount  |  اکانت kael روی کنسول است (گیمرتگ: kael rossi)
+16:54:44  ✓ انجام شد   اکانت kael  |  بازی باز شد و صفحه‌ی SBC آمد
+16:54:54  ·            اکانت kael › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:54:55  ·            اکانت kael › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:55:16  ·            اکانت kael › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+16:56:25  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+16:57:12  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+16:57:59  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+16:58:46  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+16:59:36  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:00:29  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+17:01:45  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:03:25  ✗ خطا        اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_170325_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:03:00 Found 'BuyNow (2)'
+            17:03:00 expired
+            17:03:02 Found 'BuyNow (2)'
+            17:03:03 expired
+            17:03:04 Found 'BuyNow (2)'
+            17:03:05 Found 'No'
+            17:03:05 Found 'Yes'
+            17:03:09 Found 'BuyNow (2)'
+            17:03:10 expired
+            17:03:10 BUY: 3 buys failed -> price 550 to 650
+            17:03:25 FindFilter: به Pricing نرسید
+            17:03:25 BUY: قیمت 650 تنظیم نشد
+17:03:25  ↻ تلاش دوباره اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:04:54  ✗ خطا        اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_170454_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:04:25 150
+            17:04:25 200
+            17:04:26 250
+            17:04:27 300
+            17:04:27 350
+            17:04:28 400
+            17:04:29 450
+            17:04:30 500
+            17:04:32 Looking for 'BuyNow' (قیمت 550)
+            17:04:39 BUY: no cards found -> price 550 to 650
+            17:04:54 FindFilter: به Pricing نرسید
+            17:04:54 BUY: قیمت 650 تنظیم نشد
+17:04:54  ↻ تلاش دوباره اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:06:45  ✗ خطا        اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_170645_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:06:22 Found 'BuyNow (2)'
+            17:06:22 Found 'No'
+            17:06:23 Found 'Yes'
+            17:06:26 Found 'BuyNow (2)'
+            17:06:27 expired
+            17:06:29 Found 'BuyNow (2)'
+            17:06:29 expired
+            17:06:31 Found 'BuyNow (2)'
+            17:06:32 expired
+            17:06:32 BUY: 3 buys failed -> price 550 to 650
+            17:06:45 FindFilter: به Pricing نرسید
+            17:06:45 BUY: قیمت 650 تنظیم نشد
+17:06:45  ⏸ توقف موقت  اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  [Marquee Matchups 3:8] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1012_170645_008_pause__Marquee_Matchups_3_8_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:06:45 ✗ BUY failed (shot: 1012_170645_007_BUY.png)
+            17:06:45 [Marquee Matchups 3:8] try 3 of 3 failed, back to the squad
+17:28:12  ■ توقف       اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 37:46  |  خطا 6، تلاش دوباره 4، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-12 17:28:14  شروع اجرا  (ریموت C24، pid 20740) START_GAME=True  SHARED=True ════
+17:28:19  ✓ انجام شد   اکانت kael › شروع بازی › CheckAccount  |  اکانت kael روی کنسول است (گیمرتگ: Kael#4297)
+17:30:58  ✓ انجام شد   اکانت kael  |  بازی باز شد و صفحه‌ی SBC آمد
+17:31:09  ·            اکانت kael › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+17:31:11  ·            اکانت kael › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+17:31:30  ·            اکانت kael › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+17:32:13  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:33:27  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:34:17  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:35:09  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:35:58  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:36:51  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+17:38:06  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:38:55  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:39:48  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:42:12  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+17:43:35  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+17:43:40  ✓ انجام شد   اکانت kael › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+17:44:16  ⏸ توقف موقت  اکانت kael › چالش Marquee Matchups 4  |  Open challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C24\1012_174416_001_pause_Open_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:43:30 Found 'BuyNow (2)'
+            17:43:32 Found 'BuyNow (2)'
+            17:43:33 Found 'No'
+            17:43:33 Found 'Yes'
+            17:43:35 Bought (قیمت 1200)
+            17:43:40 ===== Marquee Matchups 4 =====
+            17:43:40 Marquee Matchups 4.csv: 11 rows
+            17:43:40 Reward: Claim
+            17:43:42 SBC intro: Advance
+            17:43:44 SBC intro: Advance
+            17:43:56 Challenge 4: challenge page of Marquee Matchups not shown
+            17:44:14 Challenge 4: challenge page of Marquee Matchups not shown
+17:44:47  ▶ ادامه      اکانت kael › چالش Marquee Matchups 4  |  بعد از 0:30 توقف
+17:45:01  ·            اکانت kael › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+17:45:01  ✓ انجام شد   اکانت kael  |  اکانت kael تمام شد
+17:45:12  ·            اکانت Roch › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'kael rossi' — اکانت لازم: Roch
+17:45:34  ✓ انجام شد   اکانت Roch › شروع بازی › CheckAccount  |  اکانت Roch روی کنسول است (گیمرتگ: Roch#8359)
+17:46:25  ·            اکانت Roch › شروع بازی › find_platform  |  find_platform نشد (لازم نیست، ادامه)
+17:48:42  ·            اکانت Roch › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+17:48:49  ✓ انجام شد   اکانت Roch  |  بازی باز شد و صفحه‌ی SBC آمد
+17:48:59  ·            اکانت Roch › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+17:49:20  ·            اکانت Roch › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+17:51:03  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:51:52  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:52:39  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:53:26  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:54:13  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:55:59  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+17:57:41  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:58:28  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:59:52  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+18:02:01  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+18:03:38  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+18:03:43  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+18:04:18  ⏸ توقف موقت  اکانت Roch › چالش Marquee Matchups 3  |  Open challenge Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C24\1012_180418_002_pause_Open_challenge_Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:03:24 EFL Championship پیدا شد
+            18:03:28 Looking for 'BuyNow' (قیمت 550)
+            18:03:31 My Coins: 9681
+            18:03:33 Found 'BuyNow (2)'
+            18:03:36 Found 'No'
+            18:03:37 Found 'Yes'
+            18:03:38 Bought (قیمت 550)
+            18:03:43 ===== Marquee Matchups 3 =====
+            18:03:43 Marquee Matchups 3.csv: 11 rows
+            18:03:43 Reward: Claim
+            18:03:58 Challenge 3: challenge page of Marquee Matchups not shown
+            18:04:16 Challenge 3: challenge page of Marquee Matchups not shown
+18:06:25  ▶ ادامه      اکانت Roch › چالش Marquee Matchups 3  |  بعد از 2:06 توقف
+18:06:47  ·            اکانت Roch › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+18:08:02  ✗ خطا        اکانت Roch › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_180802_003_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:06:31 Challenge 3: وارد شد
+            18:06:31 Looking for 'Challenge'
+            18:06:33 Found 'Continue'
+            18:06:35 Found 'Sub (2)' , Start Challenge
+            18:06:36 Looking for 'Clear Squad'
+            18:06:41 Squad cleared
+            18:06:47 [Marquee Matchups 3:1/11] Silver | Brazil | GK | OFF | OFF | 550
+            18:06:58 Pricing: club=True، قیمت نادیده گرفته شد
+            18:07:50 لیست 'Top9' باز نشد
+            18:07:50 فیلتر Region='Brazil': تلاش 1 نشد
+            18:08:02 GoFilter: به Country نرسید
+            18:08:02 فیلتر Region='Brazil': تلاش 2 نشد
+18:08:02  ↻ تلاش دوباره اکانت Roch › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:08:19  ✗ خطا        اکانت Roch › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_180819_004_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:08:02 ✗ فیلترهای Club failed (shot: 1012_180802_003_Club.png)
+            18:08:02 [Marquee Matchups 3:1] try 1 of 3 failed, back to the squad
+18:08:19  ⏸ توقف موقت  اکانت Roch › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  [Marquee Matchups 3:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1012_180819_005_pause__Marquee_Matchups_3_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:08:19 ✗ back_to_squad failed (shot: 1012_180819_004_back_to_squad.png)
+18:13:38  ■ توقف       اکانت Roch › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 45:24  |  خطا 2، تلاش دوباره 1، توقف موقت 3، خطای کد 0 ════
+
+════ 2026-10-12 18:13:39  شروع اجرا  (ریموت C24، pid 248) START_GAME=True  SHARED=True ════
+18:13:44  ✓ انجام شد   اکانت Roch › شروع بازی › CheckAccount  |  اکانت Roch روی کنسول است (گیمرتگ: Roch#8359)
+18:15:50  ✓ انجام شد   اکانت Roch  |  بازی باز شد و صفحه‌ی SBC آمد
+18:16:08  ·            اکانت Roch › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:16:09  ·            اکانت Roch › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:16:27  ·            اکانت Roch › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+18:18:03  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:18:50  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:19:40  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:20:27  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:21:18  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:22:08  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+18:23:27  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:24:17  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:25:04  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:27:22  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+18:28:34  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+18:28:41  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+18:29:10  ·            اکانت Roch › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+18:31:14  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+18:33:18  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+18:34:37  ✓ انجام شد   اکانت Roch › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+18:35:24  ✗ کوین تمام  اکانت Roch › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  کوین اکانت Roch تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 4:4] price 850)
+          عکس: shots\C24\1012_183524_001_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:35:12 350
+            18:35:13 400
+            18:35:13 450
+            18:35:14 500
+            18:35:15 550
+            18:35:15 600
+            18:35:16 650
+            18:35:17 700
+            18:35:17 750
+            18:35:18 800
+            18:35:21 Looking for 'BuyNow' (قیمت 850)
+            18:35:24 BUY: out of coins (631 < 850)
+18:35:35  ·            اکانت WEY › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Roch Cole' — اکانت لازم: WEY
+18:35:55  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: i Wey#6762)
+18:37:50  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+18:38:00  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:38:01  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:38:02  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:38:21  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+18:39:15  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+18:41:18  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+18:42:38  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+18:43:29  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  Quick Sell menu نشد
+          تابع: Quick Sell menu ← BUY ← do_row ← run_row ← fill_squad
+          عکس: shots\C24\1012_184329_002_Quick_Sell_menu.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:43:14 500
+            18:43:15 550
+            18:43:15 600
+            18:43:16 650
+            18:43:17 700
+            18:43:17 750
+            18:43:18 800
+            18:43:21 Looking for 'BuyNow' (قیمت 850)
+            18:43:24 My Coins: 3178
+            18:43:26 Found 'BuyNow (2)'
+            18:43:26 Found 'No'
+            18:43:27 Found 'Yes'
+18:43:29  ⏸ توقف موقت  اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  BUY: card menu (Quick Sell) is open نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: close the card menu with B, put the screen on the search results, then press Resume
+          عکس: shots\C24\1012_184329_003_pause_BUY_card_menu_Quick_Sell_is_open.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:43:29 ✗ Quick Sell menu failed (shot: 1012_184329_002_Quick_Sell_menu.png)
+18:49:22  ▶ ادامه      اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بعد از 5:53 توقف
+18:49:23  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+18:50:50  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+18:52:10  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+18:53:47  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+18:57:54  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | Mali | CM | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_185754_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:57:42 550
+            18:57:43 600
+            18:57:44 650
+            18:57:44 700
+            18:57:45 750
+            18:57:45 800
+            18:57:46 850
+            18:57:47 900
+            18:57:47 950
+            18:57:48 1000
+            18:57:49 1100
+            18:57:54 BUY: no cards found and the price cap was reached (1200)
+18:57:54  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | Mali | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:58:07  ■ توقف       اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | Mali | CM | OFF | Ligue 1 McDonald | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:57:54 ✗ BUY failed (shot: 1012_185754_004_BUY.png)
+            18:57:54 [Marquee Matchups 4:8] try 1 of 3 failed, back to the squad
+            18:58:07 Pricing: club=True، قیمت نادیده گرفته شد
+════ پایان: ■ توقف از پنل  |  مدت 44:28  |  خطا 2، تلاش دوباره 1، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-12 18:58:08  شروع اجرا  (ریموت C24، pid 20784) START_GAME=True  SHARED=True ════
+18:58:14  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+19:00:09  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+19:00:18  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:00:19  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:00:20  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:00:40  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:01:33  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:02:33  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:08:12  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Switzerland | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_190812_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:08:00 850
+            19:08:01 900
+            19:08:01 950
+            19:08:02 1000
+            19:08:03 1100
+            19:08:03 1200
+            19:08:04 1300
+            19:08:05 1400
+            19:08:05 1500
+            19:08:06 1600
+            19:08:06 1700
+            19:08:12 BUY: no cards found and the price cap was reached (1850)
+19:08:12  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Switzerland | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:12:03  ■ توقف       اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Switzerland | CB | OFF | Ligue 1 McDonald | 850)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:11:53 550
+            19:11:53 600
+            19:11:54 650
+            19:11:54 700
+            19:11:55 750
+            19:11:56 800
+            19:11:56 850
+            19:11:57 900
+            19:11:58 950
+            19:11:58 1000
+            19:11:59 1100
+            19:11:59 1200
+════ پایان: ■ توقف از پنل  |  مدت 13:54  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-12 19:12:03  شروع اجرا  (ریموت C24، pid 17552) START_GAME=True  SHARED=True ════
+19:12:08  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+19:14:04  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+19:14:13  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:14:14  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:14:15  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:14:35  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:15:28  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:16:28  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:17:15  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:17:52  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:18:32  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:19:06  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+19:19:51  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:24:10  ✗ خطا        اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | Algeria | CM | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_192410_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:23:59 550
+            19:24:00 600
+            19:24:00 650
+            19:24:01 700
+            19:24:02 750
+            19:24:02 800
+            19:24:03 850
+            19:24:03 900
+            19:24:04 950
+            19:24:05 1000
+            19:24:05 1100
+            19:24:10 BUY: no cards found and the price cap was reached (1200)
+19:24:10  ↻ تلاش دوباره اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | Algeria | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:26:29  ■ توقف       اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | Algeria | CM | OFF | Ligue 1 McDonald | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:26:04 150
+            19:26:05 200
+            19:26:05 250
+            19:26:10 BUY: no cards found -> price 300 to 400
+            19:26:15 Looking for 'Pricing'
+            19:26:15 0
+            19:26:16 150
+            19:26:17 200
+            19:26:17 250
+            19:26:18 300
+            19:26:18 350
+            19:26:27 BUY: no cards found -> price 400 to 500
+════ پایان: ■ توقف از پنل  |  مدت 14:26  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-12 19:26:30  شروع اجرا  (ریموت C24، pid 18672) START_GAME=True  SHARED=True ════
+19:26:35  ✓ انجام شد   اکانت WEY › شروع بازی › CheckAccount  |  اکانت WEY روی کنسول است (گیمرتگ: Wey#6762)
+19:28:41  ✓ انجام شد   اکانت WEY  |  بازی باز شد و صفحه‌ی SBC آمد
+19:28:50  ·            اکانت WEY › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:28:51  ·            اکانت WEY › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:28:52  ·            اکانت WEY › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:29:12  ·            اکانت WEY › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:30:05  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:31:05  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:31:52  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:32:29  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:33:09  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:33:43  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+19:34:27  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:35:57  ✓ انجام شد   اکانت WEY › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:38:01  ✗ کوین تمام  اکانت WEY › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  کوین اکانت WEY تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 4:9] price 1300)
+          عکس: shots\C24\1012_193801_001_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:37:17 950
+            19:37:18 1000
+            19:37:19 1100
+            19:37:19 1200
+            19:37:26 Looking for 'Rarity'
+            19:37:34 Gold پیدا شد
+            19:37:43 Found 'Default'
+            19:37:45 Premier League پیدا شد
+            19:37:51 Found 'Any (4)'
+            19:37:57 Liverpool پیدا شد
+            19:37:57 Looking for 'BuyNow' (قیمت 1300)
+            19:38:01 BUY: out of coins (28 < 1300)
+19:38:12  ·            اکانت CIELO › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Wey Balcke' — اکانت لازم: CIELO
+19:38:34  ⏸ توقف موقت  اکانت CIELO › شروع بازی › CheckAccount  |  Account CIELO on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to CIELO (cielo_goldner@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1012_193833_002_pause_Account_CIELO_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:38:01 ✗ Out of coins: WEY ([Marquee Matchups 4:9] price 1300) - moving to the next account
+            19:38:01 ===== Account: CIELO (cielo_goldner@outlook.com) =====
+            19:38:01 ===== باز کردن بازی (تلاش 1) =====
+            19:38:12 Account: 'Wey Balcke' on console, switching to CIELO
+            19:38:12 Switch account -> CIELO
+            19:38:32 Switch: account CIELO is not added on this console (not in the Who are you? list)
+19:39:25  ▶ ادامه      اکانت CIELO › شروع بازی › CheckAccount  |  بعد از 0:51 توقف
+19:40:42  ·            اکانت CIELO › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '' — اکانت لازم: CIELO
+19:41:03  ⏸ توقف موقت  اکانت CIELO › شروع بازی › CheckAccount  |  Account CIELO on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to CIELO (cielo_goldner@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1012_194103_003_pause_Account_CIELO_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:40:42 Account: '' on console, switching to CIELO
+            19:40:42 Switch account -> CIELO
+            19:41:02 Switch: account CIELO is not added on this console (not in the Who are you? list)
+19:45:21  ▶ ادامه      اکانت CIELO › شروع بازی › CheckAccount  |  بعد از 4:18 توقف
+19:45:23  ✓ انجام شد   اکانت CIELO › شروع بازی › CheckAccount  |  اکانت CIELO روی کنسول است (گیمرتگ: Cielo goldner)
+19:52:16  ✗ خطا        اکانت CIELO › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C24\1012_195216_004_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:50:36 Looking for 'Ultimate'
+            19:50:36 Found 'Setting'
+            19:50:36 Found 'Ultimate'
+            19:50:37 Looking for 'Main Ultimate'
+            19:51:02 Looking for 'Main Ultimate'
+            19:51:34 Looking for 'Main Ultimate'
+            19:51:44 Looking for 'Main Ultimate'
+            19:51:55 Looking for 'Main Ultimate'
+            19:52:05 Looking for 'Ultimate'
+            19:52:05 Found 'Setting'
+            19:52:05 Found 'Ultimate'
+            19:52:06 Looking for 'Main Ultimate'
+19:52:16  ↻ تلاش دوباره اکانت CIELO › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+19:52:23  ■ توقف       اکانت CIELO › شروع بازی › CheckAccount  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:52:16 ✗ MainUltimate failed (shot: 1012_195216_004_MainUltimate.png)
+            19:52:16 ===== باز کردن بازی (تلاش 2) =====
+════ پایان: ■ توقف از پنل  |  مدت 25:53  |  خطا 1، تلاش دوباره 1، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-12 19:52:46  شروع اجرا  (ریموت C24، pid 24080) START_GAME=True  SHARED=True ════
+19:52:53  ·            اکانت CIELO › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+5 orofiles' — اکانت لازم: CIELO
+19:53:14  ⏸ توقف موقت  اکانت CIELO › شروع بازی › CheckAccount  |  Account CIELO on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to CIELO (cielo_goldner@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1012_195314_001_pause_Account_CIELO_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:52:46 ===== Account: CIELO (cielo_goldner@outlook.com) =====
+            19:52:47 ===== باز کردن بازی (تلاش 1) =====
+            19:52:53 Account: '+5 orofiles' on console, switching to CIELO
+            19:52:53 Switch account -> CIELO
+            19:53:13 Switch: account CIELO is not added on this console (not in the Who are you? list)
+19:54:18  ▶ ادامه      اکانت CIELO › شروع بازی › CheckAccount  |  بعد از 1:04 توقف
+19:54:30  ·            اکانت CIELO › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+5 orofiles' — اکانت لازم: CIELO
+19:54:51  ⏸ توقف موقت  اکانت CIELO › شروع بازی › CheckAccount  |  Account CIELO on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to CIELO (cielo_goldner@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1012_195451_002_pause_Account_CIELO_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:54:30 Account: '+5 orofiles' on console, switching to CIELO
+            19:54:30 Switch account -> CIELO
+            19:54:50 Switch: account CIELO is not added on this console (not in the Who are you? list)
+19:55:04  ▶ ادامه      اکانت CIELO › شروع بازی › CheckAccount  |  بعد از 0:12 توقف
+19:55:05  ✓ انجام شد   اکانت CIELO › شروع بازی › CheckAccount  |  اکانت CIELO روی کنسول است (گیمرتگ: Cie10#9194)
+19:57:05  ·            اکانت CIELO › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+19:57:12  ✓ انجام شد   اکانت CIELO  |  بازی باز شد و صفحه‌ی SBC آمد
+19:58:16  ⏸ توقف موقت  اکانت CIELO › چالش Marquee Matchups 1  |  Start challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C24\1012_195816_003_pause_Start_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:57:12 Looking for set 'Marquee Matchups'
+            19:57:17 Looking for set 'Marquee Matchups'
+            19:57:20 SBC intro: Advance
+            19:57:22 SBC intro: Advance
+            19:57:23 SBC intro: Advance
+            19:57:25 SBC intro: Advance
+            19:57:27 SBC intro: Advance
+            19:57:29 Set Marquee Matchups: 4 challenge(s)
+            19:57:29 ===== Marquee Matchups 1 =====
+            19:57:29 Marquee Matchups 1.csv: 11 rows
+            19:57:33 Challenge 1: وارد شد
+            19:57:33 Looking for 'Challenge'
+19:59:33  ▶ ادامه      اکانت CIELO › چالش Marquee Matchups 1  |  بعد از 1:17 توقف
+19:59:51  ·            اکانت CIELO › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:01:19  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:02:02  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:02:44  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:03:30  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:04:22  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:05:05  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:05:24  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:05:51  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:06:09  ✓ انجام شد   اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:07:53  ✗ کوین تمام  اکانت CIELO › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  کوین اکانت CIELO تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 1:10] price 900)
+          عکس: shots\C24\1012_200753_004_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:07:15 700
+            20:07:15 750
+            20:07:16 800
+            20:07:17 850
+            20:07:23 Looking for 'Rarity'
+            20:07:27 Looking for 'Position'
+            20:07:34 Found 'Default'
+            20:07:39 Bundesliga پیدا شد
+            20:07:45 Found 'Any (4)'
+            20:07:49 Eintracht Frankfurt پیدا شد
+            20:07:50 Looking for 'BuyNow' (قیمت 900)
+            20:07:53 BUY: out of coins (569 < 900)
+20:08:04  ·            اکانت Shawn › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'simpson carleen' — اکانت لازم: Shawn
+20:08:17  ⏸ توقف موقت  اکانت Shawn › شروع بازی › CheckAccount  |  Account Shawn on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to Shawn (shawna.larson76@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1012_200817_005_pause_Account_Shawn_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:07:53 ✗ Out of coins: CIELO ([Marquee Matchups 1:10] price 900) - moving to the next account
+            20:07:53 ===== Account: Shawn (shawna.larson76@outlook.com) =====
+            20:07:53 ===== باز کردن بازی (تلاش 1) =====
+            20:08:04 Account: 'simpson carleen' on console, switching to Shawn
+            20:08:04 Switch account -> Shawn
+            20:08:16 Switch: account Shawn is not added on this console (not in the Who are you? list)
+20:10:00  ▶ ادامه      اکانت Shawn › شروع بازی › CheckAccount  |  بعد از 1:42 توقف
+20:10:01  ✓ انجام شد   اکانت Shawn › شروع بازی › CheckAccount  |  اکانت Shawn روی کنسول است (گیمرتگ: Shawna#9734)
+20:12:34  ✓ انجام شد   اکانت Shawn  |  بازی باز شد و صفحه‌ی SBC آمد
+20:13:43  ·            اکانت Shawn › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:13:44  ·            اکانت Shawn › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:13:45  ·            اکانت Shawn › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:13:46  ·            اکانت Shawn › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:13:46  ✓ انجام شد   اکانت Shawn  |  اکانت Shawn تمام شد
+20:14:01  ·            اکانت John › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+6 orofiles' — اکانت لازم: John
+20:14:56  ✓ انجام شد   اکانت John › شروع بازی › CheckAccount  |  اکانت John روی کنسول است (گیمرتگ: John#77997)
+20:17:10  ·            اکانت John › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+20:17:17  ✓ انجام شد   اکانت John  |  بازی باز شد و صفحه‌ی SBC آمد
+20:17:53  ·            اکانت John › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:18:23  ✗ خطا        اکانت John › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_201823_006_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:17:30 SBC intro: Advance
+            20:17:32 SBC intro: Advance
+            20:17:34 Set Marquee Matchups: 4 challenge(s)
+            20:17:34 ===== Marquee Matchups 1 =====
+            20:17:34 Marquee Matchups 1.csv: 11 rows
+            20:17:36 Challenge 1: وارد شد
+            20:17:36 Looking for 'Challenge'
+            20:17:39 Found 'Continue'
+            20:17:41 Found 'Sub (2)' , Start Challenge
+            20:17:42 Looking for 'Clear Squad'
+            20:17:47 Squad cleared
+            20:17:53 [Marquee Matchups 1:1/11] Bronze | England | GK | OFF | OFF | 200
+20:18:23  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:19:53  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد (تلاش 2)
+20:20:27  ✗ خطا        اکانت John › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_202027_007_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:19:33 Looking for 'Rarity'
+            20:19:40 Bronze پیدا شد
+            20:19:41 Looking for 'Position'
+            20:19:46 Looking for 'BuyNow' (قیمت 200)
+            20:19:50 My Coins: 4826
+            20:19:51 Found 'BuyNow (2)'
+            20:19:51 Found 'No'
+            20:19:52 Found 'Yes'
+            20:19:53 Bought (قیمت 200)
+            20:19:53 [Marquee Matchups 1:2/11] Bronze | England | CB | OFF | OFF | 200
+            20:20:07 Pricing: club=True، قیمت نادیده گرفته شد
+            20:20:07 Looking for 'Position'
+20:20:27  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:22:07  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد (تلاش 2)
+20:22:50  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:23:33  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:24:18  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:25:12  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:25:55  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:26:23  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:26:41  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:28:25  ✗ خطا        اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  فیلترهای Market نشد
+          تابع: فیلترهای Market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_202825_008_Market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:27:06 Found 'Default'
+            20:27:10 Bundesliga پیدا شد
+            20:27:16 Found 'Any (4)'
+            20:27:20 Eintracht Frankfurt پیدا شد
+            20:27:38 Looking for 'Pricing'
+            20:27:39 Looking for 'Pricing'
+            20:28:11 Looking for 'Pricing'
+            20:28:13 Looking for 'Pricing'
+            20:28:14 Pricing: خانه‌ی BuyNow پیدا نشد
+            20:28:14 فیلتر Price: تلاش 1 نشد
+            20:28:25 FindFilter: به Pricing نرسید
+            20:28:25 فیلتر Price: تلاش 2 نشد
+20:28:25  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:28:39  ✗ خطا        اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_202839_009_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:28:25 ✗ فیلترهای Market failed (shot: 1012_202825_008_Market.png)
+            20:28:25 [Marquee Matchups 1:10] try 1 of 3 failed, back to the squad
+            20:28:28 پاپ‌آپ 'Ok' بسته شد
+            20:28:31 پاپ‌آپ 'Ok' بسته شد
+            20:28:34 پاپ‌آپ 'Ok' بسته شد
+            20:28:37 پاپ‌آپ 'Ok' بسته شد
+20:28:39  ⏸ توقف موقت  اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  [Marquee Matchups 1:10] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1012_202839_010_pause__Marquee_Matchups_1_10_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:28:39 ✗ back_to_squad failed (shot: 1012_202839_009_back_to_squad.png)
+20:29:53  ▶ ادامه      اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بعد از 1:13 توقف
+20:30:07  ✗ خطا        اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_203006_011_enter_slot.png
+20:30:07  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:32:10  ✗ خطا        اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_203210_012_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:31:19 800
+            20:31:19 850
+            20:31:26 Looking for 'Rarity'
+            20:31:29 Looking for 'Position'
+            20:31:37 Found 'Default'
+            20:31:41 Bundesliga پیدا شد
+            20:31:48 Found 'Any (4)'
+            20:31:52 Eintracht Frankfurt پیدا شد
+            20:31:52 Looking for 'BuyNow' (قیمت 900)
+            20:31:56 BUY: no cards found -> price 900 to 1000
+            20:32:10 FindFilter: به Pricing نرسید
+            20:32:10 BUY: قیمت 1000 تنظیم نشد
+20:32:10  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:34:08  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد (تلاش 3)
+20:34:46  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+20:34:59  ✗ خطا        اکانت John › چالش Marquee Matchups 1  |  Submit چالش Marquee Matchups 1 نشد
+          تابع: Submit چالش Marquee Matchups 1 ← run_challenge ← run_plan ← main
+          عکس: shots\C24\1012_203459_013_Submit_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:34:00 Eintracht Frankfurt پیدا شد
+            20:34:01 Looking for 'BuyNow' (قیمت 900)
+            20:34:04 My Coins: 3426
+            20:34:06 Found 'BuyNow (2)'
+            20:34:06 Found 'No'
+            20:34:07 Found 'Yes'
+            20:34:08 Bought (قیمت 900)
+            20:34:08 [Marquee Matchups 1:11/11] Silver | OFF | OFF | OFF | OFF | 450
+            20:34:25 Pricing: club=True، قیمت نادیده گرفته شد
+            20:34:25 Looking for 'Rarity'
+            20:34:33 Silver پیدا شد
+            20:34:43 Found in Club
+20:34:59  ·            اکانت John › چالش Marquee Matchups 1  |  Submit پیدا نشد → پاک کردن اسکواد و چیدن دوباره (یک بار)
+20:36:35  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:36:54  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:37:12  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:37:30  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:37:49  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:38:08  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:38:27  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:38:54  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:39:13  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:39:58  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+20:40:32  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+20:40:39  ✓ انجام شد   اکانت John › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد (بعد از چیدن دوباره)
+20:41:23  ·            اکانت John › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+20:41:54  ✗ خطا        اکانت John › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_204154_014_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:40:30 Found in Club
+            20:40:39 ===== Marquee Matchups 2 =====
+            20:40:39 Marquee Matchups 2.csv: 11 rows
+            20:40:40 Reward: Claim
+            20:40:55 Challenge 2: challenge page of Marquee Matchups not shown
+            20:41:07 Challenge 2: وارد شد
+            20:41:07 Looking for 'Challenge'
+            20:41:09 Found 'Continue'
+            20:41:12 Found 'Sub (2)' , Start Challenge
+            20:41:13 Looking for 'Clear Squad'
+            20:41:18 Squad cleared
+            20:41:24 [Marquee Matchups 2:1/11] Silver | OFF | GK | OFF | EFL Championship | 550
+20:41:54  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:43:37  ✓ انجام شد   اکانت John › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد (تلاش 2)
+20:44:10  ✗ خطا        اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_204410_015_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:43:17 Looking for 'Position'
+            20:43:24 Found 'Default'
+            20:43:26 EFL Championship پیدا شد
+            20:43:30 Looking for 'BuyNow' (قیمت 550)
+            20:43:33 My Coins: 2376
+            20:43:35 Found 'BuyNow (2)'
+            20:43:35 Found 'No'
+            20:43:36 Found 'Yes'
+            20:43:37 Bought (قیمت 550)
+            20:43:37 [Marquee Matchups 2:2/11] Silver | OFF | RB | OFF | EFL Championship | 550
+            20:43:51 Pricing: club=True، قیمت نادیده گرفته شد
+            20:43:51 Looking for 'Position'
+20:44:10  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:45:25  ✗ خطا        اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  use_club_card نشد
+          تابع: use_club_card ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_204525_016_use_club_card.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:44:10 ✗ back_to_market failed (shot: 1012_204410_015_back_to_market.png)
+            20:44:10 [Marquee Matchups 2:2] try 1 of 3 failed, back to the squad
+            20:44:31 Pricing: club=True، قیمت نادیده گرفته شد
+            20:44:36 Looking for 'Rarity'
+            20:44:44 Silver پیدا شد
+            20:44:45 Looking for 'Position'
+            20:44:53 Found 'Default'
+            20:44:55 EFL Championship پیدا شد
+            20:45:02 Found in Club
+20:45:25  ↻ تلاش دوباره اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:47:09  ✗ خطا        اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1012_204709_017_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:46:21 400
+            20:46:22 450
+            20:46:23 500
+            20:46:29 Looking for 'Rarity'
+            20:46:37 Silver پیدا شد
+            20:46:39 Looking for 'Position'
+            20:46:46 Found 'Default'
+            20:46:48 EFL Championship پیدا شد
+            20:46:52 Looking for 'BuyNow' (قیمت 550)
+            20:46:55 BUY: no cards found -> price 550 to 650
+            20:47:09 FindFilter: به Pricing نرسید
+            20:47:09 BUY: قیمت 650 تنظیم نشد
+20:47:11  ⏸ توقف موقت  اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  [Marquee Matchups 2:2] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1012_204711_018_pause__Marquee_Matchups_2_2_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:47:09 ✗ BUY failed (shot: 1012_204709_017_BUY.png)
+            20:47:09 [Marquee Matchups 2:2] try 3 of 3 failed, back to the squad
+20:49:12  ▶ ادامه      اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بعد از 2:09 توقف
+20:50:53  ✓ انجام شد   اکانت John › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:51:40  ✓ انجام شد   اکانت John › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:52:27  ✓ انجام شد   اکانت John › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:53:15  ✓ انجام شد   اکانت John › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:54:01  ✓ انجام شد   اکانت John › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:55:13  ✗ کوین تمام  اکانت John › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  کوین اکانت John تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 2:7] price 550)
+          عکس: shots\C24\1012_205513_019_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:55:01 0
+            20:55:02 150
+            20:55:02 200
+            20:55:03 250
+            20:55:04 300
+            20:55:04 350
+            20:55:05 400
+            20:55:05 450
+            20:55:06 500
+            20:55:09 Looking for 'Position'
+            20:55:09 Looking for 'BuyNow' (قیمت 550)
+            20:55:13 BUY: out of coins (2 < 550)
+20:55:28  ·            اکانت FICO5 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+7 orofiles' — اکانت لازم: FICO5
+20:55:50  ⏸ توقف موقت  اکانت FICO5 › شروع بازی › CheckAccount  |  Account FICO5 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to FICO5 (ficoin5555@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1012_205550_020_pause_Account_FICO5_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:55:13 ✗ Out of coins: John ([Marquee Matchups 2:7] price 550) - moving to the next account
+            20:55:13 ===== Account: FICO5 (ficoin5555@outlook.com) =====
+            20:55:13 ===== باز کردن بازی (تلاش 1) =====
+            20:55:28 Account: '+7 orofiles' on console, switching to FICO5
+            20:55:28 Switch account -> FICO5
+            20:55:49 Switch: account FICO5 is not added on this console (not in the Who are you? list)
+21:05:15  ▶ ادامه      اکانت FICO5 › شروع بازی › CheckAccount  |  بعد از 9:24 توقف
+21:05:16  ✓ انجام شد   اکانت FICO5 › شروع بازی › CheckAccount  |  اکانت FICO5 روی کنسول است (گیمرتگ: Ficoin Coin)
+21:07:47  ✓ انجام شد   اکانت FICO5  |  بازی باز شد و صفحه‌ی SBC آمد
+21:08:23  ·            اکانت FICO5 › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+21:09:49  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:10:32  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:11:15  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:11:57  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:12:40  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:13:23  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:14:06  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:14:33  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:14:52  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:16:40  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+21:17:14  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+21:17:21  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+21:18:04  ·            اکانت FICO5 › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+21:19:43  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:20:30  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:21:18  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:22:05  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:22:52  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:23:38  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+21:24:54  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:25:42  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:27:07  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+21:29:13  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+21:30:48  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:30:53  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+21:31:28  ⏸ توقف موقت  اکانت FICO5 › چالش Marquee Matchups 3  |  Open challenge Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C24\1012_213128_021_pause_Open_challenge_Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:30:37 EFL Championship پیدا شد
+            21:30:41 Looking for 'BuyNow' (قیمت 550)
+            21:30:44 My Coins: 22662
+            21:30:46 Found 'BuyNow (2)'
+            21:30:46 Found 'No'
+            21:30:47 Found 'Yes'
+            21:30:48 Bought (قیمت 550)
+            21:30:53 ===== Marquee Matchups 3 =====
+            21:30:53 Marquee Matchups 3.csv: 11 rows
+            21:30:53 Reward: Claim
+            21:31:08 Challenge 3: challenge page of Marquee Matchups not shown
+            21:31:26 Challenge 3: challenge page of Marquee Matchups not shown
+21:33:57  ▶ ادامه      اکانت FICO5 › چالش Marquee Matchups 3  |  بعد از 2:28 توقف
+21:34:19  ·            اکانت FICO5 › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+21:37:55  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:38:42  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:39:30  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:40:17  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:41:04  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:42:58  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+21:44:34  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:44:40  ■ توقف       اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:44:09 Found 'Top9'
+            21:44:12 Brazil پیدا شد
+            21:44:12 Looking for 'Rarity'
+            21:44:20 Silver پیدا شد
+            21:44:22 Looking for 'Position'
+            21:44:27 Looking for 'BuyNow' (قیمت 550)
+            21:44:30 My Coins: 18862
+            21:44:32 Found 'BuyNow (2)'
+            21:44:32 Found 'No'
+            21:44:33 Found 'Yes'
+            21:44:34 Bought (قیمت 550)
+            21:44:34 [Marquee Matchups 3:8/11] Silver | Brazil | CM | OFF | OFF | 550
+════ پایان: ■ توقف از پنل  |  مدت 1:52:02  |  خطا 11، تلاش دوباره 8، توقف موقت 8، خطای کد 0 ════
+
+════ 2026-10-13 10:56:15  شروع اجرا  (ریموت C24، pid 14420) START_GAME=True  SHARED=True ════
+10:56:21  ·            اکانت FICO5 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Simpson#9299' — اکانت لازم: FICO5
+10:56:43  ⏸ توقف موقت  اکانت FICO5 › شروع بازی › CheckAccount  |  Account FICO5 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to FICO5 (ficoin5555@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C24\1013_105642_001_pause_Account_FICO5_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            10:56:15 ===== Account: FICO5 (ficoin5555@outlook.com) =====
+            10:56:15 ===== باز کردن بازی (تلاش 1) =====
+            10:56:21 Account: 'Simpson#9299' on console, switching to FICO5
+            10:56:21 Switch account -> FICO5
+            10:56:41 Switch: account FICO5 is not added on this console (not in the Who are you? list)
+10:57:34  ▶ ادامه      اکانت FICO5 › شروع بازی › CheckAccount  |  بعد از 0:51 توقف
+10:57:35  ✓ انجام شد   اکانت FICO5 › شروع بازی › CheckAccount  |  اکانت FICO5 روی کنسول است (گیمرتگ: Fic05#1814)
+11:01:07  ✓ انجام شد   اکانت FICO5  |  بازی باز شد و صفحه‌ی SBC آمد
+11:01:16  ·            اکانت FICO5 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+11:01:17  ·            اکانت FICO5 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+11:01:35  ·            اکانت FICO5 › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+11:02:17  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:02:35  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:02:54  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:03:12  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:03:31  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:04:22  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+11:05:07  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:06:17  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:07:05  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+11:09:24  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+11:10:36  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+11:10:41  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+11:11:16  ⏸ توقف موقت  اکانت FICO5 › چالش Marquee Matchups 4  |  Open challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C24\1013_111116_002_pause_Open_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:10:26 1100
+            11:10:29 Looking for 'BuyNow' (قیمت 1200)
+            11:10:32 My Coins: 16162
+            11:10:34 Found 'BuyNow (2)'
+            11:10:34 Found 'No'
+            11:10:35 Found 'Yes'
+            11:10:36 Bought (قیمت 1200)
+            11:10:41 ===== Marquee Matchups 4 =====
+            11:10:41 Marquee Matchups 4.csv: 11 rows
+            11:10:41 Reward: Claim
+            11:10:56 Challenge 4: challenge page of Marquee Matchups not shown
+            11:11:14 Challenge 4: challenge page of Marquee Matchups not shown
+11:11:39  ▶ ادامه      اکانت FICO5 › چالش Marquee Matchups 4  |  بعد از 0:22 توقف
+11:12:00  ·            اکانت FICO5 › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+11:14:14  ✗ خطا        اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_111414_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:13:20 1200
+            11:13:26 Looking for 'Rarity'
+            11:13:35 GOLD پیدا شد
+            11:13:37 Looking for 'Position'
+            11:13:43 Found 'Default'
+            11:13:45 Premier League پیدا شد
+            11:13:52 Found 'Any (4)'
+            11:13:57 Liverpool پیدا شد
+            11:13:58 Looking for 'BuyNow' (قیمت 1300)
+            11:14:02 BUY: no cards found -> price 1300 to 1400
+            11:14:14 FindFilter: به Pricing نرسید
+            11:14:14 BUY: قیمت 1400 تنظیم نشد
+11:14:14  ↻ تلاش دوباره اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+11:14:28  ✗ خطا        اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_111428_004_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:14:14 ✗ BUY failed (shot: 1013_111414_003_BUY.png)
+            11:14:14 [Marquee Matchups 4:1] try 1 of 3 failed, back to the squad
+            11:14:14 پاپ‌آپ 'Ok (3)' بسته شد
+11:14:28  ⏸ توقف موقت  اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  [Marquee Matchups 4:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1013_111428_005_pause__Marquee_Matchups_4_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:14:28 ✗ back_to_squad failed (shot: 1013_111428_004_back_to_squad.png)
+11:15:29  ▶ ادامه      اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بعد از 1:00 توقف
+11:17:44  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+11:19:48  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+11:21:35  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+11:23:01  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+11:24:26  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+11:25:46  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+11:27:24  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+11:28:25  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+11:31:00  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+11:31:26  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+11:33:12  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+11:41:32  ⏸ توقف موقت  اکانت FICO5 › چالش Marquee Matchups 4  |  Submit challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: press Submit by hand or put the screen on the full squad
+          عکس: shots\C24\1013_114132_006_pause_Submit_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:32:41 England پیدا شد
+            11:32:42 Looking for 'Rarity'
+            11:32:49 Bronze پیدا شد
+            11:32:51 Looking for 'Position'
+            11:32:58 Found 'Default'
+            11:33:00 Ligue 1 McDonald پیدا شد
+            11:33:04 Looking for 'BuyNow' (قیمت 200)
+            11:33:08 My Coins: 9012
+            11:33:09 Found 'BuyNow (2)'
+            11:33:10 Found 'No'
+            11:33:10 Found 'Yes'
+            11:33:12 Bought (قیمت 200)
+11:41:33  ▶ ادامه      اکانت FICO5 › چالش Marquee Matchups 4  |  بعد از 0:00 توقف
+11:44:13  ⏸ توقف موقت  اکانت FICO5 › چالش Marquee Matchups 4  |  Submit challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: press Submit by hand or put the screen on the full squad
+          عکس: shots\C24\1013_114413_007_pause_Submit_challenge_Marquee_Matchups_4.png
+11:49:56  ▶ ادامه      اکانت FICO5 › چالش Marquee Matchups 4  |  بعد از 5:42 توقف
+11:50:14  ✓ انجام شد   اکانت FICO5 › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+11:50:14  ✓ انجام شد   اکانت FICO5  |  اکانت FICO5 تمام شد
+11:50:32  ·            اکانت CLOVIS › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'j +1 orofile' — اکانت لازم: CLOVIS
+11:51:09  ✓ انجام شد   اکانت CLOVIS › شروع بازی › CheckAccount  |  اکانت CLOVIS روی کنسول است (گیمرتگ: clovis auer)
+11:51:56  ■ توقف       اکانت CLOVIS › شروع بازی › find_platform  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:51:29 Text in box: '25 Xbox One'
+            11:51:30 Found 'Games'
+            11:51:34 Text in box: '25 Xbox Seri'
+            11:51:35 Found 'Games'
+            11:51:38 Text in box: '26 Xbox One'
+            11:51:40 Found 'Games'
+            11:51:43 Text in box: '26 Xbox Seril'
+            11:51:45 Found 'Games'
+            11:51:48 Text in box: '27 XBOX One'
+            11:51:49 Found 'Games'
+            11:51:53 Text in box: '27 XBOX Ser'
+            11:51:53 Found 'Ser'
+════ پایان: ■ توقف از پنل  |  مدت 55:41  |  خطا 2، تلاش دوباره 1، توقف موقت 5، خطای کد 0 ════
+
+════ 2026-10-13 11:51:58  شروع اجرا  (ریموت C24، pid 1496) START_GAME=True  SHARED=True ════
+11:52:09  ✓ انجام شد   اکانت CLOVIS › شروع بازی › CheckAccount  |  اکانت CLOVIS روی کنسول است (گیمرتگ: clovis auer)
+11:55:42  ✓ انجام شد   اکانت CLOVIS  |  بازی باز شد و صفحه‌ی SBC آمد
+11:56:18  ·            اکانت CLOVIS › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+11:57:43  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+11:58:27  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+11:59:10  ✗ خطا        اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  Quick Sell menu نشد
+          تابع: Quick Sell menu ← BUY ← do_row ← run_row ← fill_squad
+          عکس: shots\C24\1013_115910_001_Quick_Sell_menu.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:58:27 Bought (قیمت 200)
+            11:58:27 [Marquee Matchups 1:3/11] Bronze | England | CB | OFF | OFF | 200
+            11:58:41 Pricing: club=True، قیمت نادیده گرفته شد
+            11:58:57 Looking for 'Pricing'
+            11:58:59 Looking for 'Pricing'
+            11:58:59 0
+            11:59:00 150
+            11:59:02 Looking for 'BuyNow' (قیمت 200)
+            11:59:06 My Coins: 20243
+            11:59:07 Found 'BuyNow (2)'
+            11:59:08 Found 'No'
+            11:59:08 Found 'Yes'
+11:59:10  ⏸ توقف موقت  اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  BUY: card menu (Quick Sell) is open نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: close the card menu with B, put the screen on the search results, then press Resume
+          عکس: shots\C24\1013_115910_002_pause_BUY_card_menu_Quick_Sell_is_open.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:59:10 ✗ Quick Sell menu failed (shot: 1013_115910_001_Quick_Sell_menu.png)
+12:34:13  ■ توقف       اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 42:14  |  خطا 1، تلاش دوباره 0، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-13 12:34:14  شروع اجرا  (ریموت C24، pid 8644) START_GAME=True  SHARED=True ════
+12:34:24  ✓ انجام شد   اکانت CLOVIS › شروع بازی › CheckAccount  |  اکانت CLOVIS روی کنسول است (گیمرتگ: clovis#7668)
+12:36:34  ✓ انجام شد   اکانت CLOVIS  |  بازی باز شد و صفحه‌ی SBC آمد
+12:36:59  ·            اکانت CLOVIS › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+12:37:39  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:37:58  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:38:33  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+12:39:01  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:39:29  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:39:57  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:41:10  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:41:52  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:42:11  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:44:14  ✗ خطا        اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_124414_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:43:25 800
+            12:43:25 850
+            12:43:32 Looking for 'Rarity'
+            12:43:35 Looking for 'Position'
+            12:43:43 Found 'Default'
+            12:43:47 Bundesliga پیدا شد
+            12:43:54 Found 'Any (4)'
+            12:43:58 Eintracht Frankfurt پیدا شد
+            12:43:58 Looking for 'BuyNow' (قیمت 900)
+            12:44:02 BUY: no cards found -> price 900 to 1000
+            12:44:14 FindFilter: به Pricing نرسید
+            12:44:14 BUY: قیمت 1000 تنظیم نشد
+12:44:14  ↻ تلاش دوباره اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+12:44:29  ✗ خطا        اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_124429_002_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:44:14 ✗ BUY failed (shot: 1013_124414_001_BUY.png)
+            12:44:14 [Marquee Matchups 1:10] try 1 of 3 failed, back to the squad
+            12:44:14 پاپ‌آپ 'Ok (3)' بسته شد
+12:44:29  ⏸ توقف موقت  اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  [Marquee Matchups 1:10] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1013_124429_003_pause__Marquee_Matchups_1_10_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:44:29 ✗ back_to_squad failed (shot: 1013_124429_002_back_to_squad.png)
+12:50:12  ■ توقف       اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 15:57  |  خطا 2، تلاش دوباره 1، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-13 12:50:12  شروع اجرا  (ریموت C24، pid 512) START_GAME=True  SHARED=True ════
+12:50:23  ✓ انجام شد   اکانت CLOVIS › شروع بازی › CheckAccount  |  اکانت CLOVIS روی کنسول است (گیمرتگ: clovis#7668)
+12:53:37  ✓ انجام شد   اکانت CLOVIS  |  بازی باز شد و صفحه‌ی SBC آمد
+12:54:03  ·            اکانت CLOVIS › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+12:54:42  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:55:02  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:55:39  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+12:56:07  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:56:35  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:57:03  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:57:30  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:58:35  ■ توقف       اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:58:03 0
+            12:58:03 150
+            12:58:12 Found 'Top9'
+            12:58:14 England پیدا شد
+            12:58:15 Looking for 'Rarity'
+            12:58:22 Bronze پیدا شد
+            12:58:24 Looking for 'Position'
+            12:58:28 Looking for 'BuyNow' (قیمت 200)
+            12:58:32 My Coins: 196474
+            12:58:32 Card 1: arris -> buy
+            12:58:33 Found 'No'
+            12:58:33 Found 'Yes'
+════ پایان: ■ توقف از پنل  |  مدت 8:22  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-13 12:59:22  شروع اجرا  (ریموت C24، pid 7948) START_GAME=True  SHARED=True ════
+12:59:32  ✓ انجام شد   اکانت CLOVIS › شروع بازی › CheckAccount  |  اکانت CLOVIS روی کنسول است (گیمرتگ: clovistt7668)
+13:01:42  ✓ انجام شد   اکانت CLOVIS  |  بازی باز شد و صفحه‌ی SBC آمد
+13:02:07  ·            اکانت CLOVIS › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+13:02:47  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:03:06  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:03:42  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+13:04:09  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:04:40  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:05:08  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:05:35  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:05:54  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:06:13  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:08:07  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+13:09:35  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:09:52  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+13:10:14  ·            اکانت CLOVIS › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+13:11:52  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:12:39  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:14:05  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+13:15:23  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:16:19  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:18:01  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+13:19:43  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:20:29  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:21:24  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:23:25  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+13:24:59  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:25:14  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+13:25:37  ·            اکانت CLOVIS › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+13:27:09  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:27:56  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:30:25  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+13:32:00  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:32:47  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:33:34  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:34:20  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:35:11  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+13:36:23  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+13:39:14  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+13:40:49  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+13:41:04  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+13:41:24  ·            اکانت CLOVIS › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+13:43:54  ✗ خطا        اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_134354_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:43:27 Found 'Yes'
+            13:43:35 Card 1: M9mardas... expired -> next
+            13:43:36 Card 2: rv9mardas... expired -> next
+            13:43:36 Card 3: rv9mardas... -> buy
+            13:43:37 Found 'No'
+            13:43:37 Found 'Yes'
+            13:43:39 Card 1: Mamardas... -> buy
+            13:43:39 Found 'No'
+            13:43:40 Found 'Yes'
+            13:43:41 BUY: 3 buys failed -> price 1300 to 1400
+            13:43:54 FindFilter: به Pricing نرسید
+            13:43:54 BUY: قیمت 1400 تنظیم نشد
+13:43:54  ↻ تلاش دوباره اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+13:44:06  ✗ خطا        اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_134406_002_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:43:54 ✗ BUY failed (shot: 1013_134354_001_BUY.png)
+            13:43:54 [Marquee Matchups 4:1] try 1 of 3 failed, back to the squad
+            13:43:55 پاپ‌آپ 'Expired' بسته شد
+            13:43:56 پاپ‌آپ 'Expired' بسته شد
+            13:43:58 پاپ‌آپ 'Expired' بسته شد
+            13:43:59 پاپ‌آپ 'Expired' بسته شد
+            13:44:00 پاپ‌آپ 'Expired' بسته شد
+            13:44:02 پاپ‌آپ 'Expired' بسته شد
+            13:44:03 پاپ‌آپ 'Expired' بسته شد
+            13:44:05 پاپ‌آپ 'Expired' بسته شد
+13:44:06  ⏸ توقف موقت  اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  [Marquee Matchups 4:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1013_134406_003_pause__Marquee_Matchups_4_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:44:06 ✗ back_to_squad failed (shot: 1013_134406_002_back_to_squad.png)
+13:44:12  ▶ ادامه      اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بعد از 0:05 توقف
+13:46:20  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+13:48:24  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+13:50:10  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+13:51:36  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+13:52:59  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+13:54:19  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+13:55:53  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+13:56:57  ✓ انجام شد   اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:00:08  ✗ کوین تمام  اکانت CLOVIS › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  کوین اکانت CLOVIS تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 4:9] price 1300)
+          عکس: shots\C24\1013_140008_004_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:59:04 BUY: 'Actions' seen but the coins could not be read
+            13:59:10 BUY: 'Actions' seen but the coins could not be read
+            13:59:17 BUY: 'Actions' seen but the coins could not be read
+            13:59:24 BUY: 'Actions' seen but the coins could not be read
+            13:59:31 Card 1: Allister expired -> next
+            13:59:39 Card 1: Allister expired -> next
+            13:59:39 Card 2: Allister expired -> next
+            13:59:46 BUY: 'Actions' seen but the coins could not be read
+            13:59:53 Card 1: Mec Allister expired -> next
+            13:59:54 Card 2: M9C Allister expired -> next
+            14:00:01 Card 1: Mac Allister expired -> next
+            14:00:08 BUY: out of coins (974 < 1300)
+14:00:29  ·            اکانت Susan › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+2 orofiles' — اکانت لازم: Susan
+14:01:04  ✓ انجام شد   اکانت Susan › شروع بازی › CheckAccount  |  اکانت Susan روی کنسول است (گیمرتگ: Susantt901S)
+14:03:39  ✓ انجام شد   اکانت Susan  |  بازی باز شد و صفحه‌ی SBC آمد
+14:04:16  ·            اکانت Susan › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+14:05:43  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:06:26  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:07:01  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+14:07:29  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:08:20  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:08:48  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:09:39  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:10:21  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:11:03  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:12:57  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+14:14:25  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:14:45  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+14:15:06  ·            اکانت Susan › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+14:16:45  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:17:31  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:18:56  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+14:20:14  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:21:01  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:22:47  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+14:24:28  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:25:15  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:26:01  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:28:02  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+14:29:36  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:29:51  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+14:30:12  ·            اکانت Susan › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+14:31:45  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:32:31  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:35:11  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+14:36:49  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:37:36  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:38:23  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:39:09  ✓ انجام شد   اکانت Susan › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:41:20  ✗ خطا        اکانت Susan › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_144120_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:40:27 750
+            14:40:35 Found 'Top9'
+            14:40:37 Argentina پیدا شد
+            14:40:38 Looking for 'Rarity'
+            14:40:47 GOLD پیدا شد
+            14:40:48 Looking for 'Position'
+            14:40:56 Found 'Default'
+            14:41:01 LALIGA EA SPORTS پیدا شد
+            14:41:05 Looking for 'BuyNow' (قیمت 800)
+            14:41:08 BUY: no cards found -> price 800 to 900
+            14:41:20 FindFilter: به Pricing نرسید
+            14:41:20 BUY: قیمت 900 تنظیم نشد
+14:41:20  ↻ تلاش دوباره اکانت Susan › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:41:35  ✗ خطا        اکانت Susan › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C24\1013_144135_006_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:41:20 ✗ BUY failed (shot: 1013_144120_005_BUY.png)
+            14:41:20 [Marquee Matchups 3:8] try 1 of 3 failed, back to the squad
+            14:41:20 پاپ‌آپ 'Ok (3)' بسته شد
+14:41:35  ⏸ توقف موقت  اکانت Susan › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  [Marquee Matchups 3:8] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C24\1013_144135_007_pause__Marquee_Matchups_3_8_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:41:35 ✗ back_to_squad failed (shot: 1013_144135_006_back_to_squad.png)
+15:37:31  ▶ ادامه      اکانت Susan › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بعد از 55:56 توقف
+15:38:14  ■ توقف       اکانت Susan › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 2:38:52  |  خطا 4، تلاش دوباره 2، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-13 15:38:15  شروع اجرا  (ریموت C24، pid 22644) START_GAME=True  SHARED=True ════
+15:38:30  ·            اکانت Roch › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Susan Cain' — اکانت لازم: Roch
+15:39:07  ✓ انجام شد   اکانت Roch › شروع بازی › CheckAccount  |  اکانت Roch روی کنسول است (گیمرتگ: Roch#8359)
+15:42:26  ✓ انجام شد   اکانت Roch  |  بازی باز شد و صفحه‌ی SBC آمد
+15:42:35  ·            اکانت Roch › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:42:36  ·            اکانت Roch › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:42:37  ·            اکانت Roch › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:42:57  ·            اکانت Roch › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+15:43:02  ■ توقف       اکانت Roch › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:42:36 Challenge 2: قبلاً کامل شده (Completed)
+            15:42:36 ===== Marquee Matchups 3 =====
+            15:42:36 Marquee Matchups 3.csv: 11 rows
+            15:42:37 Challenge 3: قبلاً کامل شده (Completed)
+            15:42:37 ===== Marquee Matchups 4 =====
+            15:42:37 Marquee Matchups 4.csv: 11 rows
+            15:42:43 Challenge 4: وارد شد
+            15:42:43 Looking for 'Challenge'
+            15:42:45 Found 'Sub (2)' , Start Challenge
+            15:42:46 Looking for 'Clear Squad'
+            15:42:51 Squad cleared
+            15:42:57 [Marquee Matchups 4:1/11] GOLD | OFF | GK | Liverpool | Premier League | 1300
+════ پایان: ■ توقف از پنل  |  مدت 4:46  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

@@ -1,0 +1,630 @@
+time,action,ball_x,ball_y,detail,after_2.5s
+12:39:28,passA,87.4,21.5,pass A to (66 16),ours
+12:39:29,passY,81.9,21.8,pass Y to (70 13),ours
+12:39:32,passA,63.5,12.6,pass A to (53 21),ours
+12:39:33,passA,52.4,15.7,pass A to (55 37),ours
+12:39:34,passA,49.3,26.0,pass A to (48 19),ours
+12:39:35,passA,47.4,34.6,pass A to (46 20),noradar
+12:39:36,passA,44.2,25.7,pass A to (45 40),ours
+12:39:37,passA,41.3,39.1,pass A to (42 26),ours
+12:39:38,passA,42.0,49.6,pass A to (37 28),ours
+12:39:39,passA,37.7,41.9,pass A to (35 28),ours
+12:39:39,passA,31.9,31.9,pass A to (35 39),ours
+12:39:40,passA,27.5,34.1,pass A to (29 40),ours
+12:39:41,passA,27.8,46.7,pass A to (26 39),ours
+12:39:42,passA,25.5,42.8,pass A to (23 28),theirs
+12:39:43,passA,20.0,30.7,pass A to (22 39),theirs
+12:39:44,passA,17.3,36.9,pass A to (19 29),theirs
+12:39:47,shoot,14.8,26.1,shoot (17 m),noradar
+12:39:48,passA,7.7,27.9,pass A to (22 13),noradar
+12:39:49,passA,-0.2,23.8,pass A to (20 11),noradar
+12:39:50,shoot,-2.6,18.8,shoot (15 m),noradar
+12:40:56,passA,67.7,9.4,pass A to (71 23),ours
+12:40:58,passA,72.5,13.2,pass A to (74 31),ours
+12:40:59,passA,69.9,14.4,pass A to (49 14),ours
+12:41:01,passA,40.9,19.6,pass A to (39 30),ours
+12:41:02,passA,36.7,27.8,pass A to (51 16),ours
+12:41:03,passA,38.7,24.0,pass A to (31 21),ours
+12:41:04,passA,28.7,19.9,pass A to (32 33),theirs
+12:41:05,passA,19.5,23.8,pass A to (26 35),ours
+12:41:06,passA,20.1,32.2,pass A to (30 19),theirs
+12:41:07,passA,20.8,27.6,pass A to (21 37),theirs
+12:41:08,passA,19.4,29.4,pass A to (19 38),theirs
+12:41:15,passA,37.8,27.3,pass A to (34 51),ours
+12:41:16,passY,39.6,33.6,pass Y to (26 39),theirs
+12:41:17,shoot,24.4,38.5,shoot (25 m),loose
+12:41:18,passA,18.5,38.9,pass A to (21 29),noradar
+12:45:00,passA,79.5,51.1,pass A to (75 64),theirs
+12:45:01,passA,69.5,47.4,pass A to (59 31),theirs
+12:45:22,passY,87.4,36.6,pass Y to (69 59),theirs
+12:45:23,passA,81.6,35.1,pass A to (71 13),theirs
+12:45:31,passA,104.3,18.1,pass A to (96 36),theirs
+12:45:37,passY,93.9,27.5,pass Y to (76 6),ours
+12:45:40,passA,95.7,33.6,pass A to (85 39),theirs
+12:45:48,passA,88.5,46.3,pass A to (65 34),ours
+12:45:50,passA,86.9,46.5,pass A to (65 35),theirs
+12:45:52,tackle,89.7,47.9,tackle,theirs
+12:46:01,tackle,105.4,10.7,tackle,theirs
+12:46:03,passA,83.4,35.3,pass A to (68 52),ours
+12:46:10,passA,87.7,38.9,pass A to (67 34),ours
+12:46:11,passA,90.3,34.7,pass A to (104 34),noradar
+12:46:32,passA,79.6,54.1,pass A to (79 42),noradar
+12:46:34,passA,77.5,48.1,pass A to (63 33),ours
+12:46:37,passA,70.4,39.2,pass A to (52 30),theirs
+12:46:39,passA,51.8,28.9,pass A to (62 18),theirs
+12:46:48,passA,59.8,31.3,pass A to (42 29),theirs
+12:46:57,passA,85.5,33.8,pass A to (63 18),theirs
+12:46:58,passY,89.0,34.7,pass Y to (65 50),theirs
+12:47:04,passA,85.3,44.3,pass A to (76 58),theirs
+12:47:10,passY,98.0,45.4,pass Y to (77 56),theirs
+12:47:32,passA,91.8,51.5,pass A to (80 67),theirs
+12:47:33,passA,85.7,51.0,pass A to (81 68),theirs
+12:47:34,passA,79.8,51.9,pass A to (78 70),noradar
+12:47:42,tackle,85.8,41.0,tackle,ours
+12:47:43,passA,89.0,44.6,pass A to (65 35),noradar
+12:47:44,passA,90.9,47.3,pass A to (65 35),noradar
+12:50:43,passA,48.0,33.7,pass A to (55 36),noradar
+12:50:44,passA,56.9,38.1,pass A to (55 53),noradar
+12:50:51,passA,54.4,27.8,pass A to (56 13),theirs
+12:50:52,passA,57.3,20.8,pass A to (58 28),theirs
+12:50:53,passY,57.8,23.8,pass Y to (76 43),theirs
+12:51:07,tackle,43.3,22.9,tackle,theirs
+12:51:08,passA,52.1,32.3,pass A to (50 25),theirs
+12:51:15,passA,61.2,38.2,pass A to (59 13),theirs
+12:51:16,passA,72.9,34.0,pass A to (63 14),theirs
+12:51:20,tackle,67.3,45.5,tackle,theirs
+12:51:31,passA,29.2,28.2,pass A to (56 35),theirs
+12:51:42,passY,7.8,45.3,pass Y to (27 22),theirs
+12:51:43,passY,12.8,45.2,pass Y to (25 24),theirs
+12:51:48,passA,19.8,35.4,pass A to (29 16),ours
+12:51:49,passY,14.3,36.7,pass Y to (30 16),ours
+12:51:50,passY,19.5,38.5,pass Y to (31 56),theirs
+12:52:02,tackle,8.2,42.0,tackle,noradar
+12:52:04,tackle,3.5,36.9,tackle,noradar
+12:52:24,tackle,9.9,27.8,tackle,noradar
+12:52:31,tackle,4.9,42.5,tackle,theirs
+12:52:33,tackle,6.2,33.3,tackle,ours
+12:52:35,passY,18.4,31.3,pass Y to (36 15),ours
+12:52:37,passA,28.3,24.2,pass A to (50 30),ours
+12:52:38,passA,33.3,15.9,pass A to (32 25),ours
+12:52:39,passA,34.2,17.1,pass A to (49 42),ours
+12:52:39,passA,36.7,22.9,pass A to (53 40),ours
+12:52:41,passA,48.8,34.7,pass A to (53 46),theirs
+12:52:42,passA,52.1,44.1,pass A to (52 36),theirs
+12:52:42,passA,56.3,41.6,pass A to (49 54),theirs
+12:52:47,tackle,45.7,46.5,tackle,theirs
+12:52:50,tackle,34.6,46.0,tackle,theirs
+12:52:53,tackle,27.4,46.0,tackle,ours
+12:52:55,passA,18.8,41.7,pass A to (16 57),theirs
+12:52:57,tackle,17.8,38.7,tackle,theirs
+12:52:59,tackle,5.0,36.8,tackle,noradar
+12:53:22,tackle,15.0,26.7,tackle,ours
+12:53:24,passA,12.6,28.9,pass A to (17 47),ours
+12:53:26,passA,21.9,46.4,pass A to (47 32),theirs
+12:53:27,passA,29.3,46.7,pass A to (48 33),noradar
+12:53:30,tackle,21.9,48.0,tackle,theirs
+12:53:31,passA,35.4,49.3,pass A to (36 64),theirs
+12:53:40,passA,25.8,40.2,pass A to (48 47),theirs
+12:53:47,tackle,39.1,31.8,tackle,theirs
+12:53:49,tackle,33.8,28.8,tackle,theirs
+12:54:01,tackle,4.6,25.0,tackle,loose
+12:54:04,passA,20.7,44.3,pass A to (40 53),theirs
+12:54:05,passY,31.0,48.0,pass Y to (52 27),theirs
+12:54:27,passA,17.2,36.4,pass A to (26 26),theirs
+12:54:28,passY,21.5,39.9,pass Y to (37 56),ours
+12:54:30,passY,23.9,41.2,pass Y to (37 58),theirs
+12:54:31,passY,27.3,34.3,pass Y to (52 47),ours
+12:54:32,passA,37.6,26.1,pass A to (47 23),ours
+12:54:33,passA,47.1,20.8,pass A to (39 4),theirs
+12:54:34,passA,38.7,24.1,pass A to (50 20),theirs
+12:54:35,passA,51.1,18.1,pass A to (51 42),theirs
+12:54:40,tackle,49.9,7.9,tackle,theirs
+12:54:46,passA,31.7,15.6,pass A to (38 7),ours
+12:55:32,passA,40.3,36.8,pass A to (48 45),noradar
+12:55:33,passA,46.1,43.8,pass A to (46 37),theirs
+12:55:53,tackle,4.2,34.4,tackle,noradar
+12:58:11,tackle,39.4,34.0,tackle,theirs
+12:58:18,passY,16.9,16.2,pass Y to (38 27),ours
+12:58:19,passA,17.5,12.6,pass A to (27 24),ours
+13:03:18,passA,84.4,39.2,pass A to (60 42),ours
+13:03:19,passY,83.0,39.3,pass Y to (70 56),ours
+13:03:20,passA,76.2,36.2,pass A to (70 14),ours
+13:03:21,passA,65.0,31.7,pass A to (53 43),theirs
+13:03:22,passA,51.6,36.1,pass A to (49 43),theirs
+13:03:23,passA,41.7,37.1,pass A to (53 33),theirs
+13:03:27,passA,47.9,31.3,pass A to (45 40),theirs
+13:03:28,passA,46.5,31.7,pass A to (38 43),theirs
+13:03:32,passA,55.2,13.2,pass A to (57 37),ours
+13:03:34,passA,61.5,12.0,pass A to (55 13),loose
+13:03:46,passA,83.6,20.2,pass A to (76 9),ours
+13:03:47,passA,77.5,14.4,pass A to (84 16),ours
+13:03:49,passA,57.4,26.0,pass A to (74 38),theirs
+13:03:57,passA,81.4,30.8,pass A to (62 39),theirs
+13:03:57,passA,80.5,31.1,pass A to (70 57),loose
+13:04:01,passA,53.9,33.2,pass A to (52 20),loose
+13:04:02,passA,48.0,31.7,pass A to (50 22),theirs
+13:04:12,passA,66.6,13.1,pass A to (45 33),ours
+13:04:13,passA,67.7,13.4,pass A to (48 33),ours
+13:04:25,passY,87.8,21.8,pass Y to (74 11),theirs
+13:04:28,passA,87.1,23.7,pass A to (67 25),ours
+13:04:31,passA,70.2,18.5,pass A to (57 37),theirs
+13:04:32,passA,64.0,20.4,pass A to (53 37),theirs
+13:07:36,passA,72.4,36.0,pass A to (63 37),noradar
+13:07:37,passA,72.4,39.1,pass A to (48 43),loose
+13:07:38,passA,67.1,44.9,pass A to (74 38),noradar
+13:09:21,tackle,73.2,45.3,tackle,theirs
+13:09:26,passA,101.6,36.2,pass A to (94 51),noradar
+13:09:50,passA,53.9,34.3,pass A to (56 55),ours
+13:09:52,passA,53.2,50.4,pass A to (64 45),loose
+13:09:53,passA,46.5,47.7,pass A to (59 46),ours
+13:09:55,passA,24.8,21.0,pass A to (35 38),theirs
+13:09:57,shoot,24.1,28.9,shoot (25 m),noradar
+13:09:58,shoot,18.4,30.7,shoot (19 m) power,ours
+13:09:59,passA,14.9,31.4,pass A to (12 25),theirs
+13:10:00,passA,5.8,25.0,pass A to (18 42),theirs
+13:10:01,shoot,10.6,18.3,shoot (19 m),theirs
+13:10:07,passA,59.0,25.8,pass A to (32 16),ours
+13:10:08,passA,68.7,29.9,pass A to (40 23),ours
+13:10:09,passA,73.2,32.9,pass A to (65 16),ours
+13:10:10,passA,77.0,33.4,pass A to (71 18),theirs
+13:10:11,passA,80.7,32.2,pass A to (55 25),theirs
+13:10:17,passA,63.1,22.1,pass A to (58 12),ours
+13:10:18,passA,62.5,22.1,pass A to (48 24),ours
+13:10:20,passA,41.5,30.4,pass A to (41 19),ours
+13:10:21,passA,34.7,24.8,pass A to (37 32),ours
+13:10:22,passA,30.1,23.5,pass A to (31 30),theirs
+13:10:23,passA,27.5,30.2,pass A to (27 22),theirs
+13:10:24,passA,30.7,41.3,pass A to (26 24),theirs
+13:10:37,passA,70.2,47.3,pass A to (69 32),ours
+13:10:38,passA,79.8,38.8,pass A to (68 54),ours
+13:10:39,passA,72.9,47.7,pass A to (82 37),ours
+13:10:41,passA,62.2,50.4,pass A to (71 53),theirs
+13:10:42,passA,52.2,49.7,pass A to (65 32),noradar
+13:10:45,tackle,51.7,57.3,tackle,ours
+13:10:47,passA,48.5,30.2,pass A to (60 34),ours
+13:10:49,passA,38.6,51.7,pass A to (41 31),ours
+13:10:50,passA,34.4,42.7,pass A to (35 51),ours
+13:10:51,passA,32.5,34.9,pass A to (45 16),ours
+13:10:52,passA,30.5,38.2,pass A to (30 45),ours
+13:10:53,passA,27.7,40.1,pass A to (31 32),ours
+13:10:54,shoot,23.8,32.3,shoot (24 m),noradar
+13:10:55,shoot,17.0,30.9,shoot (17 m) power,noradar
+13:10:58,shoot,-0.8,23.4,shoot (12 m) power,ours
+13:10:59,shoot,-2.8,17.7,shoot (17 m),ours
+13:11:00,shoot,4.9,24.8,shoot (10 m),loose
+13:11:01,shoot,4.8,24.6,shoot (11 m),theirs
+13:11:02,passA,11.3,23.4,pass A to (22 50),theirs
+13:11:03,passA,22.8,19.5,pass A to (32 36),theirs
+13:18:21,passA,39.9,38.2,pass A to (42 15),ours
+13:18:24,passA,59.4,49.0,pass A to (57 32),theirs
+13:18:25,passA,63.6,44.1,pass A to (63 30),theirs
+13:18:25,passA,65.5,30.4,pass A to (64 42),theirs
+13:18:27,tackle,60.3,19.2,tackle,theirs
+13:18:29,tackle,62.5,23.6,tackle,theirs
+13:18:40,passA,70.0,31.0,pass A to (70 46),theirs
+13:18:41,passA,74.7,29.2,pass A to (74 46),theirs
+13:18:41,passA,73.8,24.4,pass A to (65 18),ours
+13:18:42,passA,76.4,29.9,pass A to (72 25),ours
+13:18:43,passA,77.8,23.9,pass A to (78 32),ours
+13:18:45,passA,68.6,23.6,pass A to (79 37),ours
+13:18:47,passA,59.7,20.4,pass A to (73 36),theirs
+13:18:54,passA,43.9,34.0,pass A to (61 30),ours
+13:18:55,passA,40.1,36.8,pass A to (30 39),theirs
+13:18:56,passA,41.7,39.1,pass A to (60 27),theirs
+13:19:02,passA,17.1,38.0,pass A to (19 44),ours
+13:19:03,passA,21.2,47.9,pass A to (47 45),ours
+13:19:03,passA,23.4,51.6,pass A to (47 46),ours
+13:19:06,passY,13.8,34.4,pass Y to (32 56),noradar
+13:19:50,passA,16.8,26.6,pass A to (37 37),loose
+13:19:51,tackle,14.7,28.5,tackle,ours
+13:19:52,passY,11.2,28.9,pass Y to (34 14),ours
+13:19:53,passA,10.4,31.0,pass A to (14 49),ours
+13:19:54,passY,19.7,38.3,pass Y to (32 52),ours
+13:19:55,passA,29.7,43.5,pass A to (36 51),ours
+13:19:56,passA,44.1,40.2,pass A to (47 26),ours
+13:19:57,passA,47.3,25.9,pass A to (39 11),theirs
+13:19:58,passA,50.9,26.2,pass A to (54 41),theirs
+13:19:59,passA,49.9,19.8,pass A to (55 40),theirs
+13:20:05,passA,24.9,20.6,pass A to (45 36),ours
+13:20:10,passA,55.6,35.9,pass A to (43 22),theirs
+13:20:18,passY,33.3,42.9,pass Y to (44 18),theirs
+13:20:19,passA,36.6,46.3,pass A to (50 60),theirs
+13:20:20,tackle,36.0,45.8,tackle,theirs
+13:20:26,passY,3.7,35.2,pass Y to (29 31),ours
+13:20:27,passA,5.2,34.8,pass A to (19 42),ours
+13:20:28,passA,6.3,35.5,pass A to (21 45),ours
+13:20:29,passA,12.8,38.1,pass A to (16 55),theirs
+13:20:30,passA,23.2,31.2,pass A to (44 44),ours
+13:20:31,passA,31.1,33.4,pass A to (48 47),ours
+13:20:34,passA,49.9,36.3,pass A to (50 44),ours
+13:20:35,passA,55.2,40.1,pass A to (53 26),theirs
+13:20:36,passA,57.2,40.2,pass A to (60 26),theirs
+13:20:37,passA,61.3,30.4,pass A to (54 38),theirs
+13:20:42,passA,42.8,26.8,pass A to (55 27),theirs
+13:20:43,passA,41.7,26.7,pass A to (59 25),theirs
+13:20:48,passA,47.3,16.1,pass A to (38 23),theirs
+13:20:57,passY,10.4,29.4,pass Y to (31 37),ours
+13:20:58,passA,4.8,32.5,pass A to (17 21),ours
+13:21:00,passA,15.4,27.6,pass A to (9 32),ours
+13:21:01,passA,26.1,22.7,pass A to (47 37),ours
+13:21:02,passA,43.8,30.1,pass A to (37 12),theirs
+13:21:03,passA,46.0,32.1,pass A to (41 10),theirs
+13:21:28,tackle,8.6,33.3,tackle,noradar
+13:21:41,passY,16.5,33.6,pass Y to (27 46),theirs
+13:21:44,tackle,38.1,50.8,tackle,theirs
+13:21:47,passA,28.2,49.6,pass A to (48 33),ours
+13:21:48,passA,39.7,52.9,pass A to (50 34),ours
+13:21:49,passA,45.6,54.5,pass A to (52 33),theirs
+13:21:50,passA,26.4,45.0,pass A to (40 54),theirs
+13:21:59,passA,23.3,51.7,pass A to (43 35),ours
+13:22:00,passA,24.0,52.4,pass A to (45 35),ours
+13:22:05,passA,58.6,39.6,pass A to (67 25),theirs
+13:22:12,tackle,58.5,56.8,tackle,ours
+13:22:16,passA,73.1,49.3,pass A to (77 36),theirs
+13:22:20,passA,73.5,42.8,pass A to (83 34),theirs
+13:22:47,tackle,7.5,43.3,tackle,ours
+13:22:49,passA,12.7,46.6,pass A to (39 57),theirs
+13:23:10,passA,50.5,33.4,pass A to (55 55),theirs
+13:23:16,passA,47.1,14.6,pass A to (27 14),ours
+13:23:17,passA,47.0,11.4,pass A to (43 20),ours
+13:23:18,passA,60.5,18.2,pass A to (61 34),ours
+13:23:22,passA,67.3,45.8,pass A to (73 38),loose
+13:23:32,tackle,19.0,38.4,tackle,theirs
+13:23:37,passA,13.9,31.1,pass A to (17 21),noradar
+13:23:38,passA,23.5,28.5,pass A to (17 18),noradar
+13:23:55,passA,54.9,33.7,pass A to (56 14),ours
+13:23:56,passA,52.1,28.6,pass A to (52 13),theirs
+13:23:57,passA,50.5,17.5,pass A to (67 23),theirs
+13:24:00,tackle,47.4,25.4,tackle,ours
+13:24:03,passA,58.9,17.1,pass A to (50 25),theirs
+13:24:03,passA,63.4,17.7,pass A to (54 25),theirs
+13:24:16,passY,99.7,16.7,pass Y to (76 5),ours
+13:24:30,passA,89.0,33.8,pass A to (72 27),theirs
+13:24:33,tackle,96.0,37.7,tackle,noradar
+13:24:44,passA,86.5,42.5,pass A to (75 39),ours
+13:24:46,passA,75.9,41.5,pass A to (72 54),ours
+13:24:47,passA,56.5,31.0,pass A to (61 36),ours
+13:24:48,passA,57.3,34.2,pass A to (63 12),ours
+13:24:49,passA,51.6,29.9,pass A to (62 13),ours
+13:24:50,passA,50.6,26.0,pass A to (58 13),ours
+13:24:51,passA,45.0,23.4,pass A to (50 12),ours
+13:24:52,passA,40.3,24.7,pass A to (52 46),theirs
+13:24:53,passA,38.2,20.5,pass A to (40 27),theirs
+13:25:05,tackle,47.4,8.2,tackle,theirs
+13:25:06,passA,55.5,13.1,pass A to (41 26),ours
+13:25:09,passA,60.2,14.5,pass A to (55 10),ours
+13:25:15,shoot,24.1,27.8,shoot (25 m),noradar
+13:25:16,shoot,16.9,29.2,shoot (18 m) power,noradar
+13:25:22,shoot,4.6,42.9,shoot (10 m),ours
+13:25:23,shoot,5.1,42.7,shoot (10 m),ours
+13:25:24,shoot,5.0,42.7,shoot (10 m),ours
+13:25:25,shoot,5.0,42.9,shoot (10 m),ours
+13:25:30,passA,57.7,31.1,pass A to (46 20),theirs
+13:25:50,passA,66.9,46.9,pass A to (70 19),theirs
+13:26:20,tackle,99.4,33.5,tackle,noradar
+13:26:41,passA,65.2,31.0,pass A to (56 15),ours
+13:26:43,passA,59.5,28.7,pass A to (61 15),theirs
+13:26:44,passA,56.1,28.7,pass A to (64 29),theirs
+13:27:05,passA,87.1,30.9,pass A to (95 18),ours
+13:27:06,passA,84.3,30.8,pass A to (61 27),theirs
+13:27:07,passA,79.4,34.3,pass A to (71 51),loose
+13:27:35,passA,87.1,31.3,pass A to (92 24),ours
+13:27:36,passA,74.9,24.9,pass A to (58 39),theirs
+13:27:38,passA,59.1,26.0,pass A to (59 43),theirs
+13:27:41,tackle,71.8,30.8,tackle,theirs
+13:28:37,passA,74.1,23.1,pass A to (66 11),theirs
+13:28:43,tackle,95.7,28.7,tackle,noradar
+13:28:55,passY,105.8,-1.0,pass Y to (97 27),noradar
+13:29:08,passA,67.3,31.6,pass A to (75 47),ours
+13:29:09,passA,70.7,33.7,pass A to (88 53),ours
+13:29:38,passA,74.4,44.1,pass A to (61 30),ours
+13:29:42,passA,46.3,34.1,pass A to (58 12),ours
+13:29:45,passA,39.0,28.0,pass A to (37 6),ours
+13:29:47,shoot,23.6,31.9,shoot (24 m),noradar
+13:29:48,shoot,14.3,33.0,shoot (14 m) power,noradar
+13:29:56,shoot,4.5,42.7,shoot (10 m),ours
+13:29:57,shoot,4.6,42.7,shoot (10 m),ours
+13:29:58,shoot,5.1,42.7,shoot (10 m),ours
+13:29:59,shoot,5.1,42.7,shoot (10 m),ours
+13:30:00,shoot,7.5,43.2,shoot (12 m) power,ours
+13:30:01,passA,31.6,42.4,pass A to (45 22),ours
+13:30:03,passA,57.6,34.7,pass A to (75 44),ours
+13:30:05,passA,59.8,22.0,pass A to (53 29),theirs
+13:30:06,passA,59.0,12.2,pass A to (38 20),theirs
+13:30:11,passA,80.4,8.5,pass A to (66 11),ours
+13:30:19,passA,102.8,38.8,pass A to (92 44),noradar
+13:30:29,passA,52.1,53.1,pass A to (55 44),theirs
+13:30:31,passA,89.6,34.6,pass A to (83 20),noradar
+13:30:50,passA,55.9,15.5,pass A to (59 32),theirs
+13:30:51,passA,51.7,26.1,pass A to (65 24),theirs
+13:30:52,passA,43.2,33.1,pass A to (57 58),theirs
+13:32:41,passY,58.8,28.5,pass Y to (43 38),theirs
+13:32:42,passA,52.5,28.8,pass A to (67 43),theirs
+13:32:46,passA,59.6,39.6,pass A to (59 46),theirs
+13:32:47,passA,63.9,39.3,pass A to (55 18),theirs
+13:32:53,tackle,91.7,42.7,tackle,theirs
+13:33:15,tackle,97.0,28.9,tackle,ours
+13:33:19,passA,92.2,33.6,pass A to (89 43),ours
+13:33:21,passY,84.3,51.7,pass Y to (74 56),theirs
+13:33:26,tackle,71.3,55.7,tackle,theirs
+13:33:40,tackle,97.6,47.0,tackle,noradar
+13:34:09,passA,79.9,27.1,pass A to (67 11),theirs
+13:34:18,passA,87.1,45.2,pass A to (87 33),ours
+13:34:44,passA,91.1,36.1,pass A to (68 42),theirs
+13:34:45,passA,89.1,39.1,pass A to (62 41),theirs
+13:34:52,tackle,85.3,38.0,tackle,theirs
+13:34:54,tackle,88.5,39.1,tackle,loose
+13:34:55,tackle,96.9,32.0,tackle,theirs
+13:35:07,passA,45.2,17.0,pass A to (45 24),ours
+13:35:08,passA,39.7,22.0,pass A to (43 37),ours
+13:35:09,passA,36.3,35.6,pass A to (48 19),ours
+13:35:10,passA,36.5,27.2,pass A to (35 38),ours
+13:35:18,passA,43.1,53.1,pass A to (24 51),theirs
+13:35:28,tackle,81.2,36.9,tackle,noradar
+13:36:34,passA,54.7,31.8,pass A to (54 11),ours
+13:36:35,passA,46.8,32.1,pass A to (71 41),ours
+13:36:37,passA,28.8,33.6,pass A to (36 30),theirs
+13:36:38,passA,21.4,35.0,pass A to (31 28),noradar
+13:36:39,tackle,19.3,37.4,tackle,noradar
+13:36:54,passA,24.9,36.2,pass A to (40 56),ours
+13:36:54,passA,19.6,40.0,pass A to (33 26),ours
+13:36:55,passA,16.9,38.5,pass A to (29 47),theirs
+13:36:56,shoot,12.9,37.4,shoot (13 m),theirs
+13:36:57,passA,6.0,35.7,pass A to (24 14),theirs
+13:37:36,tackle,89.6,23.4,tackle,noradar
+13:37:50,passA,93.5,29.9,pass A to (78 11),theirs
+13:37:54,tackle,96.8,28.3,tackle,theirs
+13:38:01,tackle,62.7,26.1,tackle,theirs
+13:38:20,passA,85.4,36.2,pass A to (67 49),theirs
+13:38:21,passA,79.7,36.2,pass A to (77 24),theirs
+13:38:22,passA,72.7,39.7,pass A to (68 54),theirs
+13:38:27,tackle,79.4,23.7,tackle,theirs
+13:38:58,passA,58.2,27.3,pass A to (59 15),theirs
+13:39:03,tackle,66.4,24.7,tackle,theirs
+13:39:05,tackle,72.8,34.2,tackle,theirs
+13:39:27,tackle,47.4,36.5,tackle,theirs
+13:39:36,passA,32.2,22.7,pass A to (20 13),ours
+13:39:39,passA,48.6,18.6,pass A to (40 7),theirs
+13:39:49,passA,72.3,11.6,pass A to (54 12),ours
+13:39:52,shoot,85.4,18.7,shoot (25 m),noradar
+13:39:53,shoot,94.7,26.7,shoot (13 m) power,noradar
+13:40:03,shoot,101.1,43.1,shoot (10 m),theirs
+13:40:04,shoot,101.1,43.1,shoot (10 m),theirs
+13:40:07,tackle,49.4,54.4,tackle,loose
+13:40:12,tackle,54.1,50.8,tackle,theirs
+13:40:19,tackle,33.6,45.4,tackle,loose
+13:40:26,tackle,6.9,46.6,tackle,theirs
+13:40:31,tackle,2.4,33.8,tackle,loose
+13:40:43,tackle,17.9,25.7,tackle,noradar
+13:40:55,passY,27.5,36.6,pass Y to (54 42),ours
+13:40:56,passA,32.2,38.5,pass A to (36 45),ours
+13:40:57,passA,38.6,43.9,pass A to (51 28),ours
+13:41:04,passA,68.9,20.0,pass A to (68 45),theirs
+13:41:06,tackle,80.1,27.2,tackle,theirs
+13:41:09,tackle,54.8,11.4,tackle,loose
+13:41:57,tackle,14.4,49.8,tackle,ours
+13:41:59,passA,16.9,49.1,pass A to (18 61),noradar
+13:42:17,tackle,25.4,25.1,tackle,noradar
+13:43:21,tackle,4.8,41.9,tackle,ours
+13:43:24,passA,19.1,41.1,pass A to (25 23),ours
+13:43:42,passA,4.3,31.8,pass A to (7 40),noradar
+13:43:43,passA,4.6,16.5,pass A to (1 31),noradar
+13:44:03,passA,16.4,23.2,pass A to (24 15),ours
+13:44:09,passA,3.5,29.9,pass A to (12 49),loose
+13:44:12,tackle,20.6,34.5,tackle,ours
+13:44:13,passA,49.9,32.8,pass A to (41 37),ours
+13:44:46,passA,53.5,31.6,pass A to (73 35),ours
+13:44:47,passA,58.1,29.8,pass A to (73 37),ours
+13:44:51,passA,64.7,18.2,pass A to (63 26),ours
+13:44:52,passA,61.2,17.1,pass A to (61 25),ours
+13:44:53,passA,56.0,16.0,pass A to (57 24),ours
+13:44:53,passA,52.3,15.2,pass A to (55 22),noradar
+13:44:55,passA,45.1,13.6,pass A to (36 10),noradar
+13:45:15,passA,51.1,38.9,pass A to (52 57),noradar
+13:45:16,passA,58.7,38.4,pass A to (43 21),ours
+13:45:19,tackle,76.4,25.3,tackle,theirs
+13:45:56,tackle,2.3,40.7,tackle,ours
+13:45:58,passA,12.4,48.4,pass A to (11 30),ours
+13:46:01,passA,4.1,40.9,pass A to (11 21),noradar
+13:46:19,passA,-1.4,36.9,pass A to (4 43),noradar
+14:03:27,passA,51.4,31.7,pass A to (57 35),theirs
+14:03:31,tackle,54.4,31.6,tackle,theirs
+14:03:36,tackle,70.8,32.3,tackle,ours
+14:03:37,passA,65.0,31.8,pass A to (65 14),ours
+14:03:38,passA,60.0,32.7,pass A to (62 39),theirs
+14:03:39,passA,55.3,35.9,pass A to (62 57),theirs
+14:03:40,passA,51.2,35.1,pass A to (52 43),theirs
+14:03:44,passA,55.7,23.7,pass A to (53 14),theirs
+14:03:58,tackle,97.4,20.4,tackle,ours
+14:03:59,passA,89.7,20.5,pass A to (67 13),ours
+14:04:00,passA,70.6,25.8,pass A to (67 8),loose
+14:04:02,passA,53.5,26.8,pass A to (53 36),theirs
+14:04:06,tackle,59.9,30.2,tackle,theirs
+14:04:13,tackle,89.7,32.4,tackle,theirs
+14:04:15,tackle,81.7,33.8,tackle,noradar
+14:04:16,tackle,91.2,35.6,tackle,noradar
+14:04:35,passA,85.7,34.4,pass A to (91 13),theirs
+14:04:58,tackle,103.1,18.3,tackle,noradar
+14:05:17,tackle,99.4,44.3,tackle,noradar
+14:06:28,passA,54.2,33.6,pass A to (53 13),theirs
+14:06:29,tackle,48.9,23.8,tackle,loose
+14:06:31,tackle,44.4,33.1,tackle,theirs
+14:06:40,passA,41.3,30.7,pass A to (43 42),theirs
+14:06:46,tackle,42.6,41.2,tackle,ours
+14:06:48,passA,45.3,45.3,pass A to (30 44),theirs
+14:06:49,passA,41.0,42.1,pass A to (47 62),theirs
+14:06:50,passA,32.0,33.7,pass A to (39 18),theirs
+14:06:54,tackle,29.0,35.7,tackle,theirs
+14:06:55,passA,34.4,33.2,pass A to (39 28),theirs
+14:07:00,passA,43.9,43.1,pass A to (39 53),theirs
+14:07:01,passA,36.4,39.5,pass A to (43 45),theirs
+14:07:05,tackle,44.5,44.2,tackle,noradar
+14:07:14,passA,49.5,43.9,pass A to (73 42),theirs
+14:07:15,passA,49.4,44.0,pass A to (79 49),theirs
+14:07:16,passA,55.3,46.3,pass A to (83 38),theirs
+14:07:20,tackle,71.8,43.2,tackle,theirs
+14:07:29,passA,94.7,33.2,pass A to (94 50),noradar
+14:07:42,tackle,91.1,31.4,tackle,noradar
+14:07:43,passA,102.3,31.0,pass A to (97 17),noradar
+14:08:10,passA,85.7,26.0,pass A to (70 19),theirs
+14:08:45,tackle,59.6,20.4,tackle,theirs
+14:08:51,passA,63.2,21.1,pass A to (65 40),ours
+14:08:52,passA,63.3,21.1,pass A to (65 40),ours
+14:08:53,passA,66.2,23.9,pass A to (65 40),ours
+14:08:54,passA,69.4,24.1,pass A to (64 39),loose
+14:08:58,tackle,77.3,17.7,tackle,theirs
+14:09:01,tackle,76.5,23.6,tackle,ours
+14:09:07,passA,45.7,28.0,pass A to (47 39),ours
+14:09:08,passA,37.4,38.0,pass A to (37 28),theirs
+14:09:09,passA,32.0,35.2,pass A to (45 56),theirs
+14:09:21,tackle,71.7,44.6,tackle,theirs
+14:09:26,tackle,91.0,38.7,tackle,noradar
+14:09:41,tackle,98.1,44.1,tackle,theirs
+14:09:43,tackle,94.1,25.2,tackle,noradar
+14:10:06,passA,65.7,25.4,pass A to (55 10),theirs
+14:10:07,passA,56.8,26.8,pass A to (73 41),theirs
+14:10:08,passA,44.7,31.3,pass A to (62 28),theirs
+14:10:20,tackle,88.6,23.6,tackle,theirs
+14:10:45,tackle,52.4,33.8,tackle,theirs
+14:10:53,tackle,20.1,38.2,tackle,noradar
+14:11:02,passY,20.7,49.1,pass Y to (34 56),noradar
+14:11:27,shoot,100.9,41.6,shoot (9 m),noradar
+14:11:28,shoot,101.0,42.2,shoot (9 m),noradar
+14:11:29,shoot,101.0,42.2,shoot (9 m),noradar
+14:11:39,tackle,65.7,29.3,tackle,ours
+14:11:42,passA,79.5,31.2,pass A to (68 44),theirs
+14:11:44,tackle,71.5,27.3,tackle,loose
+14:11:49,tackle,46.3,27.1,tackle,theirs
+14:11:56,tackle,6.0,33.7,tackle,noradar
+14:12:10,tackle,0.2,36.1,tackle,noradar
+14:12:47,tackle,47.4,32.5,tackle,loose
+14:12:55,tackle,47.1,6.8,tackle,theirs
+14:13:06,passY,21.9,22.3,pass Y to (32 50),noradar
+14:13:21,passA,42.0,43.9,pass A to (38 59),theirs
+14:13:22,passA,50.8,50.4,pass A to (42 56),theirs
+14:13:26,tackle,47.2,38.8,tackle,theirs
+14:13:29,passA,38.2,29.8,pass A to (28 29),ours
+14:13:31,passA,39.7,36.4,pass A to (46 58),theirs
+14:13:36,tackle,24.4,40.1,tackle,theirs
+14:13:39,tackle,3.6,33.6,tackle,theirs
+14:13:41,tackle,19.4,21.4,tackle,loose
+14:13:49,passY,16.5,31.3,pass Y to (32 54),theirs
+14:13:51,passA,25.8,36.8,pass A to (38 51),theirs
+14:13:53,tackle,47.4,30.3,tackle,noradar
+14:14:33,tackle,4.8,50.0,tackle,theirs
+14:14:44,tackle,5.3,42.7,tackle,loose
+14:14:49,tackle,2.1,37.0,tackle,ours
+14:14:52,passA,13.2,35.2,pass A to (14 29),theirs
+14:15:02,passY,26.4,26.5,pass Y to (37 27),ours
+14:15:04,passA,43.5,11.9,pass A to (41 23),ours
+14:15:09,passA,67.3,27.2,pass A to (60 11),ours
+14:15:12,passA,78.9,28.9,pass A to (67 44),theirs
+14:15:13,tackle,84.0,38.0,tackle,theirs
+14:15:16,tackle,71.6,40.7,tackle,theirs
+14:15:23,tackle,32.9,37.7,tackle,ours
+14:15:25,passA,28.2,40.9,pass A to (3 35),noradar
+14:16:14,passY,82.5,-2.5,pass Y to (75 19),noradar
+14:16:22,tackle,5.0,24.3,tackle,noradar
+14:16:35,tackle,17.9,26.5,tackle,noradar
+14:16:53,tackle,0.8,46.7,tackle,noradar
+14:17:20,tackle,1.7,47.3,tackle,noradar
+14:17:22,tackle,1.7,37.0,tackle,noradar
+14:17:42,passA,47.5,29.7,pass A to (40 13),theirs
+14:18:06,tackle,15.1,36.0,tackle,noradar
+14:18:28,passA,52.3,29.8,pass A to (42 34),theirs
+14:18:29,passA,58.8,27.5,pass A to (46 14),noradar
+14:24:55,passA,55.1,35.0,pass A to (49 34),ours
+14:24:57,passA,60.7,38.2,pass A to (42 46),theirs
+14:25:04,tackle,46.7,31.5,tackle,theirs
+14:25:14,passA,29.1,46.9,pass A to (48 27),ours
+14:25:19,tackle,16.0,45.0,tackle,noradar
+14:25:42,passA,6.3,32.6,pass A to (6 26),noradar
+14:25:50,passA,5.8,38.9,pass A to (0 32),ours
+14:25:52,passA,7.3,28.7,pass A to (1 33),noradar
+14:26:49,tackle,9.6,21.0,tackle,noradar
+14:27:06,tackle,6.4,53.5,tackle,loose
+14:27:12,passY,16.7,38.5,pass Y to (28 12),ours
+14:27:13,passA,25.5,45.5,pass A to (15 39),ours
+14:27:17,passA,60.7,41.2,pass A to (65 30),ours
+14:27:19,shoot,81.6,28.5,shoot (24 m),ours
+14:27:21,shoot,86.8,29.6,shoot (19 m) power,ours
+14:27:22,passA,69.6,28.5,pass A to (58 30),ours
+14:27:23,passA,69.9,28.5,pass A to (59 29),loose
+14:27:24,passA,69.7,28.5,pass A to (42 28),ours
+14:27:26,passA,44.1,36.2,pass A to (49 57),ours
+14:27:32,passA,76.4,46.8,pass A to (61 52),theirs
+14:27:33,passA,78.1,44.0,pass A to (83 29),theirs
+14:27:37,tackle,78.0,43.2,tackle,theirs
+14:27:44,passA,65.6,45.1,pass A to (68 28),theirs
+14:27:45,shoot,81.4,35.4,shoot (24 m),noradar
+14:27:54,shoot,101.2,24.7,shoot (10 m),ours
+14:27:55,shoot,101.2,24.6,shoot (10 m),ours
+14:27:56,shoot,100.9,24.6,shoot (10 m),ours
+14:27:57,passA,100.9,24.2,pass A to (75 35),noradar
+14:27:58,passA,100.5,24.3,pass A to (75 35),ours
+14:28:00,passA,76.1,12.1,pass A to (73 35),theirs
+14:28:15,passY,22.0,31.1,pass Y to (47 40),ours
+14:28:16,passA,19.6,32.0,pass A to (46 39),ours
+14:28:17,passY,14.3,35.9,pass Y to (30 42),ours
+14:28:19,passA,25.2,48.3,pass A to (18 46),ours
+14:28:20,passA,31.7,46.3,pass A to (50 43),ours
+14:28:25,passA,66.3,35.8,pass A to (52 14),ours
+14:28:28,passA,76.0,30.3,pass A to (80 41),ours
+14:28:29,passA,82.9,31.1,pass A to (85 41),ours
+14:28:30,passA,87.3,36.3,pass A to (74 49),ours
+14:28:31,shoot,87.5,33.5,shoot (18 m) power,noradar
+14:28:32,shoot,91.6,32.8,shoot (13 m) power,noradar
+14:28:34,shoot,100.8,34.1,shoot (4 m),loose
+14:28:40,shoot,86.3,38.7,shoot (19 m),noradar
+14:29:36,passA,6.2,41.0,pass A to (5 51),noradar
+14:29:37,passY,8.3,26.7,pass Y to (23 47),theirs
+14:29:38,passY,4.9,43.2,pass Y to (22 47),theirs
+14:29:49,passA,6.7,30.6,pass A to (16 30),noradar
+14:29:50,passA,1.7,19.0,pass A to (17 27),noradar
+14:29:53,tackle,0.7,20.4,tackle,ours
+14:29:59,passA,60.6,29.7,pass A to (57 42),ours
+14:30:02,shoot,81.9,24.4,shoot (25 m),noradar
+14:30:03,shoot,89.4,27.3,shoot (17 m) power,noradar
+14:30:18,shoot,83.8,23.0,shoot (24 m),noradar
+14:30:19,shoot,86.7,22.1,shoot (22 m),noradar
+14:30:20,shoot,103.5,35.0,shoot (2 m),noradar
+14:30:21,shoot,106.3,35.1,shoot (2 m),noradar
+14:30:27,shoot,101.3,42.5,shoot (9 m),ours
+14:30:28,shoot,100.9,42.7,shoot (10 m),ours
+14:30:29,shoot,100.9,42.7,shoot (10 m),ours
+14:30:30,shoot,100.9,42.4,shoot (9 m),theirs
+14:30:32,shoot,90.6,44.3,shoot (18 m),theirs
+14:30:40,shoot,80.9,38.8,shoot (25 m),noradar
+14:30:41,shoot,89.4,36.6,shoot (16 m),noradar
+14:30:48,shoot,101.2,24.5,shoot (10 m),theirs
+14:30:49,shoot,101.0,24.5,shoot (10 m),theirs
+14:30:55,passA,51.7,28.8,pass A to (78 33),theirs
+14:30:59,passA,38.3,32.9,pass A to (35 48),theirs
+14:31:01,tackle,26.9,32.1,tackle,ours
+14:31:10,tackle,12.9,52.2,tackle,noradar
+14:31:28,passA,34.4,45.2,pass A to (48 41),ours
+14:31:32,passA,61.0,36.8,pass A to (57 28),ours
+14:31:32,passA,66.7,33.6,pass A to (64 28),ours
+14:31:36,passA,75.3,19.6,pass A to (77 30),theirs
+14:31:37,passA,82.4,23.5,pass A to (70 18),theirs
+14:31:38,shoot,85.5,23.5,shoot (22 m),theirs
+14:32:02,passA,27.8,31.2,pass A to (50 24),theirs
+14:32:18,passA,71.5,31.6,pass A to (65 14),ours
+14:32:19,passA,71.0,31.7,pass A to (64 23),ours
+14:32:19,passA,64.1,34.2,pass A to (52 42),ours
+14:32:22,passA,42.8,28.9,pass A to (48 44),ours
+14:32:23,passA,40.6,35.1,pass A to (44 45),ours
+14:32:26,passA,37.8,58.1,pass A to (43 47),ours
+14:32:26,passA,30.9,53.8,pass A to (30 30),theirs
+14:32:27,shoot,16.9,47.6,shoot (22 m),ours
+14:32:30,shoot,22.5,38.0,shoot (23 m),theirs
+14:32:34,tackle,42.1,43.3,tackle,loose
+14:32:37,passA,36.7,32.4,pass A to (37 42),ours
+14:32:41,shoot,23.2,25.1,shoot (25 m),noradar
+14:32:42,shoot,14.5,27.9,shoot (16 m) power,noradar
+14:32:44,shoot,-2.9,20.5,shoot (14 m),noradar
+14:32:50,shoot,-0.8,23.6,shoot (12 m) power,ours
+14:32:51,shoot,5.1,24.4,shoot (11 m),ours
+14:32:52,shoot,5.2,24.6,shoot (11 m),noradar
+14:32:53,shoot,5.2,24.6,shoot (11 m),noradar
+14:32:54,shoot,5.2,24.6,shoot (11 m),noradar

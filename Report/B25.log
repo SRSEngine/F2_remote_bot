@@ -1,0 +1,262 @@
+
+════ 2026-10-14 16:24:03  شروع اجرا  (ریموت B25، pid 16592) START_GAME=True  SHARED=True ════
+16:24:04  ✓ انجام شد   اکانت Ella › شروع بازی › CheckAccount  |  اکانت Ella روی کنسول است (گیمرتگ: ella matthews)
+16:25:56  ■ توقف       اکانت Ella › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:24:18 Found 'My games' -> entering
+            16:24:20 Found 'Games'
+            16:24:23 Text in box: '26 Xbox One'
+            16:24:25 Found 'Games'
+            16:24:28 Text in box: '26 Xbox Seril'
+            16:24:29 Found 'Games'
+            16:24:33 Text in box: '27 XBOX One'
+            16:24:33 Found 'One'
+            16:24:39 Looking for 'Ultimate'
+            16:24:49 Looking for 'Ultimate'
+            16:25:00 Looking for 'Ultimate'
+            16:25:10 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 1:52  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 16:25:56  شروع اجرا  (ریموت B25، pid 27448) START_GAME=True  SHARED=True ════
+16:26:02  ·            اکانت Ella › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'EarlyRock057385' — اکانت لازم: Ella
+16:26:20  ✓ انجام شد   اکانت Ella › شروع بازی › CheckAccount  |  اکانت Ella روی کنسول است (گیمرتگ: ella matthews)
+16:28:10  ✓ انجام شد   اکانت Ella  |  بازی باز شد و صفحه‌ی SBC آمد
+16:35:05  ‼ خطای کد    اکانت Ella › چالش Marquee Matchups  |  RuntimeError: snap failed: err no picture within 3 s
+                                             ^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 601, in gray
+              self._ensure()
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 220, in snap
+              raise RuntimeError(f"snap failed: {reply}")
+          RuntimeError: snap failed: err no picture within 3 s
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:28:03 Top coins: '34K' -> 34000
+            16:28:03 Coins: 34000
+            16:28:03 Looking for 'SBC'
+            16:28:09 Found 'SBC'
+            16:28:10 Plan: Marquee Matchups (4)
+            16:28:11 Looking for set 'Marquee Matchups'
+            16:28:16 Looking for set 'Marquee Matchups'
+            16:28:22 Looking for set 'Marquee Matchups'
+            16:28:28 Looking for set 'Marquee Matchups'
+            16:29:21 Looking for set 'Marquee Matchups'
+            16:30:17 Looking for set 'Marquee Matchups'
+            16:32:35 Looking for set 'Marquee Matchups'
+════ پایان: ‼ خطای کد: RuntimeError  |  مدت 9:30  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-14 20:15:27  شروع اجرا  (ریموت B25، pid 20664) START_GAME=True  SHARED=True ════
+20:15:33  ·            اکانت Ella › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'EarlyRock057385' — اکانت لازم: Ella
+20:15:51  ✓ انجام شد   اکانت Ella › شروع بازی › CheckAccount  |  اکانت Ella روی کنسول است (گیمرتگ: ella matthews)
+20:16:35  ·            اکانت Ella › شروع بازی › FindUltimate  |  قطع ارتباط با سرور / اینترنت: You have lost your online connection. Check your home network. You will not be able to access FC's online features until  (عکس: shots\B25\1014_201635_001_server_lost.png)
+20:16:37  ·            اکانت Ella › شروع بازی › FindUltimate  |  FindUltimate: قطع ارتباط — You have lost your online connection. Check your home network. You will not be able to access FC's online features until
+20:16:37  ✗ خطا        اکانت Ella › شروع بازی › FindUltimate  |  FindUltimate نشد
+          تابع: FindUltimate ← start_game ← open_game ← main
+          عکس: shots\B25\1014_201637_002_FindUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:15:54 Looking for 'Recent game'
+            20:16:00 منوی بازی باز نشد؛ بازی اخیری نیست
+            20:16:05 Found 'My games' -> entering
+            20:16:06 Found 'Games'
+            20:16:09 Text in box: '26 Xbox One'
+            20:16:11 Found 'Games'
+            20:16:14 Text in box: '26 Xbox Seril'
+            20:16:15 Found 'Games'
+            20:16:19 Text in box: '27 XBOX One'
+            20:16:19 Found 'One'
+            20:16:25 Looking for 'Ultimate'
+            20:16:35 ⚠ Connection lost: You have lost your online connection. Check your home network. You will not be able to access FC's o
+20:16:37  ↻ تلاش دوباره اکانت Ella › شروع بازی › FindUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:16:43  ✓ انجام شد   اکانت Ella › شروع بازی › CheckAccount  |  اکانت Ella روی کنسول است (گیمرتگ: j ella#47812)
+20:18:30  ✓ انجام شد   اکانت Ella  |  بازی باز شد و صفحه‌ی SBC آمد
+20:19:14  ·            اکانت Ella › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:19:15  ·            اکانت Ella › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:19:17  ·            اکانت Ella › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:19:18  ·            اکانت Ella › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:19:18  ✓ انجام شد   اکانت Ella  |  اکانت Ella تمام شد
+20:19:29  ·            اکانت Daniel › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'ella matthews' — اکانت لازم: Daniel
+20:19:55  ✓ انجام شد   اکانت Daniel › شروع بازی › CheckAccount  |  اکانت Daniel روی کنسول است (گیمرتگ: daniel#76274)
+20:22:27  ✓ انجام شد   اکانت Daniel  |  بازی باز شد و صفحه‌ی SBC آمد
+20:23:12  ·            اکانت Daniel › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:23:13  ·            اکانت Daniel › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:23:15  ·            اکانت Daniel › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:23:16  ·            اکانت Daniel › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:23:16  ✓ انجام شد   اکانت Daniel  |  اکانت Daniel تمام شد
+20:23:27  ·            اکانت Nancy › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'daniel lewis' — اکانت لازم: Nancy
+20:23:47  ✓ انجام شد   اکانت Nancy › شروع بازی › CheckAccount  |  اکانت Nancy روی کنسول است (گیمرتگ: j Nancy#8281)
+20:25:46  ✓ انجام شد   اکانت Nancy  |  بازی باز شد و صفحه‌ی SBC آمد
+20:26:33  ·            اکانت Nancy › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:26:34  ·            اکانت Nancy › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:26:36  ·            اکانت Nancy › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:26:37  ·            اکانت Nancy › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:26:37  ✓ انجام شد   اکانت Nancy  |  اکانت Nancy تمام شد
+20:26:48  ·            اکانت Gregory › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Nancy Taylor' — اکانت لازم: Gregory
+20:27:06  ✓ انجام شد   اکانت Gregory › شروع بازی › CheckAccount  |  اکانت Gregory روی کنسول است (گیمرتگ: Gregory#6146)
+20:28:56  ✓ انجام شد   اکانت Gregory  |  بازی باز شد و صفحه‌ی SBC آمد
+20:29:41  ·            اکانت Gregory › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:29:42  ·            اکانت Gregory › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:29:44  ·            اکانت Gregory › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:29:45  ·            اکانت Gregory › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:29:45  ✓ انجام شد   اکانت Gregory  |  اکانت Gregory تمام شد
+20:29:56  ·            اکانت GEORGETTE › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Gregory Price' — اکانت لازم: GEORGETTE
+20:30:18  ✓ انجام شد   اکانت GEORGETTE › شروع بازی › CheckAccount  |  اکانت GEORGETTE روی کنسول است (گیمرتگ: Georgette#9170)
+20:31:47  ·            اکانت GEORGETTE › شروع بازی › FindUltimate  |  قطع ارتباط: You are not connected to the EA Servers → Re-connect to EA Servers
+20:31:52  ·            اکانت GEORGETTE › شروع بازی › FindUltimate  |  FindUltimate: قطع ارتباط — not connected to the EA Servers (re-connect pressed)
+20:31:52  ✗ خطا        اکانت GEORGETTE › شروع بازی › FindUltimate  |  FindUltimate نشد
+          تابع: FindUltimate ← start_game ← open_game ← main
+          عکس: shots\B25\1014_203152_004_FindUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:31:13 Looking for 'Ultimate'
+            20:31:24 Looking for 'Ultimate'
+            20:31:24 EA: 'Is your email up to date?' -> Yes
+            20:31:26 Looking for 'Ultimate'
+            20:31:26 EA: 'Is your email up to date?' -> Yes
+            20:31:29 Looking for 'Ultimate'
+            20:31:30 Looking for 'Ultimate'
+            20:31:40 Looking for 'Ultimate'
+            20:31:40 Found 'Setting'
+            20:31:41 Looking for 'Ultimate'
+            20:31:41 FC offline: 'Press View to reconnect' -> View
+            20:31:47 Not connected to the EA Servers -> Re-connect
+20:31:52  ↻ تلاش دوباره اکانت GEORGETTE › شروع بازی › FindUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:31:57  ✓ انجام شد   اکانت GEORGETTE › شروع بازی › CheckAccount  |  اکانت GEORGETTE روی کنسول است (گیمرتگ: Georgette#9170)
+20:33:54  ✓ انجام شد   اکانت GEORGETTE  |  بازی باز شد و صفحه‌ی SBC آمد
+20:34:39  ·            اکانت GEORGETTE › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:34:40  ·            اکانت GEORGETTE › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:34:42  ·            اکانت GEORGETTE › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:34:43  ·            اکانت GEORGETTE › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:34:43  ✓ انجام شد   اکانت GEORGETTE  |  اکانت GEORGETTE تمام شد
+20:34:54  ·            اکانت EVA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'georgette langworth' — اکانت لازم: EVA
+20:35:17  ✓ انجام شد   اکانت EVA › شروع بازی › CheckAccount  |  اکانت EVA روی کنسول است (گیمرتگ: eva#85775)
+20:37:23  ·            اکانت EVA › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+20:37:30  ✓ انجام شد   اکانت EVA  |  بازی باز شد و صفحه‌ی SBC آمد
+20:38:20  ·            اکانت EVA › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:38:22  ·            اکانت EVA › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:38:24  ·            اکانت EVA › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:38:26  ·            اکانت EVA › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:38:26  ✓ انجام شد   اکانت EVA  |  اکانت EVA تمام شد
+20:38:42  ·            اکانت Henry › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+6 orofiles' — اکانت لازم: Henry
+20:39:28  ✓ انجام شد   اکانت Henry › شروع بازی › CheckAccount  |  اکانت Henry روی کنسول است (گیمرتگ: Henry#13839)
+20:41:40  ·            اکانت Henry › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+20:41:48  ✓ انجام شد   اکانت Henry  |  بازی باز شد و صفحه‌ی SBC آمد
+20:42:37  ·            اکانت Henry › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:42:39  ·            اکانت Henry › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:42:41  ·            اکانت Henry › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:42:43  ·            اکانت Henry › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:42:43  ✓ انجام شد   اکانت Henry  |  اکانت Henry تمام شد
+20:42:53  ·            اکانت DONNA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Henry Green' — اکانت لازم: DONNA
+20:43:08  ⏸ توقف موقت  اکانت DONNA › شروع بازی › CheckAccount  |  Account DONNA on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to DONNA (donna.moore122@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\B25\1014_204308_005_pause_Account_DONNA_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:42:39 ===== Marquee Matchups 3 =====
+            20:42:39 Marquee Matchups 3.csv: 11 rows
+            20:42:41 Challenge 3: قبلاً کامل شده (Completed)
+            20:42:41 ===== Marquee Matchups 4 =====
+            20:42:41 Marquee Matchups 4.csv: 11 rows
+            20:42:43 Challenge 4: قبلاً کامل شده (Completed)
+            20:42:43 ✓ Account done: Henry
+            20:42:43 ===== Account: DONNA (donna.moore122@outlook.com) =====
+            20:42:43 ===== باز کردن بازی (تلاش 1) =====
+            20:42:53 Account: 'Henry Green' on console, switching to DONNA
+            20:42:53 Switch account -> DONNA
+            20:43:07 Switch: account DONNA is not added on this console (not in the Who are you? list)
+20:47:58  ▶ ادامه      اکانت DONNA › شروع بازی › CheckAccount  |  بعد از 4:49 توقف
+20:48:09  ·            اکانت DONNA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+7 orofiles' — اکانت لازم: DONNA
+20:48:22  ⏸ توقف موقت  اکانت DONNA › شروع بازی › CheckAccount  |  Account DONNA on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to DONNA (donna.moore122@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\B25\1014_204822_006_pause_Account_DONNA_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:48:09 Account: '+7 orofiles' on console, switching to DONNA
+            20:48:09 Switch account -> DONNA
+            20:48:21 Switch: account DONNA is not added on this console (not in the Who are you? list)
+20:48:33  ▶ ادامه      اکانت DONNA › شروع بازی › CheckAccount  |  بعد از 0:11 توقف
+20:48:44  ·            اکانت DONNA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Henry Green' — اکانت لازم: DONNA
+20:48:57  ⏸ توقف موقت  اکانت DONNA › شروع بازی › CheckAccount  |  Account DONNA on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to DONNA (donna.moore122@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\B25\1014_204857_007_pause_Account_DONNA_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:48:44 Account: 'Henry Green' on console, switching to DONNA
+            20:48:44 Switch account -> DONNA
+            20:48:56 Switch: account DONNA is not added on this console (not in the Who are you? list)
+20:50:53  ▶ ادامه      اکانت DONNA › شروع بازی › CheckAccount  |  بعد از 1:55 توقف
+20:51:24  ·            اکانت DONNA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'FC26C22#6632' — اکانت لازم: DONNA
+20:52:02  ✓ انجام شد   اکانت DONNA › شروع بازی › CheckAccount  |  اکانت DONNA روی کنسول است (گیمرتگ: Donna#5974)
+20:55:12  ✓ انجام شد   اکانت DONNA  |  بازی باز شد و صفحه‌ی SBC آمد
+20:55:42  ·            اکانت DONNA › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:57:23  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:58:16  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:59:45  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+21:00:25  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:02:24  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:03:00  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:04:13  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:05:12  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:06:11  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:08:53  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+21:10:46  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:11:06  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+21:11:35  ·            اکانت DONNA › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+21:13:38  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:14:35  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:17:51  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+21:19:51  ✗ خطا        اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  فیلترهای Market نشد
+          تابع: فیلترهای Market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\B25\1014_211951_008_Market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:18:50 Looking for 'Pricing'
+            21:18:52 Looking for 'Pricing'
+            21:18:52 0
+            21:18:53 150
+            21:18:53 200
+            21:18:54 250
+            21:18:55 300
+            21:19:06 Looking for 'Position'
+            21:19:38 لیست 'Default' باز نشد
+            21:19:38 فیلتر League='EFL Championship': تلاش 1 نشد
+            21:19:51 FindFilter: به League نرسید
+            21:19:51 فیلتر League='EFL Championship': تلاش 2 نشد
+21:19:51  ↻ تلاش دوباره اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:22:44  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد (تلاش 2)
+21:23:54  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:25:58  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+21:27:56  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:28:50  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:29:48  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:32:39  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+21:34:50  ✓ انجام شد   اکانت DONNA › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:38:56  ⏸ توقف موقت  اکانت DONNA › چالش Marquee Matchups 2  |  Submit challenge Marquee Matchups 2 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: press Submit by hand or put the screen on the full squad
+          عکس: shots\B25\1014_213855_009_pause_Submit_challenge_Marquee_Matchups_2.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:34:19 Looking for 'BuyNow' (قیمت 400)
+            21:34:23 My Coins: 4447
+            21:34:24 Card 1: Piroe -> buy
+            21:34:25 Found 'No'
+            21:34:25 Found 'Yes'
+            21:34:45 Card 1: Piroe expired -> next
+            21:34:46 Card 2: Piroe expired -> next
+            21:34:47 Card 3: Gallagher -> buy
+            21:34:48 Found 'No'
+            21:34:48 Found 'Yes'
+            21:34:50 Bought (قیمت 400)
+            21:34:50 Squad players (bought): Iversen, Mbengue, Grassi, McLoughlin, Ekomié, Retegui, Thompson, McGree, Slimane, Luis Milla, Gallagher
+21:57:19  ▶ ادامه      اکانت DONNA › چالش Marquee Matchups 2  |  بعد از 18:23 توقف
+21:57:20  ‼ خطای کد    اکانت DONNA › چالش Marquee Matchups 2  |  ConnectionError: ریموت B25 در دسترس نیست (\\.\pipe\xbrp-B25). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت B25 در دسترس نیست (\\.\pipe\xbrp-B25). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:41:53  |  خطا 3، تلاش دوباره 3، توقف موقت 4، خطای کد 1 ════

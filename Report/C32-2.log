@@ -1,0 +1,262 @@
+
+════ 2026-10-11 16:33:21  شروع اجرا  (ریموت C32-2، pid 25548) START_GAME=True  SHARED=True ════
+16:35:48  ■ توقف       شروع بازی › GotoHome  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:33:21 No panel accounts for console C32-2: running without account check
+            16:33:22 ===== باز کردن بازی (تلاش 1) =====
+════ پایان: ✗ ریموت قطع  |  مدت 2:26  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 16:39:27  شروع اجرا  (ریموت C32-2، pid 13608) START_GAME=True  SHARED=True ════
+16:41:05  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+16:41:41  ·            چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+16:43:08  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:43:52  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:44:35  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:45:28  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:46:12  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:46:55  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:47:39  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:48:06  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:48:25  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:50:13  ✓ انجام شد   چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+16:51:50  ✗ خطا        چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_165150_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:51:02 300
+            16:51:03 350
+            16:51:03 400
+            16:51:06 Looking for 'Rarity'
+            16:51:15 Silver پیدا شد
+            16:51:22 Looking for 'BuyNow' (قیمت 450)
+            16:51:27 Found 'BuyNow (2)'
+            16:51:30 Found 'No'
+            16:51:31 Found 'Yes'
+            16:51:38 BUY: no cards found -> price 450 to 550
+            16:51:50 FindFilter: به Pricing نرسید
+            16:51:50 BUY: قیمت 550 تنظیم نشد
+16:51:50  ↻ تلاش دوباره چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+16:52:51  ✗ خطا        چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  use_club_card نشد
+          تابع: use_club_card ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_165251_002_use_club_card.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:51:50 ✗ BUY failed (shot: 1011_165150_001_BUY.png)
+            16:51:50 [Marquee Matchups 1:11] try 1 of 3 failed, back to the squad
+            16:52:04 Pricing: club=True، قیمت نادیده گرفته شد
+            16:52:09 Looking for 'Rarity'
+            16:52:17 Silver پیدا شد
+            16:52:19 Looking for 'Position'
+            16:52:28 Found in Club
+16:52:51  ↻ تلاش دوباره چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+16:53:11  ✗ خطا        چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_165311_003_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:52:51 ✗ use_club_card failed (shot: 1011_165251_002_use_club_card.png)
+            16:52:51 [Marquee Matchups 1:11] try 2 of 3 failed, back to the squad
+16:53:13  ⏸ توقف موقت  چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  [Marquee Matchups 1:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C32-2\1011_165313_004_pause__Marquee_Matchups_1_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:53:11 ✗ enter_slot failed (shot: 1011_165311_003_enter_slot.png)
+            16:53:11 [Marquee Matchups 1:11] try 3 of 3 failed, back to the squad
+16:54:01  ▶ ادامه      چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بعد از 0:48 توقف
+16:54:11  ■ توقف       چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 14:43  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-11 16:54:56  شروع اجرا  (ریموت C32-2، pid 14884) START_GAME=True  SHARED=True ════
+16:57:12  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:58:54  ✗ خطا        شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C32-2\1011_165854_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:57:02 Looking for 'Ultimate'
+            16:57:12 FindUltimate نشد؛ ادامه
+            16:57:13 Looking for 'Main Ultimate'
+            16:57:23 Looking for 'Main Ultimate'
+            16:57:33 Looking for 'Main Ultimate'
+            16:57:43 Looking for 'Main Ultimate'
+            16:57:53 Looking for 'Main Ultimate'
+            16:58:04 Looking for 'Main Ultimate'
+            16:58:14 Looking for 'Main Ultimate'
+            16:58:24 Looking for 'Main Ultimate'
+            16:58:34 Looking for 'Main Ultimate'
+            16:58:44 Looking for 'Main Ultimate'
+16:58:54  ↻ تلاش دوباره شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+17:01:11  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+17:02:53  ✗ خطا        شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C32-2\1011_170253_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:01:01 Looking for 'Ultimate'
+            17:01:11 FindUltimate نشد؛ ادامه
+            17:01:11 Looking for 'Main Ultimate'
+            17:01:22 Looking for 'Main Ultimate'
+            17:01:32 Looking for 'Main Ultimate'
+            17:01:42 Looking for 'Main Ultimate'
+            17:01:52 Looking for 'Main Ultimate'
+            17:02:02 Looking for 'Main Ultimate'
+            17:02:13 Looking for 'Main Ultimate'
+            17:02:23 Looking for 'Main Ultimate'
+            17:02:33 Looking for 'Main Ultimate'
+            17:02:43 Looking for 'Main Ultimate'
+17:02:53  ↻ تلاش دوباره شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+17:05:10  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+17:07:14  ✗ خطا        شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C32-2\1011_170714_003_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:06:01 Looking for 'Main Ultimate'
+            17:06:11 Looking for 'Main Ultimate'
+            17:06:21 Looking for 'Main Ultimate'
+            17:06:32 Looking for 'Main Ultimate'
+            17:06:42 Looking for 'Main Ultimate'
+            17:06:52 Looking for 'Ultimate'
+            17:06:52 Found 'Setting'
+            17:06:53 Looking for 'Ultimate'
+            17:07:03 Looking for 'Ultimate'
+            17:07:14 Looking for 'Ultimate'
+            17:07:14 Found 'Setting'
+            17:07:14 Found 'Ultimate'
+17:07:14  ⏸ توقف موقت  شروع بازی › MainUltimate  |  Start game (MainUltimate) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where MainUltimate starts
+          عکس: shots\C32-2\1011_170714_004_pause_Start_game_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:07:14 ✗ MainUltimate failed (shot: 1011_170714_003_MainUltimate.png)
+17:08:24  ▶ ادامه      شروع بازی › MainUltimate  |  بعد از 1:10 توقف
+17:09:05  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+17:09:15  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+17:09:36  ·            چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+17:11:15  ✓ انجام شد   چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:12:04  ✓ انجام شد   چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:12:55  ✓ انجام شد   چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:13:45  ✓ انجام شد   چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:14:33  ✓ انجام شد   چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+17:16:03  ✗ خطا        چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_171603_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:15:26 300
+            17:15:27 350
+            17:15:28 400
+            17:15:28 450
+            17:15:29 500
+            17:15:37 Found 'Top9'
+            17:15:40 Italy پیدا شد
+            17:15:41 Looking for 'Position'
+            17:15:47 Looking for 'BuyNow' (قیمت 550)
+            17:15:51 BUY: no cards found -> price 550 to 650
+            17:16:03 FindFilter: به Pricing نرسید
+            17:16:03 BUY: قیمت 650 تنظیم نشد
+17:16:03  ↻ تلاش دوباره چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:18:01  ✗ خطا        چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_171801_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:17:25 Looking for 'Position'
+            17:17:31 Looking for 'BuyNow' (قیمت 550)
+            17:17:35 Found 'BuyNow (2)'
+            17:17:36 Found 'No'
+            17:17:36 Found 'Yes'
+            17:17:46 Found 'BuyNow (2)'
+            17:17:47 expired
+            17:17:48 Found 'BuyNow (2)'
+            17:17:49 expired
+            17:17:49 BUY: 3 buys failed -> price 550 to 650
+            17:18:01 FindFilter: به Pricing نرسید
+            17:18:01 BUY: قیمت 650 تنظیم نشد
+17:18:01  ↻ تلاش دوباره چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:19:45  ✗ خطا        چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_171945_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:19:01 400
+            17:19:01 450
+            17:19:02 500
+            17:19:10 Found 'Top9'
+            17:19:13 Italy پیدا شد
+            17:19:14 Looking for 'Rarity'
+            17:19:22 Silver پیدا شد
+            17:19:23 Looking for 'Position'
+            17:19:29 Looking for 'BuyNow' (قیمت 550)
+            17:19:33 BUY: no cards found -> price 550 to 650
+            17:19:45 FindFilter: به Pricing نرسید
+            17:19:45 BUY: قیمت 650 تنظیم نشد
+17:19:45  ⏸ توقف موقت  چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C32-2\1011_171945_008_pause__Marquee_Matchups_2_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:19:45 ✗ BUY failed (shot: 1011_171945_007_BUY.png)
+            17:19:45 [Marquee Matchups 2:6] try 3 of 3 failed, back to the squad
+17:44:03  ▶ ادامه      چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 24:18 توقف
+17:45:47  ✗ خطا        چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_174547_009_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:45:03 400
+            17:45:04 450
+            17:45:04 500
+            17:45:13 Found 'Top9'
+            17:45:15 Italy پیدا شد
+            17:45:16 Looking for 'Rarity'
+            17:45:24 Silver پیدا شد
+            17:45:26 Looking for 'Position'
+            17:45:32 Looking for 'BuyNow' (قیمت 550)
+            17:45:35 BUY: no cards found -> price 550 to 650
+            17:45:47 FindFilter: به Pricing نرسید
+            17:45:47 BUY: قیمت 650 تنظیم نشد
+17:45:47  ↻ تلاش دوباره چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:47:31  ✗ خطا        چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_174731_010_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:46:46 400
+            17:46:47 450
+            17:46:48 500
+            17:46:56 Found 'Top9'
+            17:46:59 Italy پیدا شد
+            17:47:00 Looking for 'Rarity'
+            17:47:08 Silver پیدا شد
+            17:47:09 Looking for 'Position'
+            17:47:15 Looking for 'BuyNow' (قیمت 550)
+            17:47:19 BUY: no cards found -> price 550 to 650
+            17:47:31 FindFilter: به Pricing نرسید
+            17:47:31 BUY: قیمت 650 تنظیم نشد
+17:47:31  ↻ تلاش دوباره چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:49:14  ✗ خطا        چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C32-2\1011_174914_011_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:48:30 400
+            17:48:31 450
+            17:48:31 500
+            17:48:40 Found 'Top9'
+            17:48:42 Italy پیدا شد
+            17:48:43 Looking for 'Rarity'
+            17:48:51 Silver پیدا شد
+            17:48:53 Looking for 'Position'
+            17:48:58 Looking for 'BuyNow' (قیمت 550)
+            17:49:02 BUY: no cards found -> price 550 to 650
+            17:49:14 FindFilter: به Pricing نرسید
+            17:49:14 BUY: قیمت 650 تنظیم نشد
+17:49:14  ⏸ توقف موقت  چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C32-2\1011_174914_012_pause__Marquee_Matchups_2_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:49:14 ✗ BUY failed (shot: 1011_174914_011_BUY.png)
+            17:49:14 [Marquee Matchups 2:6] try 3 of 3 failed, back to the squad
+17:53:29  ▶ ادامه      چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 4:15 توقف
+17:53:31  ‼ خطای کد    چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  ConnectionError: ریموت C32-2 در دسترس نیست (\\.\pipe\xbrp-C32-2). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C32-2 در دسترس نیست (\\.\pipe\xbrp-C32-2). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 58:35  |  خطا 9، تلاش دوباره 6، توقف موقت 3، خطای کد 1 ════

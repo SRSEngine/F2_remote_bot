@@ -1,0 +1,50 @@
+ 594.30 ours=11 opp=11 ball=(94,25)   chase
+ 595.49 ours=10 opp=11 ball=(94,25)   dribble
+ 596.55 ours=10 opp=11 ball=(90,27)   pass A to (95,21)
+ 596.69 ours=10 opp=11 ball=(90,27)   dribble
+ 597.75 ours=10 opp=11 ball=(83,27)   pass Y to (53,21)
+ 597.89 ours=10 opp= 9 ball=(82,26)   dribble
+ 598.04 ours=11 opp=10 ball=(81,25)   chase
+ 598.43 ours= 9 opp=11 ball=(76,22)   dribble
+ 598.57 ours=11 opp=10 ball=(74,21)   chase
+ 598.71 ours=10 opp=10 ball=(72,20)   pass Y to (54,20)
+ 598.85 ours=11 opp=10 ball=(70,19)   chase
+ 599.52 ours= 0 opp= 0 ball=-         no radar
+ 650.61 ours=11 opp=11 ball=(54,34)   chase
+ 651.91 ours= 4 opp=10 ball=(57,34)   no radar
+ 652.01 ours= 5 opp=10 ball=(56,33)   chase
+ 652.21 ours= 4 opp=10 ball=(55,33)   no radar
+ 652.51 ours= 5 opp=10 ball=(55,33)   chase
+ 652.82 ours= 5 opp=11 ball=(53,33)   dribble
+ 655.92 ours= 4 opp=10 ball=(39,33)   no radar
+ 656.53 ours= 5 opp=10 ball=(36,32)   chase
+ 656.63 ours= 3 opp=10 ball=(35,32)   no radar
+ 657.43 ours= 5 opp=10 ball=(31,32)   chase
+ 657.53 ours= 4 opp=10 ball=(30,32)   no radar
+ 657.93 ours= 5 opp=10 ball=(28,31)   tackle
+ 658.03 ours= 4 opp=10 ball=(28,31)   no radar
+ 658.83 ours= 5 opp=10 ball=(24,29)   tackle
+ 658.93 ours= 3 opp=10 ball=(23,29)   no radar
+ 659.23 ours= 5 opp=10 ball=(22,29)   chase
+ 659.54 ours= 5 opp=11 ball=(20,29)   dribble
+ 659.64 ours= 3 opp=10 ball=(20,28)   no radar
+ 659.74 ours= 5 opp=10 ball=(20,28)   dribble
+ 660.04 ours= 4 opp=10 ball=(19,28)   no radar
+ 661.04 ours=10 opp=10 ball=(12,29)   chase
+ 661.24 ours= 9 opp=11 ball=(9,32)    pass Y to (22,47)
+ 661.34 ours= 8 opp=11 ball=(7,34)    dribble
+ 661.84 ours= 6 opp=11 ball=-         no radar
+ 661.94 ours= 8 opp=11 ball=(-0,42)   dribble
+ 662.04 ours= 0 opp= 0 ball=-         no radar
+ 672.07 ours= 6 opp=12 ball=(5,43)    dribble
+ 672.57 ours= 4 opp=11 ball=(5,43)    no radar
+ 672.67 ours= 5 opp=11 ball=(5,43)    dribble
+ 672.98 ours=13 opp=11 ball=(4,43)    no radar
+ 674.08 ours=12 opp=11 ball=(6,33)    chase
+ 674.18 ours=16 opp=11 ball=(6,30)    no radar
+ 675.39 ours= 6 opp= 9 ball=(17,2)    chase
+ 675.49 ours= 0 opp= 0 ball=-         no radar
+ 689.38 ours= 6 opp= 7 ball=(22,-1)   chase
+ 689.55 ours= 0 opp= 0 ball=-         no radar
+ 690.72 ours= 6 opp= 7 ball=(22,-3)   chase
+ 690.88 ours= 0 opp= 0 ball=-         no radar

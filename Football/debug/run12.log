@@ -1,0 +1,125 @@
+ 954.36 ours= 9 opp=10 ball=(88,40)   side?
+ 954.56 ours= 9 opp=10 ball=(89,39)   contain
+ 955.76 ours= 7 opp=10 ball=(94,37)   recover
+ 956.46 ours= 9 opp=11 ball=(106,24)  dribble
+ 956.56 ours= 0 opp= 0 ball=-         no radar
+ 959.64 ours= 1 opp= 0 ball=-         skip scene: A
+ 959.81 ours= 1 opp= 0 ball=-         no radar
+ 960.54 ours= 8 opp=12 ball=(101,25)  dribble
+ 960.74 ours=11 opp=11 ball=-         no radar
+ 961.04 ours=11 opp=11 ball=(101,25)  dribble
+ 963.20 panel: O O CALL OKTAGON MI GROUND PASS LOB PASS TOGGLE OVERLAY
+ 963.20 ours=13 opp=11 ball=(101,24)  no radar
+ 963.32 ours=12 opp=11 ball=(101,24)  dribble
+ 963.42 ours=12 opp=11 ball=-         no radar
+ 964.21 panel: O O CÄCLTEAMSSKORT OKTAGON M GROUNB PASS LOB PASS TOGGLE OVERLAY
+ 965.26 panel: O PASS O LOB PASS TOGGLE OVERLAY
+ 966.31 panel: O CALLT GROI'OD PASS LOB PASS TOGGLE OVERLAY
+ 966.44 ours= 0 opp= 0 ball=-         skip scene: A
+ 966.60 ours= 0 opp= 0 ball=-         no radar
+ 967.38 ours= 9 opp=11 ball=(101,25)  dribble
+ 968.99 ours=10 opp=11 ball=(87,21)   pass A to (66,16)
+ 969.09 ours= 9 opp=11 ball=(87,22)   dribble
+ 969.89 ours=10 opp=11 ball=(82,22)   pass Y to (70,13)
+ 969.99 ours=10 opp=11 ball=(80,22)   dribble
+ 971.29 ours=13 opp=11 ball=(71,13)   no radar
+ 971.40 ours=11 opp=11 ball=(71,12)   dribble
+ 972.40 ours=10 opp=11 ball=(64,13)   pass A to (53,21)
+ 972.50 ours=10 opp=11 ball=(63,13)   dribble
+ 973.40 ours=10 opp=12 ball=(52,16)   pass A to (55,37)
+ 973.50 ours=10 opp=12 ball=(52,16)   dribble
+ 974.30 ours=12 opp=12 ball=(49,26)   pass A to (48,19)
+ 974.40 ours=11 opp=11 ball=(49,29)   dribble
+ 975.21 ours=10 opp=10 ball=(47,35)   pass A to (46,20)
+ 975.31 ours=11 opp=10 ball=(47,33)   recover
+ 975.41 ours=10 opp=10 ball=(46,31)   dribble
+ 975.81 ours=11 opp=10 ball=(45,25)   recover
+ 975.91 ours=10 opp=10 ball=(45,24)   dribble
+ 976.11 ours=10 opp=11 ball=(44,26)   pass A to (45,40)
+ 976.21 ours=10 opp=11 ball=(43,27)   dribble
+ 977.01 ours=10 opp=11 ball=(41,39)   pass A to (42,26)
+ 977.11 ours=11 opp=11 ball=(42,40)   dribble
+ 977.31 ours= 6 opp=11 ball=-         no radar
+ 978.11 ours= 8 opp=11 ball=(42,50)   pass A to (37,28)
+ 978.21 ours=11 opp=11 ball=(42,50)   dribble
+ 979.01 ours=11 opp=11 ball=(38,42)   pass A to (35,28)
+ 979.12 ours=11 opp=11 ball=(37,41)   dribble
+ 979.92 ours=11 opp=11 ball=(32,32)   pass A to (35,39)
+ 980.02 ours=11 opp=11 ball=(31,31)   dribble
+ 980.82 ours=11 opp=11 ball=(28,34)   pass A to (29,40)
+ 980.92 ours=11 opp=11 ball=(27,36)   dribble
+ 981.42 ours= 8 opp=11 ball=-         no radar
+ 981.52 ours= 8 opp=11 ball=(28,44)   dribble
+ 981.72 ours=11 opp=11 ball=(28,47)   pass A to (26,39)
+ 981.82 ours=11 opp=11 ball=(28,48)   dribble
+ 982.62 ours=11 opp=12 ball=(25,43)   pass A to (23,28)
+ 982.72 ours=11 opp=11 ball=(25,41)   dribble
+ 983.53 ours=12 opp=11 ball=(20,31)   pass A to (22,39)
+ 983.63 ours=11 opp=12 ball=(20,30)   dribble
+ 984.33 ours=12 opp=10 ball=(18,37)   contain
+ 984.43 ours=10 opp=10 ball=(17,37)   pass A to (19,29)
+ 984.53 ours=11 opp=10 ball=(17,37)   contain
+ 984.63 ours=12 opp=10 ball=(17,36)   recover
+ 984.83 ours=11 opp=10 ball=(16,34)   contain
+ 986.43 ours= 9 opp=10 ball=(16,28)   recover
+ 987.24 ours= 9 opp=11 ball=(15,26)   shoot (17 m)
+ 987.34 ours= 9 opp=11 ball=(14,26)   dribble
+ 988.14 ours=11 opp=12 ball=(8,28)    pass A to (22,13)
+ 988.24 ours=11 opp=12 ball=(5,29)    dribble
+ 988.64 ours=12 opp=10 ball=(1,27)    recover
+ 988.74 ours=10 opp=11 ball=(1,26)    dribble
+ 989.04 ours=10 opp=11 ball=(-0,24)   pass A to (20,11)
+ 989.14 ours= 0 opp= 0 ball=-         no radar
+ 990.15 ours=11 opp=11 ball=(-2,19)   chase
+ 990.25 ours=10 opp=11 ball=(-3,19)   shoot (15 m)
+ 990.35 ours=10 opp=11 ball=(-2,18)   dribble
+ 990.65 ours= 0 opp= 0 ball=-         no radar
+ 993.68 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+ 993.78 ours= 0 opp= 0 ball=-         no radar
+ 996.23 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+ 996.41 ours= 0 opp= 0 ball=-         no radar
+ 998.80 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+ 998.97 ours= 0 opp= 0 ball=-         no radar
+   1.39 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+   1.56 ours= 0 opp= 0 ball=-         no radar
+   3.97 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+   4.16 ours= 9 opp=10 ball=(3,-0)    recover
+   5.06 ours=12 opp=11 ball=(2,0)     chase
+   5.22 ours=12 opp=10 ball=(2,0)     recover
+   5.89 ours= 0 opp= 0 ball=-         no radar
+   8.90 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+   9.14 ours= 0 opp= 0 ball=-         no radar
+  11.41 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+  11.61 ours= 0 opp= 0 ball=-         no radar
+  14.03 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+  14.26 ours= 0 opp= 0 ball=-         no radar
+  16.53 panel: CHANGETQGV AKER CALL FOR 2ND?PLAYER TOGGLE OVERLAY
+  16.67 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+  16.85 ours= 0 opp= 0 ball=-         no radar
+  17.60 panel: CALL FO NDPLAYER TOGGLE VERLAY
+  18.71 panel: CHANG KICKTA CA TO
+  19.21 ours= 0 opp= 1 ball=-         menu (TACTICS): wait
+  19.44 ours= 0 opp= 1 ball=-         no radar
+  19.73 panel: CHANGE KICK R 2ND YER LAY
+  20.84 panel: CHANGE* TAKER L FOR 2ND PLAYER OVERLAY
+  21.76 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+  21.98 panel: TAK L FOR 2NDP AYE VERLAY
+  21.98 ours= 0 opp= 0 ball=-         no radar
+  23.00 panel: CHANGE KICKT E L FOR 2 T GLE OVERLAY
+  24.03 panel: HANGE AKER LL FOR 2ND AYER TOGGLE OVERLAY
+  24.40 ours= 0 opp= 1 ball=-         menu (TACTICS): wait
+  24.61 ours= 0 opp= 1 ball=-         no radar
+  25.16 panel: CHANGE,KICK TAKER O CALL FOR 2ND PLAYER + TOGGLE OVERLAY
+  26.21 panel: ICK TAK L FOR 2N TO GLE OVERLAY
+  26.99 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+  27.23 panel: ETI HANGE KICK T L FOR 2 TO GLE OVERLAY
+  27.23 ours= 0 opp= 0 ball=-         no radar
+  28.39 panel: C C GEA - AKER L 2ND+LAYER GLEOV LAY
+  29.54 panel: ILLA C C GE40CKTAKE L R 2ND PLAYER GLEOV LAY
+  29.54 ours= 0 opp= 1 ball=-         menu (TACTICS): wait
+  29.76 ours= 0 opp= 1 ball=-         no radar
+  30.70 panel: KICK TA CAL! FOR N GLE
+  31.83 panel: GE KICK ALL F G ND O YER
+  32.22 ours= 0 opp= 0 ball=-         menu (TACTICS): wait
+  32.44 ours= 0 opp= 0 ball=-         no radar
+  32.98 panel: GEKO< TAKER ALL F ND PLAYFR

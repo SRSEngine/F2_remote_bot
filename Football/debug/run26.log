@@ -1,0 +1,371 @@
+ 267.71 ours= 0 opp= 0 ball=-         no radar
+ 270.72 ours= 0 opp= 0 ball=-         skip scene: A
+ 270.85 ours= 0 opp= 0 ball=-         no radar
+ 273.27 ours= 0 opp= 0 ball=-         skip scene: A
+ 273.43 ours= 0 opp= 0 ball=-         no radar
+ 275.80 ours= 0 opp= 0 ball=-         skip scene: A
+ 275.92 ours= 0 opp= 0 ball=-         no radar
+ 278.34 ours= 0 opp= 0 ball=-         skip scene: A
+ 278.46 ours= 0 opp= 0 ball=-         no radar
+ 280.90 ours= 0 opp= 0 ball=-         match over: A advance
+ 281.03 ours= 0 opp= 0 ball=-         no radar
+ 283.44 ours= 0 opp= 0 ball=-         skip scene: A
+ 283.54 ours= 0 opp= 0 ball=-         no radar
+ 285.95 ours= 0 opp= 0 ball=-         skip scene: A
+ 286.05 ours= 0 opp= 0 ball=-         no radar
+ 288.45 ours= 0 opp= 0 ball=-         skip scene: A
+ 288.57 ours= 0 opp= 0 ball=-         no radar
+ 290.99 ours= 0 opp= 0 ball=(17,71)   skip scene: A
+ 291.13 ours= 0 opp= 0 ball=-         no radar
+ 293.57 ours= 0 opp= 0 ball=-         skip scene: A
+ 293.69 ours= 0 opp= 0 ball=-         no radar
+ 294.29 ours=11 opp=11 ball=(54,33)   press (A+RT)
+ 294.39 ours=11 opp=11 ball=(56,34)   chase
+ 294.89 ours=11 opp=10 ball=(61,34)   switch (LB)
+ 294.99 ours=11 opp=10 ball=(61,33)   press (A+RT)
+ 296.70 ours=10 opp=11 ball=(52,33)   chase
+ 296.80 ours=10 opp=10 ball=(52,33)   press (A+RT)
+ 297.40 ours=10 opp=11 ball=(49,33)   chase
+ 297.50 ours=10 opp=10 ball=(49,33)   press (A+RT)
+ 300.81 ours= 9 opp=11 ball=(37,37)   dribble
+ 301.92 ours=10 opp=11 ball=(40,38)   pass A to (42,15)
+ 302.02 ours=10 opp=11 ball=(40,38)   dribble
+ 304.13 ours=10 opp=11 ball=(59,49)   pass A to (57,32)
+ 304.23 ours=10 opp=11 ball=(60,49)   dribble
+ 305.03 ours=12 opp=11 ball=(64,44)   pass A to (63,30)
+ 305.13 ours=12 opp=11 ball=(64,42)   dribble
+ 305.93 ours=10 opp=11 ball=(65,30)   pass A to (64,42)
+ 306.03 ours=11 opp=11 ball=(64,29)   dribble
+ 306.23 ours=11 opp= 9 ball=(63,26)   press (A+RT)
+ 307.34 ours=10 opp=10 ball=(60,19)   tackle
+ 307.44 ours= 9 opp=10 ball=(60,20)   press (A+RT)
+ 308.85 ours=11 opp=11 ball=(61,22)   chase
+ 308.95 ours=10 opp=10 ball=(62,22)   press (A+RT)
+ 309.35 ours=10 opp=10 ball=(63,24)   tackle
+ 309.45 ours=11 opp=10 ball=(63,24)   press (A+RT)
+ 311.05 ours=11 opp=11 ball=(57,26)   chase
+ 311.15 ours=11 opp=10 ball=(56,27)   press (A+RT)
+ 311.95 ours= 9 opp=10 ball=(52,27)   switch (LB)
+ 312.05 ours=10 opp=10 ball=(52,27)   press (A+RT)
+ 313.46 ours=11 opp=11 ball=(44,27)   chase
+ 313.56 ours=12 opp=10 ball=(44,28)   press (A+RT)
+ 315.06 ours=10 opp=11 ball=(39,27)   dribble
+ 320.10 ours= 9 opp=11 ball=(70,31)   pass A to (70,46)
+ 320.20 ours=10 opp=11 ball=(71,31)   dribble
+ 321.00 ours=11 opp=10 ball=(75,29)   pass A to (74,46)
+ 321.10 ours=10 opp=10 ball=(74,29)   dribble
+ 321.90 ours= 9 opp=11 ball=(74,24)   pass A to (65,18)
+ 322.00 ours= 9 opp=11 ball=(75,26)   dribble
+ 322.61 ours=12 opp=10 ball=(77,30)   press (A+RT)
+ 322.71 ours=10 opp=10 ball=(76,30)   dribble
+ 322.81 ours=10 opp=10 ball=(76,30)   pass A to (72,25)
+ 322.91 ours=10 opp=10 ball=(77,29)   dribble
+ 323.11 ours=11 opp=10 ball=(77,28)   press (A+RT)
+ 323.21 ours=10 opp=10 ball=(77,27)   dribble
+ 323.51 ours=11 opp=10 ball=(78,25)   press (A+RT)
+ 323.61 ours=10 opp=10 ball=(78,24)   dribble
+ 323.71 ours=10 opp=10 ball=(78,24)   pass A to (78,32)
+ 323.81 ours=10 opp=10 ball=(78,23)   dribble
+ 324.32 ours=11 opp=10 ball=(75,23)   press (A+RT)
+ 324.42 ours=10 opp=10 ball=(74,23)   dribble
+ 325.22 ours=11 opp=10 ball=(71,22)   press (A+RT)
+ 325.32 ours=11 opp=11 ball=(72,22)   dribble
+ 325.52 ours=10 opp=12 ball=(69,24)   pass A to (79,37)
+ 325.62 ours=10 opp=11 ball=(68,24)   dribble
+ 326.42 ours=11 opp=10 ball=(64,26)   press (A+RT)
+ 327.12 ours=10 opp=11 ball=(61,23)   chase
+ 327.32 ours=10 opp=11 ball=(61,22)   dribble
+ 327.83 ours=11 opp=11 ball=(60,20)   pass A to (73,36)
+ 327.93 ours=10 opp=11 ball=(59,20)   dribble
+ 328.73 ours=11 opp=10 ball=(57,21)   press (A+RT)
+ 330.98 ours=10 opp=11 ball=(52,29)   chase
+ 331.19 ours=11 opp=10 ball=(53,30)   press (A+RT)
+ 333.70 ours=10 opp=11 ball=(45,32)   chase
+ 333.90 ours=10 opp=11 ball=(44,32)   dribble
+ 334.20 ours=10 opp=11 ball=(44,34)   pass A to (61,30)
+ 334.30 ours=10 opp=11 ball=(44,35)   dribble
+ 335.11 ours=10 opp=11 ball=(40,37)   pass A to (30,39)
+ 335.21 ours=10 opp=10 ball=(40,37)   dribble
+ 336.02 ours=10 opp=10 ball=(42,39)   pass A to (60,27)
+ 336.12 ours=10 opp=10 ball=(42,40)   dribble
+ 337.02 ours=11 opp=10 ball=(40,42)   press (A+RT)
+ 341.85 ours=10 opp=11 ball=(16,38)   chase
+ 342.15 ours=10 opp=11 ball=(17,38)   pass A to (19,44)
+ 342.25 ours=12 opp=11 ball=(18,42)   dribble
+ 343.06 ours=11 opp=11 ball=(21,48)   pass A to (47,45)
+ 343.16 ours=11 opp=11 ball=(21,49)   dribble
+ 343.96 ours=11 opp=11 ball=(23,52)   pass A to (47,46)
+ 344.06 ours=11 opp=11 ball=(23,52)   dribble
+ 346.67 ours=11 opp=12 ball=(14,34)   pass Y to (32,56)
+ 346.77 ours=13 opp=11 ball=(14,34)   dribble
+ 346.97 ours=11 opp=12 ball=(14,34)   press (A+RT)
+ 347.07 ours=10 opp=12 ball=(14,34)   dribble
+ 347.58 ours=15 opp=10 ball=(14,34)   press (A+RT)
+ 347.89 ours=14 opp=11 ball=(14,34)   chase
+ 348.19 ours=11 opp= 9 ball=(14,34)   press (A+RT)
+ 348.59 ours= 0 opp= 0 ball=-         blind track back
+ 365.34 ours= 0 opp= 0 ball=-         no radar
+ 368.44 ours= 0 opp= 0 ball=-         skip scene: A
+ 368.65 ours= 0 opp= 0 ball=-         no radar
+ 369.21 panel defend: MOVE G SWITCH TOGGLE LKEEP FENDE ERLAY
+ 369.21 ours= 0 opp= 0 ball=-         their set piece: wait
+ 369.31 ours= 0 opp= 0 ball=-         no radar
+ 369.41 ours= 0 opp= 0 ball=-         blind track back
+ 370.21 ours= 0 opp= 0 ball=-         their set piece: wait
+ 370.31 ours= 0 opp= 0 ball=-         blind track back
+ 371.22 ours= 0 opp= 0 ball=-         their set piece: wait
+ 371.32 ours= 0 opp= 0 ball=-         blind track back
+ 372.25 ours= 0 opp= 0 ball=-         their set piece: wait
+ 372.36 ours= 0 opp= 0 ball=-         blind track back
+ 373.30 ours= 0 opp= 0 ball=-         their set piece: wait
+ 373.40 ours= 0 opp= 0 ball=-         blind track back
+ 375.92 ours= 6 opp=10 ball=(6,50)    press (A+RT)
+ 376.53 ours= 4 opp= 9 ball=(8,41)    blind track back
+ 376.63 ours= 6 opp= 9 ball=(8,39)    press (A+RT)
+ 377.24 ours= 4 opp=10 ball=(1,34)    blind track back
+ 377.34 ours= 5 opp=10 ball=(1,34)    press (A+RT)
+ 378.64 ours= 4 opp=10 ball=(7,28)    blind track back
+ 378.74 ours= 5 opp=11 ball=(7,27)    press (A+RT)
+ 378.94 ours= 4 opp= 9 ball=(7,27)    blind track back
+ 379.04 ours= 6 opp=10 ball=(8,26)    press (A+RT)
+ 379.65 ours= 0 opp= 0 ball=-         blind track back
+ 380.65 ours= 7 opp=10 ball=(7,28)    press (A+RT)
+ 381.16 ours= 0 opp= 0 ball=-         blind track back
+ 382.27 ours= 0 opp= 0 ball=-         no radar
+ 382.87 ours= 0 opp= 0 ball=-         blind track back
+ 383.17 ours= 0 opp= 0 ball=-         no radar
+ 383.57 ours= 0 opp= 0 ball=-         blind track back
+ 383.97 ours= 0 opp= 0 ball=-         no radar
+ 386.98 ours= 0 opp= 0 ball=-         skip scene: A
+ 387.11 ours= 0 opp= 0 ball=-         no radar
+ 387.91 ours= 9 opp=10 ball=(-3,18)   press (A+RT)
+ 388.92 ours= 8 opp=11 ball=(-3,17)   chase
+ 389.12 ours= 9 opp=11 ball=(-3,17)   dribble
+ 390.13 ours=11 opp=11 ball=(17,27)   pass A to (37,37)
+ 390.23 ours=11 opp=11 ball=(18,27)   dribble
+ 390.73 ours=12 opp=10 ball=(19,27)   press (A+RT)
+ 391.66 ours=10 opp=10 ball=(15,29)   tackle
+ 391.76 ours= 9 opp=10 ball=(15,29)   switch (LB)
+ 391.86 ours= 9 opp=10 ball=(14,29)   press (A+RT)
+ 392.56 ours=10 opp=11 ball=(12,29)   chase
+ 392.76 ours= 9 opp=11 ball=(11,29)   pass Y to (34,14)
+ 392.86 ours= 9 opp=11 ball=(11,29)   dribble
+ 393.66 ours=10 opp=11 ball=(10,31)   pass A to (14,49)
+ 393.76 ours=11 opp=11 ball=(11,32)   dribble
+ 394.56 ours=12 opp=11 ball=(20,38)   pass Y to (32,52)
+ 394.66 ours=11 opp=11 ball=(21,39)   dribble
+ 395.47 ours=11 opp=11 ball=(30,43)   pass A to (36,51)
+ 395.57 ours=11 opp=11 ball=(31,44)   dribble
+ 396.57 ours=11 opp=11 ball=(44,40)   pass A to (47,26)
+ 396.67 ours=11 opp=11 ball=(46,39)   dribble
+ 397.17 ours=11 opp= 9 ball=(48,34)   press (A+RT)
+ 397.47 ours=11 opp=11 ball=(47,29)   chase
+ 397.67 ours=10 opp=11 ball=(47,26)   pass A to (39,11)
+ 397.77 ours=10 opp=11 ball=(48,26)   dribble
+ 398.58 ours=10 opp=11 ball=(51,26)   pass A to (54,41)
+ 398.68 ours=10 opp=10 ball=(51,26)   dribble
+ 399.48 ours=10 opp=11 ball=(50,20)   pass A to (55,40)
+ 399.59 ours=10 opp=11 ball=(50,19)   dribble
+ 400.09 ours=11 opp=10 ball=(48,20)   press (A+RT)
+ 402.20 ours= 9 opp=11 ball=(36,27)   chase
+ 402.30 ours=10 opp=10 ball=(34,27)   press (A+RT)
+ 405.61 ours= 9 opp=11 ball=(25,21)   chase
+ 405.81 ours=10 opp=11 ball=(25,21)   pass A to (45,36)
+ 405.91 ours=10 opp=11 ball=(25,21)   dribble
+ 410.02 ours= 9 opp=11 ball=(56,36)   pass A to (43,22)
+ 410.12 ours= 9 opp=11 ball=(56,36)   dribble
+ 410.93 ours=11 opp=10 ball=(63,36)   press (A+RT)
+ 418.55 ours=10 opp=11 ball=(34,43)   chase
+ 418.76 ours=10 opp=11 ball=(33,43)   pass Y to (44,18)
+ 418.86 ours=10 opp=11 ball=(33,43)   dribble
+ 419.66 ours=11 opp=11 ball=(37,46)   pass A to (50,60)
+ 419.76 ours=10 opp=11 ball=(38,47)   dribble
+ 420.36 ours=11 opp=10 ball=(39,46)   press (A+RT)
+ 420.96 ours=11 opp= 9 ball=(36,46)   tackle
+ 421.06 ours=11 opp= 9 ball=(36,46)   press (A+RT)
+ 421.77 ours=11 opp=11 ball=(34,40)   chase
+ 421.87 ours=11 opp=10 ball=(34,39)   press (A+RT)
+ 425.28 ours= 9 opp=11 ball=(14,38)   chase
+ 425.58 ours=10 opp=11 ball=(7,36)    dribble
+ 426.58 ours=10 opp=11 ball=(4,35)    pass Y to (29,31)
+ 426.69 ours=10 opp=11 ball=(4,35)    dribble
+ 427.49 ours=10 opp=11 ball=(5,35)    pass A to (19,42)
+ 427.59 ours=10 opp=11 ball=(5,35)    dribble
+ 428.40 ours=10 opp=11 ball=(6,35)    pass A to (21,45)
+ 428.50 ours= 8 opp=11 ball=(6,36)    dribble
+ 429.30 ours=11 opp=11 ball=(13,38)   pass A to (16,55)
+ 429.40 ours=10 opp=11 ball=(14,39)   dribble
+ 430.61 ours=10 opp=11 ball=(23,31)   pass A to (44,44)
+ 430.71 ours= 8 opp=11 ball=(24,31)   dribble
+ 431.41 ours=11 opp=10 ball=(30,33)   press (A+RT)
+ 431.61 ours=12 opp=11 ball=(31,33)   chase
+ 431.71 ours=11 opp=11 ball=(31,33)   pass A to (48,47)
+ 431.81 ours=12 opp=10 ball=(31,34)   press (A+RT)
+ 432.11 ours=11 opp=11 ball=(34,35)   chase
+ 433.11 ours=10 opp=11 ball=(45,43)   dribble
+ 434.32 ours=10 opp=11 ball=(50,36)   pass A to (50,44)
+ 434.42 ours=11 opp=11 ball=(51,36)   dribble
+ 435.22 ours=11 opp=11 ball=(55,40)   pass A to (53,26)
+ 435.32 ours=11 opp=11 ball=(56,41)   dribble
+ 436.12 ours=11 opp=11 ball=(57,40)   pass A to (60,26)
+ 436.22 ours=11 opp=11 ball=(56,39)   dribble
+ 437.03 ours=11 opp=11 ball=(61,30)   pass A to (54,38)
+ 437.13 ours=10 opp=11 ball=(62,29)   dribble
+ 437.43 ours=11 opp=10 ball=(64,27)   press (A+RT)
+ 439.03 ours=10 opp=10 ball=(56,27)   switch (LB)
+ 439.13 ours=10 opp=10 ball=(55,28)   press (A+RT)
+ 441.64 ours=10 opp=11 ball=(44,27)   chase
+ 441.84 ours=10 opp=11 ball=(44,27)   dribble
+ 442.25 ours=10 opp=11 ball=(43,27)   pass A to (55,27)
+ 442.35 ours=10 opp=11 ball=(42,27)   dribble
+ 443.45 ours=11 opp=11 ball=(42,27)   pass A to (59,25)
+ 443.55 ours=12 opp=12 ball=(43,27)   dribble
+ 444.05 ours=12 opp=10 ball=(49,27)   press (A+RT)
+ 447.47 ours= 9 opp=10 ball=(46,14)   switch (LB)
+ 447.57 ours= 9 opp=10 ball=(45,14)   press (A+RT)
+ 448.50 ours= 9 opp=11 ball=(46,16)   chase
+ 448.60 ours= 9 opp=11 ball=(47,16)   press (A+RT)
+ 448.70 ours= 9 opp=11 ball=(47,16)   pass A to (38,23)
+ 448.80 ours= 9 opp=11 ball=(47,16)   dribble
+ 450.31 ours=11 opp=10 ball=(45,17)   press (A+RT)
+ 451.72 ours=11 opp=11 ball=(39,22)   chase
+ 451.93 ours=11 opp=10 ball=(39,27)   press (A+RT)
+ 453.93 ours=10 opp=11 ball=(33,21)   chase
+ 454.03 ours=10 opp=10 ball=(32,21)   press (A+RT)
+ 454.13 ours=11 opp=11 ball=(32,21)   chase
+ 454.23 ours=11 opp=10 ball=(32,21)   press (A+RT)
+ 454.33 ours=11 opp=11 ball=(31,21)   chase
+ 454.53 ours=11 opp=10 ball=(30,21)   press (A+RT)
+ 457.24 ours= 9 opp=11 ball=(18,26)   chase
+ 457.34 ours= 9 opp=10 ball=(17,26)   press (A+RT)
+ 457.44 ours=10 opp=11 ball=(15,28)   chase
+ 457.64 ours=10 opp=11 ball=(10,29)   pass Y to (31,37)
+ 457.74 ours=10 opp=10 ball=(-0,23)   dribble
+ 458.76 ours=10 opp=12 ball=(5,33)    pass A to (17,21)
+ 458.86 ours=11 opp=12 ball=(5,32)    dribble
+ 460.26 ours=12 opp=11 ball=(15,28)   pass A to (9,32)
+ 460.36 ours=11 opp=11 ball=(17,27)   dribble
+ 461.17 ours=12 opp=11 ball=(26,23)   pass A to (47,37)
+ 461.27 ours= 9 opp= 9 ball=(27,22)   dribble
+ 462.67 ours=10 opp=11 ball=(44,30)   pass A to (37,12)
+ 462.77 ours=11 opp=11 ball=(45,31)   dribble
+ 463.77 ours=10 opp=11 ball=(46,32)   pass A to (41,10)
+ 463.87 ours=10 opp=11 ball=(46,32)   dribble
+ 464.78 ours=11 opp=10 ball=(44,31)   press (A+RT)
+ 465.48 ours=11 opp=11 ball=(40,31)   chase
+ 465.58 ours=10 opp=10 ball=(39,31)   press (A+RT)
+ 470.29 ours=11 opp=11 ball=(14,33)   chase
+ 471.30 ours= 0 opp= 0 ball=-         no radar
+ 472.30 ours=10 opp=11 ball=(-2,49)   dribble
+ 472.83 ours= 0 opp= 3 ball=-         blind dribble
+ 473.73 ours=10 opp= 7 ball=(-1,51)   dribble
+ 473.83 ours=13 opp= 4 ball=(-1,51)   blind dribble
+ 476.44 ours= 0 opp= 0 ball=-         no radar
+ 479.45 ours= 0 opp= 0 ball=-         skip scene: A
+ 479.57 ours= 0 opp= 0 ball=-         no radar
+ 480.27 ours= 0 opp= 0 ball=-         blind dribble
+ 480.88 panel defend: MOVE GOALKEEPER SWITCH DEFENDER TOGGLE OVERLAY
+ 480.88 ours= 0 opp= 0 ball=-         their set piece: wait
+ 480.98 ours= 0 opp= 0 ball=-         blind dribble
+ 481.88 ours= 0 opp= 0 ball=-         their set piece: wait
+ 481.98 ours= 0 opp= 0 ball=-         blind dribble
+ 482.88 ours= 0 opp= 0 ball=-         their set piece: wait
+ 482.98 ours= 0 opp= 0 ball=-         blind dribble
+ 483.89 ours= 0 opp= 0 ball=-         their set piece: wait
+ 484.00 ours= 0 opp= 0 ball=-         blind dribble
+ 484.93 ours= 0 opp= 0 ball=-         their set piece: wait
+ 485.03 ours= 0 opp= 0 ball=-         blind dribble
+ 486.77 ours= 5 opp=10 ball=(6,53)    switch (LB)
+ 486.87 ours= 6 opp= 9 ball=(7,51)    press (A+RT)
+ 488.77 ours=10 opp= 9 ball=(9,33)    tackle
+ 488.88 ours= 8 opp= 9 ball=(7,32)    press (A+RT)
+ 489.28 ours= 4 opp=10 ball=(-0,26)   blind track back
+ 490.48 ours= 8 opp=11 ball=(-3,20)   chase
+ 490.68 ours= 7 opp=11 ball=(-3,21)   dribble
+ 490.88 ours= 0 opp= 0 ball=-         blind dribble
+ 491.79 ours= 0 opp= 0 ball=-         no radar
+ 494.80 ours= 0 opp= 0 ball=-         skip scene: A
+ 494.93 ours= 0 opp= 0 ball=-         no radar
+ 495.74 ours= 5 opp=10 ball=(-2,17)   dribble
+ 498.49 panel kick: O PUSH TEAM UPHELD CALL TEAM SHORT GROUND PASS LOB PASS TOGGLE OVERLAY
+ 498.49 ours=32 opp=14 ball=(-3,29)   blind dribble
+ 498.83 ours=15 opp=15 ball=(-3,29)   dribble
+ 498.94 ours= 0 opp= 0 ball=-         blind dribble
+ 499.39 ours= 7 opp= 6 ball=(-3,29)   dribble
+ 499.50 ours= 8 opp= 4 ball=(-3,29)   set piece: A
+ 499.61 ours=10 opp= 6 ball=(-3,29)   dribble
+ 499.95 ours= 0 opp= 0 ball=-         blind dribble
+ 500.05 ours= 6 opp= 7 ball=(-3,29)   dribble
+ 501.56 ours=12 opp=11 ball=(16,34)   pass Y to (27,46)
+ 501.66 ours=10 opp=11 ball=(17,34)   dribble
+ 502.16 ours=11 opp= 9 ball=(20,35)   press (A+RT)
+ 502.46 ours=10 opp=11 ball=(24,38)   chase
+ 503.17 ours=11 opp= 9 ball=(31,44)   press (A+RT)
+ 504.37 ours=11 opp=11 ball=(39,51)   chase
+ 504.57 ours=11 opp= 8 ball=(38,51)   tackle
+ 504.67 ours=10 opp=10 ball=(37,51)   press (A+RT)
+ 505.27 ours=10 opp=11 ball=(36,53)   chase
+ 505.37 ours= 9 opp=10 ball=(36,54)   press (A+RT)
+ 506.88 ours=10 opp=11 ball=(25,48)   chase
+ 506.98 ours=10 opp= 9 ball=(25,48)   press (A+RT)
+ 507.18 ours=10 opp=11 ball=(25,48)   chase
+ 507.28 ours=10 opp= 9 ball=(25,48)   press (A+RT)
+ 507.58 ours=10 opp=11 ball=(26,49)   dribble
+ 507.68 ours=10 opp=11 ball=(28,50)   pass A to (48,33)
+ 507.78 ours=10 opp=11 ball=(30,51)   dribble
+ 508.58 ours=10 opp=10 ball=(40,53)   pass A to (50,34)
+ 508.68 ours=11 opp=10 ball=(40,53)   dribble
+ 509.48 ours=10 opp=11 ball=(46,55)   pass A to (52,33)
+ 509.58 ours=10 opp=11 ball=(46,55)   dribble
+ 510.39 ours= 2 opp=10 ball=(46,59)   blind dribble
+ 510.69 ours=10 opp=12 ball=(26,45)   dribble
+ 510.79 ours=14 opp=12 ball=(26,45)   pass A to (40,54)
+ 510.89 ours=10 opp=11 ball=(26,45)   dribble
+ 511.49 ours=21 opp=13 ball=(26,45)   blind dribble
+ 511.79 ours= 8 opp=10 ball=(44,51)   dribble
+ 511.99 ours=11 opp=10 ball=(43,52)   press (A+RT)
+ 514.91 ours= 4 opp=10 ball=(20,45)   blind track back
+ 515.21 ours= 6 opp=10 ball=(52,16)   switch (LB)
+ 515.31 ours=10 opp=10 ball=(30,51)   press (A+RT)
+ 515.41 ours=11 opp=11 ball=(30,49)   chase
+ 515.81 ours=13 opp=10 ball=(28,43)   press (A+RT)
+ 516.21 ours=11 opp=11 ball=(28,43)   chase
+ 516.31 ours=11 opp=10 ball=(27,43)   press (A+RT)
+ 519.12 ours=10 opp=11 ball=(23,52)   pass A to (43,35)
+ 519.22 ours=10 opp=11 ball=(24,52)   dribble
+ 520.04 ours=10 opp=11 ball=(24,52)   pass A to (45,35)
+ 520.14 ours=10 opp=11 ball=(24,52)   dribble
+ 525.16 ours=10 opp=11 ball=(59,40)   pass A to (67,25)
+ 525.26 ours=10 opp=11 ball=(60,39)   dribble
+ 525.96 ours=11 opp=10 ball=(64,39)   press (A+RT)
+ 526.06 ours= 9 opp=10 ball=(63,39)   dribble
+ 526.96 ours=11 opp=10 ball=(61,44)   press (A+RT)
+ 528.97 ours=11 opp=11 ball=(65,52)   chase
+ 529.37 ours=13 opp=10 ball=(70,53)   press (A+RT)
+ 532.18 ours=10 opp=10 ball=(58,57)   tackle
+ 532.28 ours= 9 opp=10 ball=(58,57)   switch (LB)
+ 532.38 ours= 9 opp=10 ball=(58,57)   press (A+RT)
+ 533.48 ours=10 opp=11 ball=(55,57)   dribble
+ 536.79 ours=10 opp=10 ball=(73,49)   pass A to (77,36)
+ 536.89 ours=10 opp=10 ball=(73,49)   dribble
+ 537.89 ours=11 opp=10 ball=(80,46)   press (A+RT)
+ 537.99 ours=11 opp=11 ball=(80,46)   dribble
+ 538.09 ours=11 opp=10 ball=(81,46)   press (A+RT)
+ 539.50 ours=11 opp=11 ball=(80,46)   chase
+ 539.60 ours=10 opp=10 ball=(80,45)   press (A+RT)
+ 540.00 ours= 8 opp=11 ball=(77,44)   chase
+ 540.20 ours= 9 opp=11 ball=(74,43)   pass A to (83,34)
+ 540.30 ours= 9 opp=11 ball=(71,42)   dribble
+ 541.00 ours=12 opp=10 ball=(63,39)   press (A+RT)
+ 545.62 ours=11 opp=11 ball=(44,43)   chase
+ 545.92 ours=11 opp=10 ball=(46,47)   press (A+RT)
+ 549.84 ours= 8 opp=10 ball=(30,43)   switch (LB)
+ 549.94 ours= 9 opp=10 ball=(29,43)   press (A+RT)
+ 552.64 ours=10 opp=11 ball=(14,41)   chase
+ 552.95 ours=10 opp=11 ball=(6,40)    dribble
+ 553.25 ours= 0 opp= 0 ball=-         blind dribble
+ 554.96 ours=10 opp= 8 ball=(1,40)    dribble
+ 555.06 ours= 0 opp= 0 ball=-         blind dribble
+ 555.17 ours= 7 opp= 6 ball=(1,40)    dribble
+ 555.27 ours= 0 opp= 0 ball=-         blind dribble
+ 555.67 ours= 0 opp= 0 ball=-         no radar

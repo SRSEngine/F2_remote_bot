@@ -1,0 +1,20 @@
+ 275.11 ours= 0 opp= 0 ball=-         no radar
+ 298.89 ours=10 opp=11 ball=(14,45)   chase
+ 301.10 ours=11 opp=11 ball=(8,39)    dribble
+ 301.20 ours=10 opp=11 ball=(8,40)    chase
+ 301.30 ours=11 opp=11 ball=(9,40)    dribble
+ 301.70 ours=12 opp= 8 ball=-         no radar
+ 306.42 ours=11 opp= 9 ball=(18,46)   pass Y to (37,69)
+ 306.52 ours=11 opp=10 ball=(20,47)   chase
+ 307.02 ours=11 opp=10 ball=(26,52)   dribble
+ 307.12 ours=10 opp=10 ball=(27,53)   chase
+ 307.32 ours=11 opp=11 ball=-         no radar
+ 356.11 ours= 8 opp=10 ball=(39,54)   chase
+ 365.04 ours=11 opp=10 ball=(56,38)   dribble
+ 366.04 ours=10 opp=10 ball=(58,41)   chase
+ 373.97 ours=12 opp= 3 ball=-         no radar
+ 377.78 ours=11 opp= 5 ball=(44,53)   chase
+ 377.98 ours=11 opp= 9 ball=(43,53)   pass Y to (75,59)
+ 378.08 ours=11 opp= 9 ball=(42,55)   chase
+ 378.48 ours=11 opp= 5 ball=-         no radar
+frames: 1093 {'no': 871, 'chase': 204, 'dribble': 16, 'pass': 2}

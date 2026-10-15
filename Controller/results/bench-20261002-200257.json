@@ -1,0 +1,422 @@
+[
+  {
+    "method": "pipe",
+    "call_ms": 0.0737,
+    "local_ms": 0.0563,
+    "e2e_ms": 122.09809999999999
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1659,
+    "local_ms": 0.0772,
+    "e2e_ms": 126.14949999999999
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.2195,
+    "local_ms": 0.152,
+    "e2e_ms": 110.64529999999999
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.1784,
+    "local_ms": 0.1162,
+    "e2e_ms": 145.8513
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.1941,
+    "local_ms": 0.0686,
+    "e2e_ms": 174.0533
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 81.4434,
+    "local_ms": 0.6117,
+    "e2e_ms": 92.2081
+  },
+  {
+    "method": "cloud",
+    "call_ms": 2820.0179,
+    "local_ms": -1,
+    "e2e_ms": 2243.917
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.234,
+    "local_ms": 0.0916,
+    "e2e_ms": 101.1964
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1423,
+    "local_ms": 0.0673,
+    "e2e_ms": 113.1074
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1444,
+    "local_ms": 0.0759,
+    "e2e_ms": 120.3542
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.1027,
+    "local_ms": 0.0716,
+    "e2e_ms": 110.3738
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.55,
+    "local_ms": 0.0936,
+    "e2e_ms": 135.09730000000002
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 81.3136,
+    "local_ms": 0.4266,
+    "e2e_ms": 161.3356
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1393.7224,
+    "local_ms": -1,
+    "e2e_ms": 1342.2776000000001
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0631,
+    "local_ms": 0.0519,
+    "e2e_ms": 183.83620000000002
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1981,
+    "local_ms": 0.0974,
+    "e2e_ms": 99.81649999999999
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1547,
+    "local_ms": 0.0671,
+    "e2e_ms": 148.9848
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0562,
+    "local_ms": 0.0367,
+    "e2e_ms": 99.79690000000001
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.3547,
+    "local_ms": 0.0735,
+    "e2e_ms": 162.3483
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 81.0976,
+    "local_ms": 0.6754,
+    "e2e_ms": 102.626
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1384.4812,
+    "local_ms": -1,
+    "e2e_ms": 1371.9663999999998
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0449,
+    "local_ms": 0.0285,
+    "e2e_ms": 102.9101
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.204,
+    "local_ms": 0.1544,
+    "e2e_ms": 536.9569
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1326,
+    "local_ms": 0.0667,
+    "e2e_ms": 473.09630000000004
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 8.1003,
+    "local_ms": 7.4773,
+    "e2e_ms": 304.3365
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.1901,
+    "local_ms": 0.1503,
+    "e2e_ms": 160.4056
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 80.7376,
+    "local_ms": 0.4339,
+    "e2e_ms": 255.3609
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1102.7628,
+    "local_ms": -1,
+    "e2e_ms": 1054.6919
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0612,
+    "local_ms": 0.0449,
+    "e2e_ms": 142.9447
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1401,
+    "local_ms": 0.0722,
+    "e2e_ms": 138.4984
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1636,
+    "local_ms": 0.084,
+    "e2e_ms": 151.474
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.224,
+    "local_ms": 0.1173,
+    "e2e_ms": 93.6178
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.1981,
+    "local_ms": 1.4558,
+    "e2e_ms": 118.6099
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 80.9915,
+    "local_ms": 0.4793,
+    "e2e_ms": 126.5404
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1708.8506,
+    "local_ms": -1,
+    "e2e_ms": 1644.7855
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.085,
+    "local_ms": 0.0602,
+    "e2e_ms": 96.62599999999999
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1017,
+    "local_ms": 0.0467,
+    "e2e_ms": 105.1642
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1353,
+    "local_ms": 0.0613,
+    "e2e_ms": 130.4681
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0627,
+    "local_ms": 0.0406,
+    "e2e_ms": 113.93269999999998
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.4682,
+    "local_ms": 0.1083,
+    "e2e_ms": 117.9409
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 80.4986,
+    "local_ms": 0.4125,
+    "e2e_ms": 210.0635
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1359.3358,
+    "local_ms": -1,
+    "e2e_ms": 1305.0611999999999
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1016,
+    "local_ms": 0.0527,
+    "e2e_ms": 127.3694
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.4497,
+    "local_ms": 0.2796,
+    "e2e_ms": 134.8313
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1017,
+    "local_ms": 0.0486,
+    "e2e_ms": 113.57900000000001
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0742,
+    "local_ms": 0.0536,
+    "e2e_ms": 124.2449
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.7117,
+    "local_ms": 0.0461,
+    "e2e_ms": 113.3193
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 81.11,
+    "local_ms": 0.507,
+    "e2e_ms": 134.5796
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1323.7493,
+    "local_ms": -1,
+    "e2e_ms": 1295.1918999999998
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0984,
+    "local_ms": 0.0396,
+    "e2e_ms": 102.7049
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.201,
+    "local_ms": 0.1025,
+    "e2e_ms": 115.74579999999999
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1641,
+    "local_ms": 0.0874,
+    "e2e_ms": 97.7726
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0919,
+    "local_ms": 0.0441,
+    "e2e_ms": 157.1104
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.1255,
+    "local_ms": 0.135,
+    "e2e_ms": 105.78490000000001
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 80.6169,
+    "local_ms": 0.6075,
+    "e2e_ms": 121.437
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1080.471,
+    "local_ms": -1,
+    "e2e_ms": 999.0265
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0939,
+    "local_ms": 0.0479,
+    "e2e_ms": 112.58250000000001
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1274,
+    "local_ms": 0.0706,
+    "e2e_ms": 149.7006
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.0873,
+    "local_ms": 0.0396,
+    "e2e_ms": 128.4067
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0896,
+    "local_ms": 0.0442,
+    "e2e_ms": 109.61340000000001
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.1402,
+    "local_ms": 0.046,
+    "e2e_ms": 111.6512
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 80.7882,
+    "local_ms": 0.7081,
+    "e2e_ms": 141.51940000000002
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1068.2481,
+    "local_ms": -1,
+    "e2e_ms": 1070.0025
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0491,
+    "local_ms": 0.0301,
+    "e2e_ms": 96.05439999999999
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.3142,
+    "local_ms": 0.1779,
+    "e2e_ms": 155.5473
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.0928,
+    "local_ms": 0.042,
+    "e2e_ms": 88.6757
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0801,
+    "local_ms": 0.0463,
+    "e2e_ms": 137.3392
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.6506,
+    "local_ms": 0.0573,
+    "e2e_ms": 105.94050000000001
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 81.0291,
+    "local_ms": 0.4437,
+    "e2e_ms": 145.5073
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1401.3427,
+    "local_ms": -1,
+    "e2e_ms": 1316.2315
+  }
+]

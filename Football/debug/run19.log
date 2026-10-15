@@ -1,0 +1,35 @@
+ 458.37 ours=11 opp=10 ball=(71,13)   press (A+RT)
+ 459.68 ours=11 opp=10 ball=(76,16)   switch (LB)
+ 459.78 ours=11 opp=10 ball=(77,16)   press (A+RT)
+ 461.68 ours= 9 opp=10 ball=(82,16)   switch (LB)
+ 461.78 ours= 9 opp=10 ball=(83,16)   press (A+RT)
+ 461.88 ours= 9 opp=11 ball=(83,16)   chase
+ 462.01 ours=10 opp=10 ball=(83,16)   press (A+RT)
+ 464.45 ours=10 opp=11 ball=(86,21)   chase
+ 464.71 ours=38 opp=17 ball=(86,22)   no radar
+ 464.87 ours=10 opp=11 ball=(86,22)   dribble
+ 465.15 ours=10 opp=10 ball=(88,22)   pass Y to (74,11)
+ 465.27 ours=10 opp=10 ball=(87,22)   dribble
+ 465.57 ours=11 opp=10 ball=(86,21)   press (A+RT)
+ 467.96 ours=11 opp=11 ball=(87,24)   chase
+ 468.32 ours=10 opp=11 ball=(87,24)   pass A to (67,25)
+ 468.43 ours=10 opp=11 ball=(87,24)   dribble
+ 471.41 ours=10 opp=11 ball=(70,19)   pass A to (57,37)
+ 471.52 ours=10 opp=11 ball=(70,19)   dribble
+ 472.35 ours=10 opp=11 ball=(64,20)   pass A to (53,37)
+ 472.49 ours=10 opp= 9 ball=(62,21)   dribble
+ 472.77 ours=11 opp=10 ball=(57,24)   press (A+RT)
+ 474.21 ours=10 opp=11 ball=(46,35)   chase
+ 474.35 ours=10 opp= 9 ball=(46,35)   press (A+RT)
+ 474.62 ours=10 opp=11 ball=(47,35)   chase
+ 474.91 ours=10 opp= 9 ball=(46,36)   press (A+RT)
+ 475.06 ours=11 opp=11 ball=(46,36)   chase
+ 475.36 ours=10 opp= 9 ball=(47,41)   press (A+RT)
+ 475.50 ours=42 opp=16 ball=(47,41)   no radar
+ 477.13 ours=16 opp= 7 ball=(47,41)   press (A+RT)
+ 477.33 ours= 0 opp= 0 ball=-         no radar
+ 477.83 ours=16 opp= 7 ball=(47,41)   press (A+RT)
+ 478.14 ours=21 opp= 5 ball=(47,41)   no radar
+ 478.24 ours=12 opp=11 ball=(47,41)   chase
+ 478.34 ours=12 opp= 7 ball=(47,41)   press (A+RT)
+ 478.44 ours= 0 opp= 0 ball=-         no radar

@@ -1,0 +1,233 @@
+
+════ 2026-10-10 17:58:14  شروع اجرا  (ریموت C11، pid 28484) START_GAME=True ════
+17:59:58  ■ توقف       شروع بازی › MainUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:59:02 Text in box: '27 XBOX One'
+            17:59:02 Found 'One'
+            17:59:08 Looking for 'Ultimate'
+            17:59:18 Looking for 'Ultimate'
+            17:59:29 Looking for 'Ultimate'
+            17:59:39 Looking for 'Ultimate'
+            17:59:49 Looking for 'Ultimate'
+            17:59:49 Found 'Setting'
+            17:59:50 Looking for 'Ultimate'
+            17:59:50 Found 'Setting'
+            17:59:50 Found 'Ultimate'
+            17:59:51 Looking for 'Main Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 1:43  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:25:01  شروع اجرا  (ریموت C11، pid 26248) START_GAME=True  SHARED=True ════
+18:25:01  ✓ انجام شد   اکانت Phan › شروع بازی › CheckAccount  |  اکانت Phan روی کنسول است (گیمرتگ: Phan#9372)
+18:26:56  ✓ انجام شد   اکانت Phan  |  بازی باز شد و صفحه‌ی SBC آمد
+18:27:27  ·            اکانت Phan › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:27:28  ·            اکانت Phan › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:27:29  ·            اکانت Phan › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:27:31  ·            اکانت Phan › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:27:31  ✓ انجام شد   اکانت Phan  |  اکانت Phan تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Phan  |  مدت 2:30  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:46:52  شروع اجرا  (ریموت C11، pid 26868) START_GAME=True  SHARED=True ════
+18:46:53  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive Gosling)
+18:48:48  ✓ انجام شد   اکانت Clive  |  بازی باز شد و صفحه‌ی SBC آمد
+18:49:20  ·            اکانت Clive › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:49:21  ·            اکانت Clive › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:49:22  ·            اکانت Clive › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:49:24  ·            اکانت Clive › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:49:24  ✓ انجام شد   اکانت Clive  |  اکانت Clive تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Clive  |  مدت 2:31  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:53:51  شروع اجرا  (ریموت C11، pid 20884) START_GAME=True  SHARED=True ════
+18:54:06  ·            اکانت Clive › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'phan tyra' — اکانت لازم: Clive
+18:54:07  ⏸ توقف موقت  اکانت Clive › شروع بازی › CheckAccount  |  پیدا کردن اکانت Clive روی کنسول نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: روی کنسول به اکانت Clive (Clive.gosling78@outlook.com) سوئیچ کنید و صفحه را روی Home بگذارید
+          عکس: shots\C11\1010_185407_001_pause__Clive.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:53:51 ===== Account: Clive (Clive.gosling78@outlook.com) =====
+            18:53:51 ===== باز کردن بازی (تلاش 1) =====
+18:54:23  ▶ ادامه      اکانت Clive › شروع بازی › CheckAccount  |  بعد از 0:16 توقف
+18:54:28  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+18:57:14  ■ توقف       اکانت Clive › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:55:06 Text in box: '27 XBOX One'
+            18:55:06 Found 'One'
+            18:55:12 Looking for 'Ultimate'
+            18:55:22 Looking for 'Ultimate'
+            18:55:32 Looking for 'Ultimate'
+            18:55:42 Looking for 'Ultimate'
+            18:55:52 Looking for 'Ultimate'
+            18:56:02 Looking for 'Ultimate'
+            18:56:13 Looking for 'Ultimate'
+            18:56:23 Looking for 'Ultimate'
+            18:56:33 Looking for 'Ultimate'
+            18:56:43 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 3:23  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-10 18:57:18  شروع اجرا  (ریموت C11، pid 28420) START_GAME=True  SHARED=True ════
+18:57:22  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+18:58:07  ■ توقف       اکانت Clive › شروع بازی › find_platform  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:57:36 Found 'My games' -> entering
+            18:57:37 Found 'Games'
+            18:57:41 Text in box: '25 Xbox One'
+            18:57:42 Found 'Games'
+            18:57:46 Text in box: '25 Xbox Seri'
+            18:57:47 Found 'Games'
+            18:57:50 Text in box: '26 Xbox One'
+            18:57:55 Found 'Games'
+            18:57:59 Text in box: '26 Xbox Seril'
+            18:58:01 Found 'Games'
+            18:58:04 Text in box: '27 XBOX One'
+            18:58:04 Found 'One'
+════ پایان: ■ توقف از پنل  |  مدت 0:48  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:58:10  شروع اجرا  (ریموت C11، pid 26732) START_GAME=True  SHARED=True ════
+18:58:15  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+19:00:14  ✓ انجام شد   اکانت Clive  |  بازی باز شد و صفحه‌ی SBC آمد
+19:00:56  ·            اکانت Clive › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:00:56  ·            اکانت Clive › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:00:57  ·            اکانت Clive › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:00:59  ·            اکانت Clive › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+19:00:59  ✓ انجام شد   اکانت Clive  |  اکانت Clive تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Clive  |  مدت 2:49  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 14:21:49  شروع اجرا  (ریموت C11، pid 6432) START_GAME=True  SHARED=True ════
+14:22:00  ·            اکانت Clive › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Phan#9372' — اکانت لازم: Clive
+14:22:18  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+14:23:20  ■ توقف       اکانت Clive › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:22:37 Text in box: '25 Xbox One'
+            14:22:38 Found 'Games'
+            14:22:42 Text in box: '25 Xbox Seri'
+            14:22:43 Found 'Games'
+            14:22:47 Text in box: '26 Xbox One'
+            14:22:48 Found 'Games'
+            14:22:51 Text in box: '26 Xbox Seril'
+            14:22:53 Found 'Games'
+            14:22:56 Text in box: '27 XBOX One'
+            14:22:56 Found 'One'
+            14:23:02 Looking for 'Ultimate'
+            14:23:12 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 1:30  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 14:23:28  شروع اجرا  (ریموت C11، pid 21172) START_GAME=True  SHARED=True ════
+14:23:33  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+14:24:38  ‼ خطای کد    اکانت Clive › شروع بازی › FindUltimate  |  ConnectionError: ریموت C11 در دسترس نیست (\\.\pipe\xbrp-C11). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C11 در دسترس نیست (\\.\pipe\xbrp-C11). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:23:54 Found 'Games'
+            14:23:57 Text in box: '25 Xbox Seri'
+            14:23:59 Found 'Games'
+            14:24:02 Text in box: '26 Xbox One'
+            14:24:03 Found 'Games'
+            14:24:07 Text in box: '26 Xbox Seril'
+            14:24:08 Found 'Games'
+            14:24:12 Text in box: '27 XBOX One'
+            14:24:12 Found 'One'
+            14:24:18 Looking for 'Ultimate'
+            14:24:28 Looking for 'Ultimate'
+            14:24:38 Looking for 'Ultimate'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:10  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 14:25:08  شروع اجرا  (ریموت C11، pid 19660) START_GAME=True  SHARED=True ════
+14:25:19  ✓ انجام شد   اکانت Phan › شروع بازی › CheckAccount  |  اکانت Phan روی کنسول است (گیمرتگ: Phan#9372)
+14:27:45  ·            اکانت Phan › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+14:28:25  ✓ انجام شد   اکانت Phan  |  بازی باز شد و صفحه‌ی SBC آمد
+14:28:56  ·            اکانت Phan › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+14:28:57  ·            اکانت Phan › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+14:28:58  ·            اکانت Phan › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+14:29:00  ·            اکانت Phan › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+14:29:00  ✓ انجام شد   اکانت Phan  |  اکانت Phan تمام شد
+14:29:10  ·            اکانت Clive › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'phan tyra' — اکانت لازم: Clive
+14:29:28  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive Gosling)
+14:34:02  ■ توقف       اکانت Clive › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:29:49 Found 'Games'
+            14:29:52 Text in box: '25 Xbox Seri'
+            14:29:54 Found 'Games'
+            14:29:57 Text in box: '26 Xbox One'
+            14:29:58 Found 'Games'
+            14:30:02 Text in box: '26 Xbox Seril'
+            14:30:03 Found 'Games'
+            14:30:07 Text in box: '27 XBOX One'
+            14:30:07 Found 'One'
+            14:30:13 Looking for 'Ultimate'
+            14:30:23 Looking for 'Ultimate'
+            14:30:33 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 8:53  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 14:34:03  شروع اجرا  (ریموت C11، pid 18968) START_GAME=True  SHARED=True ════
+14:34:08  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+14:36:20  ✓ انجام شد   اکانت Clive  |  بازی باز شد و صفحه‌ی SBC آمد
+14:36:55  ·            اکانت Clive › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+14:36:57  ·            اکانت Clive › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+14:36:58  ·            اکانت Clive › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+14:36:59  ·            اکانت Clive › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+14:36:59  ✓ انجام شد   اکانت Clive  |  اکانت Clive تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Clive  |  مدت 2:56  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 18:22:26  شروع اجرا  (ریموت C11، pid 20572) START_GAME=True  SHARED=True ════
+18:22:32  ✓ انجام شد   اکانت Phan › شروع بازی › CheckAccount  |  اکانت Phan روی کنسول است (گیمرتگ: Phan#9372)
+18:24:56  ·            اکانت Phan › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:26:39  ✗ خطا        اکانت Phan › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C11\1011_182639_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:24:46 Looking for 'Ultimate'
+            18:24:56 FindUltimate نشد؛ ادامه
+            18:24:56 Looking for 'Main Ultimate'
+            18:25:06 Looking for 'Main Ultimate'
+            18:25:17 Looking for 'Main Ultimate'
+            18:25:27 Looking for 'Main Ultimate'
+            18:25:37 Looking for 'Main Ultimate'
+            18:25:47 Looking for 'Main Ultimate'
+            18:25:58 Looking for 'Main Ultimate'
+            18:26:08 Looking for 'Main Ultimate'
+            18:26:18 Looking for 'Main Ultimate'
+            18:26:29 Looking for 'Main Ultimate'
+18:26:39  ↻ تلاش دوباره اکانت Phan › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:26:44  ✓ انجام شد   اکانت Phan › شروع بازی › CheckAccount  |  اکانت Phan روی کنسول است (گیمرتگ: Phan#9372)
+18:29:19  ·            اکانت Phan › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:31:02  ✗ خطا        اکانت Phan › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C11\1011_183102_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:29:09 Looking for 'Ultimate'
+            18:29:19 FindUltimate نشد؛ ادامه
+            18:29:19 Looking for 'Main Ultimate'
+            18:29:30 Looking for 'Main Ultimate'
+            18:29:40 Looking for 'Main Ultimate'
+            18:29:50 Looking for 'Main Ultimate'
+            18:30:00 Looking for 'Main Ultimate'
+            18:30:11 Looking for 'Main Ultimate'
+            18:30:21 Looking for 'Main Ultimate'
+            18:30:31 Looking for 'Main Ultimate'
+            18:30:41 Looking for 'Main Ultimate'
+            18:30:52 Looking for 'Main Ultimate'
+18:31:02  ↻ تلاش دوباره اکانت Phan › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+18:31:07  ✓ انجام شد   اکانت Phan › شروع بازی › CheckAccount  |  اکانت Phan روی کنسول است (گیمرتگ: Phan#9372)
+18:33:24  ✓ انجام شد   اکانت Phan  |  بازی باز شد و صفحه‌ی SBC آمد
+18:33:58  ·            اکانت Phan › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:33:59  ·            اکانت Phan › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:34:00  ·            اکانت Phan › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:34:01  ·            اکانت Phan › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:34:01  ✓ انجام شد   اکانت Phan  |  اکانت Phan تمام شد
+18:34:12  ·            اکانت Clive › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'phan tyra' — اکانت لازم: Clive
+18:34:30  ✓ انجام شد   اکانت Clive › شروع بازی › CheckAccount  |  اکانت Clive روی کنسول است (گیمرتگ: Clive#2972)
+18:36:21  ✓ انجام شد   اکانت Clive  |  بازی باز شد و صفحه‌ی SBC آمد
+18:36:57  ·            اکانت Clive › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:36:58  ·            اکانت Clive › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:37:00  ·            اکانت Clive › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:37:01  ·            اکانت Clive › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:37:01  ✓ انجام شد   اکانت Clive  |  اکانت Clive تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Phan, Clive  |  مدت 14:35  |  خطا 2، تلاش دوباره 2، توقف موقت 0، خطای کد 0 ════

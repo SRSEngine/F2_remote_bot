@@ -1,0 +1,85 @@
+ 131.87 ours= 2 opp= 0 ball=-         no radar
+ 134.88 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 135.02 ours= 0 opp= 0 ball=-         no radar
+ 137.43 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 137.61 ours= 0 opp= 0 ball=-         no radar
+ 139.93 ours= 2 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 140.06 ours= 1 opp= 0 ball=-         no radar
+ 142.47 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 142.63 ours= 0 opp= 0 ball=-         no radar
+ 145.04 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 145.19 ours= 0 opp= 0 ball=-         no radar
+ 147.60 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 147.74 ours= 0 opp= 0 ball=-         no radar
+ 150.15 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 150.29 ours= 0 opp= 0 ball=-         no radar
+ 152.70 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 152.84 ours= 0 opp= 0 ball=-         no radar
+ 155.24 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 155.36 ours= 0 opp= 0 ball=-         no radar
+ 157.77 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 157.90 ours= 0 opp= 0 ball=-         no radar
+ 160.31 ours= 0 opp= 0 ball=-         menu (TEAM MANAGEMENT): wait
+ 160.46 ours= 0 opp= 0 ball=(53,-4)   no radar
+ 162.86 ours= 0 opp= 0 ball=-         menu (CONTROLS): wait
+ 162.99 ours= 0 opp= 0 ball=-         no radar
+ 165.40 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 165.55 ours= 0 opp= 0 ball=-         no radar
+ 167.99 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 168.14 ours= 0 opp= 0 ball=-         no radar
+ 170.55 ours= 0 opp= 0 ball=-         skip scene: A
+ 170.65 ours= 1 opp= 0 ball=-         no radar
+ 173.12 ours= 0 opp= 0 ball=-         skip scene: A
+ 173.22 ours= 0 opp= 0 ball=-         no radar
+ 175.67 ours= 0 opp= 0 ball=-         skip scene: A
+ 175.85 ours= 0 opp= 0 ball=-         no radar
+ 178.19 ours= 0 opp= 0 ball=-         skip scene: A
+ 178.41 ours= 0 opp= 0 ball=-         no radar
+ 180.78 ours= 0 opp= 0 ball=-         skip scene: A
+ 180.98 ours= 0 opp= 0 ball=-         no radar
+ 181.50 ours=11 opp=10 ball=(52,34)   recover
+ 181.66 ours=11 opp=11 ball=(50,34)   chase
+ 182.10 ours=11 opp= 9 ball=(45,34)   recover
+ 182.77 ours=11 opp=11 ball=(49,34)   chase
+ 182.91 ours=11 opp=10 ball=(49,34)   recover
+ 183.04 ours=11 opp=11 ball=(50,34)   chase
+ 183.18 ours=11 opp=10 ball=(50,34)   contain
+ 183.66 ours=10 opp=10 ball=(52,34)   recover
+ 185.34 ours=11 opp= 8 ball=(61,33)   contain
+ 185.94 ours= 9 opp=10 ball=(64,33)   recover
+ 186.18 ours=11 opp=10 ball=(65,33)   contain
+ 186.44 ours=11 opp=10 ball=(67,33)   recover
+ 186.71 ours= 9 opp=10 ball=(68,33)   contain
+ 187.22 ours=10 opp=10 ball=(70,33)   dribble
+ 188.94 ours=11 opp=10 ball=(79,33)   contain
+ 189.09 ours= 9 opp=10 ball=(79,33)   dribble
+ 191.64 ours=11 opp=10 ball=(94,32)   recover
+ 192.65 ours= 0 opp= 0 ball=-         no radar
+ 194.54 ours=12 opp=11 ball=(107,19)  chase
+ 194.70 ours=13 opp=10 ball=(107,20)  no radar
+ 197.71 ours= 0 opp= 0 ball=-         skip scene: A
+ 197.89 ours= 0 opp= 0 ball=-         no radar
+ 198.67 ours=12 opp=11 ball=(101,25)  chase
+ 198.82 ours=12 opp=10 ball=(100,22)  contain
+ 199.24 ours=10 opp=11 ball=(99,10)   dribble
+ 199.38 ours=11 opp= 9 ball=(98,5)    contain
+ 199.54 ours= 8 opp= 9 ball=(97,0)    dribble
+ 199.83 ours= 0 opp= 0 ball=-         no radar
+ 202.87 ours= 0 opp= 0 ball=-         skip scene: A
+ 203.02 ours= 0 opp= 0 ball=-         no radar
+ 205.42 ours= 0 opp= 0 ball=-         skip scene: A
+ 205.63 ours= 0 opp= 0 ball=-         no radar
+ 207.93 ours= 0 opp= 0 ball=-         skip scene: A
+ 208.07 ours= 0 opp= 0 ball=-         no radar
+ 210.49 ours= 0 opp= 0 ball=-         skip scene: A
+ 210.62 ours= 0 opp= 0 ball=-         no radar
+ 213.00 ours= 0 opp= 0 ball=-         skip scene: A
+ 213.12 ours= 0 opp= 0 ball=-         no radar
+ 215.53 ours= 0 opp= 0 ball=-         skip scene: A
+ 215.66 ours= 0 opp= 0 ball=-         no radar
+ 215.96 ours=11 opp= 9 ball=(87,14)   recover
+ 216.17 ours= 0 opp= 0 ball=-         no radar
+ 219.18 ours= 0 opp= 0 ball=-         skip scene: A
+ 219.30 ours= 0 opp= 0 ball=-         no radar
+ 221.72 ours= 0 opp= 0 ball=-         skip scene: A
+ 221.85 ours= 0 opp= 0 ball=-         no radar

@@ -1,0 +1,30 @@
+pipe       #1 call 0.07 ms  local 0.03 ms  e2e 666.5 ms 
+pipe       #2 call 0.03 ms  local 0.02 ms  e2e 205.6 ms 
+pipe       #3 call 0.04 ms  local 0.03 ms  e2e 203.2 ms 
+pipe       #4 call 0.10 ms  local 0.02 ms  e2e 242.6 ms 
+pipe       #5 call 0.04 ms  local 0.03 ms  e2e 2079.4 ms 
+pipe       #6 call 0.06 ms  local 0.02 ms  e2e 736.5 ms 
+pipe       #7 call 0.07 ms  local 0.02 ms  e2e 1981.8 ms 
+pipe       #8 call 0.14 ms  local 0.02 ms  e2e 833.5 ms 
+keys       #1 call 82.13 ms  local 1.71 ms  e2e 135.5 ms 
+keys       #2 call 80.47 ms  local 0.05 ms  e2e 213.9 ms 
+keys       #3 call 80.06 ms  local 0.04 ms  e2e 233.6 ms 
+keys       #4 call 80.32 ms  local 0.85 ms  e2e 209.3 ms 
+keys       #5 call 80.67 ms  local 0.06 ms  e2e 228.0 ms 
+keys       #6 call 80.55 ms  local 0.05 ms  e2e 242.9 ms 
+keys       #7 call 80.74 ms  local 0.08 ms  e2e 228.4 ms 
+keys       #8 call 80.17 ms  local 0.05 ms  e2e -1.0 ms timeout (no visible change in 3 s, max 0%)
+sendinput  #1 call 80.97 ms  local 0.89 ms  e2e 56.5 ms 
+sendinput  #2 call 80.91 ms  local 0.48 ms  e2e 332.6 ms 
+sendinput  #3 call 85.32 ms  local 0.70 ms  e2e 810.3 ms 
+sendinput  #4 call 81.01 ms  local 0.41 ms  e2e 228.5 ms 
+sendinput  #5 call 81.01 ms  local 0.46 ms  e2e 355.4 ms 
+sendinput  #6 call 81.04 ms  local 0.51 ms  e2e 243.0 ms 
+sendinput  #7 call 81.92 ms  local 0.46 ms  e2e 279.4 ms 
+sendinput  #8 call 81.00 ms  local 0.50 ms  e2e 327.5 ms 
+saved C:\Users\Reach\Desktop\New Remote\Controller\results\bench-20261002-195903.json
+
+method      ok/n   call(med)  local(med)  e2e(med)  e2e(min)  e2e(max)
+pipe        8/8       0.06       0.020     701.5     203.2    2079.4
+keys        7/8      80.55       0.058     228.0     135.5     242.9
+sendinput   8/8      81.01       0.490     303.4      56.5     810.3

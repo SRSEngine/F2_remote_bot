@@ -1,0 +1,15 @@
+method   target  counts on XBOX (after)                        counts on TEST (after)                        result
+pipe     TEST    counts{keys=20 pipe=20 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{pipe=1}                                OK (only the target got it)
+tcp      TEST    counts{keys=20 pipe=20 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{pipe=1 tcp=1}                          OK (only the target got it)
+udp      TEST    counts{keys=20 pipe=20 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{pipe=1 tcp=1 udp=1}                    OK (only the target got it)
+wmcopy   TEST    counts{keys=20 pipe=20 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{pipe=1 tcp=1 udp=1 wmcopydata=1}       OK (only the target got it)
+keys     TEST    counts{keys=20 pipe=20 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1} OK (only the target got it)
+virtual controller = XInput 0, remote follows it
+xinput   TEST    counts{keys=20 pipe=20 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)
+pipe     XBOX    counts{keys=20 pipe=21 tcp=10 udp=10 wmcopydata=10 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)
+tcp      XBOX    counts{keys=20 pipe=21 tcp=11 udp=10 wmcopydata=10 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)
+udp      XBOX    counts{keys=20 pipe=21 tcp=11 udp=11 wmcopydata=10 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)
+wmcopy   XBOX    counts{keys=20 pipe=21 tcp=11 udp=11 wmcopydata=11 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)
+keys     XBOX    counts{keys=22 pipe=21 tcp=11 udp=11 wmcopydata=11 xinput=44} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)
+virtual controller = XInput 0, remote follows it
+xinput   XBOX    counts{keys=22 pipe=21 tcp=11 udp=11 wmcopydata=11 xinput=47} counts{keys=2 pipe=1 tcp=1 udp=1 wmcopydata=1 xinput=3} OK (only the target got it)

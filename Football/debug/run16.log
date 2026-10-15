@@ -1,0 +1,687 @@
+ 635.07 ours= 0 opp= 0 ball=-         no radar
+ 638.12 ours= 0 opp= 0 ball=-         half time: B resume
+ 638.28 ours= 0 opp= 0 ball=(77,71)   no radar
+ 640.66 ours= 0 opp= 0 ball=-         skip scene: A
+ 640.78 ours= 0 opp= 0 ball=-         no radar
+ 641.70 ours=11 opp=11 ball=(52,34)   chase
+ 641.80 ours= 0 opp= 0 ball=-         no radar
+ 642.11 ours=11 opp=11 ball=(46,34)   chase
+ 642.21 ours=11 opp=11 ball=(45,34)   dribble
+ 642.71 ours= 0 opp= 0 ball=-         no radar
+ 642.91 ours=10 opp=11 ball=(46,34)   dribble
+ 643.11 ours=10 opp=10 ball=(48,34)   pass A to (55,36)
+ 643.21 ours=10 opp=11 ball=(48,34)   dribble
+ 644.01 ours=11 opp=10 ball=(54,35)   contain
+ 644.31 ours=10 opp= 7 ball=(57,38)   pass A to (55,53)
+ 644.41 ours=10 opp= 9 ball=(57,39)   dribble
+ 644.61 ours=11 opp= 9 ball=(56,42)   recover
+ 644.71 ours= 0 opp= 0 ball=-         no radar
+ 647.72 ours= 0 opp= 0 ball=-         skip scene: A
+ 647.84 ours= 0 opp= 0 ball=-         no radar
+ 648.84 ours=11 opp=11 ball=(52,38)   chase
+ 649.54 ours=11 opp=10 ball=(49,27)   recover
+ 649.64 ours=10 opp=11 ball=(49,26)   chase
+ 649.74 ours=10 opp=11 ball=(49,26)   dribble
+ 651.25 ours=11 opp=11 ball=(54,28)   pass A to (56,13)
+ 651.35 ours=10 opp=11 ball=(55,28)   dribble
+ 652.15 ours=11 opp= 9 ball=(57,21)   pass A to (58,28)
+ 652.25 ours=11 opp=11 ball=(58,19)   dribble
+ 652.45 ours=11 opp=10 ball=(58,16)   recover
+ 652.55 ours=10 opp=11 ball=(58,15)   dribble
+ 653.05 ours=11 opp=10 ball=(58,22)   contain
+ 653.25 ours=10 opp= 9 ball=(58,24)   recover
+ 653.35 ours=10 opp= 8 ball=(58,24)   pass Y to (76,43)
+ 653.45 ours=10 opp= 7 ball=(58,24)   dribble
+ 653.75 ours=11 opp= 8 ball=(61,27)   contain
+ 654.16 ours=11 opp= 9 ball=(66,32)   recover
+ 659.47 ours= 9 opp= 8 ball=(40,32)   contain
+ 661.58 ours=11 opp= 8 ball=(33,27)   recover
+ 663.08 ours=10 opp= 9 ball=(27,29)   contain
+ 663.18 ours=10 opp= 9 ball=(27,29)   recover
+ 663.28 ours=10 opp= 9 ball=(26,29)   contain
+ 663.68 ours=10 opp=11 ball=(25,31)   chase
+ 663.88 ours=10 opp=10 ball=(26,31)   contain
+ 663.98 ours=11 opp=11 ball=(27,30)   chase
+ 664.18 ours=11 opp=10 ball=(29,28)   recover
+ 664.78 ours=11 opp=10 ball=(35,24)   contain
+ 664.98 ours=11 opp= 8 ball=(38,22)   recover
+ 666.09 ours=11 opp= 9 ball=(43,22)   contain
+ 667.39 ours=11 opp=10 ball=(43,23)   tackle
+ 667.49 ours=11 opp= 9 ball=(43,23)   contain
+ 667.59 ours=10 opp=10 ball=(44,23)   recover
+ 667.79 ours=11 opp=10 ball=(45,23)   contain
+ 667.89 ours=11 opp=11 ball=(47,23)   chase
+ 668.59 ours=10 opp=10 ball=(51,31)   recover
+ 668.69 ours=10 opp=11 ball=(52,32)   chase
+ 668.79 ours=10 opp=11 ball=(52,32)   pass A to (50,25)
+ 668.89 ours=10 opp=11 ball=(52,33)   dribble
+ 669.70 ours=11 opp=10 ball=(54,30)   recover
+ 671.00 ours=10 opp=11 ball=(53,29)   chase
+ 671.30 ours=10 opp=10 ball=(52,30)   recover
+ 671.40 ours=10 opp=11 ball=(52,30)   chase
+ 671.50 ours=10 opp=10 ball=(52,30)   recover
+ 671.60 ours=10 opp=11 ball=(52,30)   chase
+ 671.70 ours=10 opp=10 ball=(52,31)   recover
+ 671.80 ours=10 opp=11 ball=(52,31)   chase
+ 671.90 ours=10 opp=10 ball=(52,32)   recover
+ 672.70 ours=10 opp=11 ball=(53,36)   chase
+ 672.80 ours=10 opp=10 ball=(53,37)   recover
+ 672.90 ours=10 opp=11 ball=(52,38)   chase
+ 673.11 ours=10 opp=11 ball=(52,39)   dribble
+ 675.11 ours=10 opp=10 ball=(61,38)   pass A to (59,13)
+ 675.21 ours=11 opp=11 ball=(62,38)   dribble
+ 675.91 ours=11 opp= 9 ball=(69,35)   recover
+ 676.01 ours=10 opp=10 ball=(70,34)   dribble
+ 676.72 ours=10 opp=10 ball=(73,34)   pass A to (63,14)
+ 676.82 ours=11 opp=10 ball=(73,35)   dribble
+ 676.92 ours=11 opp=10 ball=(73,36)   contain
+ 677.42 ours=11 opp=10 ball=(72,39)   recover
+ 677.92 ours=11 opp= 9 ball=(72,41)   contain
+ 678.42 ours=11 opp=10 ball=(74,43)   recover
+ 678.52 ours=11 opp=10 ball=(75,43)   contain
+ 678.72 ours= 9 opp=10 ball=(75,43)   recover
+ 680.02 ours=11 opp= 8 ball=(72,47)   contain
+ 680.93 ours=11 opp=10 ball=(67,46)   tackle
+ 681.03 ours=11 opp= 9 ball=(67,46)   contain
+ 681.23 ours=10 opp= 9 ball=(67,45)   recover
+ 681.43 ours= 0 opp= 0 ball=-         no radar
+ 682.23 ours=11 opp= 9 ball=(62,44)   recover
+ 682.73 ours= 0 opp= 0 ball=-         no radar
+ 683.03 ours=11 opp= 9 ball=(57,44)   recover
+ 684.04 ours= 0 opp= 0 ball=-         no radar
+ 685.94 ours=10 opp=10 ball=(53,29)   recover
+ 686.74 ours=11 opp=11 ball=(50,25)   chase
+ 686.84 ours=11 opp=10 ball=(50,25)   recover
+ 687.34 ours=11 opp=11 ball=(49,23)   chase
+ 687.44 ours=11 opp=10 ball=(49,23)   recover
+ 687.75 ours=11 opp=11 ball=(47,23)   chase
+ 687.85 ours=11 opp= 9 ball=(47,22)   recover
+ 690.45 ours=10 opp= 8 ball=(33,26)   contain
+ 690.85 ours=10 opp=11 ball=(30,28)   chase
+ 691.05 ours=10 opp=11 ball=(29,28)   pass A to (56,35)
+ 691.15 ours=10 opp=10 ball=(29,29)   dribble
+ 691.66 ours=11 opp=10 ball=(30,26)   contain
+ 691.96 ours=11 opp=11 ball=(32,23)   chase
+ 692.06 ours=11 opp= 9 ball=(32,23)   recover
+ 694.76 ours=10 opp= 9 ball=(27,14)   contain
+ 695.06 ours=10 opp= 9 ball=(24,15)   recover
+ 695.67 ours= 9 opp=11 ball=(21,16)   chase
+ 695.77 ours= 9 opp= 9 ball=(21,16)   recover
+ 696.07 ours= 8 opp=11 ball=(20,17)   chase
+ 696.17 ours= 8 opp=10 ball=(19,17)   recover
+ 696.97 ours= 0 opp= 0 ball=-         no radar
+ 697.07 ours=11 opp= 8 ball=(7,27)    contain
+ 697.17 ours= 9 opp= 6 ball=-         no radar
+ 697.47 ours=10 opp= 8 ball=(-1,23)   recover
+ 697.57 ours=11 opp= 8 ball=(1,22)    contain
+ 697.67 ours=11 opp= 6 ball=(3,20)    recover
+ 698.37 ours= 0 opp= 0 ball=-         no radar
+ 698.48 ours=11 opp=11 ball=(12,23)   chase
+ 698.58 ours=11 opp=10 ball=(11,24)   recover
+ 698.78 ours= 9 opp= 9 ball=-         no radar
+ 698.88 ours=11 opp=10 ball=(7,27)    contain
+ 698.98 ours=10 opp=10 ball=(-4,19)   recover
+ 699.18 ours=10 opp= 9 ball=-         no radar
+ 699.58 ours=11 opp=10 ball=(3,30)    recover
+ 701.49 ours=10 opp=11 ball=(7,44)    chase
+ 701.69 ours=10 opp=10 ball=(6,43)    recover
+ 701.79 ours=10 opp=11 ball=(6,43)    chase
+ 701.89 ours=10 opp=11 ball=(6,43)    dribble
+ 702.99 ours=10 opp=11 ball=(8,45)    pass Y to (27,22)
+ 703.09 ours=10 opp=11 ball=(8,45)    dribble
+ 703.89 ours=10 opp=10 ball=(13,45)   pass Y to (25,24)
+ 703.99 ours=10 opp=10 ball=(13,45)   dribble
+ 704.80 ours=11 opp= 8 ball=(20,42)   contain
+ 704.90 ours=10 opp= 9 ball=-         no radar
+ 705.20 ours=11 opp=10 ball=(21,45)   recover
+ 706.80 ours=11 opp=10 ball=(24,39)   contain
+ 707.10 ours=11 opp= 9 ball=(23,39)   recover
+ 708.10 ours= 8 opp=11 ball=(20,36)   chase
+ 708.30 ours= 8 opp=11 ball=(20,35)   pass A to (29,16)
+ 708.41 ours= 8 opp=11 ball=(19,35)   dribble
+ 709.21 ours=10 opp=10 ball=(14,37)   pass Y to (30,16)
+ 709.31 ours=10 opp= 9 ball=(15,37)   dribble
+ 710.11 ours= 8 opp= 9 ball=(19,39)   pass Y to (31,56)
+ 710.21 ours= 8 opp= 9 ball=(19,39)   dribble
+ 712.22 ours=11 opp=10 ball=(12,44)   recover
+ 712.62 ours= 9 opp=10 ball=(6,41)    contain
+ 712.82 ours= 8 opp=10 ball=(1,38)    recover
+ 713.02 ours= 9 opp= 9 ball=(2,40)    contain
+ 713.42 ours=11 opp= 8 ball=(2,46)    recover
+ 713.62 ours=11 opp=11 ball=(1,49)    chase
+ 713.82 ours=11 opp= 9 ball=-         no radar
+ 713.92 ours=11 opp=10 ball=(1,52)    recover
+ 714.82 ours= 0 opp= 0 ball=-         no radar
+ 717.84 ours= 0 opp= 0 ball=-         skip scene: A
+ 717.99 ours= 0 opp= 0 ball=-         no radar
+ 719.09 ours=10 opp= 5 ball=(-0,54)   recover
+ 720.80 ours=12 opp= 8 ball=(2,46)    contain
+ 721.10 ours=12 opp= 9 ball=(5,46)    recover
+ 721.20 ours=12 opp=10 ball=(7,46)    contain
+ 721.40 ours=11 opp= 9 ball=(11,46)   recover
+ 722.50 ours=10 opp= 8 ball=(9,44)    contain
+ 722.81 ours=10 opp= 8 ball=(8,42)    tackle
+ 722.91 ours=10 opp= 9 ball=(8,42)    contain
+ 723.41 ours= 9 opp= 9 ball=(6,40)    recover
+ 723.51 ours= 8 opp= 8 ball=(6,40)    contain
+ 724.11 ours=10 opp= 8 ball=(4,37)    tackle
+ 724.21 ours= 9 opp= 8 ball=(2,35)    recover
+ 725.11 ours= 0 opp= 0 ball=-         no radar
+ 728.13 ours= 0 opp= 0 ball=-         skip scene: A
+ 728.28 ours= 0 opp= 0 ball=-         no radar
+ 730.63 ours= 0 opp= 0 ball=-         skip scene: A
+ 730.81 ours= 0 opp= 0 ball=-         no radar
+ 731.47 ours= 8 opp= 7 ball=(-0,-0)   recover
+ 733.17 ours=12 opp= 4 ball=(-0,-0)   no radar
+ 733.38 ours=12 opp= 5 ball=(-0,-0)   recover
+ 733.98 ours= 8 opp= 4 ball=(-0,0)    no radar
+ 734.89 ours= 8 opp= 5 ball=(-0,0)    recover
+ 735.09 ours=10 opp= 4 ball=(-0,0)    no radar
+ 735.20 ours= 9 opp= 5 ball=(-0,0)    recover
+ 735.31 ours= 9 opp= 4 ball=(-0,0)    no radar
+ 735.41 ours= 9 opp= 5 ball=(-0,0)    recover
+ 735.92 ours= 8 opp= 4 ball=(-0,0)    no radar
+ 736.22 ours= 6 opp= 5 ball=(-0,0)    recover
+ 736.82 ours=12 opp= 4 ball=(-0,-0)   no radar
+ 736.93 ours=11 opp= 5 ball=(-0,-0)   recover
+ 737.13 ours=10 opp= 4 ball=(0,-0)    no radar
+ 737.23 ours=11 opp= 5 ball=(-0,-0)   recover
+ 738.14 ours= 8 opp= 4 ball=(2,1)     no radar
+ 738.76 ours=11 opp= 5 ball=(2,4)     contain
+ 738.86 ours= 0 opp= 0 ball=-         no radar
+ 741.88 ours= 0 opp= 0 ball=-         skip scene: A
+ 742.03 ours= 0 opp= 0 ball=-         no radar
+ 743.24 ours=13 opp= 7 ball=(12,19)   recover
+ 743.34 ours= 3 opp= 6 ball=(-1,4)    no radar
+ 743.64 ours=14 opp= 6 ball=(11,20)   recover
+ 744.54 ours=10 opp= 7 ball=(6,21)    contain
+ 744.64 ours=13 opp= 8 ball=(9,25)    recover
+ 744.84 ours=16 opp= 6 ball=(10,28)   tackle
+ 744.94 ours=16 opp= 7 ball=(10,29)   recover
+ 745.45 ours=14 opp= 8 ball=(8,30)    contain
+ 746.05 ours=10 opp= 8 ball=(5,35)    recover
+ 746.55 ours= 0 opp= 0 ball=-         no radar
+ 749.56 ours= 0 opp= 0 ball=-         skip scene: A
+ 749.68 ours= 0 opp= 0 ball=-         no radar
+ 750.38 ours=12 opp= 7 ball=(5,43)    contain
+ 750.58 ours=11 opp= 8 ball=(4,42)    recover
+ 750.78 ours=11 opp= 7 ball=(5,42)    contain
+ 750.88 ours=10 opp= 6 ball=(5,43)    recover
+ 751.09 ours=11 opp= 8 ball=(5,42)    contain
+ 751.29 ours=11 opp=10 ball=(5,42)    recover
+ 751.49 ours=11 opp= 9 ball=(5,42)    contain
+ 751.59 ours=11 opp=11 ball=(5,42)    chase
+ 751.69 ours=11 opp= 9 ball=(5,42)    contain
+ 751.79 ours=11 opp=10 ball=(5,42)    tackle
+ 751.89 ours=11 opp=10 ball=(5,43)    contain
+ 752.09 ours=11 opp= 9 ball=(6,42)    recover
+ 752.29 ours=11 opp=11 ball=(8,40)    chase
+ 752.39 ours=11 opp=10 ball=(10,39)   contain
+ 752.59 ours=11 opp=11 ball=(12,38)   chase
+ 753.09 ours=11 opp= 9 ball=(17,34)   recover
+ 753.49 ours=11 opp=11 ball=(14,33)   chase
+ 753.59 ours=11 opp=10 ball=(12,33)   recover
+ 753.79 ours=11 opp=10 ball=(9,33)    contain
+ 753.99 ours=11 opp=10 ball=(6,33)    tackle
+ 754.09 ours=11 opp= 9 ball=(6,33)    contain
+ 754.50 ours=11 opp=10 ball=(13,32)   recover
+ 755.10 ours=10 opp=12 ball=(18,31)   chase
+ 755.30 ours=10 opp=11 ball=(18,31)   pass Y to (36,15)
+ 755.40 ours=10 opp=11 ball=(19,31)   dribble
+ 757.20 ours=10 opp=12 ball=(28,24)   pass A to (50,30)
+ 757.30 ours=10 opp=11 ball=(28,25)   dribble
+ 758.11 ours=11 opp= 9 ball=(33,16)   pass A to (32,25)
+ 758.21 ours=11 opp=10 ball=(33,14)   recover
+ 758.41 ours=11 opp=11 ball=(34,11)   hold
+ 758.51 ours=10 opp=10 ball=(35,10)   dribble
+ 759.01 ours=11 opp=10 ball=(34,17)   pass A to (49,42)
+ 759.11 ours=11 opp=11 ball=(34,18)   dribble
+ 759.91 ours=10 opp=11 ball=(37,23)   pass A to (53,40)
+ 760.01 ours=11 opp=11 ball=(38,24)   dribble
+ 761.11 ours=11 opp=10 ball=(49,35)   pass A to (53,46)
+ 761.21 ours=11 opp=11 ball=(49,35)   dribble
+ 762.02 ours=10 opp=11 ball=(52,44)   pass A to (52,36)
+ 762.12 ours=10 opp=11 ball=(52,44)   dribble
+ 762.92 ours=11 opp=10 ball=(56,42)   pass A to (49,54)
+ 763.02 ours=11 opp=11 ball=(57,40)   dribble
+ 763.22 ours=11 opp= 9 ball=(58,37)   recover
+ 764.83 ours=10 opp=10 ball=(58,44)   contain
+ 765.43 ours=11 opp= 9 ball=(57,45)   recover
+ 765.53 ours=10 opp= 9 ball=(57,45)   contain
+ 765.63 ours= 0 opp= 0 ball=-         no radar
+ 766.13 ours=10 opp=10 ball=(54,46)   recover
+ 766.93 ours= 0 opp= 0 ball=-         no radar
+ 767.33 ours= 9 opp=10 ball=(48,47)   recover
+ 767.44 ours= 8 opp=10 ball=(47,47)   contain
+ 767.74 ours= 9 opp=10 ball=(46,47)   tackle
+ 767.84 ours=11 opp= 9 ball=(45,46)   contain
+ 767.94 ours= 0 opp= 0 ball=-         no radar
+ 768.54 ours=10 opp=10 ball=(41,45)   recover
+ 768.84 ours= 0 opp= 0 ball=-         no radar
+ 769.74 ours=10 opp=10 ball=(37,46)   recover
+ 770.24 ours=11 opp= 9 ball=(36,46)   contain
+ 770.34 ours=12 opp=10 ball=(35,46)   recover
+ 770.54 ours=11 opp=10 ball=(35,46)   tackle
+ 770.64 ours=10 opp=10 ball=(34,46)   recover
+ 771.55 ours=11 opp= 8 ball=(33,41)   contain
+ 773.35 ours=11 opp=10 ball=(28,46)   recover
+ 773.45 ours=11 opp=10 ball=(28,46)   contain
+ 773.65 ours=11 opp=10 ball=(27,46)   tackle
+ 773.75 ours=10 opp= 9 ball=(27,46)   contain
+ 773.95 ours= 9 opp= 9 ball=(26,45)   recover
+ 774.96 ours=10 opp=11 ball=(21,46)   chase
+ 775.06 ours=10 opp=10 ball=(20,45)   contain
+ 775.16 ours=10 opp=11 ball=(19,45)   chase
+ 775.36 ours=10 opp=10 ball=(18,44)   contain
+ 775.56 ours=10 opp=10 ball=(18,44)   recover
+ 775.76 ours=10 opp=11 ball=(17,44)   chase
+ 775.96 ours= 9 opp=11 ball=(19,42)   pass A to (16,57)
+ 776.06 ours= 9 opp=11 ball=(20,41)   dribble
+ 777.06 ours=11 opp= 9 ball=(21,39)   contain
+ 777.16 ours= 9 opp= 9 ball=(21,39)   dribble
+ 777.26 ours=11 opp= 9 ball=(20,39)   contain
+ 777.66 ours= 9 opp=10 ball=(18,39)   tackle
+ 777.76 ours= 9 opp=10 ball=(17,39)   contain
+ 777.96 ours= 8 opp=10 ball=(17,39)   recover
+ 779.77 ours= 9 opp= 8 ball=(8,37)    contain
+ 779.97 ours=11 opp= 9 ball=(5,37)    tackle
+ 780.07 ours=10 opp= 8 ball=(4,36)    recover
+ 780.27 ours=11 opp= 9 ball=(3,38)    contain
+ 781.17 ours= 9 opp=10 ball=(0,42)    recover
+ 781.47 ours= 9 opp=11 ball=(-0,42)   chase
+ 781.57 ours= 0 opp= 0 ball=-         no radar
+ 784.59 ours= 0 opp= 0 ball=-         skip scene: A
+ 784.72 ours= 0 opp= 0 ball=-         no radar
+ 787.17 ours= 0 opp= 5 ball=-         skip scene: A
+ 787.36 ours= 0 opp= 0 ball=-         no radar
+ 788.81 panel defend: + MOVE GOALKEEPER 'O SWITCH DEFENDER + TOGGLE OVERLAY
+ 788.81 ours= 0 opp= 0 ball=-         their set piece: wait
+ 788.91 ours= 0 opp= 0 ball=-         no radar
+ 789.71 ours= 0 opp= 0 ball=-         skip scene: A
+ 789.85 ours= 0 opp= 0 ball=-         their set piece: wait
+ 789.95 ours= 0 opp= 0 ball=-         no radar
+ 790.86 ours= 0 opp= 0 ball=-         their set piece: wait
+ 790.97 ours= 0 opp= 0 ball=-         no radar
+ 791.88 ours= 0 opp= 0 ball=-         their set piece: wait
+ 791.98 ours= 0 opp= 0 ball=-         no radar
+ 792.28 ours= 0 opp= 0 ball=-         menu (SUBSTITUT): wait
+ 792.42 ours= 0 opp= 0 ball=-         no radar
+ 792.92 ours= 0 opp= 0 ball=-         their set piece: wait
+ 793.03 ours= 0 opp= 0 ball=-         no radar
+ 794.85 ours= 9 opp= 4 ball=(6,48)    skip scene: A
+ 795.00 ours= 9 opp= 5 ball=(7,46)    recover
+ 795.10 ours= 9 opp= 4 ball=(7,44)    no radar
+ 795.40 ours= 7 opp= 5 ball=(10,38)   contain
+ 795.50 ours= 8 opp= 4 ball=(11,36)   no radar
+ 796.10 ours= 5 opp= 5 ball=(15,27)   recover
+ 797.00 ours= 4 opp= 6 ball=(12,28)   no radar
+ 797.20 ours= 7 opp= 6 ball=(9,29)    contain
+ 797.30 ours= 7 opp= 6 ball=(6,30)    recover
+ 798.01 ours= 5 opp= 7 ball=(3,31)    contain
+ 798.11 ours= 5 opp= 9 ball=(3,31)    recover
+ 798.41 ours= 4 opp= 7 ball=(3,30)    no radar
+ 798.51 ours= 5 opp= 9 ball=(4,30)    contain
+ 799.31 ours= 8 opp= 8 ball=(4,30)    recover
+ 799.91 ours= 8 opp=10 ball=-         no radar
+ 800.01 ours= 9 opp= 7 ball=(7,27)    contain
+ 800.21 ours=10 opp= 5 ball=-         no radar
+ 800.31 ours=10 opp= 7 ball=(10,23)   recover
+ 800.81 ours=12 opp= 7 ball=(15,21)   contain
+ 801.12 ours=11 opp= 8 ball=(19,21)   recover
+ 801.32 ours=11 opp= 4 ball=(21,21)   no radar
+ 801.42 ours=11 opp= 8 ball=(21,22)   recover
+ 802.42 ours=11 opp= 9 ball=(17,25)   contain
+ 802.92 ours= 8 opp= 8 ball=(15,27)   tackle
+ 803.02 ours= 8 opp= 9 ball=(15,27)   contain
+ 803.12 ours= 8 opp= 9 ball=(14,28)   recover
+ 803.32 ours= 7 opp=10 ball=(14,28)   contain
+ 803.52 ours= 7 opp=11 ball=(14,28)   chase
+ 803.62 ours= 8 opp=10 ball=(14,28)   contain
+ 803.72 ours= 7 opp=11 ball=(13,29)   chase
+ 803.82 ours= 6 opp=10 ball=(13,29)   recover
+ 803.92 ours= 7 opp=11 ball=(13,29)   chase
+ 804.12 ours= 7 opp=11 ball=(13,29)   pass A to (17,47)
+ 804.22 ours= 7 opp=11 ball=(12,29)   dribble
+ 806.73 ours=10 opp=11 ball=(22,46)   pass A to (47,32)
+ 806.83 ours=10 opp= 9 ball=(22,46)   dribble
+ 807.63 ours=10 opp=10 ball=(29,47)   pass A to (48,33)
+ 807.73 ours=10 opp=10 ball=(30,47)   dribble
+ 808.44 ours=11 opp= 9 ball=(35,45)   contain
+ 808.74 ours=11 opp=10 ball=(39,43)   recover
+ 809.04 ours=11 opp=11 ball=(41,42)   chase
+ 809.14 ours=11 opp= 9 ball=(42,42)   recover
+ 809.34 ours= 0 opp= 0 ball=-         no radar
+ 809.64 ours=11 opp=10 ball=(38,43)   recover
+ 809.74 ours=11 opp=11 ball=(36,44)   chase
+ 810.04 ours=11 opp=10 ball=(30,46)   recover
+ 810.14 ours= 0 opp= 0 ball=-         no radar
+ 810.34 ours=11 opp=11 ball=(26,47)   chase
+ 810.44 ours=12 opp=10 ball=(25,48)   contain
+ 810.64 ours=11 opp=10 ball=(22,48)   tackle
+ 810.74 ours=10 opp=11 ball=(21,48)   chase
+ 811.24 ours=11 opp=11 ball=(30,49)   recover
+ 811.44 ours=10 opp=11 ball=(32,49)   chase
+ 811.64 ours=11 opp=11 ball=(35,49)   pass A to (36,64)
+ 811.74 ours=11 opp=11 ball=(37,49)   dribble
+ 812.04 ours=11 opp=10 ball=(41,50)   contain
+ 812.14 ours=11 opp=10 ball=(41,49)   recover
+ 812.25 ours=11 opp=11 ball=(43,50)   chase
+ 812.35 ours=11 opp= 9 ball=(44,50)   recover
+ 812.65 ours=11 opp=11 ball=(46,50)   chase
+ 812.85 ours=11 opp= 9 ball=(47,50)   recover
+ 814.45 ours=11 opp=10 ball=(40,47)   contain
+ 814.85 ours=11 opp= 9 ball=(38,46)   recover
+ 815.05 ours= 0 opp= 0 ball=-         no radar
+ 815.15 ours=10 opp= 8 ball=(37,46)   recover
+ 818.56 ours=10 opp=11 ball=(23,40)   chase
+ 818.66 ours=10 opp=10 ball=(22,41)   contain
+ 819.67 ours= 9 opp=10 ball=(22,41)   recover
+ 819.88 ours= 9 opp=11 ball=(24,40)   chase
+ 820.08 ours= 9 opp=11 ball=(26,40)   pass A to (48,47)
+ 820.18 ours= 9 opp=10 ball=(27,40)   dribble
+ 820.88 ours=11 opp= 8 ball=(31,39)   recover
+ 825.10 ours=11 opp=11 ball=(51,38)   chase
+ 825.20 ours=11 opp= 9 ball=(50,37)   recover
+ 825.70 ours=11 opp= 9 ball=(48,35)   contain
+ 825.90 ours=11 opp=10 ball=(47,34)   recover
+ 826.10 ours=11 opp=10 ball=(46,34)   contain
+ 826.30 ours=11 opp=10 ball=(46,33)   recover
+ 826.40 ours=11 opp=10 ball=(45,32)   contain
+ 827.01 ours=11 opp=10 ball=(42,32)   recover
+ 827.11 ours=11 opp=10 ball=(42,32)   contain
+ 827.71 ours=11 opp= 9 ball=(39,32)   tackle
+ 827.81 ours=11 opp= 9 ball=(39,32)   contain
+ 827.91 ours=10 opp=10 ball=(38,32)   recover
+ 828.91 ours=11 opp= 9 ball=(37,26)   contain
+ 829.81 ours= 9 opp=10 ball=(34,29)   tackle
+ 829.91 ours= 9 opp=11 ball=(33,29)   chase
+ 830.01 ours= 9 opp= 9 ball=(33,30)   contain
+ 830.32 ours= 9 opp=11 ball=(33,36)   chase
+ 830.42 ours= 9 opp=11 ball=(33,37)   dribble
+ 830.52 ours=11 opp=10 ball=(33,39)   recover
+ 831.42 ours= 9 opp=10 ball=(31,38)   contain
+ 832.82 ours=11 opp= 8 ball=(27,28)   recover
+ 833.83 ours=11 opp= 9 ball=(22,24)   contain
+ 834.23 ours= 9 opp= 8 ball=(20,24)   recover
+ 834.53 ours= 9 opp=11 ball=(19,25)   chase
+ 834.63 ours= 9 opp=10 ball=(19,25)   recover
+ 834.73 ours= 9 opp=11 ball=(18,24)   chase
+ 834.83 ours= 9 opp=10 ball=(17,25)   recover
+ 835.33 ours= 9 opp=10 ball=(3,27)    contain
+ 835.53 ours= 0 opp= 0 ball=-         no radar
+ 838.55 ours= 0 opp= 0 ball=-         skip scene: A
+ 838.69 ours= 0 opp= 0 ball=-         no radar
+ 839.69 ours= 9 opp= 6 ball=(-4,18)   recover
+ 839.79 ours=11 opp=11 ball=(5,25)    chase
+ 839.99 ours= 9 opp= 8 ball=(-4,18)   recover
+ 840.19 ours=11 opp= 7 ball=(4,25)    contain
+ 840.29 ours=11 opp=11 ball=(4,25)    chase
+ 840.59 ours= 9 opp= 9 ball=(-3,19)   recover
+ 841.39 ours=11 opp=10 ball=(5,25)    tackle
+ 841.49 ours=10 opp=10 ball=(0,21)    recover
+ 841.59 ours=11 opp= 9 ball=(8,27)    contain
+ 841.69 ours=11 opp= 7 ball=(5,25)    recover
+ 841.80 ours=12 opp= 9 ball=(10,30)   contain
+ 841.90 ours=11 opp=10 ball=(12,31)   recover
+ 842.20 ours=11 opp=11 ball=(16,34)   chase
+ 842.30 ours=11 opp= 9 ball=-         no radar
+ 842.40 ours=11 opp=10 ball=(17,36)   recover
+ 842.80 ours=11 opp=11 ball=(21,39)   chase
+ 842.90 ours=11 opp=10 ball=(21,40)   recover
+ 843.40 ours=10 opp=11 ball=(22,41)   chase
+ 843.50 ours=10 opp=10 ball=(21,41)   recover
+ 843.60 ours=10 opp=11 ball=(21,42)   chase
+ 843.70 ours=10 opp=10 ball=(21,43)   recover
+ 843.80 ours=10 opp=11 ball=(21,43)   chase
+ 844.00 ours=10 opp=11 ball=(21,44)   pass A to (40,53)
+ 844.10 ours=10 opp=11 ball=(21,45)   dribble
+ 845.51 ours=10 opp=10 ball=(31,48)   pass Y to (52,27)
+ 845.61 ours=11 opp=10 ball=(31,48)   dribble
+ 845.71 ours=11 opp=10 ball=(32,48)   contain
+ 847.01 ours=11 opp=10 ball=-         no radar
+ 847.11 ours=11 opp=10 ball=(45,45)   recover
+ 847.31 ours= 0 opp= 0 ball=-         no radar
+ 847.61 ours=11 opp=10 ball=(52,43)   contain
+ 848.02 ours=11 opp= 7 ball=(57,41)   recover
+ 848.12 ours=11 opp= 8 ball=(56,41)   contain
+ 848.32 ours=11 opp= 9 ball=(56,40)   recover
+ 848.42 ours=11 opp= 9 ball=(55,40)   contain
+ 848.62 ours=11 opp=10 ball=(54,40)   recover
+ 849.32 ours= 0 opp= 0 ball=-         no radar
+ 849.82 ours=11 opp= 9 ball=(49,36)   recover
+ 850.42 ours= 0 opp= 0 ball=-         no radar
+ 850.72 ours=11 opp=10 ball=(43,36)   recover
+ 851.42 ours= 0 opp= 0 ball=-         no radar
+ 851.73 ours= 9 opp= 9 ball=(39,36)   recover
+ 853.43 ours=13 opp= 3 ball=(30,37)   no radar
+ 856.44 ours= 0 opp= 0 ball=-         skip scene: A
+ 856.55 ours= 0 opp= 0 ball=-         no radar
+ 858.96 ours= 0 opp= 0 ball=-         skip scene: A
+ 859.10 ours= 0 opp= 0 ball=-         no radar
+ 861.51 ours= 0 opp= 0 ball=-         skip scene: A
+ 861.65 ours= 0 opp= 0 ball=-         no radar
+ 862.26 ours= 8 opp= 5 ball=(0,21)    recover
+ 862.46 ours=11 opp=10 ball=(5,25)    contain
+ 862.56 ours=10 opp=10 ball=(-1,20)   recover
+ 862.97 ours=13 opp= 8 ball=(4,25)    contain
+ 863.17 ours=10 opp=10 ball=(-2,19)   recover
+ 863.37 ours=10 opp=11 ball=(-2,19)   chase
+ 863.57 ours=10 opp=11 ball=(-2,19)   dribble
+ 864.77 ours=11 opp= 8 ball=(11,29)   recover
+ 865.47 ours=10 opp= 9 ball=-         no radar
+ 865.57 ours=10 opp= 9 ball=(18,34)   recover
+ 865.67 ours=10 opp=11 ball=(17,34)   chase
+ 865.87 ours=10 opp=10 ball=(17,33)   recover
+ 865.97 ours=10 opp=11 ball=(16,33)   chase
+ 866.07 ours=10 opp=11 ball=(16,32)   dribble
+ 867.68 ours=10 opp=11 ball=(17,36)   pass A to (26,26)
+ 867.78 ours=10 opp=11 ball=(18,36)   dribble
+ 868.58 ours=10 opp=11 ball=(21,40)   pass Y to (37,56)
+ 868.68 ours=10 opp=11 ball=(22,40)   dribble
+ 869.38 ours=11 opp=10 ball=(25,36)   contain
+ 869.48 ours=11 opp=10 ball=(25,35)   recover
+ 870.59 ours=11 opp=12 ball=(25,38)   chase
+ 870.99 ours=10 opp=11 ball=(24,41)   pass Y to (37,58)
+ 871.09 ours=10 opp= 9 ball=(24,41)   dribble
+ 871.69 ours=11 opp= 9 ball=(26,37)   contain
+ 871.89 ours=11 opp=11 ball=(27,35)   chase
+ 871.99 ours=11 opp=11 ball=(27,34)   pass Y to (52,47)
+ 872.09 ours=11 opp=11 ball=(28,33)   dribble
+ 872.89 ours=11 opp=11 ball=(38,26)   pass A to (47,23)
+ 872.99 ours=11 opp=10 ball=(39,26)   dribble
+ 873.09 ours=11 opp= 9 ball=(41,25)   recover
+ 873.19 ours=11 opp=11 ball=(41,24)   dribble
+ 873.29 ours=11 opp= 9 ball=(43,23)   recover
+ 873.39 ours=11 opp=11 ball=(44,23)   dribble
+ 873.49 ours=11 opp=10 ball=(45,22)   recover
+ 873.70 ours=11 opp=11 ball=(46,21)   chase
+ 873.80 ours=11 opp=11 ball=(47,21)   pass A to (39,4)
+ 873.90 ours=10 opp= 9 ball=(46,21)   dribble
+ 874.10 ours= 0 opp= 0 ball=-         no radar
+ 874.50 ours=11 opp=11 ball=(37,25)   dribble
+ 874.70 ours=11 opp=11 ball=(39,24)   pass A to (50,20)
+ 874.80 ours=11 opp=11 ball=(41,23)   dribble
+ 875.60 ours=11 opp=11 ball=(51,18)   pass A to (51,42)
+ 875.70 ours=11 opp=11 ball=(52,18)   dribble
+ 876.20 ours=11 opp=10 ball=(56,17)   contain
+ 876.40 ours=11 opp=10 ball=(57,15)   recover
+ 877.61 ours=11 opp=10 ball=(59,9)    contain
+ 878.51 ours=10 opp=10 ball=(56,6)    recover
+ 879.41 ours=11 opp=10 ball=(53,6)    contain
+ 880.01 ours=11 opp=10 ball=(50,8)    tackle
+ 880.11 ours=11 opp=10 ball=(49,8)    contain
+ 880.42 ours=11 opp=11 ball=(48,8)    chase
+ 880.52 ours=11 opp= 9 ball=(48,8)    recover
+ 880.72 ours=11 opp=10 ball=(48,9)    contain
+ 880.82 ours=10 opp=10 ball=(47,10)   recover
+ 883.83 ours=10 opp=12 ball=(32,19)   chase
+ 883.93 ours=10 opp=10 ball=(32,19)   recover
+ 884.03 ours=10 opp=11 ball=(31,20)   chase
+ 884.23 ours=10 opp= 7 ball=(29,19)   recover
+ 884.63 ours=10 opp=11 ball=(27,19)   chase
+ 884.73 ours=10 opp=10 ball=(27,19)   recover
+ 885.13 ours=10 opp=11 ball=(27,19)   chase
+ 885.33 ours=10 opp=11 ball=(27,18)   dribble
+ 886.43 ours=10 opp=11 ball=(32,16)   pass A to (38,7)
+ 886.53 ours=10 opp=11 ball=(32,16)   dribble
+ 887.44 ours=11 opp= 9 ball=(40,18)   contain
+ 887.54 ours=10 opp=10 ball=(41,19)   dribble
+ 889.04 ours=11 opp=10 ball=(45,18)   recover
+ 891.65 ours= 9 opp=11 ball=(38,27)   chase
+ 891.75 ours= 7 opp=10 ball=(38,29)   recover
+ 891.85 ours= 9 opp=11 ball=(39,31)   chase
+ 891.95 ours=11 opp=10 ball=(39,32)   recover
+ 896.16 ours=11 opp=11 ball=(32,36)   chase
+ 896.26 ours=11 opp=10 ball=(32,34)   recover
+ 896.36 ours=11 opp=11 ball=(32,32)   chase
+ 896.56 ours=10 opp=10 ball=(32,30)   recover
+ 899.67 ours= 9 opp= 9 ball=(21,36)   contain
+ 899.77 ours=10 opp= 9 ball=(21,35)   recover
+ 900.07 ours=11 opp= 8 ball=(19,36)   contain
+ 900.37 ours= 7 opp= 9 ball=(11,34)   recover
+ 900.58 ours= 8 opp= 9 ball=(6,33)    contain
+ 900.78 ours=10 opp= 8 ball=(3,31)    recover
+ 900.88 ours=10 opp=10 ball=(2,30)    contain
+ 900.98 ours= 8 opp= 8 ball=(1,28)    recover
+ 901.18 ours= 0 opp= 0 ball=-         no radar
+ 902.18 ours=10 opp= 9 ball=(11,-3)   recover
+ 902.68 ours= 0 opp= 0 ball=-         no radar
+ 905.69 ours= 0 opp= 0 ball=-         skip scene: A
+ 905.79 ours= 0 opp= 0 ball=-         no radar
+ 906.59 ours= 8 opp= 5 ball=(-0,-0)   recover
+ 907.50 ours= 8 opp= 4 ball=(-0,-0)   no radar
+ 907.90 ours= 6 opp= 5 ball=(-0,-0)   recover
+ 908.00 ours= 4 opp= 4 ball=(-0,-0)   no radar
+ 908.90 ours= 5 opp= 5 ball=(-0,-0)   recover
+ 910.75 panel defend: MOVE GOALKEEPER 'D SSWITCH PHFENDER + TOGALE OVERLAY
+ 910.75 ours= 8 opp= 4 ball=(-0,-0)   their set piece: wait
+ 910.85 ours= 7 opp= 5 ball=(-0,-0)   recover
+ 912.67 ours= 0 opp= 0 ball=-         no radar
+ 913.67 ours= 8 opp= 8 ball=(3,33)    recover
+ 913.77 ours= 9 opp= 5 ball=(3,35)    contain
+ 913.87 ours=10 opp= 5 ball=(3,36)    recover
+ 914.49 ours= 0 opp= 0 ball=-         no radar
+ 917.58 ours= 0 opp= 0 ball=-         skip scene: A
+ 917.70 ours= 0 opp= 0 ball=-         no radar
+ 920.11 ours= 0 opp= 0 ball=-         skip scene: A
+ 920.21 ours= 0 opp= 0 ball=-         no radar
+ 922.62 ours= 0 opp= 0 ball=-         skip scene: A
+ 922.75 ours= 0 opp= 0 ball=-         no radar
+ 925.16 ours= 0 opp= 0 ball=-         skip scene: A
+ 925.29 ours= 0 opp= 0 ball=-         no radar
+ 927.00 ours=10 opp=11 ball=(44,34)   chase
+ 927.20 ours=10 opp= 9 ball=(44,34)   recover
+ 927.30 ours=10 opp=11 ball=(44,34)   chase
+ 927.40 ours= 0 opp= 0 ball=-         no radar
+ 929.01 ours=10 opp= 9 ball=(40,32)   recover
+ 930.11 ours=10 opp=11 ball=(41,36)   chase
+ 930.21 ours=10 opp= 9 ball=(41,36)   recover
+ 931.31 ours=10 opp=11 ball=(38,35)   chase
+ 931.51 ours=10 opp=10 ball=(38,35)   recover
+ 931.71 ours=10 opp=12 ball=(38,35)   chase
+ 931.92 ours=10 opp=11 ball=(38,36)   dribble
+ 932.62 ours=10 opp=12 ball=(40,37)   pass A to (48,45)
+ 932.72 ours=10 opp=11 ball=(40,37)   dribble
+ 933.32 ours= 0 opp= 0 ball=-         no radar
+ 933.92 ours=10 opp=10 ball=(46,44)   pass A to (46,37)
+ 934.02 ours=10 opp=10 ball=(46,44)   dribble
+ 934.62 ours=11 opp= 9 ball=-         no radar
+ 935.55 ours=11 opp=10 ball=(53,51)   recover
+ 935.95 ours=11 opp=10 ball=(54,48)   contain
+ 937.05 ours= 8 opp= 9 ball=(53,45)   recover
+ 937.35 ours= 9 opp= 8 ball=(52,44)   contain
+ 937.75 ours= 0 opp= 0 ball=-         no radar
+ 938.25 ours= 9 opp= 9 ball=(50,43)   recover
+ 938.36 ours= 9 opp= 8 ball=(50,43)   contain
+ 938.97 ours= 8 opp= 9 ball=(47,42)   recover
+ 939.07 ours= 8 opp= 9 ball=(47,42)   contain
+ 939.17 ours= 0 opp= 0 ball=-         no radar
+ 939.57 ours=11 opp= 8 ball=(45,41)   recover
+ 940.68 ours= 8 opp=11 ball=(39,40)   chase
+ 940.78 ours= 8 opp=10 ball=(38,40)   recover
+ 943.48 ours= 8 opp= 8 ball=(25,36)   contain
+ 943.58 ours= 8 opp= 6 ball=(25,35)   recover
+ 946.09 ours=11 opp= 9 ball=(19,24)   contain
+ 946.51 ours=11 opp= 9 ball=(23,21)   recover
+ 948.06 ours= 7 opp= 9 ball=(20,22)   contain
+ 948.59 ours= 8 opp=10 ball=(20,29)   recover
+ 951.20 ours= 9 opp=10 ball=(16,42)   contain
+ 951.30 ours= 8 opp=10 ball=(16,42)   recover
+ 951.40 ours= 8 opp=11 ball=(15,43)   chase
+ 951.50 ours= 8 opp=10 ball=(15,44)   recover
+ 952.01 ours= 8 opp=11 ball=(14,48)   chase
+ 952.11 ours= 8 opp=10 ball=(14,48)   recover
+ 953.01 ours= 9 opp= 9 ball=(5,38)    contain
+ 953.31 ours= 8 opp= 8 ball=(3,34)    recover
+ 953.41 ours= 9 opp= 6 ball=(4,34)    tackle
+ 953.51 ours= 9 opp= 7 ball=(6,35)    contain
+ 953.71 ours= 9 opp= 9 ball=(9,36)    recover
+ 953.91 ours= 9 opp=11 ball=(12,38)   chase
+ 954.01 ours= 9 opp=10 ball=(13,38)   recover
+ 954.51 ours= 0 opp= 0 ball=-         no radar
+ 957.55 ours= 0 opp= 0 ball=-         skip scene: A
+ 957.67 ours= 0 opp= 0 ball=-         no radar
+ 960.13 ours= 0 opp= 0 ball=-         skip scene: A
+ 960.32 ours= 0 opp= 0 ball=-         no radar
+ 962.67 ours= 0 opp= 0 ball=-         skip scene: A
+ 962.77 ours= 0 opp= 0 ball=-         no radar
+ 965.19 ours= 0 opp= 0 ball=-         skip scene: A
+ 965.29 ours= 0 opp= 0 ball=-         no radar
+ 967.69 ours= 0 opp= 0 ball=-         skip scene: A
+ 967.79 ours= 0 opp= 0 ball=-         no radar
+ 970.20 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 970.33 ours= 0 opp= 0 ball=-         no radar
+ 972.74 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 972.86 ours= 0 opp= 0 ball=-         no radar
+ 975.28 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 975.42 ours= 0 opp= 0 ball=-         no radar
+ 977.83 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 977.97 ours= 0 opp= 0 ball=-         no radar
+ 980.37 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 980.51 ours= 0 opp= 0 ball=-         no radar
+ 982.92 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 983.07 ours= 0 opp= 0 ball=-         no radar
+ 985.49 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 985.62 ours= 0 opp= 0 ball=-         no radar
+ 988.03 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 988.16 ours= 0 opp= 0 ball=-         no radar
+ 990.53 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 990.66 ours= 0 opp= 0 ball=-         no radar
+ 993.07 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 993.21 ours= 0 opp= 0 ball=-         no radar
+ 995.62 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 995.77 ours= 0 opp= 0 ball=-         no radar
+ 998.21 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 998.36 ours= 0 opp= 0 ball=-         no radar
+   0.79 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+   0.93 ours= 0 opp= 0 ball=-         no radar
+   3.38 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+   3.51 ours= 0 opp= 0 ball=-         no radar
+   5.93 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+   6.07 ours= 0 opp= 0 ball=-         no radar
+   8.52 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+   8.65 ours= 0 opp= 0 ball=-         no radar
+  11.07 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  11.21 ours= 0 opp= 0 ball=-         no radar
+  13.64 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  13.77 ours= 0 opp= 0 ball=-         no radar
+  16.20 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  16.36 ours= 0 opp= 0 ball=-         no radar
+  18.80 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  18.92 ours= 0 opp= 0 ball=-         no radar
+  21.34 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  21.50 ours= 0 opp= 0 ball=(107,71)  no radar
+  23.90 ours= 0 opp= 0 ball=(97,71)   menu (SQUAD BATTLES): wait
+  24.10 ours= 0 opp= 0 ball=(97,71)   no radar
+  26.51 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  26.70 ours= 0 opp= 0 ball=-         no radar
+  29.04 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  29.22 ours= 0 opp= 0 ball=-         no radar
+  31.62 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  31.80 ours= 0 opp= 0 ball=-         no radar
+  34.13 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  34.25 ours= 0 opp= 0 ball=-         no radar
+  36.66 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+  36.79 ours= 0 opp= 0 ball=-         no radar
+  39.19 ours= 0 opp= 0 ball=-         skip scene: A
+  39.34 ours= 0 opp= 0 ball=-         no radar

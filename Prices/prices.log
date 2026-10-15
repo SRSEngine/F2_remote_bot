@@ -1,0 +1,287 @@
+2026-10-14T12:06:51: 44 rows updated (prices published 2026-10-14T12:02:17)
+another price loop is already running - exit
+2026-10-14T12:07:17: 44 rows updated (prices published 2026-10-14T12:02:17)
+2026-10-14T15:37:47: 44 rows updated (prices published 2026-10-14T15:32:19)
+18:13:08 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791997973: <urlopen error [Errno 11001] getaddrinfo failed>
+18:14:23 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998048: <urlopen error [Errno 11001] getaddrinfo failed>
+18:15:38 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998123: <urlopen error [Errno 11001] getaddrinfo failed>
+18:16:53 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998198: <urlopen error [Errno 11001] getaddrinfo failed>
+18:18:33 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998273: <urlopen error [Errno 11001] getaddrinfo failed>
+18:20:00 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998373: <urlopen error [Errno 11001] getaddrinfo failed>
+18:21:15 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998460: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-14T18:24:03: 44 rows updated (prices published 2026-10-14T18:19:13)
+18:27:57 update failed: download failed: https://r2.fut.gg/27/streamlined-pool.v1.7edec0b5.json: The read operation timed out
+18:31:16 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791998937: <urlopen error _ssl.c:1015: The handshake operation timed out>
+18:32:43 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999136: <urlopen error [Errno 11001] getaddrinfo failed>
+18:33:58 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999223: <urlopen error [Errno 11001] getaddrinfo failed>
+18:35:13 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999298: <urlopen error [Errno 11001] getaddrinfo failed>
+18:36:28 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999373: <urlopen error [Errno 11001] getaddrinfo failed>
+18:37:43 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999448: <urlopen error [Errno 11001] getaddrinfo failed>
+18:38:58 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999523: <urlopen error [Errno 11001] getaddrinfo failed>
+18:40:12 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999594: HTTP Error 403: Forbidden
+18:41:48 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999672: <urlopen error [Errno 11001] getaddrinfo failed>
+18:43:03 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999768: <urlopen error [Errno 11001] getaddrinfo failed>
+18:44:18 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999843: <urlopen error [Errno 11001] getaddrinfo failed>
+18:45:33 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999918: <urlopen error [Errno 11001] getaddrinfo failed>
+18:46:48 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1791999993: <urlopen error [Errno 11001] getaddrinfo failed>
+18:48:15 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792000068: <urlopen error [Errno 11001] getaddrinfo failed>
+18:49:30 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792000155: <urlopen error [Errno 11001] getaddrinfo failed>
+18:50:57 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792000230: <urlopen error [Errno 11001] getaddrinfo failed>
+18:52:12 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792000317: <urlopen error [Errno 11001] getaddrinfo failed>
+18:53:39 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792000392: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-14T18:54:44: 44 rows updated (prices published 2026-10-14T18:54:17)
+2026-10-14T18:55:45: 44 rows updated (prices published 2026-10-14T18:54:17)
+2026-10-14T18:59:49: 44 rows updated (prices published 2026-10-14T18:59:19)
+2026-10-14T19:02:53: 44 rows updated (prices published 2026-10-14T18:59:19)
+2026-10-14T19:04:55: 44 rows updated (prices published 2026-10-14T19:04:21)
+2026-10-14T19:08:01: 44 rows updated (prices published 2026-10-14T19:04:21)
+2026-10-14T19:11:04: 44 rows updated (prices published 2026-10-14T19:10:34)
+2026-10-14T19:13:06: 44 rows updated (prices published 2026-10-14T19:10:34)
+2026-10-14T19:17:10: 44 rows updated (prices published 2026-10-14T19:16:22)
+2026-10-14T19:19:12: 44 rows updated (prices published 2026-10-14T19:16:22)
+2026-10-14T19:22:15: 44 rows updated (prices published 2026-10-14T19:21:34)
+2026-10-14T19:25:18: 44 rows updated (prices published 2026-10-14T19:21:34)
+2026-10-14T19:28:24: 44 rows updated (prices published 2026-10-14T19:27:24)
+2026-10-14T19:31:26: 44 rows updated (prices published 2026-10-14T19:27:24)
+2026-10-14T19:33:29: 44 rows updated (prices published 2026-10-14T19:32:26)
+2026-10-14T19:36:32: 44 rows updated (prices published 2026-10-14T19:32:26)
+2026-10-14T19:38:35: 44 rows updated (prices published 2026-10-14T19:38:17)
+2026-10-14T19:42:39: 44 rows updated (prices published 2026-10-14T19:38:17)
+2026-10-14T19:44:42: 44 rows updated (prices published 2026-10-14T19:44:15)
+2026-10-14T19:48:45: 44 rows updated (prices published 2026-10-14T19:44:15)
+2026-10-14T19:49:47: 44 rows updated (prices published 2026-10-14T19:49:17)
+2026-10-14T19:54:52: 44 rows updated (prices published 2026-10-14T19:49:17)
+2026-10-14T19:55:54: 44 rows updated (prices published 2026-10-14T19:55:23)
+2026-10-14T20:00:59: 44 rows updated (prices published 2026-10-14T20:00:42)
+2026-10-14T20:07:07: 44 rows updated (prices published 2026-10-14T20:06:18)
+2026-10-14T20:12:11: 44 rows updated (prices published 2026-10-14T20:11:19)
+2026-10-14T20:13:13: 44 rows updated (prices published 2026-10-14T20:11:19)
+2026-10-14T20:18:17: 44 rows updated (prices published 2026-10-14T20:17:19)
+2026-10-14T20:19:19: 44 rows updated (prices published 2026-10-14T20:17:19)
+2026-10-14T20:24:25: 44 rows updated (prices published 2026-10-14T20:23:19)
+2026-10-14T20:29:31: 44 rows updated (prices published 2026-10-14T20:29:15)
+2026-10-14T20:34:37: 44 rows updated (prices published 2026-10-14T20:34:16)
+2026-10-14T20:39:52: 44 rows updated (prices published 2026-10-14T20:39:17)
+2026-10-14T20:40:54: 44 rows updated (prices published 2026-10-14T20:39:17)
+2026-10-14T20:45:59: 44 rows updated (prices published 2026-10-14T20:45:25)
+2026-10-14T20:47:02: 44 rows updated (prices published 2026-10-14T20:45:25)
+2026-10-14T20:51:10: 44 rows updated (prices published 2026-10-14T20:50:28)
+2026-10-14T20:52:12: 44 rows updated (prices published 2026-10-14T20:50:28)
+2026-10-14T20:57:16: 44 rows updated (prices published 2026-10-14T20:56:17)
+2026-10-14T20:58:18: 44 rows updated (prices published 2026-10-14T20:56:17)
+2026-10-14T21:02:22: 44 rows updated (prices published 2026-10-14T21:01:23)
+2026-10-14T21:03:24: 44 rows updated (prices published 2026-10-14T21:01:23)
+2026-10-14T21:07:29: 44 rows updated (prices published 2026-10-14T21:07:15)
+2026-10-14T21:08:32: 44 rows updated (prices published 2026-10-14T21:07:15)
+2026-10-14T21:12:36: 44 rows updated (prices published 2026-10-14T21:12:18)
+2026-10-14T21:14:38: 44 rows updated (prices published 2026-10-14T21:12:18)
+2026-10-14T21:17:41: 44 rows updated (prices published 2026-10-14T21:17:18)
+2026-10-14T21:20:44: 44 rows updated (prices published 2026-10-14T21:17:18)
+2026-10-14T21:23:47: 44 rows updated (prices published 2026-10-14T21:23:17)
+2026-10-14T21:28:51: 44 rows updated (prices published 2026-10-14T21:28:17)
+2026-10-14T21:29:53: 44 rows updated (prices published 2026-10-14T21:28:17)
+2026-10-14T21:33:56: 44 rows updated (prices published 2026-10-14T21:33:18)
+2026-10-14T21:35:59: 44 rows updated (prices published 2026-10-14T21:33:18)
+2026-10-14T21:40:07: 44 rows updated (prices published 2026-10-14T21:39:15)
+2026-10-14T21:41:27: 44 rows updated (prices published 2026-10-14T21:39:15)
+2026-10-14T21:45:44: 44 rows updated (prices published 2026-10-14T21:45:28)
+2026-10-14T21:52:17: 44 rows updated (prices published 2026-10-14T21:51:20)
+2026-10-14T21:58:03: 44 rows updated (prices published 2026-10-14T21:57:16)
+2026-10-14T22:01:06: 44 rows updated (prices published 2026-10-14T21:57:16)
+2026-10-14T22:03:08: 44 rows updated (prices published 2026-10-14T22:02:20)
+2026-10-14T22:07:11: 44 rows updated (prices published 2026-10-14T22:02:20)
+2026-10-14T22:09:13: 44 rows updated (prices published 2026-10-14T22:08:17)
+2026-10-14T22:13:16: 44 rows updated (prices published 2026-10-14T22:08:17)
+2026-10-14T22:14:17: 44 rows updated (prices published 2026-10-14T22:14:12)
+2026-10-14T22:18:20: 44 rows updated (prices published 2026-10-14T22:14:12)
+2026-10-14T22:19:22: 44 rows updated (prices published 2026-10-14T22:19:14)
+2026-10-14T22:23:25: 44 rows updated (prices published 2026-10-14T22:19:14)
+2026-10-14T22:24:26: 44 rows updated (prices published 2026-10-14T22:24:18)
+2026-10-14T22:28:29: 44 rows updated (prices published 2026-10-14T22:24:18)
+2026-10-14T22:31:32: 44 rows updated (prices published 2026-10-14T22:30:38)
+2026-10-14T22:34:34: 44 rows updated (prices published 2026-10-14T22:30:38)
+2026-10-14T22:36:36: 44 rows updated (prices published 2026-10-14T22:36:20)
+2026-10-14T22:40:39: 44 rows updated (prices published 2026-10-14T22:36:20)
+2026-10-14T22:42:41: 44 rows updated (prices published 2026-10-14T22:42:16)
+2026-10-14T22:46:44: 44 rows updated (prices published 2026-10-14T22:42:16)
+2026-10-14T22:48:46: 44 rows updated (prices published 2026-10-14T22:48:17)
+2026-10-14T22:52:49: 44 rows updated (prices published 2026-10-14T22:48:17)
+2026-10-14T22:54:51: 44 rows updated (prices published 2026-10-14T22:54:15)
+2026-10-14T22:58:53: 44 rows updated (prices published 2026-10-14T22:54:15)
+2026-10-14T23:00:56: 44 rows updated (prices published 2026-10-14T23:00:37)
+2026-10-14T23:03:58: 44 rows updated (prices published 2026-10-14T23:00:37)
+2026-10-14T23:07:00: 44 rows updated (prices published 2026-10-14T23:06:19)
+2026-10-14T23:10:03: 44 rows updated (prices published 2026-10-14T23:06:19)
+2026-10-14T23:13:05: 44 rows updated (prices published 2026-10-14T23:12:19)
+2026-10-14T23:16:07: 44 rows updated (prices published 2026-10-14T23:12:19)
+2026-10-14T23:19:09: 44 rows updated (prices published 2026-10-14T23:18:16)
+2026-10-14T23:21:12: 44 rows updated (prices published 2026-10-14T23:18:16)
+2026-10-14T23:25:14: 44 rows updated (prices published 2026-10-14T23:24:15)
+2026-10-14T23:27:16: 44 rows updated (prices published 2026-10-14T23:24:15)
+2026-10-14T23:30:19: 44 rows updated (prices published 2026-10-14T23:29:16)
+2026-10-14T23:31:20: 44 rows updated (prices published 2026-10-14T23:29:16)
+2026-10-14T23:36:24: 44 rows updated (prices published 2026-10-14T23:35:25)
+2026-10-14T23:37:26: 44 rows updated (prices published 2026-10-14T23:35:25)
+2026-10-14T23:41:29: 44 rows updated (prices published 2026-10-14T23:41:16)
+2026-10-14T23:42:31: 44 rows updated (prices published 2026-10-14T23:41:16)
+2026-10-14T23:46:34: 44 rows updated (prices published 2026-10-14T23:46:17)
+2026-10-14T23:48:36: 44 rows updated (prices published 2026-10-14T23:46:17)
+2026-10-14T23:52:41: 44 rows updated (prices published 2026-10-14T23:52:16)
+2026-10-14T23:54:43: 44 rows updated (prices published 2026-10-14T23:52:16)
+2026-10-14T23:57:45: 44 rows updated (prices published 2026-10-14T23:57:20)
+2026-10-15T00:00:47: 44 rows updated (prices published 2026-10-14T23:57:20)
+2026-10-15T00:02:50: 44 rows updated (prices published 2026-10-15T00:02:21)
+2026-10-15T00:06:52: 44 rows updated (prices published 2026-10-15T00:02:21)
+2026-10-15T00:08:54: 44 rows updated (prices published 2026-10-15T00:08:14)
+2026-10-15T00:12:57: 44 rows updated (prices published 2026-10-15T00:08:14)
+2026-10-15T00:13:59: 44 rows updated (prices published 2026-10-15T00:13:18)
+2026-10-15T00:19:02: 44 rows updated (prices published 2026-10-15T00:13:18)
+2026-10-15T00:20:04: 44 rows updated (prices published 2026-10-15T00:19:13)
+2026-10-15T00:25:08: 44 rows updated (prices published 2026-10-15T00:24:16)
+2026-10-15T00:31:13: 44 rows updated (prices published 2026-10-15T00:30:30)
+2026-10-15T00:37:17: 44 rows updated (prices published 2026-10-15T00:36:19)
+2026-10-15T00:42:21: 44 rows updated (prices published 2026-10-15T00:41:19)
+2026-10-15T00:47:25: 44 rows updated (prices published 2026-10-15T00:47:16)
+2026-10-15T00:53:31: 44 rows updated (prices published 2026-10-15T00:53:13)
+2026-10-15T00:58:34: 44 rows updated (prices published 2026-10-15T00:58:14)
+2026-10-15T00:59:35: 44 rows updated (prices published 2026-10-15T00:58:14)
+2026-10-15T01:03:38: 44 rows updated (prices published 2026-10-15T01:03:15)
+2026-10-15T01:05:40: 44 rows updated (prices published 2026-10-15T01:03:15)
+2026-10-15T01:09:43: 44 rows updated (prices published 2026-10-15T01:09:13)
+2026-10-15T01:11:45: 44 rows updated (prices published 2026-10-15T01:09:13)
+2026-10-15T01:14:47: 44 rows updated (prices published 2026-10-15T01:14:14)
+2026-10-15T01:17:50: 44 rows updated (prices published 2026-10-15T01:14:14)
+2026-10-15T01:19:52: 44 rows updated (prices published 2026-10-15T01:19:14)
+2026-10-15T01:22:54: 44 rows updated (prices published 2026-10-15T01:19:14)
+2026-10-15T01:24:56: 44 rows updated (prices published 2026-10-15T01:24:16)
+2026-10-15T01:27:58: 44 rows updated (prices published 2026-10-15T01:24:16)
+2026-10-15T01:31:01: 44 rows updated (prices published 2026-10-15T01:30:36)
+2026-10-15T01:34:03: 44 rows updated (prices published 2026-10-15T01:30:36)
+2026-10-15T01:37:05: 44 rows updated (prices published 2026-10-15T01:36:16)
+2026-10-15T01:40:07: 44 rows updated (prices published 2026-10-15T01:36:16)
+2026-10-15T01:43:09: 44 rows updated (prices published 2026-10-15T01:42:16)
+2026-10-15T01:45:11: 44 rows updated (prices published 2026-10-15T01:42:16)
+2026-10-15T01:49:14: 44 rows updated (prices published 2026-10-15T01:48:16)
+2026-10-15T01:51:16: 44 rows updated (prices published 2026-10-15T01:48:16)
+2026-10-15T01:55:19: 44 rows updated (prices published 2026-10-15T01:54:16)
+2026-10-15T01:56:20: 44 rows updated (prices published 2026-10-15T01:54:16)
+2026-10-15T02:01:24: 44 rows updated (prices published 2026-10-15T02:00:31)
+2026-10-15T02:06:28: 44 rows updated (prices published 2026-10-15T02:06:20)
+2026-10-15T02:12:33: 44 rows updated (prices published 2026-10-15T02:12:17)
+2026-10-15T02:18:37: 44 rows updated (prices published 2026-10-15T02:18:16)
+2026-10-15T02:24:42: 44 rows updated (prices published 2026-10-15T02:24:15)
+2026-10-15T02:30:46: 44 rows updated (prices published 2026-10-15T02:30:31)
+2026-10-15T02:36:51: 44 rows updated (prices published 2026-10-15T02:36:17)
+2026-10-15T02:42:55: 44 rows updated (prices published 2026-10-15T02:42:17)
+2026-10-15T02:49:00: 44 rows updated (prices published 2026-10-15T02:48:17)
+2026-10-15T02:55:04: 44 rows updated (prices published 2026-10-15T02:54:17)
+2026-10-15T03:01:08: 44 rows updated (prices published 2026-10-15T03:00:26)
+2026-10-15T03:07:13: 44 rows updated (prices published 2026-10-15T03:06:17)
+2026-10-15T03:12:17: 44 rows updated (prices published 2026-10-15T03:11:18)
+2026-10-15T03:13:18: 44 rows updated (prices published 2026-10-15T03:11:18)
+2026-10-15T03:17:21: 44 rows updated (prices published 2026-10-15T03:17:12)
+2026-10-15T03:18:22: 44 rows updated (prices published 2026-10-15T03:17:12)
+2026-10-15T03:22:25: 44 rows updated (prices published 2026-10-15T03:22:15)
+2026-10-15T03:24:27: 44 rows updated (prices published 2026-10-15T03:22:15)
+2026-10-15T03:28:30: 44 rows updated (prices published 2026-10-15T03:28:13)
+2026-10-15T03:31:32: 44 rows updated (prices published 2026-10-15T03:28:13)
+2026-10-15T03:33:34: 44 rows updated (prices published 2026-10-15T03:33:15)
+2026-10-15T03:36:36: 44 rows updated (prices published 2026-10-15T03:33:15)
+2026-10-15T03:39:38: 44 rows updated (prices published 2026-10-15T03:39:18)
+2026-10-15T03:42:40: 44 rows updated (prices published 2026-10-15T03:39:18)
+2026-10-15T07:58:29: 44 rows updated (prices published 2026-10-15T07:54:14)
+2026-10-15T07:59:30: 44 rows updated (prices published 2026-10-15T07:59:14)
+2026-10-15T08:02:32: 44 rows updated (prices published 2026-10-15T07:59:14)
+2026-10-15T08:04:35: 44 rows updated (prices published 2026-10-15T08:04:16)
+2026-10-15T08:08:38: 44 rows updated (prices published 2026-10-15T08:04:16)
+2026-10-15T08:10:40: 44 rows updated (prices published 2026-10-15T08:10:26)
+2026-10-15T08:14:42: 44 rows updated (prices published 2026-10-15T08:10:26)
+2026-10-15T08:15:44: 44 rows updated (prices published 2026-10-15T08:15:26)
+2026-10-15T08:19:47: 44 rows updated (prices published 2026-10-15T08:15:26)
+2026-10-15T08:21:49: 44 rows updated (prices published 2026-10-15T08:21:18)
+2026-10-15T08:24:52: 44 rows updated (prices published 2026-10-15T08:21:18)
+2026-10-15T08:26:54: 44 rows updated (prices published 2026-10-15T08:26:19)
+2026-10-15T08:30:57: 44 rows updated (prices published 2026-10-15T08:26:19)
+2026-10-15T08:31:58: 44 rows updated (prices published 2026-10-15T08:31:20)
+2026-10-15T08:37:02: 44 rows updated (prices published 2026-10-15T08:31:20)
+2026-10-15T08:38:03: 44 rows updated (prices published 2026-10-15T08:37:17)
+2026-10-15T08:42:06: 44 rows updated (prices published 2026-10-15T08:37:17)
+2026-10-15T08:43:08: 44 rows updated (prices published 2026-10-15T08:42:18)
+2026-10-15T08:47:11: 44 rows updated (prices published 2026-10-15T08:42:18)
+2026-10-15T08:49:13: 44 rows updated (prices published 2026-10-15T08:48:17)
+2026-10-15T08:53:15: 44 rows updated (prices published 2026-10-15T08:48:17)
+2026-10-15T08:55:17: 44 rows updated (prices published 2026-10-15T08:54:16)
+2026-10-15T08:59:21: 44 rows updated (prices published 2026-10-15T08:54:16)
+2026-10-15T09:01:23: 44 rows updated (prices published 2026-10-15T09:00:36)
+2026-10-15T09:04:25: 44 rows updated (prices published 2026-10-15T09:00:36)
+2026-10-15T09:06:27: 44 rows updated (prices published 2026-10-15T09:06:17)
+2026-10-15T09:09:30: 44 rows updated (prices published 2026-10-15T09:06:17)
+2026-10-15T09:12:33: 44 rows updated (prices published 2026-10-15T09:12:18)
+2026-10-15T09:15:35: 44 rows updated (prices published 2026-10-15T09:12:18)
+2026-10-15T09:18:38: 44 rows updated (prices published 2026-10-15T09:18:14)
+2026-10-15T09:20:40: 44 rows updated (prices published 2026-10-15T09:18:14)
+2026-10-15T09:24:43: 44 rows updated (prices published 2026-10-15T09:24:16)
+2026-10-15T09:26:45: 44 rows updated (prices published 2026-10-15T09:24:16)
+2026-10-15T09:30:48: 44 rows updated (prices published 2026-10-15T09:30:34)
+2026-10-15T09:31:49: 44 rows updated (prices published 2026-10-15T09:30:34)
+2026-10-15T09:37:00: 44 rows updated (prices published 2026-10-15T09:36:21)
+2026-10-15T09:43:05: 44 rows updated (prices published 2026-10-15T09:42:19)
+2026-10-15T09:49:10: 44 rows updated (prices published 2026-10-15T09:48:16)
+2026-10-15T09:55:15: 44 rows updated (prices published 2026-10-15T09:54:18)
+2026-10-15T10:01:20: 44 rows updated (prices published 2026-10-15T10:00:36)
+2026-10-15T10:07:25: 44 rows updated (prices published 2026-10-15T10:06:17)
+10:10:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055426: <urlopen error [Errno 11001] getaddrinfo failed>
+10:11:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055501: <urlopen error [Errno 11001] getaddrinfo failed>
+10:13:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055576: <urlopen error [Errno 11001] getaddrinfo failed>
+10:14:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055651: <urlopen error [Errno 11001] getaddrinfo failed>
+10:15:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055726: <urlopen error [Errno 11001] getaddrinfo failed>
+10:16:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055801: <urlopen error [Errno 11001] getaddrinfo failed>
+10:18:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055876: <urlopen error [Errno 11001] getaddrinfo failed>
+10:19:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792055951: <urlopen error [Errno 11001] getaddrinfo failed>
+10:20:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056026: <urlopen error [Errno 11001] getaddrinfo failed>
+10:21:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056101: <urlopen error [Errno 11001] getaddrinfo failed>
+10:23:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056176: <urlopen error [Errno 11001] getaddrinfo failed>
+10:24:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056251: <urlopen error [Errno 11001] getaddrinfo failed>
+10:25:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056326: <urlopen error [Errno 11001] getaddrinfo failed>
+10:26:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056401: <urlopen error [Errno 11001] getaddrinfo failed>
+10:28:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056476: <urlopen error [Errno 11001] getaddrinfo failed>
+10:29:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056551: <urlopen error [Errno 11001] getaddrinfo failed>
+10:30:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056626: <urlopen error [Errno 11001] getaddrinfo failed>
+10:31:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056701: <urlopen error [Errno 11001] getaddrinfo failed>
+10:33:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056776: <urlopen error [Errno 11001] getaddrinfo failed>
+10:34:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056851: <urlopen error [Errno 11001] getaddrinfo failed>
+10:35:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792056926: <urlopen error [Errno 11001] getaddrinfo failed>
+10:36:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057001: <urlopen error [Errno 11001] getaddrinfo failed>
+10:38:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057076: <urlopen error [Errno 11001] getaddrinfo failed>
+10:39:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057151: <urlopen error [Errno 11001] getaddrinfo failed>
+10:40:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057226: <urlopen error [Errno 11001] getaddrinfo failed>
+10:41:56 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057301: <urlopen error [Errno 11001] getaddrinfo failed>
+10:43:11 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057376: <urlopen error [Errno 11001] getaddrinfo failed>
+10:44:26 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057451: <urlopen error [Errno 11001] getaddrinfo failed>
+10:45:41 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057526: <urlopen error [Errno 11001] getaddrinfo failed>
+10:46:57 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057602: <urlopen error [Errno 11001] getaddrinfo failed>
+10:48:12 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057677: <urlopen error [Errno 11001] getaddrinfo failed>
+10:49:27 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057752: <urlopen error [Errno 11001] getaddrinfo failed>
+10:50:42 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057827: <urlopen error [Errno 11001] getaddrinfo failed>
+10:51:57 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057902: <urlopen error [Errno 11001] getaddrinfo failed>
+10:53:12 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792057977: <urlopen error [Errno 11001] getaddrinfo failed>
+10:54:27 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058052: <urlopen error [Errno 11001] getaddrinfo failed>
+10:55:42 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058127: <urlopen error [Errno 11001] getaddrinfo failed>
+10:56:57 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058202: <urlopen error [Errno 11001] getaddrinfo failed>
+10:58:12 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058277: <urlopen error [Errno 11001] getaddrinfo failed>
+10:59:27 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058352: <urlopen error [Errno 11001] getaddrinfo failed>
+11:00:42 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058427: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-15T11:01:45: 44 rows updated (prices published 2026-10-15T10:59:13)
+2026-10-15T11:04:49: 44 rows updated (prices published 2026-10-15T11:04:15)
+11:10:06 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792058991: <urlopen error [Errno 11001] getaddrinfo failed>
+11:11:21 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059066: <urlopen error [Errno 11001] getaddrinfo failed>
+11:12:36 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059141: <urlopen error [Errno 11001] getaddrinfo failed>
+11:13:51 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059216: <urlopen error [Errno 11001] getaddrinfo failed>
+11:15:06 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059291: <urlopen error [Errno 11001] getaddrinfo failed>
+11:16:21 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059366: <urlopen error [Errno 11001] getaddrinfo failed>
+11:17:36 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059441: <urlopen error [Errno 11001] getaddrinfo failed>
+11:18:51 update failed: download failed: https://r2.fut.gg/27/manifest.json?t=1792059516: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-10-15T11:19:54: 44 rows updated (prices published 2026-10-15T11:15:26)
+2026-10-15T11:21:58: 44 rows updated (prices published 2026-10-15T11:21:17)
+2026-10-15T11:28:04: 44 rows updated (prices published 2026-10-15T11:27:18)
+2026-10-15T11:34:09: 44 rows updated (prices published 2026-10-15T11:33:14)

@@ -1,0 +1,82 @@
+ 384.20 ours=10 opp= 8 ball=(62,34)   press (A+RT)
+ 386.83 ours=10 opp= 8 ball=(46,37)   switch (LB)
+ 386.98 ours=11 opp= 8 ball=(45,37)   press (A+RT)
+ 388.17 ours= 0 opp= 0 ball=-         no radar
+ 388.76 ours=10 opp=10 ball=(47,37)   press (A+RT)
+ 390.92 ours= 0 opp= 0 ball=-         no radar
+ 391.16 ours=10 opp=10 ball=(58,37)   press (A+RT)
+ 392.10 ours= 0 opp= 0 ball=-         no radar
+ 392.54 ours=11 opp=10 ball=(64,37)   press (A+RT)
+ 398.83 ours=10 opp=11 ball=(84,39)   pass A to (60,42)
+ 398.99 ours=10 opp=11 ball=(85,39)   dribble
+ 399.82 ours=10 opp=11 ball=(83,39)   pass Y to (70,56)
+ 399.96 ours=10 opp=11 ball=(83,39)   dribble
+ 400.76 ours=11 opp=11 ball=(76,36)   pass A to (70,14)
+ 400.90 ours=11 opp=11 ball=(75,35)   dribble
+ 401.69 ours=11 opp=11 ball=(65,32)   pass A to (53,43)
+ 401.79 ours=11 opp=11 ball=(63,32)   dribble
+ 402.61 ours=11 opp=11 ball=(52,36)   pass A to (49,43)
+ 402.71 ours=11 opp=11 ball=(51,37)   dribble
+ 403.70 ours=11 opp=11 ball=(42,37)   pass A to (53,33)
+ 403.83 ours=11 opp=10 ball=(41,37)   dribble
+ 403.97 ours=11 opp=10 ball=(40,37)   press (A+RT)
+ 405.75 ours= 0 opp= 0 ball=-         no radar
+ 405.88 ours=11 opp=10 ball=(46,37)   press (A+RT)
+ 406.57 ours=11 opp=11 ball=(48,34)   chase
+ 407.16 ours=10 opp=11 ball=(48,32)   dribble
+ 407.46 ours=10 opp=11 ball=(48,31)   pass A to (45,40)
+ 407.60 ours=10 opp=11 ball=(48,31)   dribble
+ 408.53 ours=11 opp=10 ball=(46,32)   pass A to (38,43)
+ 408.66 ours=11 opp=10 ball=(46,32)   press (A+RT)
+ 410.33 ours= 0 opp= 0 ball=-         no radar
+ 410.61 ours=11 opp=10 ball=(46,23)   press (A+RT)
+ 412.04 ours=10 opp=11 ball=(53,18)   chase
+ 412.31 ours=10 opp=11 ball=(55,13)   pass A to (57,37)
+ 412.44 ours=10 opp=11 ball=(56,12)   dribble
+ 414.14 ours=11 opp=10 ball=(64,10)   press (A+RT)
+ 414.30 ours=11 opp=11 ball=(62,12)   pass A to (55,13)
+ 414.44 ours=11 opp=11 ball=(60,14)   dribble
+ 415.00 ours=11 opp=10 ball=(59,16)   press (A+RT)
+ 416.56 ours=11 opp=11 ball=(67,11)   chase
+ 417.11 ours=12 opp=11 ball=(72,4)    press (A+RT)
+ 418.82 ours=10 opp=11 ball=(75,10)   chase
+ 419.53 ours=11 opp=10 ball=(69,17)   press (A+RT)
+ 426.46 ours=11 opp=11 ball=(84,20)   chase
+ 426.56 ours=10 opp=11 ball=(84,20)   press (A+RT)
+ 426.66 ours=11 opp=11 ball=(84,20)   chase
+ 426.86 ours=10 opp=11 ball=(84,20)   pass A to (76,9)
+ 426.96 ours=10 opp=11 ball=(83,20)   dribble
+ 427.78 ours=11 opp=11 ball=(78,14)   pass A to (84,16)
+ 427.88 ours=11 opp=11 ball=(77,13)   dribble
+ 429.89 ours=10 opp=11 ball=(57,26)   pass A to (74,38)
+ 429.99 ours=11 opp=11 ball=(57,26)   dribble
+ 431.49 ours=11 opp=10 ball=(61,35)   press (A+RT)
+ 437.06 ours=10 opp=11 ball=(81,31)   pass A to (62,39)
+ 437.16 ours=10 opp=11 ball=(81,30)   dribble
+ 437.97 ours=10 opp=10 ball=(80,31)   pass A to (70,57)
+ 438.07 ours=10 opp=10 ball=(80,31)   dribble
+ 438.67 ours=12 opp=10 ball=(78,31)   press (A+RT)
+ 439.88 ours=11 opp=11 ball=(64,32)   chase
+ 440.58 ours=10 opp=11 ball=(58,35)   dribble
+ 441.68 ours=10 opp=10 ball=(54,33)   pass A to (52,20)
+ 441.78 ours=10 opp=10 ball=(53,33)   dribble
+ 442.59 ours=10 opp=10 ball=(48,32)   pass A to (50,22)
+ 442.69 ours=11 opp=10 ball=(48,30)   dribble
+ 442.79 ours=11 opp=10 ball=(48,29)   press (A+RT)
+ 442.89 ours=10 opp=10 ball=(48,27)   dribble
+ 442.99 ours=11 opp=10 ball=(48,25)   press (A+RT)
+ 443.09 ours=10 opp=10 ball=(48,24)   dribble
+ 443.39 ours=11 opp=10 ball=(49,19)   press (A+RT)
+ 443.59 ours=10 opp=11 ball=(50,17)   chase
+ 443.69 ours=11 opp=10 ball=(50,16)   press (A+RT)
+ 443.89 ours=11 opp=11 ball=(50,13)   chase
+ 444.50 ours=10 opp=11 ball=(51,10)   dribble
+ 445.10 ours=11 opp=10 ball=(50,18)   press (A+RT)
+ 452.14 ours=10 opp=11 ball=(67,13)   pass A to (45,33)
+ 452.24 ours=10 opp=11 ball=(67,13)   dribble
+ 453.08 ours=10 opp=11 ball=(68,13)   pass A to (48,33)
+ 453.18 ours=10 opp=11 ball=(68,14)   dribble
+ 454.09 ours=10 opp=11 ball=(68,21)   pass A to (49,35)
+ 454.19 ours=10 opp=11 ball=(68,23)   dribble
+ 454.99 ours=10 opp=11 ball=(64,24)   pass A to (64,16)
+ 455.09 ours=10 opp=11 ball=(64,24)   dribble

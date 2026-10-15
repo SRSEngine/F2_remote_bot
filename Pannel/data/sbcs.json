@@ -1,0 +1,26 @@
+[
+  {
+    "set": "Marquee Matchups",
+    "challenge": "1",
+    "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+    "enabled": true
+  },
+  {
+    "set": "Marquee Matchups",
+    "challenge": "2",
+    "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+    "enabled": true
+  },
+  {
+    "set": "Marquee Matchups",
+    "challenge": "3",
+    "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+    "enabled": true
+  },
+  {
+    "set": "Marquee Matchups",
+    "challenge": "4",
+    "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+    "enabled": true
+  }
+]

@@ -1,0 +1,138 @@
+  34.97 panel: CHANGE KICKT E CALL FO 2N TOGGL VERLAY
+  34.97 ours= 0 opp= 0 ball=-         no radar
+  35.63 ours= 8 opp= 9 ball=(0,-1)    side?
+  35.94 ours= 7 opp= 9 ball=-         no radar
+  36.11 ours= 7 opp= 9 ball=(1,2)     side?
+  36.59 ours=15 opp= 7 ball=(3,8)     no radar
+  36.75 ours= 8 opp= 7 ball=(4,11)    side?
+  38.10 ours= 9 opp= 6 ball=(6,18)    skip scene: A
+  38.30 ours=10 opp= 6 ball=(6,18)    side?
+  39.79 ours=14 opp= 9 ball=(13,13)   no radar
+  39.94 ours=11 opp= 7 ball=(13,13)   side?
+  40.09 ours=13 opp= 7 ball=(13,13)   no radar
+  40.66 ours=17 opp=10 ball=(14,13)   skip scene: A
+  40.86 ours=19 opp=10 ball=(13,13)   no radar
+  41.74 ours=11 opp= 8 ball=(17,15)   side?
+  41.89 ours=13 opp= 9 ball=(17,16)   no radar
+  42.04 ours=11 opp= 7 ball=(17,16)   side?
+  43.21 ours=11 opp= 9 ball=(18,15)   skip scene: A
+  43.40 ours=12 opp= 9 ball=(18,15)   side?
+  44.63 ours=15 opp=11 ball=(17,10)   no radar
+  44.78 ours=12 opp=11 ball=(17,10)   side?
+  45.82 ours=13 opp=11 ball=(17,9)    skip scene: A
+  46.02 ours=11 opp=11 ball=(17,9)    side?
+  48.39 ours= 9 opp=11 ball=(45,18)   skip scene: A
+  48.52 ours= 9 opp=11 ball=(46,18)   side?
+  50.98 ours= 9 opp=10 ball=(42,8)    skip scene: A
+  51.16 ours=10 opp=10 ball=(42,7)    side?
+  53.57 ours=10 opp=10 ball=(53,9)    skip scene: A
+  53.70 ours=10 opp=10 ball=(53,10)   side?
+  55.41 ours=10 opp=10 ball=(62,2)    recover
+  56.73 ours=11 opp=10 ball=(68,7)    contain
+  56.83 ours=11 opp=11 ball=(68,8)    chase
+  56.93 ours= 9 opp=11 ball=(68,9)    pass A to (71,23)
+  57.10 ours= 9 opp=11 ball=(68,9)    dribble
+  58.11 ours=10 opp=11 ball=(72,13)   pass A to (74,31)
+  58.22 ours= 8 opp=11 ball=(72,13)   dribble
+  59.02 ours=11 opp=12 ball=(70,14)   pass A to (49,14)
+  59.14 ours=10 opp=11 ball=(68,14)   dribble
+  60.56 ours=13 opp=11 ball=(47,18)   no radar
+  60.66 ours=11 opp=11 ball=(46,18)   dribble
+  61.37 ours=10 opp=11 ball=-         no radar
+  61.47 ours=11 opp=11 ball=(41,20)   pass A to (39,30)
+  61.57 ours= 9 opp=12 ball=(41,20)   dribble
+  61.67 ours= 8 opp=11 ball=-         no radar
+  61.77 ours=10 opp=11 ball=(39,20)   dribble
+  62.37 ours=10 opp=13 ball=(37,26)   no radar
+  62.47 ours=11 opp=12 ball=(37,28)   pass A to (51,16)
+  62.57 ours=11 opp=11 ball=(37,29)   dribble
+  63.37 ours=11 opp=11 ball=(39,24)   pass A to (31,21)
+  63.48 ours=12 opp=12 ball=(39,23)   dribble
+  64.70 ours=12 opp=11 ball=(29,20)   pass A to (32,33)
+  64.80 ours=11 opp=11 ball=(27,21)   dribble
+  65.60 ours=11 opp=11 ball=(20,24)   pass A to (26,35)
+  65.70 ours=12 opp=11 ball=(19,24)   dribble
+  66.40 ours=13 opp=12 ball=(20,31)   no radar
+  66.50 ours=11 opp=12 ball=(20,32)   pass A to (30,19)
+  66.60 ours=10 opp=12 ball=(21,33)   dribble
+  67.10 ours=11 opp=10 ball=(21,33)   contain
+  67.21 ours=12 opp=10 ball=(21,31)   recover
+  67.32 ours=11 opp=11 ball=(21,29)   dribble
+  67.42 ours=11 opp=11 ball=(21,28)   pass A to (21,37)
+  67.52 ours=11 opp=11 ball=(21,26)   dribble
+  68.34 ours=12 opp=11 ball=(19,29)   pass A to (19,38)
+  68.46 ours=12 opp=11 ball=(19,31)   dribble
+  69.06 ours=12 opp=10 ball=(16,35)   contain
+  69.16 ours=12 opp=10 ball=(15,33)   recover
+  70.12 ours=11 opp=11 ball=(15,25)   chase
+  70.22 ours=11 opp=12 ball=(16,25)   recover
+  70.72 ours=13 opp=10 ball=(17,23)   no radar
+  70.82 ours=11 opp=10 ball=(17,23)   recover
+  72.84 ours=11 opp=10 ball=(27,23)   contain
+  72.94 ours=11 opp=10 ball=(28,24)   recover
+  73.45 ours=13 opp=10 ball=(30,24)   no radar
+  73.55 ours=11 opp=10 ball=(30,24)   contain
+  74.05 ours=11 opp=11 ball=(33,24)   chase
+  74.15 ours=11 opp=10 ball=(34,24)   contain
+  74.25 ours=10 opp=10 ball=(34,24)   recover
+  75.38 ours=10 opp=11 ball=(38,27)   pass A to (34,51)
+  75.48 ours=10 opp=11 ball=(38,30)   dribble
+  76.28 ours=10 opp=11 ball=(40,34)   pass Y to (26,39)
+  76.39 ours=11 opp=11 ball=(39,34)   dribble
+  77.73 ours=11 opp=11 ball=(24,38)   shoot (25 m)
+  77.83 ours=11 opp=11 ball=(23,38)   dribble
+  78.63 ours=11 opp=11 ball=(19,39)   pass A to (21,29)
+  78.73 ours=12 opp=11 ball=(18,39)   dribble
+  78.83 ours=11 opp=10 ball=(18,39)   recover
+  79.34 ours=11 opp=11 ball=(21,43)   chase
+  81.15 ours=11 opp=11 ball=-         no radar
+  81.35 ours=11 opp=11 ball=(46,56)   chase
+  81.55 ours=11 opp=10 ball=(49,57)   recover
+  81.75 ours=11 opp=10 ball=(50,57)   contain
+  81.96 ours=13 opp= 9 ball=(52,58)   no radar
+  82.06 ours=10 opp= 9 ball=(53,59)   recover
+  83.98 ours=10 opp=11 ball=(63,60)   dribble
+  84.29 ours= 4 opp=11 ball=-         no radar
+  87.36 ours= 0 opp= 0 ball=-         skip scene: A
+  87.53 ours= 0 opp= 0 ball=-         no radar
+  89.87 ours= 0 opp= 0 ball=-         skip scene: A
+  90.00 ours= 0 opp= 0 ball=-         no radar
+  92.44 ours= 0 opp= 0 ball=-         skip scene: A
+  92.59 ours= 0 opp= 0 ball=-         no radar
+  95.02 ours= 0 opp= 0 ball=-         menu (SUBSTITUT): wait
+  95.16 ours= 0 opp= 0 ball=-         no radar
+  97.57 ours= 0 opp= 0 ball=-         skip scene: A
+  97.69 ours= 0 opp= 0 ball=-         no radar
+ 100.09 ours= 0 opp= 0 ball=-         skip scene: A
+ 100.22 ours= 0 opp= 0 ball=-         no radar
+ 102.63 ours= 0 opp= 0 ball=-         skip scene: A
+ 102.76 ours= 0 opp= 0 ball=-         no radar
+ 105.21 ours= 0 opp= 0 ball=-         skip scene: A
+ 105.35 ours= 0 opp= 0 ball=-         no radar
+ 107.72 ours= 0 opp= 0 ball=-         skip scene: A
+ 107.92 ours= 0 opp= 0 ball=-         no radar
+ 110.27 ours= 0 opp= 0 ball=-         skip scene: A
+ 110.40 ours= 0 opp= 1 ball=-         no radar
+ 112.79 ours= 0 opp= 0 ball=-         skip scene: A
+ 112.91 ours= 0 opp= 0 ball=-         no radar
+ 114.21 panel: 1,108 COINS AWARDED
+ 115.21 panel: 1,133 COINS AWARDED
+ 115.31 ours= 0 opp= 0 ball=-         skip scene: A
+ 115.46 ours= 0 opp= 0 ball=-         no radar
+ 117.33 panel: 0/7
+ 117.84 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 118.02 ours= 0 opp= 0 ball=-         no radar
+ 119.50 panel: 0/7 0/8
+ 120.36 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 120.53 panel: 0/8
+ 120.53 ours= 0 opp= 0 ball=-         no radar
+ 121.59 panel: 0/7 0/8
+ 122.91 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 123.02 ours= 0 opp= 0 ball=-         no radar
+ 123.63 panel: DIFFICULTY BONUS
+ 125.43 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 125.55 ours= 0 opp= 0 ball=-         no radar
+ 127.95 ours= 0 opp= 0 ball=-         skip scene: A
+ 128.06 ours= 0 opp= 0 ball=-         no radar
+ 130.48 ours= 0 opp= 0 ball=-         skip scene: A
+ 130.58 ours= 0 opp= 0 ball=-         no radar

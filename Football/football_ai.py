@@ -1,0 +1,617 @@
+# -*- coding: utf-8 -*-
+"""
+football_ai.py - a simple football player for EA FC through an xbrp remote.
+
+Eyes : the radar at the bottom of the picture (green dots = our team, red triangles = opponent,
+       yellow cross = ball). Positions are turned into pitch metres, like the
+       Google Research Football (GRF) "raw" observation.
+Brain: a rule-based policy in the GRF style (move, sprint, short pass, through ball, shot,
+       tackle). No neural network yet: this is the base that recordings can later improve.
+Hands: left stick + buttons through the remote's named pipe.
+
+    python football_ai.py --remote C31 --dry --seconds 20   # watch only, no buttons
+    python football_ai.py --remote C31 --seconds 120        # play for 2 minutes
+Ctrl+C stops and releases every button.
+"""
+import argparse
+import json
+import math
+import os
+import time
+
+import sys
+
+import cv2
+import numpy as np
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "Founder"))
+try:
+    import founder
+    OCR = founder.WindowsOcr()
+except Exception:            # no OCR: set pieces just wait
+    OCR = None
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+REMOTES = os.path.join(HERE, "..", "Controller", "remotes")
+
+# radar pitch inside the 1280x720 frame (measured on live C31 frames)
+PX0, PX1, PY0, PY1 = 542, 736, 577, 683
+ROI = (PX0 - 6, PY0 - 6, PX1 + 6, PY1 + 6)
+PITCH_W, PITCH_H = 105.0, 68.0   # metres
+
+
+class Remote:
+    def __init__(self, name):
+        with open(os.path.join(REMOTES, name + ".json"), encoding="utf-8") as f:
+            info = json.load(f)
+        self.name = name
+        self.p = open(info["pipe"], "r+b", buffering=0)
+        self.snap_path = os.path.join(HERE, "debug", "_live_%s.png" % name)
+
+    def cmd(self, line):
+        self.p.write((line + "\n").encode())
+        return self.p.read(4096).decode("utf-8", "replace").strip()
+
+    def snap(self):
+        r = self.cmd("snap " + self.snap_path)
+        if not r.startswith("ok"):
+            return None
+        return cv2.imread(self.snap_path, cv2.IMREAD_COLOR)
+
+
+# ---------------- eyes ----------------
+def _blobs(mask, amin, amax):
+    n, _, st, cen = cv2.connectedComponentsWithStats(mask)
+    out = []
+    for i in range(1, n):
+        a, w, h = st[i, 4], st[i, 2], st[i, 3]
+        if amin <= a <= amax and w <= 10 and h <= 10:
+            out.append((float(cen[i][0]), float(cen[i][1])))
+    return out
+
+
+def to_m(x, y):
+    """radar pixel (frame coords) -> metres; x 0..105 left->right, y 0..68 top->bottom"""
+    return ((x - PX0) / (PX1 - PX0) * PITCH_W, (y - PY0) / (PY1 - PY0) * PITCH_H)
+
+
+RADAR_CX = 639          # the radar is always centred horizontally; its height and top move
+                        # (e.g. a line-up ticker at the bottom pushes it up and shrinks it)
+
+
+def locate_radar(frame):
+    """find the radar's dark box from a row profile; sets PX0..PY1 / ROI. False if not on screen."""
+    global PX0, PX1, PY0, PY1, ROI
+    band = cv2.cvtColor(frame[440:716, 560:720], cv2.COLOR_BGR2HSV)
+    rows = ((band[..., 2] < 100) & (band[..., 1] > 35)).mean(1)
+    ys = np.where(rows > 0.5)[0]
+    if len(ys) < 60:
+        return False
+    best, s, p = (0, -1), ys[0], ys[0]
+    for v in list(ys[1:]) + [10 ** 6]:
+        if v - p > 4:                       # allow small gaps (pitch lines, dots)
+            if p - s > best[1] - best[0]:
+                best = (s, p)
+            s = v
+        p = v
+    h = best[1] - best[0] + 1
+    PY0, PY1 = 440 + best[0], 440 + best[1] + 1
+    # snap to the two layouts we know (a dark bar or stadium shadow under the radar can stretch
+    # the measured box downwards, so the top edge decides)
+    for top, hh in ((577, 106), (528, 96)):
+        if abs(PY0 - top) <= 4 and h >= hh - 12:
+            PY0, PY1, h = top, top + hh, hh
+            break
+    if not 80 <= h <= 125:
+        return False
+    w = 194.0 * h / 106.0
+    PX0, PX1 = int(round(RADAR_CX - w / 2)), int(round(RADAR_CX + w / 2))
+    ROI = (PX0 - 6, PY0 - 6, PX1 + 6, PY1 + 6)
+    return True
+
+
+def radar_visible(frame):
+    """the radar is a dark rectangle; replays, close-ups and fades have bright grass there"""
+    if not locate_radar(frame):
+        return False
+    pv = cv2.cvtColor(frame[PY0 + 4:PY1 - 4, PX0 + 4:PX1 - 4], cv2.COLOR_BGR2HSV)[..., 2]
+    return float((pv < 95).mean()) > 0.45
+
+
+def read_faded(frame):
+    """radar faded to near-transparent during live play: markers are faint bumps. Uses the last
+    radar position. Bright bump with red tint = opponent, without = ours. No ball (cross is lost)."""
+    x0, y0, x1, y1 = PX0, PY0, PX1, PY1
+    c = frame[y0:y1, x0:x1].astype(np.float32)
+    if c.size == 0:
+        return [], []
+    dd = c - cv2.GaussianBlur(c, (0, 0), 6)
+    s = cv2.GaussianBlur(dd.sum(2), (0, 0), 1.2)
+    mx = cv2.dilate(s, np.ones((7, 7), np.uint8))
+    W, H = x1 - x0, y1 - y0
+    ours, opp = [], []
+    for y, x in np.argwhere((s == mx) & (s > 22)):
+        if not (3 <= x < W - 3 and 3 <= y < H - 3):
+            continue
+        p = dd[y - 2:y + 3, x - 2:x + 3]
+        rg = float((p[..., 2] - p[..., 1]).mean())
+        pt = to_m(x + x0, y + y0)
+        if rg > 6:
+            if all(math.hypot(pt[0] - q[0], pt[1] - q[1]) > 3 for q in opp):   # a ring gives 2 peaks
+                opp.append(pt)
+        else:
+            ours.append(pt)
+    return ours, opp
+
+
+def read_radar(frame):
+    if not radar_visible(frame):
+        return [], [], None
+    x0, y0, x1, y1 = ROI
+    c = frame[y0:y1, x0:x1]
+    hsv = cv2.cvtColor(c, cv2.COLOR_BGR2HSV)
+    k = np.ones((2, 2), np.uint8)
+    g = cv2.morphologyEx(cv2.inRange(hsv, (40, 110, 140), (78, 255, 255)) | cv2.inRange(hsv, (45, 55, 175), (80, 255, 255)), cv2.MORPH_OPEN, k)
+    r = cv2.inRange(hsv, (0, 75, 110), (9, 255, 255)) | cv2.inRange(hsv, (168, 75, 110), (180, 255, 255))
+    r = cv2.morphologyEx(r, cv2.MORPH_OPEN, k)
+    y = cv2.inRange(hsv, (14, 140, 170), (34, 255, 255))
+    ours = [to_m(a + x0, b + y0) for a, b in _blobs(g, 4, 45)]
+    opp = [to_m(a + x0, b + y0) for a, b in _blobs(r, 3, 60)]
+    inside = lambda p: -2 <= p[0] <= PITCH_W + 2 and -2 <= p[1] <= PITCH_H + 2
+    opp = [p for p in opp if inside(p)]
+    # pale edges of red circles can look green: drop greens sitting on a red marker
+    ours = [p for p in ours if inside(p) and all(math.hypot(p[0] - q[0], p[1] - q[1]) > 1.3 for q in opp)]
+    yb = _blobs(y, 5, 60)
+    ball = to_m(yb[0][0] + x0, yb[0][1] + y0) if yb else None
+    if ball is None:
+        # faded radar: paler yellow; skip orange rims of red markers (blob sitting on a red dot)
+        y2 = cv2.inRange(hsv, (17, 80, 130), (34, 255, 255))
+        cands = [to_m(a + x0, b + y0) for a, b in _blobs(y2, 5, 60)]
+        cands = [p for p in cands if all(math.hypot(p[0] - q[0], p[1] - q[1]) > 1.5 for q in opp)]
+        if cands:
+            ball = cands[0]
+    return ours, opp, ball
+
+
+# ---------------- brain ----------------
+def d(a, b):
+    return math.hypot(a[0] - b[0], a[1] - b[1])
+
+
+def _seg_dist(p, a, b):
+    ax, ay = b[0] - a[0], b[1] - a[1]
+    L = ax * ax + ay * ay
+    t = 0 if L == 0 else max(0, min(1, ((p[0] - a[0]) * ax + (p[1] - a[1]) * ay) / L))
+    return math.hypot(p[0] - a[0] - t * ax, p[1] - a[1] - t * ay)
+
+
+def _lane(a, b, opp):
+    """closest opponent to the pass line a->b, counting only those ahead of the passer
+    (projection past the first 8 % of the line): one beside or behind us cannot cut it out"""
+    ax, ay = b[0] - a[0], b[1] - a[1]
+    L = ax * ax + ay * ay or 1.0
+    best = 9.0
+    for o in opp:
+        t = ((o[0] - a[0]) * ax + (o[1] - a[1]) * ay) / L
+        sd = _seg_dist(o, a, b)
+        if 0.08 < t <= 1.05 or (0 < t <= 0.08 and sd < 1.2):   # a presser square in front still blocks
+            best = min(best, sd)
+    return best
+
+
+def gain_of(t, me, goal):
+    return math.hypot(goal[0] - me[0], goal[1] - me[1]) - math.hypot(goal[0] - t[0], goal[1] - t[1])
+
+
+class Brain:
+    """GRF-style rule policy. act() returns ((stick_x, stick_y, sprint, button) or None, reason)."""
+
+    def __init__(self):
+        self.attack_left = None   # which goal we attack, from where our keeper stands
+        self.prev_ball = None
+        self.last_btn_t = 0.0
+        self.have_t = -9.0
+        self.poss = None          # ours / theirs / loose / None (no radar), for the outcome log        # last time we were sure the ball was ours
+
+    def side(self, ours, now):
+        """which goal we attack. Votes from our keeper (a dot near a goal line, in the middle);
+        a long radar gap (half time) resets the vote, so sides switch after the break."""
+        if now - getattr(self, "seen_t", now) > 15:
+            self.vote = 0
+        self.seen_t = now
+        lk = any(p[0] < 7 and abs(p[1] - PITCH_H / 2) < 10 for p in ours)
+        rk = any(p[0] > PITCH_W - 7 and abs(p[1] - PITCH_H / 2) < 10 for p in ours)
+        v = getattr(self, "vote", 0)
+        if rk and not lk:
+            v = min(v + 1, 40)
+        elif lk and not rk:
+            v = max(v - 1, -40)
+        self.vote = v
+        if v >= 3:
+            self.attack_left = True      # our keeper on the right
+        elif v <= -3:
+            self.attack_left = False
+        return self.attack_left
+
+    def act(self, ours, opp, ball, now):
+        if ball is None or not (5 <= len(ours) <= 16) or not (5 <= len(opp) <= 16):
+            self.prev_ball = None
+            self.poss = None
+            return None, "no radar"
+        left = self.side(ours, now)
+        if left is None:
+            # no keeper vote yet (start of a half): our team's centre of mass is in our own half
+            cx = sum(p[0] for p in ours) / len(ours) - sum(p[0] for p in opp) / len(opp)
+            left = cx > 0
+        goal = (0.0, PITCH_H / 2) if left else (PITCH_W, PITCH_H / 2)
+        vel = (0.0, 0.0)
+        if self.prev_ball:
+            vel = (ball[0] - self.prev_ball[0], ball[1] - self.prev_ball[1])
+        self.prev_ball = ball
+        if math.hypot(*vel) > 0.25:
+            self.moved_t = now
+        still = now - getattr(self, "moved_t", now) > 1.2     # ball has not moved for a while
+        near_g = min(ours, key=lambda p: d(p, ball))
+        foe = min(opp, key=lambda p: d(p, ball))
+        dg, df = d(near_g, ball), d(foe, ball)
+        # the radar draws the ball cross ON TOP of the carrier, so the carrier's dot is usually hidden:
+        # one of our 11 missing and no red right at the ball = ours; one red missing and no green there = theirs
+        ours_hidden = len(ours) <= 10 and dg > 1.6
+        opp_hidden = len(opp) <= 10 and df > 1.6
+        if ours_hidden and not opp_hidden:
+            have = True
+        elif opp_hidden and not ours_hidden:
+            have = False
+        else:
+            have = (dg < 2.2 and df > dg + 1.0) or (now - self.have_t < 0.5 and df > 1.2)
+        # smooth over frames: one odd frame (dots overlapping) must not flip attack <-> defence
+        theirs_now = opp_hidden or (df < 2.2 and dg > df + 1.0)
+        ps = getattr(self, "pscore", 0) + (1 if have else (-1 if theirs_now else 0))
+        self.pscore = max(-2, min(2, ps))
+        have = self.pscore > 0
+        if have:
+            self.have_t = now
+        self.poss ="ours" if have else ("theirs" if (opp_hidden or (df < 2.2 and dg > df + 1.0)) else "loose")
+        self.poss_t = now
+        # active player: the carrier (= ball spot) when we have it, else ours nearest the ball
+        me = ball if have and dg > 1.6 else near_g
+        dm = d(me, ball)
+
+        # kick-off: ball resting on the centre spot and ours -> short pass to the nearest teammate
+        if still and d(ball, (PITCH_W / 2, PITCH_H / 2)) < 3 and now - self.last_btn_t > 2.0:
+            mates = [t for t in ours if 2 < d(t, ball) < 20]
+            if mates and len(opp) >= 9 and all(abs(o[0] - PITCH_W / 2) > 3 or d(o, ball) > 8 for o in opp):
+                t = min(mates, key=lambda p: d(p, ball))
+                v = (t[0] - ball[0], t[1] - ball[1])
+                nv = max(math.hypot(*v), .1)
+                self.last_btn_t = now
+                return (v[0] / nv, v[1] / nv, False, "a"), "kickoff: pass A"
+        if have:
+            to_goal = (goal[0] - me[0], goal[1] - me[1])
+            dist_goal = max(math.hypot(*to_goal), 0.1)
+            fwd = (to_goal[0] / dist_goal, to_goal[1] / dist_goal)
+            # opponents in front (within 9 m, inside a 60 degree cone)
+            press = [o for o in opp if d(o, me) < 6 and
+                     ((o[0] - me[0]) * fwd[0] + (o[1] - me[1]) * fwd[1]) / max(d(o, me), .1) > 0.5]
+            # shoot from inside ~25 m when the angle is fair; aim at the post away from their keeper
+            angle_ok = abs(me[1] - PITCH_H / 2) < 16 + max(0, 25 - dist_goal)
+            if dist_goal < 25 and angle_ok and now - self.last_btn_t > 1.0:
+                keeper = min(opp, key=lambda p: d(p, goal))
+                post_y = PITCH_H / 2 + (3.0 if keeper[1] < PITCH_H / 2 else -3.0)
+                aim = (goal[0] - me[0], post_y - me[1])
+                na = max(math.hypot(*aim), 0.1)
+                self.last_btn_t = now
+                near_def = min(d(o, me) for o in opp if o is not keeper) if len(opp) > 1 else 99
+                if 11 <= dist_goal <= 20 and abs(me[1] - PITCH_H / 2) < 12 and near_def > 4.5:
+                    return (aim[0] / na, aim[1] / na, False, "power"), "shoot (%.0f m) power" % dist_goal
+                return (aim[0] / na, aim[1] / na, False, "b"), "shoot (%.0f m)" % dist_goal
+            if press and now - self.last_btn_t > 0.9:
+                best, bs = None, -1e9
+                # the presser right next to us does not block a lane; everyone further away might
+                blockers = opp
+                for t in ours:
+                    if t is me or d(t, me) < 6 or d(t, me) > 30:
+                        continue
+                    free = min(d(o, t) for o in opp)
+                    lane = _lane(me, t, blockers)
+                    if free < 4.5 or lane < 3.0:          # receiver marked or lane cut: no pass there
+                        continue
+                    s = gain_of(t, me, goal) + min(free, 8) * 1.5 + min(lane, 6) * 2 - d(t, me) * 0.15
+                    if s > bs:
+                        best, bs = t, s
+                if best:
+                    v = (best[0] - me[0], best[1] - me[1])
+                    n = math.hypot(*v)
+                    # through ball only into open space: nobody within 7 m of the spot 8 m beyond the receiver
+                    tg = (goal[0] - best[0], goal[1] - best[1])
+                    ntg = max(math.hypot(*tg), .1)
+                    ahead = (best[0] + tg[0] / ntg * 8, best[1] + tg[1] / ntg * 8)
+                    open_ahead = all(d(o, ahead) > 7 for o in opp)
+                    btn = "y" if (gain_of(best, me, goal) > 8 and open_ahead) else "a"
+                    self.last_btn_t = now
+                    return (v[0] / n, v[1] / n, False, btn), "pass %s to (%.0f,%.0f)" % (btn.upper(), best[0], best[1])
+            # dribble to goal, stepping away from the closest presser
+            dx, dy = fwd
+            if press:
+                o = min(press, key=lambda p: d(p, me))
+                ax, ay = me[0] - o[0], me[1] - o[1]
+                n = max(math.hypot(ax, ay), .1)
+                dx, dy = dx + 0.6 * ax / n, dy + 0.6 * ay / n
+            # keep away from the touchlines and our own goal line
+            if me[1] < 6:
+                dy += (6 - me[1]) / 3
+            if me[1] > PITCH_H - 6:
+                dy -= (me[1] - PITCH_H + 6) / 3
+            n = math.hypot(dx, dy)
+            return (dx / n, dy / n, not press, None), "dribble"
+
+        foe_has = opp_hidden or (df < 2.6 and df < dm)
+        if not foe_has:
+            # loose ball: run to where it is going
+            tgt = (ball[0] + vel[0] * 2, ball[1] + vel[1] * 2)
+            v = (tgt[0] - me[0], tgt[1] - me[1])
+            n = math.hypot(*v)
+            if n < 0.3:
+                return (0.0, 0.0, False, None), "hold"
+            return (v[0] / n, v[1] / n, n > 6, None), "chase"
+
+        # they have it. Hold A + RT: the game itself runs our player at the carrier (no need to
+        # know exactly who we control). Our nearest man far away -> LB switches to the closest one.
+        # Standing tackle (B) only when right on the ball.
+        if dm > 12 and now - getattr(self, "lb_t", 0) > 2.0:
+            self.lb_t = now
+            return (0.0, 0.0, False, "lb"), "switch (LB)"
+        if dm < 2.0 and now - self.last_btn_t > 1.2:
+            self.last_btn_t = now
+            v = (ball[0] - me[0], ball[1] - me[1])
+            n = max(math.hypot(*v), .1)
+            return (v[0] / n, v[1] / n, False, "b"), "tackle"
+        if dm > 5:
+            return (0.0, 0.0, True, "hold_a"), "press (A+RT)"            # close the distance fast
+        return (0.0, 0.0, False, "hold_arb"), "contain (A+RB)"           # near: no sprint, 2nd man helps
+
+
+MENU_WORDS = ("SETTINGS", "RESUME", "QUIT", "RESTART", "TEAM MANAGEMENT", "CONTROLS", "PAUSE",
+              "CUSTOMI", "SUBSTITUT", "FORMATION", "EXIT", "STORE", "TRANSFER MARKET")
+
+
+def scoreboard(frame):
+    """the white score box top-left is on screen during live play and set pieces (not in replays,
+    celebrations or menus) -> never press 'skip' buttons while it shows"""
+    g = cv2.cvtColor(frame[42:72, 104:196], cv2.COLOR_BGR2GRAY)
+    return float(g.mean()) > 150
+
+
+def screen_text(frame):
+    """all text on the screen (for screens without radar: menus, replays, celebrations)"""
+    if OCR is None:
+        return ""
+    g = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    try:
+        return OCR.text(g).upper()
+    except Exception:
+        return ""
+
+
+def panel_kind(txt):
+    """hint panel -> 'corner' (our corner / wide free kick), 'kick' (goal kick, throw-in, free kick),
+    'defend' (their set piece) or '' (no panel). OCR is noisy, so look for several short pieces."""
+    if not txt:
+        return ""
+    if any(k in txt for k in ("TAKER", "2ND", "SET PIECE", "SHORT PASS", "KICK T", "KICKT", "CHANGE K", "CALL FO", "ICK TA", "FOR 2", "GE KICK")):
+        return "corner"
+    if "GROUND" in txt or ("PASS" in txt and "OVERLAY" in txt and "PASSING" not in txt):
+        return "kick"
+    if "SWITCH" in txt and ("DEFEND" in txt or "MOVE" in txt):
+        return "defend"
+    return ""
+
+
+def set_piece(frame):
+    """text of the hint panel on the right (shown for goal kicks, free kicks, throw-ins, corners)"""
+    if OCR is None:
+        return ""
+    g = cv2.cvtColor(frame[280:440, 990:1260], cv2.COLOR_BGR2GRAY)
+    try:
+        return OCR.text(g).upper()
+    except Exception:
+        return ""
+
+
+# ---------------- hands + loop ----------------
+def draw(frame, ours, opp, ball, why):
+    x0, y0, x1, y1 = ROI
+    c = cv2.resize(frame[y0:y1, x0:x1], None, fx=3, fy=3, interpolation=cv2.INTER_NEAREST)
+
+    def f(p):
+        return (int(((p[0] / PITCH_W) * (PX1 - PX0) + PX0 - x0) * 3),
+                int(((p[1] / PITCH_H) * (PY1 - PY0) + PY0 - y0) * 3))
+    for p in ours:
+        cv2.circle(c, f(p), 10, (255, 0, 255), 2)
+    for p in opp:
+        cv2.circle(c, f(p), 10, (255, 255, 0), 2)
+    if ball:
+        cv2.circle(c, f(ball), 12, (0, 0, 255), 2)
+    cv2.putText(c, why, (6, 18), cv2.FONT_HERSHEY_SIMPLEX, 0.55, (255, 255, 255), 2)
+    return c
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--remote", default="C31")
+    ap.add_argument("--seconds", type=float, default=60)
+    ap.add_argument("--dry", action="store_true", help="watch and decide, press nothing")
+    ap.add_argument("--debug-every", type=int, default=10, help="save an annotated radar every N frames (0 = never)")
+    a = ap.parse_args()
+
+    rm = Remote(a.remote)
+    brain = Brain()
+    t_end = time.time() + a.seconds
+    sprint_on = False
+    a_down = False
+    rb_down = False
+    n = 0
+    last_why = ""
+    stats = {}
+    last_sp, sp_since, last_txt = 0.0, 0.0, ""
+    pending, outcomes = [], {}
+    noradar_since, last_skip = None, 0.0
+    last_ball, last_ball_t = None, -99.0
+    last_poss = None
+    hub_tries = 0
+    os.makedirs(os.path.join(HERE, "debug", "screens"), exist_ok=True)
+    newlog = not os.path.exists(os.path.join(HERE, "events.csv"))
+    evlog = open(os.path.join(HERE, "events.csv"), "a", encoding="utf-8")
+    if newlog:
+        evlog.write("time,action,ball_x,ball_y,detail,after_2.5s\n")
+    rm.cmd("log Football AI %s for %.0f s" % ("watching" if a.dry else "playing", a.seconds))
+    try:
+        while time.time() < t_end:
+            t0 = time.time()
+            fr = rm.snap()
+            if fr is None:
+                time.sleep(0.2)
+                continue
+            ours, opp, ball = read_radar(fr)
+            if ball is not None:
+                last_ball, last_ball_t = ball, t0
+            elif scoreboard(fr) and t0 - last_ball_t < 3.0:
+                # live play with a faded radar: faint markers + the ball where we last saw it
+                fo, fp = read_faded(fr)
+                if len(fo) >= 6 and len(fp) >= 4:
+                    ours, opp, ball = fo, fp, last_ball
+            res, why = brain.act(ours, opp, ball, t0)
+            if brain.poss is not None:
+                last_poss = brain.poss
+            elif res is None and scoreboard(fr) and brain.attack_left is not None:
+                # live play but no usable radar (it fades when the action is behind it on screen):
+                # keep going on the last known possession instead of freezing
+                if last_poss == "ours":
+                    res, why = ((-1.0 if brain.attack_left else 1.0), 0.0, False, None), "blind dribble"
+                elif last_poss == "theirs":
+                    # no A here: if we actually won the ball meanwhile, a held A would pass it away
+                    res, why = ((1.0 if brain.attack_left else -1.0) * 0.6, 0.0, True, None), "blind track back"
+            if (res is None or why.startswith("blind")) and t0 - last_sp > 1.0:
+                last_sp = t0
+                txt = set_piece(fr)
+                kind = panel_kind(txt)
+                if kind:
+                    if kind != last_txt:
+                        print("%7.2f panel %s: %s" % (t0 % 1000, kind, txt[:90]), flush=True)
+                        last_txt, sp_since = kind, t0
+                    if kind == "kick" and t0 - sp_since > 1.0:
+                        res, why = (0.0, 0.0, False, "a"), "set piece: A"
+                        sp_since = t0 + 2.0          # do not press again for 3 s
+                    elif kind == "corner" and t0 - sp_since > 1.5:
+                        res, why = (0.0, 0.0, False, "x_cross"), "corner: X cross"
+                        sp_since = t0 + 2.0
+                    elif kind == "defend":
+                        why = "their set piece: wait"
+                else:
+                    last_txt = ""
+            # no radar and no set-piece panel for a while: a replay, celebration, cut scene or menu
+            if res is not None or brain.poss is not None:
+                noradar_since = None
+            elif noradar_since is None:
+                noradar_since = t0
+            elif res is None and t0 - noradar_since > 3.0 and t0 - last_skip > 2.5 and not a.dry and not scoreboard(fr):
+                last_skip = t0
+                full = screen_text(fr)
+                menu = [w for w in MENU_WORDS if w in full]
+                shot = os.path.join(HERE, "debug", "screens", time.strftime("%H%M%S") + ".jpg")
+                cv2.imwrite(shot, fr)
+                with open(os.path.join(HERE, "debug", "screens", "texts.txt"), "a", encoding="utf-8") as tf:
+                    tf.write("%s %s | %s\n" % (os.path.basename(shot), "MENU" if menu else "skip", full[:200]))
+                halftime = "RESUME MATCH" in full and any(c in full.replace("O", "0") for c in ("45:0", "90:0", "105:0", "120:0"))
+                # after the match: every screen offers "A Advance" / "Continue" (not the pause menu)
+                post = ("ADVANCE" in full or "CONTINUE" in full) and "RESUME MATCH" not in full
+                if halftime:
+                    res, why = (0.0, 0.0, False, "b"), "half/full time: B resume"
+                elif post:
+                    res, why = (0.0, 0.0, False, "a"), "match over: A advance"
+                elif "OPPONENT SELECT" in full:
+                    # Squad Battles hub: take the highlighted opponent; if A keeps us here (all played)
+                    # and new opponents are offered, update them with X
+                    hub_tries += 1
+                    if hub_tries % 3 == 0 and "UPDATE IS AVAILABLE" in full:
+                        res, why = (0.0, 0.0, False, "x"), "hub: X update opponents"
+                    else:
+                        res, why = (0.0, 0.0, False, "a"), "hub: A select opponent"
+                elif menu:
+                    why = "menu (%s): wait" % menu[0]
+                else:
+                    res, why = (0.0, 0.0, False, "a"), "skip scene: A"
+            n += 1
+            key = why.split()[0]
+            stats[key] = stats.get(key, 0) + 1
+            # outcome log: what happened 2.5 s after each pass / shot / tackle
+            for ev in [e for e in pending if t0 - e[0] >= 2.5]:
+                pending.remove(ev)
+                out = brain.poss or "noradar"
+                evlog.write("%s,%s,%.1f,%.1f,%s,%s\n" % (time.strftime("%H:%M:%S", time.localtime(ev[0])), ev[1], ev[2][0], ev[2][1], ev[3], out))
+                evlog.flush()
+                res_k = ev[1] + ":" + out
+                outcomes[res_k] = outcomes.get(res_k, 0) + 1
+            btn = res[3] if res else None
+            if btn and ball and key in ("shoot", "pass", "tackle"):
+                pending.append((t0, key if key != "pass" else "pass" + btn.upper(), ball, why.replace(",", " ")))
+            if not a.dry:
+                want_a = btn in ("hold_a", "hold_arb")           # contain: keep A down while it lasts
+                want_rb = btn == "hold_arb"                       # RB: a teammate presses too
+                if want_rb != rb_down:
+                    rm.cmd(("down" if want_rb else "up") + " rb")
+                    rb_down = want_rb
+                if want_a != a_down:
+                    rm.cmd(("down" if want_a else "up") + " a")
+                    a_down = want_a
+                if res is None:
+                    rm.cmd("stick l 0 0")
+                    if sprint_on:
+                        rm.cmd("up rt")
+                        sprint_on = False
+                else:
+                    sx, sy, sprint, _ = res
+                    rm.cmd("stick l %.3f %.3f" % (sx, -sy))      # radar y grows downward, stick y is up
+                    if sprint != sprint_on:
+                        rm.cmd(("down" if sprint else "up") + " rt")
+                        sprint_on = sprint
+                    if btn == "x_cross":
+                        rm.cmd("press x 220")
+                    elif btn == "power":
+                        rm.cmd("press lb+rb+b 330")              # power shot: LB+RB with the shot
+                    elif btn == "lb":
+                        rm.cmd("press lb 80")
+                    elif btn and not want_a:
+                        hold = 90
+                        if key == "shoot":
+                            # power bar: ~240 ms close in, ~360 ms from 25 m (more flies over the bar)
+                            dist = float(why.split("(")[1].split()[0])
+                            hold = int(max(240, min(370, 190 + 7 * dist)))
+                        rm.cmd("press %s %d" % (btn, hold))
+            if btn in ("hold_a", "hold_arb"):
+                btn = None
+            if key != last_why or btn:
+                print("%7.2f ours=%2d opp=%2d ball=%-9s %s" % (t0 % 1000, len(ours), len(opp),
+                      "(%.0f,%.0f)" % ball if ball else "-", why), flush=True)
+                last_why = key
+                if btn and not a.dry:
+                    rm.cmd("log FB: " + why)
+            if a.debug_every and n % a.debug_every == 0:
+                cv2.imwrite(os.path.join(HERE, "debug", "radar_%04d.png" % n), draw(fr, ours, opp, ball, why))
+            dt = time.time() - t0
+            if dt < 0.1:
+                time.sleep(0.1 - dt)
+    except KeyboardInterrupt:
+        pass
+    finally:
+        try:
+            rm.cmd("release")
+            rm.cmd("log Football AI stopped")
+        except OSError:
+            pass
+    print("frames:", n, stats)
+    print("outcomes:", outcomes)
+
+
+if __name__ == "__main__":
+    main()

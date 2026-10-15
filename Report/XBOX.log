@@ -1,0 +1,681 @@
+
+════ 2026-10-10 12:28:18  شروع اجرا  (ریموت XBOX، pid 20972) START_GAME=True ════
+12:30:38  ✓ انجام شد   -  |  بازی باز شد و Marquee آمد
+12:31:27  ✓ انجام شد   چالش 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:31:46  ✓ انجام شد   چالش 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:32:04  ✓ انجام شد   چالش 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:32:22  ✓ انجام شد   چالش 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:32:41  ✓ انجام شد   چالش 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:32:59  ✓ انجام شد   چالش 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:33:18  ✓ انجام شد   چالش 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:33:49  ✗ خطا        چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_123349_001_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:32:54 Looking for 'Position'
+            12:32:57 Found in Club
+            12:33:00 [1:7/11] Bronze | England | LM | OFF | OFF | 200
+            12:33:13 Pricing: club=True، قیمت نادیده گرفته شد
+            12:33:13 Looking for 'Position'
+            12:33:16 Found in Club
+            12:33:18 [1:8/11] Bronze | OFF | OFF | OFF | OFF | 200
+            12:33:32 Pricing: club=True، قیمت نادیده گرفته شد
+            12:33:37 Looking for 'Position'
+            12:33:45 فیلتر Pos='OFF': تلاش 1 نشد
+            12:33:45 Looking for 'Position'
+            12:33:49 فیلتر Pos='OFF': تلاش 2 نشد
+12:33:49  ↻ تلاش دوباره چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+12:34:26  ✗ خطا        چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_123426_002_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:33:49 ✗ فیلترهای Club نشد (عکس: 1010_123349_001_Club.png)
+            12:33:49 [1:8] تلاش 1 از 3 نشد؛ برگشت به اسکواد
+            12:34:04 Pricing: club=True، قیمت نادیده گرفته شد
+            12:34:09 Looking for 'Rarity'
+            12:34:16 Bronze پیدا شد
+            12:34:17 Looking for 'Position'
+            12:34:22 فیلتر Pos='OFF': تلاش 1 نشد
+            12:34:22 Looking for 'Position'
+            12:34:26 فیلتر Pos='OFF': تلاش 2 نشد
+12:34:26  ↻ تلاش دوباره چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+12:35:03  ✗ خطا        چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_123503_003_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:34:26 ✗ فیلترهای Club نشد (عکس: 1010_123426_002_Club.png)
+            12:34:26 [1:8] تلاش 2 از 3 نشد؛ برگشت به اسکواد
+            12:34:41 Pricing: club=True، قیمت نادیده گرفته شد
+            12:34:46 Looking for 'Rarity'
+            12:34:52 Bronze پیدا شد
+            12:34:54 Looking for 'Position'
+            12:34:59 فیلتر Pos='OFF': تلاش 1 نشد
+            12:34:59 Looking for 'Position'
+            12:35:03 فیلتر Pos='OFF': تلاش 2 نشد
+12:35:07  ⏸ توقف موقت  چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  [1:8] بازیکن نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی اسکواد، روی خانه‌ی همین بازیکن بگذارید
+          عکس: shots\XBOX\1010_123507_004_pause__1_8.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:35:03 ✗ فیلترهای Club نشد (عکس: 1010_123503_003_Club.png)
+            12:35:03 [1:8] تلاش 3 از 3 نشد؛ برگشت به اسکواد
+12:37:40  ✗ خطا        چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_123740_005_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:37:18 Pricing: club=True، قیمت نادیده گرفته شد
+            12:37:23 Looking for 'Rarity'
+            12:37:30 Bronze پیدا شد
+            12:37:32 Looking for 'Position'
+            12:37:36 فیلتر Pos='OFF': تلاش 1 نشد
+            12:37:36 Looking for 'Position'
+            12:37:40 فیلتر Pos='OFF': تلاش 2 نشد
+12:37:40  ↻ تلاش دوباره چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+12:38:21  ✗ خطا        چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_123821_006_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:37:40 ✗ فیلترهای Club نشد (عکس: 1010_123740_005_Club.png)
+            12:37:40 [1:8] تلاش 1 از 3 نشد؛ برگشت به اسکواد
+            12:37:58 Pricing: club=True، قیمت نادیده گرفته شد
+            12:38:03 Looking for 'Rarity'
+            12:38:10 Bronze پیدا شد
+            12:38:12 Looking for 'Position'
+            12:38:17 فیلتر Pos='OFF': تلاش 1 نشد
+            12:38:17 Looking for 'Position'
+            12:38:21 فیلتر Pos='OFF': تلاش 2 نشد
+12:38:21  ↻ تلاش دوباره چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+12:38:58  ✗ خطا        چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_123858_007_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:38:21 ✗ فیلترهای Club نشد (عکس: 1010_123821_006_Club.png)
+            12:38:21 [1:8] تلاش 2 از 3 نشد؛ برگشت به اسکواد
+            12:38:36 Pricing: club=True، قیمت نادیده گرفته شد
+            12:38:40 Looking for 'Rarity'
+            12:38:47 Bronze پیدا شد
+            12:38:49 Looking for 'Position'
+            12:38:54 فیلتر Pos='OFF': تلاش 1 نشد
+            12:38:54 Looking for 'Position'
+            12:38:58 فیلتر Pos='OFF': تلاش 2 نشد
+12:39:02  ⏸ توقف موقت  چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  [1:8] بازیکن نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی اسکواد، روی خانه‌ی همین بازیکن بگذارید
+          عکس: shots\XBOX\1010_123902_008_pause__1_8.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:38:58 ✗ فیلترهای Club نشد (عکس: 1010_123858_007_Club.png)
+            12:38:58 [1:8] تلاش 3 از 3 نشد؛ برگشت به اسکواد
+12:40:58  ▶ ادامه      چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بعد از 1:56 توقف
+12:41:06  ■ توقف       چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 12:48  |  خطا 6، تلاش دوباره 4، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-10 12:41:34  شروع اجرا  (ریموت XBOX، pid 11884) START_GAME=True ════
+12:44:02  ✓ انجام شد   -  |  بازی باز شد و Marquee آمد
+12:44:51  ✓ انجام شد   چالش 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:45:11  ✓ انجام شد   چالش 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:45:30  ✓ انجام شد   چالش 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:45:48  ✓ انجام شد   چالش 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:46:08  ✓ انجام شد   چالش 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:46:26  ✓ انجام شد   چالش 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:46:46  ✓ انجام شد   چالش 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:47:16  ✓ انجام شد   چالش 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:48:21  ✓ انجام شد   چالش 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:50:09  ✓ انجام شد   چالش 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+12:50:44  ✓ انجام شد   چالش 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+12:50:59  ✓ انجام شد   چالش 1  |  Submit شد، چالش تمام شد
+12:51:33  ⏸ توقف موقت  چالش 2  |  باز کردن چالش 2 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی لیست چالش‌ها بگذارید
+          عکس: shots\XBOX\1010_125133_001_pause__2.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:50:04 Found 'BuyNow (2)'
+            12:50:05 Found 'No'
+            12:50:06 Found 'Yes'
+            12:50:09 Bought
+            12:50:09 [1:11/11] Silver | OFF | OFF | OFF | OFF | 450
+            12:50:23 Pricing: club=True، قیمت نادیده گرفته شد
+            12:50:23 Looking for 'Rarity'
+            12:50:31 Silver پیدا شد
+            12:50:41 Found in Club
+            12:51:00 ===== چالش 2 =====
+            12:51:13 Challenge 2: به آن نرسید (الان روی None)
+            12:51:31 Challenge 2: صفحه‌ی چالش‌ها نیامد
+12:51:46  ▶ ادامه      چالش 2  |  بعد از 0:12 توقف
+12:53:38  ✓ انجام شد   چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:54:30  ✓ انجام شد   چالش 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:55:21  ✓ انجام شد   چالش 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:56:12  ✓ انجام شد   چالش 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:58:00  ✗ خطا        چالش 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_125800_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:57:27 Found 'BuyNow (2)'
+            12:57:30 Found 'BuyNow (2)'
+            12:57:33 Found 'BuyNow (2)'
+            12:57:36 Found 'BuyNow (2)'
+            12:57:39 Found 'BuyNow (2)'
+            12:57:43 Found 'BuyNow (2)'
+            12:57:46 Found 'BuyNow (2)'
+            12:57:49 Found 'BuyNow (2)'
+            12:57:52 Found 'BuyNow (2)'
+            12:57:55 Found 'BuyNow (2)'
+            12:57:59 Found 'BuyNow (2)'
+            12:58:00 BUY: خرید انجام نشد
+12:58:00  ↻ تلاش دوباره چالش 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+12:59:45  ✓ انجام شد   چالش 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد (تلاش 2)
+13:02:10  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_130210_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:01:35 Found 'BuyNow (2)'
+            13:01:38 Found 'BuyNow (2)'
+            13:01:42 Found 'BuyNow (2)'
+            13:01:45 Found 'BuyNow (2)'
+            13:01:49 Found 'BuyNow (2)'
+            13:01:52 Found 'BuyNow (2)'
+            13:01:55 Found 'BuyNow (2)'
+            13:01:58 Found 'BuyNow (2)'
+            13:02:02 Found 'BuyNow (2)'
+            13:02:05 Found 'BuyNow (2)'
+            13:02:08 Found 'BuyNow (2)'
+            13:02:10 BUY: خرید انجام نشد
+13:02:10  ↻ تلاش دوباره چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+13:05:37  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← run_challenge ← main
+          عکس: shots\XBOX\1010_130537_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:04:15 Found 'BuyNow (2)'
+            13:04:19 Found 'BuyNow (2)'
+            13:04:22 Found 'BuyNow (2)'
+            13:04:25 Found 'BuyNow (2)'
+            13:04:28 Found 'BuyNow (2)'
+            13:04:32 Found 'BuyNow (2)'
+            13:04:35 Found 'BuyNow (2)'
+            13:04:38 Found 'BuyNow (2)'
+            13:04:41 Found 'BuyNow (2)'
+            13:04:44 Found 'BuyNow (2)'
+            13:04:48 Found 'BuyNow (2)'
+            13:05:37 BUY: خرید انجام نشد
+13:05:37  ↻ تلاش دوباره چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+13:23:01  ‼ خطای کد    چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  ConnectionError: ریموت XBOX در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت XBOX در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:06:49 Found 'Top9'
+            13:06:52 Italy پیدا شد
+            13:06:52 Looking for 'Rarity'
+            13:07:00 Silver پیدا شد
+            13:07:02 Looking for 'Position'
+            13:07:08 Looking for 'BuyNow'
+            13:07:13 Found 'BuyNow (2)'
+            13:07:15 Found 'No'
+            13:07:16 Found 'Yes'
+            13:07:21 Found 'BuyNow (2)'
+            13:07:22 Found 'No'
+            13:07:23 Found 'Yes'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 41:26  |  خطا 3، تلاش دوباره 3، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-10 13:44:48  شروع اجرا  (ریموت XBOX، pid 18756) START_GAME=True ════
+13:47:12  ✓ انجام شد   -  |  بازی باز شد و Marquee آمد
+13:47:14  ·            چالش 1  |  قبلاً کامل شده (Completed)، رد شد
+13:47:34  ✗ خطا        چالش 2  |  Clear_Squad اول چالش نشد
+          تابع: Clear_Squad اول چالش ← run_challenge ← main
+          عکس: shots\XBOX\1010_134734_001_Clear_Squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:46:57 Looking for 'SBC'
+            13:47:03 Found 'SBC'
+            13:47:04 Looking for 'Marquee'
+            13:47:09 Looking for 'Marquee'
+            13:47:12 ===== چالش 1 =====
+            13:47:14 Challenge 1: قبلاً کامل شده (Completed)
+            13:47:14 ===== چالش 2 =====
+            13:47:18 Challenge 2: وارد شد
+            13:47:18 Looking for 'Challenge'
+            13:47:20 Found 'Sub (2)' , Start Challenge
+            13:47:21 Looking for 'Clear Squad'
+            13:47:34 Clear Squad: نشد
+13:47:49  ✗ خطا        چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_134749_002_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:47:34 ✗ Clear_Squad اول چالش نشد (عکس: 1010_134734_001_Clear_Squad.png)
+            13:47:34 Marquee2.csv: 11 ردیف
+            13:47:34 [2:1/11] Silver | OFF | GK | OFF | EFL Championship | 550
+13:47:49  ↻ تلاش دوباره چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+13:48:04  ✗ خطا        چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_134804_003_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:47:49 ✗ enter_slot نشد (عکس: 1010_134749_002_enter_slot.png)
+            13:47:49 [2:1] تلاش 1 از 3 نشد؛ برگشت به اسکواد
+13:48:04  ⏸ توقف موقت  چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  [2:1] بازیکن نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی اسکواد، روی خانه‌ی همین بازیکن بگذارید
+          عکس: shots\XBOX\1010_134804_004_pause__2_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:48:04 ✗ back_to_squad نشد (عکس: 1010_134804_003_back_to_squad.png)
+13:52:14  ▶ ادامه      چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بعد از 4:09 توقف
+13:52:59  ✓ انجام شد   چالش 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:53:18  ✓ انجام شد   چالش 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:53:37  ✓ انجام شد   چالش 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:53:55  ✓ انجام شد   چالش 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:55:12  ✓ انجام شد   چالش 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+13:56:42  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_135642_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:56:05 300
+            13:56:06 350
+            13:56:07 400
+            13:56:07 450
+            13:56:08 500
+            13:56:17 Found 'Top9'
+            13:56:19 Italy پیدا شد
+            13:56:20 Looking for 'Position'
+            13:56:26 Looking for 'BuyNow' (قیمت 550)
+            13:56:30 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            13:56:42 FindFilter: به Pricing نرسید
+            13:56:42 BUY: قیمت 650 تنظیم نشد
+13:56:42  ↻ تلاش دوباره چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+13:59:39  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_135939_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:59:06 Found 'BuyNow (2)'
+            13:59:07 Found 'No'
+            13:59:08 Found 'Yes'
+            13:59:14 Found 'BuyNow (2)'
+            13:59:15 Found 'No'
+            13:59:16 Found 'Yes'
+            13:59:21 Found 'BuyNow (2)'
+            13:59:23 Found 'No'
+            13:59:24 Found 'Yes'
+            13:59:27 BUY: ۳ بار خرید نشد → قیمت 650 ← 750
+            13:59:39 FindFilter: به Pricing نرسید
+            13:59:39 BUY: قیمت 750 تنظیم نشد
+13:59:39  ↻ تلاش دوباره چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+14:01:23  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_140123_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:00:39 400
+            14:00:39 450
+            14:00:40 500
+            14:00:49 Found 'Top9'
+            14:00:51 Italy پیدا شد
+            14:00:52 Looking for 'Rarity'
+            14:01:00 Silver پیدا شد
+            14:01:02 Looking for 'Position'
+            14:01:07 Looking for 'BuyNow' (قیمت 550)
+            14:01:11 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            14:01:23 FindFilter: به Pricing نرسید
+            14:01:23 BUY: قیمت 650 تنظیم نشد
+14:01:23  ⏸ توقف موقت  چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [2:6] بازیکن نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی اسکواد، روی خانه‌ی همین بازیکن بگذارید
+          عکس: shots\XBOX\1010_140123_008_pause__2_6.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:01:23 ✗ BUY نشد (عکس: 1010_140123_007_BUY.png)
+            14:01:23 [2:6] تلاش 3 از 3 نشد؛ برگشت به اسکواد
+14:17:16  ▶ ادامه      چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 15:52 توقف
+14:19:00  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_141900_009_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:18:16 400
+            14:18:17 450
+            14:18:17 500
+            14:18:26 Found 'Top9'
+            14:18:28 Italy پیدا شد
+            14:18:29 Looking for 'Rarity'
+            14:18:37 Silver پیدا شد
+            14:18:39 Looking for 'Position'
+            14:18:45 Looking for 'BuyNow' (قیمت 550)
+            14:18:48 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            14:19:00 FindFilter: به Pricing نرسید
+            14:19:00 BUY: قیمت 650 تنظیم نشد
+14:19:00  ↻ تلاش دوباره چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:20:44  ✗ خطا        چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\XBOX\1010_142044_010_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:20:00 400
+            14:20:01 450
+            14:20:01 500
+            14:20:10 Found 'Top9'
+            14:20:12 Italy پیدا شد
+            14:20:13 Looking for 'Rarity'
+            14:20:21 Silver پیدا شد
+            14:20:23 Looking for 'Position'
+            14:20:29 Looking for 'BuyNow' (قیمت 550)
+            14:20:32 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            14:20:44 FindFilter: به Pricing نرسید
+            14:20:44 BUY: قیمت 650 تنظیم نشد
+14:20:44  ↻ تلاش دوباره چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+14:23:10  ✓ انجام شد   چالش 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد (تلاش 3)
+14:24:33  ✓ انجام شد   چالش 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:25:25  ✓ انجام شد   چالش 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:27:40  ✓ انجام شد   چالش 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:29:53  ✓ انجام شد   چالش 2 › بازیکن 10/11 (GOLD | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+14:31:32  ✓ انجام شد   چالش 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:31:36  ✓ انجام شد   چالش 2  |  Submit شد، چالش تمام شد
+14:32:08  ⏸ توقف موقت  چالش 3  |  باز کردن چالش 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی لیست چالش‌ها بگذارید
+          عکس: shots\XBOX\1010_143207_011_pause__3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:31:06 Silver پیدا شد
+            14:31:08 Looking for 'Position'
+            14:31:15 Found 'Default'
+            14:31:17 EFL Championship پیدا شد
+            14:31:21 Looking for 'BuyNow' (قیمت 550)
+            14:31:26 Found 'BuyNow (2)'
+            14:31:28 Found 'No'
+            14:31:29 Found 'Yes'
+            14:31:32 Bought (قیمت 550)
+            14:31:37 ===== چالش 3 =====
+            14:31:50 Challenge 3: به آن نرسید (الان روی None)
+            14:32:05 Challenge 3: به آن نرسید (الان روی None)
+14:34:24  ▶ ادامه      چالش 3  |  بعد از 2:16 توقف
+14:34:54  ·            چالش 3  |  قبلاً کامل شده (Completed)، رد شد
+14:35:14  ·            چالش 4  |  اسکواد اول کار پاک شد
+14:37:22  ✓ انجام شد   چالش 4 › بازیکن 1/10 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+14:38:56  ✓ انجام شد   چالش 4 › بازیکن 2/10 (Bronz | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:39:28  ✓ انجام شد   چالش 4 › بازیکن 3/10 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+14:40:35  ✓ انجام شد   چالش 4 › بازیکن 4/10 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+14:41:40  ✓ انجام شد   چالش 4 › بازیکن 5/10 (Bronz | OFF | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:42:28  ✓ انجام شد   چالش 4 › بازیکن 6/10 (Bronz | OFF | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:43:25  ✓ انجام شد   چالش 4 › بازیکن 7/10 (Bronz | OFF | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:45:35  ✓ انجام شد   چالش 4 › بازیکن 8/10 (GOLD | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+14:46:01  ✓ انجام شد   چالش 4 › بازیکن 9/10 (GOLD | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+14:47:35  ✓ انجام شد   چالش 4 › بازیکن 10/10 (Bronz | OFF | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+14:47:38  ✗ خطا        چالش 4  |  Submit چالش 4 نشد
+          تابع: Submit چالش 4 ← run_challenge ← main
+          عکس: shots\XBOX\1010_144738_012_Submit_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:46:56 0
+            14:46:57 150
+            14:47:00 Looking for 'Rarity'
+            14:47:08 Bronz پیدا شد
+            14:47:10 Looking for 'Position'
+            14:47:17 Found 'Default'
+            14:47:19 Ligue 1 McDonald پیدا شد
+            14:47:23 Looking for 'BuyNow' (قیمت 200)
+            14:47:29 Found 'BuyNow (2)'
+            14:47:30 Found 'No'
+            14:47:31 Found 'Yes'
+            14:47:35 Bought (قیمت 200)
+14:47:38  ·            چالش 4  |  Submit پیدا نشد → پاک کردن اسکواد و چیدن دوباره (یک بار)
+14:52:10  ‼ خطای کد    چالش 4 › بازیکن 1/10 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  ConnectionError: ریموت XBOX در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت XBOX در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:47:38 ✗ Submit چالش 4 نشد (عکس: 1010_144738_012_Submit_4.png)
+            14:47:38 Submit پیدا نشد؛ پاک کردن اسکواد و چیدن دوباره
+            14:47:38 Looking for 'Clear Squad'
+            14:47:43 Squad cleared
+            14:47:49 [4:1/10] GOLD | OFF | GK | Liverpool | Premier League | 1300
+            14:48:00 Pricing: club=True، قیمت نادیده گرفته شد
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:07:22  |  خطا 9، تلاش دوباره 5، توقف موقت 3، خطای کد 1 ════
+
+════ 2026-10-10 15:11:07  شروع اجرا  (ریموت XBOX، pid 4960) START_GAME=True ════
+15:13:26  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+15:13:36  ·            چالش Marquee 1  |  قبلاً کامل شده (Completed)، رد شد
+15:13:37  ·            چالش Marquee 2  |  قبلاً کامل شده (Completed)، رد شد
+15:13:38  ·            چالش Marquee 3  |  قبلاً کامل شده (Completed)، رد شد
+15:13:57  ·            چالش Marquee 4  |  اسکواد اول کار پاک شد
+15:13:58  ‼ خطای کد    چالش Marquee 4 › بازیکن 1/10 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  NameError: name 'run_row' is not defined
+          Traceback (most recent call last):
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1599, in <module>
+              run_challenge(e)
+              ~~~~~~~~~~~~~^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1495, in run_challenge
+              fill_squad(n, rows)
+              ~~~~~~~~~~^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1528, in fill_squad
+              run_row(n, i, row)
+              ^^^^^^^
+          NameError: name 'run_row' is not defined
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:13:37 Challenge 2: قبلاً کامل شده (Completed)
+            15:13:37 ===== Marquee 3 =====
+            15:13:37 Marquee3.csv: 11 rows
+            15:13:38 Challenge 3: قبلاً کامل شده (Completed)
+            15:13:38 ===== Marquee 4 =====
+            15:13:38 Marquee4.csv: 10 rows
+            15:13:43 Challenge 4: وارد شد
+            15:13:43 Looking for 'Challenge'
+            15:13:46 Found 'Sub (2)' , Start Challenge
+            15:13:47 Looking for 'Clear Squad'
+            15:13:52 Squad cleared
+            15:13:58 [Marquee 4:1/10] GOLD | OFF | GK | Liverpool | Premier League | 1300
+════ پایان: ‼ خطای کد: NameError  |  مدت 2:50  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-10 15:19:14  شروع اجرا  (ریموت XBOX، pid 5116) START_GAME=True ════
+15:21:18  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+15:21:28  ·            چالش Marquee 1  |  قبلاً کامل شده (Completed)، رد شد
+15:21:29  ·            چالش Marquee 2  |  قبلاً کامل شده (Completed)، رد شد
+15:21:30  ·            چالش Marquee 3  |  قبلاً کامل شده (Completed)، رد شد
+15:21:50  ·            چالش Marquee 4  |  اسکواد اول کار پاک شد
+15:21:50  ‼ خطای کد    چالش Marquee 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  NameError: name 'run_row' is not defined
+          Traceback (most recent call last):
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1599, in <module>
+              run_challenge(e)
+              ~~~~~~~~~~~~~^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1495, in run_challenge
+              fill_squad(n, rows)
+              ~~~~~~~~~~^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1528, in fill_squad
+              run_row(n, i, row)
+              ^^^^^^^
+          NameError: name 'run_row' is not defined
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:21:29 Challenge 2: قبلاً کامل شده (Completed)
+            15:21:29 ===== Marquee 3 =====
+            15:21:29 Marquee3.csv: 11 rows
+            15:21:30 Challenge 3: قبلاً کامل شده (Completed)
+            15:21:30 ===== Marquee 4 =====
+            15:21:30 Marquee4.csv: 11 rows
+            15:21:36 Challenge 4: وارد شد
+            15:21:36 Looking for 'Challenge'
+            15:21:38 Found 'Sub (2)' , Start Challenge
+            15:21:39 Looking for 'Clear Squad'
+            15:21:44 Squad cleared
+            15:21:50 [Marquee 4:1/11] GOLD | OFF | GK | Liverpool | Premier League | 1300
+════ پایان: ‼ خطای کد: NameError  |  مدت 2:36  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-10 15:46:49  شروع اجرا  (ریموت XBOX، pid 23516) START_GAME=True ════
+15:48:58  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+15:49:08  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:49:09  ·            چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:49:10  ·            چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:49:29  ·            چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+15:49:29  ‼ خطای کد    چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  NameError: name 'run_row' is not defined
+          Traceback (most recent call last):
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1599, in <module>
+              run_challenge(e)
+              ~~~~~~~~~~~~~^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1495, in run_challenge
+              fill_squad(n, rows)
+              ~~~~~~~~~~^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1528, in fill_squad
+              run_row(n, i, row)
+              ^^^^^^^
+          NameError: name 'run_row' is not defined
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:49:09 Challenge 2: قبلاً کامل شده (Completed)
+            15:49:09 ===== Marquee Matchups 3 =====
+            15:49:09 Marquee3.csv: 11 rows
+            15:49:10 Challenge 3: قبلاً کامل شده (Completed)
+            15:49:10 ===== Marquee Matchups 4 =====
+            15:49:10 Marquee4.csv: 11 rows
+            15:49:15 Challenge 4: وارد شد
+            15:49:15 Looking for 'Challenge'
+            15:49:17 Found 'Sub (2)' , Start Challenge
+            15:49:18 Looking for 'Clear Squad'
+            15:49:24 Squad cleared
+            15:49:29 [Marquee Matchups 4:1/11] GOLD | OFF | GK | Liverpool | Premier League | 1300
+════ پایان: ‼ خطای کد: NameError  |  مدت 2:40  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-10 16:44:51  شروع اجرا  (ریموت XBOX، pid 23012) START_GAME=True ════
+16:49:11  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+
+════ 2026-10-10 16:50:20  شروع اجرا  (ریموت XBOX، pid 19592) START_GAME=True ════
+16:50:58  ✗ خطا        شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← main
+          عکس: shots\XBOX\1010_165058_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:49:01 Looking for 'Ultimate'
+            16:49:11 FindUltimate نشد؛ ادامه
+            16:49:12 Looking for 'Main Ultimate'
+            16:49:22 Looking for 'Main Ultimate'
+            16:49:32 Looking for 'Main Ultimate'
+            16:49:42 Looking for 'Main Ultimate'
+            16:49:52 Looking for 'Main Ultimate'
+            16:50:03 Looking for 'Main Ultimate'
+            16:50:13 Looking for 'Main Ultimate'
+            16:50:24 Looking for 'Main Ultimate'
+            16:50:34 Looking for 'Main Ultimate'
+            16:50:48 Looking for 'Main Ultimate'
+16:50:58  ↻ تلاش دوباره شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:51:09  ·            شروع بازی › find_platform  |  find_platform نشد (لازم نیست، ادامه)
+
+════ 2026-10-10 16:52:20  شروع اجرا  (ریموت XBOX، pid 11956) START_GAME=True ════
+16:53:28  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:54:29  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+
+════ 2026-10-10 16:54:38  شروع اجرا  (ریموت XBOX، pid 22552) START_GAME=True ════
+16:54:51  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:55:13  ⏸ توقف موقت  چالش Marquee Matchups  |  open set Marquee Matchups نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: open the set by hand (its challenge page)
+          عکس: shots\XBOX\1010_165513_002_pause_open_set_Marquee_Matchups.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:53:50 Looking for 'Main Ultimate'
+            16:54:00 Looking for 'Main Ultimate'
+            16:54:11 Looking for 'Main Ultimate'
+            16:54:23 Looking for 'SBC'
+            16:54:28 Found 'SBC'
+            16:54:29 Plan: Marquee Matchups (4)
+            16:54:29 Looking for set 'Marquee Matchups'
+            16:54:35 Looking for set 'Marquee Matchups'
+            16:54:40 Looking for set 'Marquee Matchups'
+            16:54:45 Looking for set 'Marquee Matchups'
+            16:54:50 Looking for set 'Marquee Matchups'
+            16:54:55 Looking for set 'Marquee Matchups'
+16:55:37  ▶ ادامه      چالش Marquee Matchups  |  بعد از 0:24 توقف
+16:56:00  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:56:00  ·            چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:56:01  ·            چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+16:56:03  ·            چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد  |  مدت 11:12  |  خطا 1، تلاش دوباره 1، توقف موقت 1، خطای کد 0 ════
+16:56:49  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+16:56:59  ✗ خطا        شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← main
+          عکس: shots\XBOX\1010_165659_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:54:41 Looking for 'Ultimate'
+            16:54:51 FindUltimate نشد؛ ادامه
+            16:54:52 Looking for 'Main Ultimate'
+            16:55:03 Looking for 'Main Ultimate'
+            16:55:38 Looking for 'Main Ultimate'
+            16:55:48 Looking for 'Main Ultimate'
+            16:55:58 Looking for 'Main Ultimate'
+            16:56:08 Looking for 'Main Ultimate'
+            16:56:18 Looking for 'Main Ultimate'
+            16:56:28 Looking for 'Main Ultimate'
+            16:56:39 Looking for 'Main Ultimate'
+            16:56:49 Looking for 'Main Ultimate'
+16:56:59  ↻ تلاش دوباره شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:57:00  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:57:01  ·            چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:57:02  ·            چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+16:57:22  ·            چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+16:57:22  ‼ خطای کد    چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  NameError: name 'run_row' is not defined
+          Traceback (most recent call last):
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1599, in <module>
+              run_challenge(e)
+              ~~~~~~~~~~~~~^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1495, in run_challenge
+              fill_squad(n, rows)
+              ~~~~~~~~~~^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Play\Play.py", line 1528, in fill_squad
+              run_row(n, i, row)
+              ^^^^^^^
+          NameError: name 'run_row' is not defined
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:57:01 Challenge 2: قبلاً کامل شده (Completed)
+            16:57:01 ===== Marquee Matchups 3 =====
+            16:57:01 Marquee3.csv: 11 rows
+            16:57:02 Challenge 3: قبلاً کامل شده (Completed)
+            16:57:02 ===== Marquee Matchups 4 =====
+            16:57:02 Marquee4.csv: 11 rows
+            16:57:08 Challenge 4: وارد شد
+            16:57:08 Looking for 'Challenge'
+            16:57:10 Found 'Sub (2)' , Start Challenge
+            16:57:11 Looking for 'Clear Squad'
+            16:57:16 Squad cleared
+            16:57:22 [Marquee Matchups 4:1/11] GOLD | OFF | GK | Liverpool | Premier League | 1300
+════ پایان: ‼ خطای کد: NameError  |  مدت 2:44  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+16:58:59  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+16:59:31  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:59:32  ·            چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:59:32  ·            چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+16:59:34  ·            چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد  |  مدت 7:13  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 17:41:50  شروع اجرا  (ریموت XBOX، pid 12456) START_GAME=True ════
+
+════ 2026-10-10 17:42:10  شروع اجرا  (ریموت XBOX، pid 14472) START_GAME=True ════
+17:42:14  ✗ خطا        شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← main
+          عکس: shots\XBOX\1010_174214_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:41:50 ===== باز کردن بازی (تلاش 1) =====
+17:42:14  ↻ تلاش دوباره شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+17:44:24  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+17:44:35  ·            شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+17:44:54  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+17:44:55  ·            چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+17:44:56  ·            چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+17:44:58  ·            چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد  |  مدت 3:07  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+17:46:17  ✗ خطا        شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← main
+          عکس: shots\XBOX\1010_174617_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:44:25 Looking for 'Ultimate'
+            17:44:35 FindUltimate نشد؛ ادامه
+            17:44:35 Looking for 'Main Ultimate'
+            17:44:45 Looking for 'Main Ultimate'
+            17:44:55 Looking for 'Main Ultimate'
+            17:45:06 Looking for 'Main Ultimate'
+            17:45:16 Looking for 'Main Ultimate'
+            17:45:26 Looking for 'Main Ultimate'
+            17:45:36 Looking for 'Main Ultimate'
+            17:45:46 Looking for 'Main Ultimate'
+            17:45:57 Looking for 'Main Ultimate'
+            17:46:07 Looking for 'Main Ultimate'
+17:46:17  ↻ تلاش دوباره شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+17:48:18  ✓ انجام شد   -  |  بازی باز شد و صفحه‌ی SBC آمد
+17:48:50  ·            چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+17:48:51  ·            چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+17:48:52  ·            چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+17:48:54  ·            چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد  |  مدت 6:43  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 13:25:38  شروع اجرا  (ریموت XBOX، pid 18292) START_GAME=True  SHARED=True ════
+════ پایان: ناتمام  |  مدت 0:02  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

@@ -1,0 +1,24 @@
+
+════ 2026-10-11 16:39:32  شروع اجرا  (ریموت C33-2، pid 1704) START_GAME=True  SHARED=True ════
+16:41:59  ■ توقف       شروع بازی › GotoHome  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:39:32 No panel accounts for console C33-2: running without account check
+            16:39:32 ===== باز کردن بازی (تلاش 1) =====
+════ پایان: ✗ ریموت قطع  |  مدت 2:26  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 16:42:59  شروع اجرا  (ریموت C33-2، pid 22072) START_GAME=True  SHARED=True ════
+16:46:44  ■ توقف       شروع بازی › FindUltimate  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:43:19 Found 'Games'
+            16:43:22 Text in box: '26 Xbox Seril'
+            16:43:23 Found 'Games'
+            16:43:27 Text in box: '27 Closed Be'
+            16:43:28 Found 'Games'
+            16:43:32 Text in box: '27 XBOX One'
+            16:43:32 Found 'One'
+            16:43:37 Looking for 'Ultimate'
+            16:43:48 Looking for 'Ultimate'
+            16:43:58 Looking for 'Ultimate'
+            16:44:08 Looking for 'Ultimate'
+            16:44:18 Looking for 'Ultimate'
+════ پایان: ✗ ریموت قطع  |  مدت 3:45  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

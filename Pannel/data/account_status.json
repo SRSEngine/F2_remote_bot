@@ -1,0 +1,2994 @@
+{
+  "camila.gomez86@outlook.com": {
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:4] price 550)",
+      "at": 1791806746.9156477
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:4] price 550)",
+      "at": 1791806746.9156477
+    }
+  },
+  "hampel-emily1997@outlook.com": {
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1791808090.0018325
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1791808090.0018325
+    }
+  },
+  "nina.baker67@outlook.com": {
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:3] price 850)",
+      "at": 1791900978.061703
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:3] price 850)",
+      "at": 1791900978.061703
+    },
+    "coins": {
+      "start": 209,
+      "start_at": 1791900710.873128,
+      "now": 209,
+      "now_at": 1791900978.0293138,
+      "end": 209,
+      "end_at": 1791900978.0747986
+    }
+  },
+  "samellagor@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account CARL on console @ start CheckAccount",
+      "at": 1791809077.5048716
+    }
+  },
+  "laya_gote1964@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 8/11",
+      "at": 1791829498.1043274
+    },
+    "coins": {
+      "start": 1000,
+      "start_at": 1791829716.5974793,
+      "now": 543,
+      "now_at": 1791830363.217146,
+      "end": 543,
+      "end_at": 1791830377.0056837
+    }
+  },
+  "abigail.martin35@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 8/11",
+      "at": 1791829429.455587
+    },
+    "coins": {
+      "start": 4000,
+      "start_at": 1791829698.6720047,
+      "now": 2425,
+      "now_at": 1791830373.189304,
+      "end": 2425,
+      "end_at": 1791830389.5384896
+    }
+  },
+  "locke-cherie88@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account currie on console @ start CheckAccount",
+      "at": 1791824531.2091167
+    },
+    "coins": {
+      "start": 380000,
+      "start_at": 1791824415.0291007,
+      "now": 380000,
+      "now_at": 1791824415.0291007,
+      "end": 380000,
+      "end_at": 1791824466.2424743
+    }
+  },
+  "sven.mcdermott81@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account PETRA on console @ start CheckAccount",
+      "at": 1791824634.4093976
+    },
+    "coins": {
+      "start": 17000,
+      "start_at": 1791824000.8103237,
+      "now": 17084,
+      "now_at": 1791824588.3710418,
+      "end": 17084,
+      "end_at": 1791824600.171876
+    }
+  },
+  "sophieurchneremnea@gmx.net": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Gyre on console @ start CheckAccount",
+      "at": 1791899209.2586892
+    },
+    "coins": {
+      "start": 485,
+      "start_at": 1791897608.3720982,
+      "now": 485,
+      "now_at": 1791897732.6082804,
+      "end": 485,
+      "end_at": 1791897732.654116
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:1] price 550)",
+      "at": 1791897732.641513
+    }
+  },
+  "weigand_kemper68@outlook.com": {
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:6] price 900)",
+      "at": 1791902703.8557076
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:6] price 900)",
+      "at": 1791902703.8557076
+    },
+    "coins": {
+      "start": 493,
+      "start_at": 1791902324.272176,
+      "now": 493,
+      "now_at": 1791902703.820876,
+      "end": 493,
+      "end_at": 1791902703.8709397
+    }
+  },
+  "carl_agusti45@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: open set Marquee Matchups @ Marquee Matchups",
+      "at": 1791886085.376304
+    }
+  },
+  "kael_rossi81@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 4 @ Marquee Matchups 4",
+      "at": 1791823456.9729104
+    },
+    "coins": {
+      "start": 10000,
+      "start_at": 1791822651.4836705,
+      "now": 5872,
+      "now_at": 1791823404.1084619,
+      "end": 5872,
+      "end_at": 1791823501.3732746
+    }
+  },
+  "oma_sports74@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account NINA on console @ start CheckAccount",
+      "at": 1791900518.2602255
+    },
+    "coins": {
+      "start": 482,
+      "start_at": 1791900154.5027208,
+      "now": 482,
+      "now_at": 1791900407.5831606,
+      "end": 482,
+      "end_at": 1791900407.63064
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791900407.616677
+    }
+  },
+  "aaron.jimenez37@outlook.com": {
+    "coins": {
+      "start": 1184,
+      "start_at": 1791820527.2210128,
+      "end": 84,
+      "end_at": 1791820717.0795612
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:8] price 550)",
+      "at": 1791820717.1118646
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:8] price 550)",
+      "at": 1791820717.1118646
+    }
+  },
+  "phionna.selmner_1992@gmx.de": {
+    "coins": {
+      "start": 3000,
+      "start_at": 1791831396.8165798,
+      "now": 955,
+      "now_at": 1791832162.534286,
+      "end": 955,
+      "end_at": 1791832173.8964279
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account PHIONNA on console @ start CheckAccount",
+      "at": 1791831289.5376594
+    }
+  },
+  "sholi2737@outlook.com": {
+    "coins": {
+      "start": 304,
+      "start_at": 1791902372.5905674,
+      "now": 304,
+      "now_at": 1791902525.1639543,
+      "end": 304,
+      "end_at": 1791902525.2172565
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Klaus on console @ start CheckAccount",
+      "at": 1791902714.652613
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:2] price 550)",
+      "at": 1791902525.2003384
+    }
+  },
+  "klaus.somerhold4455@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:8] player @ Marquee Matchups 3 > row 8/11",
+      "at": 1791903433.3770444
+    },
+    "coins": {
+      "start": 975,
+      "start_at": 1791902972.3878973,
+      "now": 975,
+      "now_at": 1791903263.942037,
+      "end": 975,
+      "end_at": 1791903460.9354784
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:11] price 1200)",
+      "at": 1791826901.493457
+    }
+  },
+  "roch.cole32@outlook.com": {
+    "coins": {
+      "start": 631,
+      "start_at": 1791902539.373152,
+      "now": 631,
+      "now_at": 1791902539.373152,
+      "end": 631,
+      "end_at": 1791902582.0593972
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:4] price 850)",
+      "at": 1791826524.807691
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:4] price 850)",
+      "at": 1791826524.807691
+    }
+  },
+  "liza_rowe052@hotmail.com": {
+    "coins": {
+      "start": 13000,
+      "start_at": 1791829708.1866765,
+      "now": 11063,
+      "now_at": 1791830447.2521076,
+      "end": 11063,
+      "end_at": 1791830458.6273706
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 8/11",
+      "at": 1791829435.9457424
+    }
+  },
+  "currie_jayvon10@outlook.com": {
+    "coins": {
+      "start": 327000,
+      "start_at": 1791825027.9950004,
+      "now": 327000,
+      "now_at": 1791825027.9950004,
+      "end": 327000,
+      "end_at": 1791825074.277094
+    }
+  },
+  "petraenandog3j6@gmx.ch": {
+    "coins": {
+      "start": 701,
+      "start_at": 1791900046.825101,
+      "now": 701,
+      "now_at": 1791900572.3780615,
+      "end": 701,
+      "end_at": 1791900572.424678
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Alison on console @ start CheckAccount",
+      "at": 1791900642.5903482
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:10] price 850)",
+      "at": 1791900572.411146
+    }
+  },
+  "wey-balcke.1991@gmx.de": {
+    "coins": {
+      "start": 228,
+      "start_at": 1791829714.5595806,
+      "now": 28,
+      "now_at": 1791830281.3232713,
+      "end": 28,
+      "end_at": 1791830281.3749847
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account CIELO on console @ start CheckAccount",
+      "at": 1791830463.770777
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:9] price 1300)",
+      "at": 1791830281.3591044
+    }
+  },
+  "marcos_crist@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 4:9] player @ Marquee Matchups 4 > row 9/11",
+      "at": 1791832116.6757934
+    },
+    "coins": {
+      "start": 11000,
+      "start_at": 1791829996.3462298,
+      "now": 5645,
+      "now_at": 1791832520.7853668,
+      "end": 5645,
+      "end_at": 1791832531.4736323
+    }
+  },
+  "shane.judy6778@outlook.com": {
+    "coins": {
+      "start": 12000,
+      "start_at": 1791831341.0553858,
+      "now": 490,
+      "now_at": 1791833233.5976994,
+      "end": 490,
+      "end_at": 1791833233.640377
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:3] price 850)",
+      "at": 1791833233.6267388
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account SARAH on console @ start CheckAccount",
+      "at": 1791833301.9175618
+    }
+  },
+  "claire.price90@outlook.com": {
+    "coins": {
+      "start": 18000,
+      "start_at": 1791830563.3155484,
+      "now": 322,
+      "now_at": 1791834296.3916001,
+      "end": 322,
+      "end_at": 1791834304.6464484
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 4:1] player @ Marquee Matchups 4 > row 1/11",
+      "at": 1791833316.7029078
+    }
+  },
+  "grace.mccoy3176@outlook.com": {
+    "coins": {
+      "start": 25000,
+      "start_at": 1791831324.4846466,
+      "now": 5079,
+      "now_at": 1791834627.4797137,
+      "end": 5079,
+      "end_at": 1791834635.777237
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 1:3] player @ Marquee Matchups 1 > row 3/11",
+      "at": 1791831135.3483007
+    }
+  },
+  "cielo_goldner@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Shawn on console @ start CheckAccount",
+      "at": 1791832097.3433967
+    },
+    "coins": {
+      "start": 1769,
+      "start_at": 1791831675.767429,
+      "now": 569,
+      "now_at": 1791832073.6499016,
+      "end": 569,
+      "end_at": 1791832073.6951082
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 1:10] price 900)",
+      "at": 1791832073.6813612
+    }
+  },
+  "corrine_fowler12@outlook.com": {
+    "coins": {
+      "start": 518000,
+      "start_at": 1791831266.6036887,
+      "now": 518000,
+      "now_at": 1791831266.6036887,
+      "end": 518000,
+      "end_at": 1791831311.465774
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Alison on console @ start CheckAccount",
+      "at": 1791831536.4543765
+    }
+  },
+  "alison_1810@outlook.com": {
+    "coins": {
+      "start": 221,
+      "start_at": 1791900804.1941648,
+      "now": 221,
+      "now_at": 1791901044.5509734,
+      "end": 221,
+      "end_at": 1791901044.5994678
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791901044.5851123
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account MATTIS on console @ start CheckAccount",
+      "at": 1791902206.1945276
+    }
+  },
+  "ellary_ysabel-1992@gmx.de": {
+    "coins": {
+      "start": 11000,
+      "start_at": 1791832346.2022667,
+      "now": 523,
+      "now_at": 1791834617.8764844,
+      "end": 523,
+      "end_at": 1791834617.925017
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:4] price 550)",
+      "at": 1791834617.9111319
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:4] price 550)",
+      "at": 1791834617.9111319
+    }
+  },
+  "shawna.larson76@outlook.com": {
+    "coins": {
+      "start": 96000,
+      "start_at": 1791832347.523621,
+      "now": 96000,
+      "now_at": 1791832347.523621,
+      "end": 96000,
+      "end_at": 1791832426.7077012
+    }
+  },
+  "john.michael77@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account FICO5 on console @ start CheckAccount",
+      "at": 1791834950.4417372
+    },
+    "coins": {
+      "start": 4826,
+      "start_at": 1791832790.012816,
+      "now": 2,
+      "now_at": 1791834913.1980665,
+      "end": 2,
+      "end_at": 1791834913.2470775
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:7] price 550)",
+      "at": 1791834913.2338495
+    }
+  },
+  "treva_holbrook86@outlook.com": {
+    "coins": {
+      "start": 752000,
+      "start_at": 1791832708.6035144,
+      "now": 752000,
+      "now_at": 1791832708.6035144,
+      "end": 752000,
+      "end_at": 1791832762.706856
+    }
+  },
+  "valenzuela-ariella53@outlook.com": {
+    "coins": {
+      "start": 28000,
+      "start_at": 1791832959.3548746,
+      "now": 9802,
+      "now_at": 1791836378.7064993,
+      "end": 9802,
+      "end_at": 1791836389.4535437
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 1:6] player @ Marquee Matchups 1 > row 6/11",
+      "at": 1791833311.5522718
+    }
+  },
+  "sarah.white38@outlook.com": {
+    "coins": {
+      "start": 11000,
+      "start_at": 1791833463.794285,
+      "now": 187,
+      "now_at": 1791835643.7361705,
+      "end": 187,
+      "end_at": 1791835643.7851117
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:4] price 550)",
+      "at": 1791835643.771622
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:4] price 550)",
+      "at": 1791835643.771622
+    }
+  },
+  "francklin.sims22@outlook.com": {
+    "coins": {
+      "start": 740000,
+      "start_at": 1791833589.579392,
+      "now": 740000,
+      "now_at": 1791833589.579392,
+      "end": 740000,
+      "end_at": 1791833687.2137175
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 1 @ Marquee Matchups 1",
+      "at": 1791833668.690238
+    }
+  },
+  "mattis961@outlook.com": {
+    "coins": {
+      "start": 6000,
+      "start_at": 1791902663.004246,
+      "now": 5298,
+      "now_at": 1791903738.7868524,
+      "end": 5298,
+      "end_at": 1791903755.8640316
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Start challenge Marquee Matchups 4 @ Marquee Matchups 4",
+      "at": 1791903100.2300873
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:10] price 850)",
+      "at": 1791837098.1684244
+    }
+  },
+  "theo.peterson74@outlook.com": {
+    "coins": {
+      "start": 12000,
+      "start_at": 1791834472.6634755,
+      "now": 719,
+      "now_at": 1791836586.240289,
+      "end": 719,
+      "end_at": 1791836586.2868426
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791836586.27355
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791836586.27355
+    }
+  },
+  "frederique_hammes@hotmail.com": {
+    "coins": {
+      "start": 415000,
+      "start_at": 1791885347.657298,
+      "now": 395867,
+      "now_at": 1791889000.4593277,
+      "end": 395867,
+      "end_at": 1791889011.8605833
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 4 @ Marquee Matchups 4",
+      "at": 1791887885.5050218
+    }
+  },
+  "aiden.king998@outlook.com": {
+    "coins": {
+      "start": 123000,
+      "start_at": 1791886449.1901574,
+      "now": 112175,
+      "now_at": 1791888441.3479214,
+      "end": 112175,
+      "end_at": 1791888450.3002408
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: BUY: card menu (Quick Sell) is open @ Marquee Matchups 3 > row 4/11",
+      "at": 1791885569.3577192
+    }
+  },
+  "ficoin5555@outlook.com": {
+    "coins": {
+      "start": 18000,
+      "start_at": 1791885660.302641,
+      "now": 9012,
+      "now_at": 1791887588.321194,
+      "end": 9012,
+      "end_at": 1791888614.1224704
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Submit challenge Marquee Matchups 4 @ Marquee Matchups 4",
+      "at": 1791888253.6717308
+    }
+  },
+  "addison.dawson70@outlook.com": {
+    "coins": {
+      "start": 1000,
+      "start_at": 1791885542.5354064,
+      "now": 52,
+      "now_at": 1791885776.6706362,
+      "end": 52,
+      "end_at": 1791885776.718262
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:3] price 550)",
+      "at": 1791885776.7047164
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 550)",
+      "at": 1791885776.7047164
+    }
+  },
+  "charlie.kegan6776@outlook.com": {
+    "coins": {
+      "start": 27,
+      "start_at": 1791903682.9665072,
+      "now": 274,
+      "now_at": 1791903957.2256098,
+      "end": 274,
+      "end_at": 1791903957.2775402
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:5] price 550)",
+      "at": 1791903957.2630162
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:5] price 550)",
+      "at": 1791903957.2630162
+    }
+  },
+  "cassie.finn6556@outlook.com": {
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:7] price 550)",
+      "at": 1791886312.4523907
+    },
+    "coins": {
+      "start": 9000,
+      "start_at": 1791884354.587168,
+      "now": 30,
+      "now_at": 1791886312.4188328,
+      "end": 30,
+      "end_at": 1791886312.4657989
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:7] price 550)",
+      "at": 1791886312.4523907
+    }
+  },
+  "jesse.monette32@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1791885458.645347,
+      "now": 362,
+      "now_at": 1791888204.581056,
+      "end": 362,
+      "end_at": 1791888204.63299
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791888204.6180153
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791888204.6180153
+    }
+  },
+  "terri_eboh.1989@gmx.de": {
+    "coins": {
+      "start": 1000,
+      "start_at": 1791885942.218731,
+      "now": 1182,
+      "now_at": 1791887755.0590522,
+      "end": 1182,
+      "end_at": 1791887755.1263902
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791887755.1085632
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791887755.1085632
+    }
+  },
+  "freida_pagac@hotmail.com": {
+    "coins": {
+      "start": 7000,
+      "start_at": 1791892873.2403817,
+      "now": 229,
+      "now_at": 1791894741.2027655,
+      "end": 229,
+      "end_at": 1791894741.2525427
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1791894741.2387776
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1791894741.2387776
+    }
+  },
+  "susan.damore45@outlook.com": {
+    "coins": {
+      "start": 4000,
+      "start_at": 1791892886.9158254,
+      "now": 39,
+      "now_at": 1791894066.2252586,
+      "end": 39,
+      "end_at": 1791894066.2739456
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account denise on console @ start CheckAccount",
+      "at": 1791894094.559774
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:5] price 200)",
+      "at": 1791894066.2604733
+    }
+  },
+  "logan.keisha096@outlook.com": {
+    "coins": {
+      "start": 23000,
+      "start_at": 1791887902.3409178,
+      "now": 3824,
+      "now_at": 1791892054.8334494,
+      "end": 3824,
+      "end_at": 1791892258.3660123
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Submit challenge Marquee Matchups 4 @ Marquee Matchups 4",
+      "at": 1791892140.9824865
+    }
+  },
+  "azrock_1810@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 1/11",
+      "at": 1791896510.6570091
+    },
+    "coins": {
+      "start": 10000,
+      "start_at": 1791895318.067506,
+      "now": 2609,
+      "now_at": 1791897562.4706988,
+      "end": 2609,
+      "end_at": 1791897604.356797
+    }
+  },
+  "aria.hughes84@outlook.com": {
+    "coins": {
+      "start": 28,
+      "start_at": 1791902909.0811214,
+      "now": 28,
+      "now_at": 1791903275.6821613,
+      "end": 28,
+      "end_at": 1791903275.7332535
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:6] price 900)",
+      "at": 1791903275.7195714
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:6] price 900)",
+      "at": 1791903275.7195714
+    }
+  },
+  "clovis.auer@hotmail.com": {
+    "coins": {
+      "start": 19000,
+      "start_at": 1791892895.6609762,
+      "now": 974,
+      "now_at": 1791896408.503979,
+      "end": 974,
+      "end_at": 1791896408.5541847
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:9] price 1300)",
+      "at": 1791896408.5408678
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:9] price 1300)",
+      "at": 1791896408.5408678
+    }
+  },
+  "jermaine_swaniawski@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account JOHNN on console @ start CheckAccount",
+      "at": 1791890106.690976
+    }
+  },
+  "john.rodriguez7104@outlook.com": {
+    "coins": {
+      "start": 63000,
+      "start_at": 1791892891.9026237,
+      "now": 44806,
+      "now_at": 1791896281.9531639,
+      "end": 44806,
+      "end_at": 1791896331.9960194
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:10] player @ Marquee Matchups 3 > row 10/11",
+      "at": 1791894629.9963977
+    }
+  },
+  "ethan.clark252@outlook.com": {
+    "coins": {
+      "start": 4000,
+      "start_at": 1791892869.7680721,
+      "now": 220,
+      "now_at": 1791893858.1923175,
+      "end": 220,
+      "end_at": 1791893858.2418182
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:5] price 550)",
+      "at": 1791893858.2282736
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Ariel on console @ start CheckAccount",
+      "at": 1791893960.3157554
+    }
+  },
+  "ariel.wandofski88@outlook.com": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1791894253.895473,
+      "now": 221,
+      "now_at": 1791899895.3742418,
+      "end": 221,
+      "end_at": 1791899895.4245865
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:9] price 550)",
+      "at": 1791899895.4101858
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:9] price 550)",
+      "at": 1791899895.4101858
+    }
+  },
+  "denise-christie32@outlook.com": {
+    "coins": {
+      "start": 9000,
+      "start_at": 1791894430.533638,
+      "now": 1166,
+      "now_at": 1791896181.0756967,
+      "end": 1166,
+      "end_at": 1791896181.125916
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791896181.1113083
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791896181.1113083
+    }
+  },
+  "zoe-forsaken94@outlook.com": {
+    "coins": {
+      "start": 779,
+      "start_at": 1791903506.5668917,
+      "now": 779,
+      "now_at": 1791904024.9384367,
+      "end": 779,
+      "end_at": 1791904024.986587
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791904024.973344
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791904024.973344
+    }
+  },
+  "jannah.bazza512@outlook.com": {
+    "coins": {
+      "start": 12000,
+      "start_at": 1791894992.6729004,
+      "now": 23,
+      "now_at": 1791897183.8240275,
+      "end": 23,
+      "end_at": 1791897183.8710465
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:7] price 550)",
+      "at": 1791897183.857467
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:7] price 550)",
+      "at": 1791897183.857467
+    }
+  },
+  "isaiah.flores13@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1791896587.697623,
+      "now": 1017,
+      "now_at": 1791898988.8523822,
+      "end": 1017,
+      "end_at": 1791898988.9057415
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1200)",
+      "at": 1791898988.8911061
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Skylare on console @ start CheckAccount",
+      "at": 1791899033.6048677
+    }
+  },
+  "susan.cain65@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1791896612.7043788,
+      "now": 1350,
+      "now_at": 1791898746.718141,
+      "end": 1350,
+      "end_at": 1791902294.7109458
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:8] player @ Marquee Matchups 3 > row 8/11",
+      "at": 1791898895.3881829
+    }
+  },
+  "lisa.moore944@outlook.com": {
+    "coins": {
+      "start": 25000,
+      "start_at": 1791897371.4778976,
+      "now": 5749,
+      "now_at": 1791902438.1540499,
+      "end": 5749,
+      "end_at": 1791902482.7601206
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 4:9] player @ Marquee Matchups 4 > row 9/11",
+      "at": 1791900977.50127
+    }
+  },
+  "taveda.nellie.1992@gmx.de": {
+    "coins": {
+      "start": 2000,
+      "start_at": 1791897451.8700187,
+      "now": 133,
+      "now_at": 1791898235.419969,
+      "end": 133,
+      "end_at": 1791898235.4695625
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:1] price 550)",
+      "at": 1791898235.4558306
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 2:1] price 550)",
+      "at": 1791898235.4558306
+    }
+  },
+  "joliepronothca@gmx.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Start game (MainUltimate) @ start MainUltimate",
+      "at": 1791898496.0879555
+    }
+  },
+  "skylar.scott38@outlook.com": {
+    "coins": {
+      "start": 12000,
+      "start_at": 1791899412.011676,
+      "now": 34,
+      "now_at": 1791901432.765647,
+      "end": 34,
+      "end_at": 1791901432.8138194
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:6] price 550)",
+      "at": 1791901432.800071
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:6] price 550)",
+      "at": 1791901432.800071
+    }
+  },
+  "vivian.ruiz22@outlook.com": {
+    "coins": {
+      "start": 16000,
+      "start_at": 1791900052.529132,
+      "now": 7044,
+      "now_at": 1791904158.244262,
+      "end": 7044,
+      "end_at": 1791906242.900463
+    },
+    "last_error": {
+      "kind": "crash",
+      "text": "Code error: ConnectionError: ریموت C34 در دسترس نیست (\\\\.\\pipe\\xbrp-C34). xbrp باز است؟ @ Marquee Matchups 3 > row 2/11",
+      "at": 1791906242.8743782
+    }
+  },
+  "elizabeth.sanchez41@outlook.com": {
+    "coins": {
+      "start": 1000,
+      "start_at": 1791901684.4362376,
+      "now": 193,
+      "now_at": 1791903763.773831,
+      "end": 193,
+      "end_at": 1791903763.8265681
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:6] price 550)",
+      "at": 1791903763.8106134
+    },
+    "last_error": {
+      "kind": "crash",
+      "text": "Code error: ConnectionError: ریموت C31 در دسترس نیست (\\\\.\\pipe\\xbrp-C31). xbrp باز است؟ @ start CheckAccount",
+      "at": 1791906281.8657606
+    }
+  },
+  "alexander.harris98@outlook.com": {
+    "coins": {
+      "start": 10000,
+      "start_at": 1791917411.7821612,
+      "now": 319,
+      "now_at": 1791919721.519615,
+      "end": 319,
+      "end_at": 1791919721.571167
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:5] price 550)",
+      "at": 1791919721.5567074
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:5] price 550)",
+      "at": 1791919721.5567074
+    }
+  },
+  "division_1810@outlook.com": {
+    "coins": {
+      "start": 25000,
+      "start_at": 1791903215.0875418,
+      "now": 25000,
+      "now_at": 1791903215.0875418,
+      "end": 25000,
+      "end_at": 1791903274.8631685
+    }
+  },
+  "jetlig05s@outlook.com": {
+    "coins": {
+      "start": 10000,
+      "start_at": 1791903517.105648,
+      "now": 10000,
+      "now_at": 1791903517.105648,
+      "end": 10000,
+      "end_at": 1791903570.87856
+    }
+  },
+  "moisesfernando_daki2001@hotmail.com": {
+    "coins": {
+      "start": 13000,
+      "start_at": 1791903784.7181742,
+      "now": 13000,
+      "now_at": 1791903784.7181742,
+      "end": 13000,
+      "end_at": 1791903838.5567336
+    }
+  },
+  "felix.todd56@outlook.com": {
+    "coins": {
+      "start": 92000,
+      "start_at": 1791917407.1479475,
+      "now": 92252,
+      "now_at": 1791917907.1144102,
+      "end": 92252,
+      "end_at": 1791917954.543097
+    }
+  },
+  "dorothy.morris4566@outlook.com": {
+    "coins": {
+      "start": 94000,
+      "start_at": 1791916467.6059268,
+      "now": 94000,
+      "now_at": 1791916467.6059268,
+      "end": 94000,
+      "end_at": 1791916522.7148576
+    }
+  },
+  "violet.lee6566@outlook.com": {
+    "coins": {
+      "start": 68000,
+      "start_at": 1791916607.186112,
+      "now": 68000,
+      "now_at": 1791916607.186112,
+      "end": 68000,
+      "end_at": 1791916677.3585536
+    }
+  },
+  "patricia.johnson266@outlook.com": {
+    "coins": {
+      "start": 73000,
+      "start_at": 1791916682.5397394,
+      "now": 73000,
+      "now_at": 1791916682.5397394,
+      "end": 73000,
+      "end_at": 1791916773.1084268
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 1 @ Marquee Matchups 1",
+      "at": 1791916763.059058
+    }
+  },
+  "tilly.edwin5454@outlook.com": {
+    "coins": {
+      "start": 71000,
+      "start_at": 1791916683.8675966,
+      "now": 71000,
+      "now_at": 1791916683.8675966,
+      "end": 71000,
+      "end_at": 1791916739.1708677
+    }
+  },
+  "lana.magana84@outlook.com": {
+    "coins": {
+      "start": 12000,
+      "start_at": 1791916807.3549235,
+      "now": 12000,
+      "now_at": 1791916807.3549235,
+      "end": 12000,
+      "end_at": 1791916884.1830752
+    }
+  },
+  "john.hallender1990@outlook.com": {
+    "coins": {
+      "start": 33000,
+      "start_at": 1791916899.6284046,
+      "now": 33000,
+      "now_at": 1791916899.6284046,
+      "end": 33000,
+      "end_at": 1791916955.0575008
+    }
+  },
+  "charlotte.brown878@outlook.com": {
+    "coins": {
+      "start": 29000,
+      "start_at": 1791987029.510033,
+      "now": 29000,
+      "now_at": 1791987029.510033,
+      "end": 29000,
+      "end_at": 1791987077.8327963
+    }
+  },
+  "robert.bryant122@outlook.com": {
+    "coins": {
+      "start": 30000,
+      "start_at": 1791917388.3987818,
+      "now": 9510,
+      "now_at": 1791921478.0496325,
+      "end": 9510,
+      "end_at": 1791921497.6027021
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Alex on console @ start CheckAccount",
+      "at": 1791921530.05323
+    }
+  },
+  "barbara.smith2210@outlook.com": {
+    "coins": {
+      "start": 19000,
+      "start_at": 1791917371.9842842,
+      "now": 20,
+      "now_at": 1791922022.2077284,
+      "end": 20,
+      "end_at": 1791922022.2844265
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:6] price 900)",
+      "at": 1791922022.2599542
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:6] price 900)",
+      "at": 1791922022.2599542
+    }
+  },
+  "richard.robinson918@outlook.com": {
+    "coins": {
+      "start": 69000,
+      "start_at": 1791917107.6657627,
+      "now": 69000,
+      "now_at": 1791917107.6657627,
+      "end": 69000,
+      "end_at": 1791917163.1143427
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account rionnie on console @ start CheckAccount",
+      "at": 1791917314.0220418
+    }
+  },
+  "hirsh-incrocci@gmx.de": {
+    "coins": {
+      "start": 1000,
+      "start_at": 1791917429.9631047,
+      "now": 476,
+      "now_at": 1791920532.4151483,
+      "end": 476,
+      "end_at": 1791920532.4625134
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account LUCIO on console @ start CheckAccount",
+      "at": 1791920628.3058338
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:7] price 550)",
+      "at": 1791920532.446999
+    }
+  },
+  "kianstones65@hotmail.com": {
+    "coins": {
+      "start": 41000,
+      "start_at": 1791917382.516486,
+      "now": 21297,
+      "now_at": 1791921851.307349,
+      "end": 21297,
+      "end_at": 1791921873.7810588
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 1/11",
+      "at": 1791920808.9678433
+    }
+  },
+  "ray.dean6677@outlook.com": {
+    "coins": {
+      "start": 24000,
+      "start_at": 1791917367.4532425,
+      "now": 3649,
+      "now_at": 1791922217.2054248,
+      "end": 3649,
+      "end_at": 1791922237.0419412
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 1/11",
+      "at": 1791921137.099568
+    }
+  },
+  "rosalinda_wuckert@outlook.com": {
+    "coins": {
+      "start": 69000,
+      "start_at": 1791917190.7219195,
+      "now": 62817,
+      "now_at": 1791918650.8870156,
+      "end": 62817,
+      "end_at": 1791918698.0258133
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:3] player @ Marquee Matchups 3 > row 3/11",
+      "at": 1791917564.3304334
+    }
+  },
+  "ronnie.carey677@outlook.com": {
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 2:6] price 850)",
+      "at": 1791919335.2145386
+    },
+    "coins": {
+      "start": 6000,
+      "start_at": 1791918146.8537471,
+      "now": 800,
+      "now_at": 1791919335.1789947,
+      "end": 800,
+      "end_at": 1791919335.2305481
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:6] price 850)",
+      "at": 1791919335.2145386
+    }
+  },
+  "sophia.brown178@outlook.com": {
+    "coins": {
+      "start": 21884,
+      "start_at": 1791918219.1921139,
+      "now": 484,
+      "now_at": 1791924163.351881,
+      "end": 484,
+      "end_at": 1791924163.4280226
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:10] price 850)",
+      "at": 1791924163.403434
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:10] price 850)",
+      "at": 1791924163.403434
+    }
+  },
+  "arron.cope357@outlook.com": {
+    "coins": {
+      "start": 2000,
+      "start_at": 1791918881.3260462,
+      "now": 447,
+      "now_at": 1791921004.5139892,
+      "end": 447,
+      "end_at": 1791921004.5628054
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:8] price 800)",
+      "at": 1791921004.5479758
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:8] price 800)",
+      "at": 1791921004.5479758
+    }
+  },
+  "james.green844@outlook.com": {
+    "coins": {
+      "start": 11494,
+      "start_at": 1791919681.811461,
+      "now": 944,
+      "now_at": 1791921630.0098114,
+      "end": 944,
+      "end_at": 1791921630.059235
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791921630.0442657
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791921630.0442657
+    }
+  },
+  "alicia.anushka89@outlook.com": {
+    "coins": {
+      "start": 205,
+      "start_at": 1791925513.4922855,
+      "now": 209,
+      "now_at": 1791925901.669805,
+      "end": 209,
+      "end_at": 1791925901.744814
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 2:9] price 550)",
+      "at": 1791925901.724178
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:9] price 550)",
+      "at": 1791925901.724178
+    }
+  },
+  "laura.ross41@outlook.com": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1792000774.633661,
+      "now": 14504,
+      "now_at": 1792001606.839909,
+      "end": 14504,
+      "end_at": 1792001664.7493565
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 10/11",
+      "at": 1792001361.135304
+    }
+  },
+  "lucio.paucek94@hotmail.com": {
+    "coins": {
+      "start": 10786,
+      "start_at": 1791921161.5593107,
+      "now": 486,
+      "now_at": 1791923665.3386285,
+      "end": 486,
+      "end_at": 1791923665.4166477
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791923665.3938317
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1200)",
+      "at": 1791923665.3938317
+    }
+  },
+  "alex.darder231@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1791924068.734921,
+      "now": 5783,
+      "now_at": 1791925943.723466,
+      "end": 5783,
+      "end_at": 1791925993.7265036
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:7] player @ Marquee Matchups 3 > row 7/11",
+      "at": 1791923863.0477357
+    }
+  },
+  "amelia_kevin1966@outlook.com": {
+    "coins": {
+      "start": 2000,
+      "start_at": 1791987199.497324,
+      "now": 225,
+      "now_at": 1791987811.894287,
+      "end": 225,
+      "end_at": 1791987811.9713402
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 2:9] price 550)",
+      "at": 1791987811.9484274
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:9] price 550)",
+      "at": 1791987811.9484274
+    }
+  },
+  "charlie.lawson88@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Start game (MainUltimate) @ start MainUltimate",
+      "at": 1791922796.1386864
+    },
+    "coins": {
+      "start": 21000,
+      "start_at": 1791924287.0732822,
+      "now": 21000,
+      "now_at": 1791924287.0732822,
+      "end": 21000,
+      "end_at": 1791924336.1119933
+    }
+  },
+  "salma.tubin56@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1791986978.5965934
+    },
+    "coins": {
+      "start": 17000,
+      "start_at": 1791987084.6973226,
+      "now": 9546,
+      "now_at": 1791988942.804442,
+      "end": 9546,
+      "end_at": 1791988995.4184005
+    }
+  },
+  "john.green511@outlook.com": {
+    "coins": {
+      "start": 31000,
+      "start_at": 1791988687.4017105,
+      "now": 30523,
+      "now_at": 1791989782.91644,
+      "end": 30523,
+      "end_at": 1791989834.993273
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 9/11",
+      "at": 1791989479.1617138
+    }
+  },
+  "liam.smith3888@outlook.com": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1791987115.0666764,
+      "now": 6260,
+      "now_at": 1791989150.1031232,
+      "end": 6260,
+      "end_at": 1791989199.6109347
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1791987009.037638
+    }
+  },
+  "lisa.martin486@outlook.com": {
+    "coins": {
+      "start": 22000,
+      "start_at": 1791988897.0675428,
+      "now": 14572,
+      "now_at": 1791991012.5997164,
+      "end": 14572,
+      "end_at": 1791991064.4525652
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 3 > row 10/11",
+      "at": 1791989636.6609147
+    }
+  },
+  "kylie.morgan222@outlook.com": {
+    "coins": {
+      "start": 50000,
+      "start_at": 1791988516.8692768,
+      "now": 47759,
+      "now_at": 1791989525.8103778,
+      "end": 47759,
+      "end_at": 1791989587.6948597
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Start game (FindSBC) @ start FindSBC",
+      "at": 1791988544.6922543
+    }
+  },
+  "ethan.miller555@outlook.com": {
+    "coins": {
+      "start": 10000,
+      "start_at": 1792000753.142867,
+      "now": 10000,
+      "now_at": 1792000753.142867,
+      "end": 10000,
+      "end_at": 1792000804.548891
+    },
+    "last_error": {
+      "kind": "stop",
+      "text": "Remote down: Remote still not healthy after 3 reconnects @ Marquee Matchups 4",
+      "at": 1791994167.231067
+    }
+  },
+  "sophie.serenity94@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 1 @ Marquee Matchups 1",
+      "at": 1791977693.1918914
+    },
+    "coins": {
+      "start": 15000,
+      "start_at": 1791987342.5312018,
+      "now": 15000,
+      "now_at": 1791987342.5312018,
+      "end": 15000,
+      "end_at": 1791987393.9448135
+    }
+  },
+  "layla.ross79@outlook.com": {
+    "coins": {
+      "start": 19000,
+      "start_at": 1791980985.8778214,
+      "now": 1290,
+      "now_at": 1791984263.8351083,
+      "end": 1290,
+      "end_at": 1791984263.8773706
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:9] price 1300)",
+      "at": 1791984263.8630588
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:9] price 1300)",
+      "at": 1791984263.8630588
+    }
+  },
+  "deniz-bauemgartner61@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 9/11",
+      "at": 1791986355.3923118
+    },
+    "coins": {
+      "start": 35000,
+      "start_at": 1791981035.879912,
+      "now": 14717,
+      "now_at": 1791986700.769451,
+      "end": 14717,
+      "end_at": 1791986747.4631493
+    }
+  },
+  "paisley.long58@outlook.com": {
+    "coins": {
+      "start": 52000,
+      "start_at": 1791984497.6837878,
+      "now": 32591,
+      "now_at": 1791989401.996598,
+      "end": 32591,
+      "end_at": 1791989449.739848
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 2:1] player @ Marquee Matchups 2 > row 1/11",
+      "at": 1791986237.0528665
+    }
+  },
+  "sophia.anderson42@outlook.com": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1791987880.1796248,
+      "now": 15000,
+      "now_at": 1791987880.1796248,
+      "end": 15000,
+      "end_at": 1791987928.1719294
+    }
+  },
+  "runkle_purpura@gmx.de": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account JUSTIC on console @ start CheckAccount",
+      "at": 1792004486.7908695
+    },
+    "coins": {
+      "start": 5000,
+      "start_at": 1792001551.0115936,
+      "now": 1106,
+      "now_at": 1792004451.5241275,
+      "end": 1106,
+      "end_at": 1792004451.5774093
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1792004451.5598686
+    }
+  },
+  "angie.pye34@outlook.com": {
+    "coins": {
+      "start": 13000,
+      "start_at": 1791988078.928767,
+      "now": 1097,
+      "now_at": 1791990725.9085763,
+      "end": 1097,
+      "end_at": 1791990725.9781218
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1791990725.9518132
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1791990725.9518132
+    }
+  },
+  "leisha-koralle@gmx.de": {
+    "coins": {
+      "start": 10000,
+      "start_at": 1792000726.3238525,
+      "now": 3677,
+      "now_at": 1792003920.5800524,
+      "end": 3677,
+      "end_at": 1792003974.9355352
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 10/11",
+      "at": 1792003701.4570558
+    }
+  },
+  "maddenrafel1997@outlook.com": {
+    "coins": {
+      "start": 11001,
+      "start_at": 1791989600.4463308,
+      "now": 7151,
+      "now_at": 1791990416.1322224,
+      "end": 7151,
+      "end_at": 1791990466.0856235
+    }
+  },
+  "hannah.clark265@outlook.com": {
+    "coins": {
+      "start": 5000,
+      "start_at": 1792000726.0261633,
+      "now": 364,
+      "now_at": 1792002225.1780155,
+      "end": 364,
+      "end_at": 1792002225.2603717
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:8] price 650)",
+      "at": 1792002225.238599
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:8] price 650)",
+      "at": 1792002225.238599
+    }
+  },
+  "robert.sergan89@outlook.com": {
+    "coins": {
+      "start": 3000,
+      "start_at": 1791992513.116332,
+      "now": 132,
+      "now_at": 1791993054.4210873,
+      "end": 132,
+      "end_at": 1791993054.489179
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:6] price 550)",
+      "at": 1791993054.4698603
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:6] price 550)",
+      "at": 1791993054.4698603
+    }
+  },
+  "gertrude.rippin76@outlook.com": {
+    "coins": {
+      "start": 1000,
+      "start_at": 1792000753.171408,
+      "now": 800,
+      "now_at": 1792001536.6227593,
+      "end": 800,
+      "end_at": 1792001536.699825
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1792001536.6731112
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1300)",
+      "at": 1792001536.6731112
+    }
+  },
+  "bridgette_murazik79@outlook.com": {
+    "coins": {
+      "start": 57000,
+      "start_at": 1792000858.3363662,
+      "now": 46,
+      "now_at": 1792003234.3280518,
+      "end": 46,
+      "end_at": 1792003291.0299323
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 3 > row 3/11",
+      "at": 1792001141.9748075
+    }
+  },
+  "olivia.adams99@outlook.com": {
+    "coins": {
+      "start": 8000,
+      "start_at": 1792000761.5421317,
+      "now": 86,
+      "now_at": 1792004702.870155,
+      "end": 86,
+      "end_at": 1792004702.9508429
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account NOEL on console @ start CheckAccount",
+      "at": 1792004735.204743
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:4] price 650)",
+      "at": 1792004702.9269328
+    }
+  },
+  "rasheeda.pratt@outlook.com": {
+    "coins": {
+      "start": 20000,
+      "start_at": 1792000773.3311465,
+      "now": 8691,
+      "now_at": 1792003651.474854,
+      "end": 8691,
+      "end_at": 1792003711.755449
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 2 > row 10/11",
+      "at": 1792001333.3941941
+    }
+  },
+  "ella.matthews2067@outlook.com": {
+    "coins": {
+      "start": 34000,
+      "start_at": 1792005503.131421,
+      "now": 34000,
+      "now_at": 1792005503.131421,
+      "end": 34000,
+      "end_at": 1792005558.8657575
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1792005397.6437573
+    }
+  },
+  "michael.mitchell82@outlook.com": {
+    "coins": {
+      "start": 48000,
+      "start_at": 1792005398.686751,
+      "now": 48000,
+      "now_at": 1792005398.686751,
+      "end": 48000,
+      "end_at": 1792005455.022922
+    },
+    "last_error": {
+      "kind": "crash",
+      "text": "Code error: ConnectionError: ریموت A87 در دسترس نیست (\\\\.\\pipe\\xbrp-A87). xbrp باز است؟ @ start FindSBC",
+      "at": 1791992033.9582732
+    }
+  },
+  "mack.gaey66@outlook.com": {
+    "coins": {
+      "start": 599000,
+      "start_at": 1792005555.486512,
+      "now": 599000,
+      "now_at": 1792005555.486512,
+      "end": 599000,
+      "end_at": 1792005611.8098917
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1792005440.4804459
+    }
+  },
+  "elizabeth.lewis597@outlook.com": {
+    "coins": {
+      "start": 10000,
+      "start_at": 1792000792.1507566,
+      "now": 815,
+      "now_at": 1792003267.4887207,
+      "end": 815,
+      "end_at": 1792003267.5360556
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1100)",
+      "at": 1792003267.519633
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:10] price 1100)",
+      "at": 1792003267.519633
+    }
+  },
+  "tilda_tomaz1994@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 10/11",
+      "at": 1792006563.001163
+    },
+    "coins": {
+      "start": 28000,
+      "start_at": 1792001466.2326913,
+      "now": 10990,
+      "now_at": 1792006788.603322,
+      "end": 10990,
+      "end_at": 1792006854.679735
+    }
+  },
+  "raymond.white476@outlook.com": {
+    "coins": {
+      "start": 22446,
+      "start_at": 1792001805.2935781,
+      "now": 3446,
+      "now_at": 1792006233.027583,
+      "end": 3446,
+      "end_at": 1792006296.1461225
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 3 > row 3/11",
+      "at": 1792004177.6994832
+    }
+  },
+  "clinkhajjdig48786018@hotmail.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1792001810.4236736,
+      "now": 145,
+      "now_at": 1792005342.1995127,
+      "end": 145,
+      "end_at": 1792005342.3010635
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:4] price 650)",
+      "at": 1792005342.2671647
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:4] price 650)",
+      "at": 1792005342.2671647
+    }
+  },
+  "david.taylor699@outlook.com": {
+    "coins": {
+      "start": 10000,
+      "start_at": 1792002431.165576,
+      "now": 420,
+      "now_at": 1792005253.9865072,
+      "end": 420,
+      "end_at": 1792005254.0757592
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:8] price 650)",
+      "at": 1792005254.0476713
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:8] price 650)",
+      "at": 1792005254.0476713
+    }
+  },
+  "patrick.miller8103@outlook.com": {
+    "coins": {
+      "start": 41000,
+      "start_at": 1792003464.1018589,
+      "now": 36289,
+      "now_at": 1792004456.822507,
+      "end": 36289,
+      "end_at": 1792004521.7739205
+    }
+  },
+  "noah.williams212@outlook.com": {
+    "coins": {
+      "start": 94000,
+      "start_at": 1792003481.7724583,
+      "now": 90281,
+      "now_at": 1792004506.8563144,
+      "end": 90281,
+      "end_at": 1792004580.9687624
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 2 > row 10/11",
+      "at": 1792004291.9523067
+    }
+  },
+  "dyllan_bain32@outlook.com": {
+    "coins": {
+      "start": 7,
+      "start_at": 1792003894.3006313,
+      "now": 22868,
+      "now_at": 1792005401.3821602,
+      "end": 22868,
+      "end_at": 1792005598.6254475
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "Submit چالش Marquee Matchups 3 failed @ Marquee Matchups 3",
+      "at": 1792004980.481343
+    }
+  },
+  "evelyn_josephina68@outlook.com": {
+    "coins": {
+      "start": 13068,
+      "start_at": 1792004267.1219606,
+      "now": 218,
+      "now_at": 1792007252.948439,
+      "end": 218,
+      "end_at": 1792007253.0497262
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1200)",
+      "at": 1792007253.0174243
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1200)",
+      "at": 1792007253.0174243
+    }
+  },
+  "rachel.evans585@outlook.com": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1792004732.7775035,
+      "now": 239,
+      "now_at": 1792009318.0740247,
+      "end": 239,
+      "end_at": 1792009318.1818433
+    },
+    "last_error": {
+      "kind": "crash",
+      "text": "Code error: ConnectionError: ریموت D34 در دسترس نیست (\\\\.\\pipe\\xbrp-D34). xbrp باز است؟ @ start CheckAccount",
+      "at": 1792011478.58748
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:6] price 650)",
+      "at": 1792009318.1512187
+    }
+  },
+  "elina.roberts345@outlook.com": {
+    "coins": {
+      "start": 27000,
+      "start_at": 1792004786.558101,
+      "now": 10684,
+      "now_at": 1792009704.619089,
+      "end": 10684,
+      "end_at": 1792009769.655861
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account EMMA on console @ start CheckAccount",
+      "at": 1792011742.1548035
+    }
+  },
+  "justice_kee83@hotmail.com": {
+    "coins": {
+      "start": 71000,
+      "start_at": 1792005236.7211783,
+      "now": 71000,
+      "now_at": 1792005236.7211783,
+      "end": 71000,
+      "end_at": 1792005299.700567
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account MATTHEW on console @ start CheckAccount",
+      "at": 1792005338.9467518
+    }
+  },
+  "noelkirsch63@hotmail.com": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1792005303.5320587,
+      "now": 10946,
+      "now_at": 1792006655.7605765,
+      "end": 10946,
+      "end_at": 1792006729.979975
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 1 @ Marquee Matchups 1",
+      "at": 1792005345.8212392
+    }
+  },
+  "ava.bennett4923@outlook.com": {
+    "coins": {
+      "start": 3000,
+      "start_at": 1792011832.2978566,
+      "now": 1196,
+      "now_at": 1792012686.6485996,
+      "end": 1196,
+      "end_at": 1792012749.6207423
+    },
+    "last_error": {
+      "kind": "stop",
+      "text": "Remote down: Remote still not healthy after 3 reconnects @ Marquee Matchups 4 > row 6/11",
+      "at": 1792010299.0902865
+    }
+  },
+  "leon_jems1965@outlook.com": {
+    "coins": {
+      "start": 8000,
+      "start_at": 1792011905.0215964,
+      "now": 7326,
+      "now_at": 1792012578.505803,
+      "end": 7326,
+      "end_at": 1792012647.8973873
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "GotoHome failed @ start GotoHome",
+      "at": 1792011785.1185517
+    }
+  },
+  "rodrigo.redondo1994@outlook.com": {
+    "coins": {
+      "start": 16000,
+      "start_at": 1792005596.0742996,
+      "now": 16000,
+      "now_at": 1792005596.0742996,
+      "end": 16000,
+      "end_at": 1792005652.1235495
+    }
+  },
+  "daniel.lewis562@outlook.com": {
+    "coins": {
+      "start": 34000,
+      "start_at": 1792005740.9119074,
+      "now": 34000,
+      "now_at": 1792005740.9119074,
+      "end": 34000,
+      "end_at": 1792005796.6191196
+    }
+  },
+  "kathy_lopo98@outlook.com": {
+    "coins": {
+      "start": 35000,
+      "start_at": 1792005784.5492225,
+      "now": 35000,
+      "now_at": 1792005784.5492225,
+      "end": 35000,
+      "end_at": 1792005840.710895
+    }
+  },
+  "julie.jenkins5098@outlook.com": {
+    "coins": {
+      "start": 35000,
+      "start_at": 1792011948.557582,
+      "now": 27086,
+      "now_at": 1792014042.5812995,
+      "end": 27086,
+      "end_at": 1792014103.53856
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "GotoHome failed @ start GotoHome",
+      "at": 1792011808.169037
+    }
+  },
+  "matthew.garcia842@outlook.com": {
+    "coins": {
+      "start": 36000,
+      "start_at": 1792011938.4960384,
+      "now": 25543,
+      "now_at": 1792014955.9607227,
+      "end": 25543,
+      "end_at": 1792015026.2649908
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 6/11",
+      "at": 1792014289.536628
+    }
+  },
+  "phoebe-castro16@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "EA two-factor failed @ start FindUltimate",
+      "at": 1792006514.644899
+    },
+    "coins": {
+      "start": 36000,
+      "start_at": 1792006814.2381268,
+      "now": 36000,
+      "now_at": 1792006814.2381268,
+      "end": 36000,
+      "end_at": 1792006877.7930522
+    }
+  },
+  "nancy.taylor982@outlook.com": {
+    "coins": {
+      "start": 27000,
+      "start_at": 1792005939.147553,
+      "now": 27000,
+      "now_at": 1792005939.147553,
+      "end": 27000,
+      "end_at": 1792005997.7880957
+    }
+  },
+  "keenan.boyer45@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Web one on console @ start CheckAccount",
+      "at": 1792006085.0788956
+    }
+  },
+  "gregory.price52@outlook.com": {
+    "coins": {
+      "start": 38000,
+      "start_at": 1792006129.6865203,
+      "now": 38000,
+      "now_at": 1792006129.6865203,
+      "end": 38000,
+      "end_at": 1792006185.9785252
+    }
+  },
+  "georgette_langworth@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1792006312.432022
+    },
+    "coins": {
+      "start": 18000,
+      "start_at": 1792006427.611477,
+      "now": 18000,
+      "now_at": 1792006427.611477,
+      "end": 18000,
+      "end_at": 1792006483.8101876
+    }
+  },
+  "zoe.saunders2196@outlook.com": {
+    "coins": {
+      "start": 20000,
+      "start_at": 1792006448.377222,
+      "now": 2749,
+      "now_at": 1792013870.8061695,
+      "end": 2749,
+      "end_at": 1792013936.9898696
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account MIA on console @ start CheckAccount",
+      "at": 1792013978.0920124
+    }
+  },
+  "nourmahmoud61401@outlook.com": {
+    "coins": {
+      "start": 7039,
+      "start_at": 1792006663.0722518,
+      "now": 239,
+      "now_at": 1792009069.2284124,
+      "end": 239,
+      "end_at": 1792009069.3137527
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:1] price 400)",
+      "at": 1792009069.285539
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:1] price 400)",
+      "at": 1792009069.285539
+    }
+  },
+  "thomas_wilsons1987@outlook.com": {
+    "coins": {
+      "start": 19000,
+      "start_at": 1792006944.5412588,
+      "now": 2426,
+      "now_at": 1792015566.336938,
+      "end": 2426,
+      "end_at": 1792015627.5266
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 9/11",
+      "at": 1792015221.7569473
+    }
+  },
+  "henry.green45@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account DONNA on console @ start CheckAccount",
+      "at": 1792007337.971876
+    }
+  },
+  "mm.h1001@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1792007027.914015,
+      "now": 14000,
+      "now_at": 1792007027.914015,
+      "end": 14000,
+      "end_at": 1792007091.969154
+    }
+  },
+  "susan.smith1280@outlook.com": {
+    "coins": {
+      "start": 20000,
+      "start_at": 1792007041.5943756,
+      "now": 20000,
+      "now_at": 1792007041.5943756,
+      "end": 20000,
+      "end_at": 1792007104.9504933
+    }
+  },
+  "mm.h1002@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1792007223.2320874,
+      "now": 14000,
+      "now_at": 1792007223.2320874,
+      "end": 14000,
+      "end_at": 1792007282.1839597
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account FIFA XS 8 on console @ start CheckAccount",
+      "at": 1792007320.1312466
+    }
+  },
+  "kelly.mitchell25@outlook.com": {
+    "coins": {
+      "start": 25000,
+      "start_at": 1792011891.3194327,
+      "now": 11432,
+      "now_at": 1792015157.2321074,
+      "end": 11432,
+      "end_at": 1792015220.0122824
+    },
+    "last_error": {
+      "kind": "stop",
+      "text": "Remote down: Remote still not healthy after 3 reconnects @ Marquee Matchups 2 > row 10/11",
+      "at": 1792010983.5395994
+    }
+  },
+  "daniel.taylor3339@outlook.com": {
+    "coins": {
+      "start": 102000,
+      "start_at": 1792007447.6897035,
+      "now": 102000,
+      "now_at": 1792007447.6897035,
+      "end": 102000,
+      "end_at": 1792008238.3392813
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Open challenge Marquee Matchups 1 @ Marquee Matchups 1",
+      "at": 1792007535.0543349
+    }
+  },
+  "donna.moore122@outlook.com": {
+    "coins": {
+      "start": 11000,
+      "start_at": 1792007703.672917,
+      "now": 4447,
+      "now_at": 1792010063.6087081,
+      "end": 4447,
+      "end_at": 1792011440.3733914
+    },
+    "last_error": {
+      "kind": "crash",
+      "text": "Code error: ConnectionError: ریموت B25 در دسترس نیست (\\\\.\\pipe\\xbrp-B25). xbrp باز است؟ @ Marquee Matchups 2",
+      "at": 1792011440.3430061
+    }
+  },
+  "hart_johnpaul43@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "MainUltimate failed @ start MainUltimate",
+      "at": 1792007885.0595956
+    },
+    "coins": {
+      "start": 28000,
+      "start_at": 1792007951.9790165,
+      "now": 28000,
+      "now_at": 1792007951.9790165,
+      "end": 28000,
+      "end_at": 1792008028.5647485
+    }
+  },
+  "nils_nikolaus9@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1792007979.4502692
+    },
+    "coins": {
+      "start": 1000,
+      "start_at": 1792008096.8212557,
+      "now": 1000,
+      "now_at": 1792008096.8212557,
+      "end": 1000,
+      "end_at": 1792008168.4809966
+    }
+  },
+  "elmore-blue13@outlook.com": {
+    "coins": {
+      "start": 18000,
+      "start_at": 1792008223.9651632,
+      "now": 18000,
+      "now_at": 1792008223.9651632,
+      "end": 18000,
+      "end_at": 1792008301.9275668
+    }
+  },
+  "sorententchobern@gmx.com": {
+    "coins": {
+      "start": 27000,
+      "start_at": 1792008362.0939507,
+      "now": 22673,
+      "now_at": 1792010093.026211,
+      "end": 22673,
+      "end_at": 1792011179.3190012
+    },
+    "last_error": {
+      "kind": "stop",
+      "text": "Remote down: Remote still not healthy after 3 reconnects @ Marquee Matchups 2 > row 8/11",
+      "at": 1792011179.2953331
+    }
+  },
+  "penny.maryjane33@outlook.com": {
+    "coins": {
+      "start": 20000,
+      "start_at": 1792011836.6227708,
+      "now": 11325,
+      "now_at": 1792014464.4480996,
+      "end": 11325,
+      "end_at": 1792014525.6118352
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 9/11",
+      "at": 1792014193.7490633
+    }
+  },
+  "bealle-norwood@gmx.de": {
+    "coins": {
+      "start": 18000,
+      "start_at": 1792008493.7046635,
+      "now": 18000,
+      "now_at": 1792008493.7046635,
+      "end": 18000,
+      "end_at": 1792008562.5046165
+    },
+    "last_error": {
+      "kind": "crash",
+      "text": "Code error: ConnectionError: ریموت A87 در دسترس نیست (\\\\.\\pipe\\xbrp-A87). xbrp باز است؟ @ start CheckAccount",
+      "at": 1792011401.69961
+    }
+  },
+  "kelby-kaplan51@outlook.com": {
+    "last_error": {
+      "kind": "stop",
+      "text": "Remote down: Remote still not healthy after 3 reconnects @ start MainUltimate",
+      "at": 1792011178.7950244
+    }
+  },
+  "johnsons570@hotmail.com": {
+    "coins": {
+      "start": 22000,
+      "start_at": 1792012010.4446704,
+      "now": 5032,
+      "now_at": 1792016101.5939863,
+      "end": 5032,
+      "end_at": 1792016165.3183203
+    }
+  },
+  "emma.turner96@outlook.com": {
+    "coins": {
+      "start": 17000,
+      "start_at": 1792012011.3546815,
+      "now": 1169,
+      "now_at": 1792016036.2071178,
+      "end": 1169,
+      "end_at": 1792016036.2831109
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:9] price 1000)",
+      "at": 1792016036.255457
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account ANGEL on console @ start CheckAccount",
+      "at": 1792016090.9003308
+    }
+  },
+  "waldo_zamora95@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "back_to_market failed @ Marquee Matchups 1 > row 1/11",
+      "at": 1792012995.1878717
+    }
+  },
+  "cathy-barbur@gmx.de": {
+    "coins": {
+      "start": 15000,
+      "start_at": 1792013015.1070058,
+      "now": 63,
+      "now_at": 1792016799.4974241,
+      "end": 63,
+      "end_at": 1792016799.602173
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:8] price 200)",
+      "at": 1792016799.5746703
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:8] price 200)",
+      "at": 1792016799.5746703
+    }
+  },
+  "lucas.hall83@outlook.com": {
+    "coins": {
+      "start": 19000,
+      "start_at": 1792013314.2233164,
+      "now": 3419,
+      "now_at": 1792017265.3318162,
+      "end": 3419,
+      "end_at": 1792017330.610042
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 4 > row 4/11",
+      "at": 1792016538.3222952
+    }
+  },
+  "mia.bradshaw4564@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account MARIKL on console @ start CheckAccount",
+      "at": 1792015452.5141718
+    },
+    "coins": {
+      "start": 30000,
+      "start_at": 1792015360.9222703,
+      "now": 30000,
+      "now_at": 1792015360.9222703,
+      "end": 30000,
+      "end_at": 1792015422.4976995
+    }
+  },
+  "justin.taylor199@outlook.com": {
+    "coins": {
+      "start": 7059,
+      "start_at": 1792014412.9758544,
+      "now": 4,
+      "now_at": 1792016697.6092463,
+      "end": 4,
+      "end_at": 1792016697.6705837
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Liam on console @ start CheckAccount",
+      "at": 1792016764.2511115
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1000)",
+      "at": 1792016697.6469402
+    }
+  },
+  "cameron.hartez34@outlook.com": {
+    "coins": {
+      "start": 7,
+      "start_at": 1792014717.5238733,
+      "now": 911,
+      "now_at": 1792017986.195643,
+      "end": 911,
+      "end_at": 1792017986.2588959
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1000)",
+      "at": 1792017986.2341163
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1000)",
+      "at": 1792017986.2341163
+    }
+  },
+  "michael.smith3443@outlook.com": {
+    "coins": {
+      "start": 26029,
+      "start_at": 1792015349.0735888,
+      "now": 7079,
+      "now_at": 1792020109.6673274,
+      "end": 7079,
+      "end_at": 1792020171.955657
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:11] player @ Marquee Matchups 3 > row 11/11",
+      "at": 1792018267.9782653
+    }
+  },
+  "ava.thomas36@outlook.com": {
+    "coins": {
+      "start": 22000,
+      "start_at": 1792015431.8874307,
+      "now": 3619,
+      "now_at": 1792020913.821156,
+      "end": 3619,
+      "end_at": 1792020975.7545297
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 3:11] player @ Marquee Matchups 3 > row 11/11",
+      "at": 1792019263.79224
+    }
+  },
+  "fendt-isabel1999@outlook.com": {
+    "coins": {
+      "start": 20000,
+      "start_at": 1792015828.3053982,
+      "now": 2851,
+      "now_at": 1792021001.6174889,
+      "end": 2851,
+      "end_at": 1792021064.9556272
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Daviid on console @ start CheckAccount",
+      "at": 1792021094.7482028
+    }
+  },
+  "marieklawovma@gmx.com": {
+    "coins": {
+      "start": 8000,
+      "start_at": 1792016114.7602441,
+      "now": 59,
+      "now_at": 1792019981.496434,
+      "end": 59,
+      "end_at": 1792019981.5878282
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Matilda on console @ start CheckAccount",
+      "at": 1792020011.5659523
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:3] price 1000)",
+      "at": 1792019981.5588365
+    }
+  },
+  "kevin_agna.1988@gmx.de": {
+    "coins": {
+      "start": 18408,
+      "start_at": 1792016493.5244439,
+      "now": 1208,
+      "now_at": 1792020558.2597792,
+      "end": 1208,
+      "end_at": 1792020623.4076278
+    }
+  },
+  "angel-stevens88@outlook.com": {
+    "coins": {
+      "start": 4000,
+      "start_at": 1792016712.0362844,
+      "now": 138,
+      "now_at": 1792018156.3017557,
+      "end": 138,
+      "end_at": 1792018156.4109154
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:8] price 350)",
+      "at": 1792018156.380976
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account HUDSON on console @ start CheckAccount",
+      "at": 1792018258.3087907
+    }
+  },
+  "liam.martin41@outlook.com": {
+    "coins": {
+      "start": 19000,
+      "start_at": 1792017293.2307549,
+      "now": 2609,
+      "now_at": 1792021332.5887325,
+      "end": 2609,
+      "end_at": 1792021394.8674088
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: [Marquee Matchups 2:4] player @ Marquee Matchups 2 > row 4/11",
+      "at": 1792018266.9466877
+    }
+  },
+  "lauryn.martin21@outlook.com": {
+    "coins": {
+      "start": 9009,
+      "start_at": 1792017671.0933802,
+      "now": 4,
+      "now_at": 1792019914.1752677,
+      "end": 4,
+      "end_at": 1792019914.2639313
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account LINDA on console @ start CheckAccount",
+      "at": 1792019979.6747296
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:8] price 650)",
+      "at": 1792019914.2377286
+    }
+  },
+  "carter.collins1978@outlook.com": {
+    "coins": {
+      "start": 15863,
+      "start_at": 1792018261.6602774,
+      "now": 113,
+      "now_at": 1792022744.4146855,
+      "end": 113,
+      "end_at": 1792022744.5087438
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:6] price 700)",
+      "at": 1792022744.4818866
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:6] price 700)",
+      "at": 1792022744.4818866
+    }
+  },
+  "hudson.barnes80@outlook.com": {
+    "coins": {
+      "start": 13000,
+      "start_at": 1792018575.5375445,
+      "now": 167,
+      "now_at": 1792021612.6852715,
+      "end": 167,
+      "end_at": 1792021612.775914
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:2] price 200)",
+      "at": 1792021612.749595
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:2] price 200)",
+      "at": 1792021612.749595
+    }
+  },
+  "kevin.rodriguez8842@outlook.com": {
+    "coins": {
+      "start": 14000,
+      "start_at": 1792020254.668443,
+      "now": 637,
+      "now_at": 1792023312.082331,
+      "end": 637,
+      "end_at": 1792023312.148777
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:3] price 700)",
+      "at": 1792023312.1305172
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:3] price 700)",
+      "at": 1792023312.1305172
+    }
+  },
+  "matilda.perry361@outlook.com": {
+    "coins": {
+      "start": 46000,
+      "start_at": 1792020345.7100475,
+      "now": 29092,
+      "now_at": 1792024576.9019656,
+      "end": 29092,
+      "end_at": 1792024640.1506214
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Emily on console @ start CheckAccount",
+      "at": 1792024669.502958
+    }
+  },
+  "dove.fortune11@outlook.com": {
+    "coins": {
+      "start": 24215,
+      "start_at": 1792020496.6570961,
+      "now": 6119,
+      "now_at": 1792024440.1928022,
+      "end": 6119,
+      "end_at": 1792024502.3865352
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account ROSA on console @ start CheckAccount",
+      "at": 1792024571.4806197
+    }
+  },
+  "esmaralda.crosby6655@outlook.com": {
+    "coins": {
+      "start": 1000,
+      "start_at": 1792020849.815486,
+      "now": 292,
+      "now_at": 1792023881.85244,
+      "end": 292,
+      "end_at": 1792023881.94892
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1000)",
+      "at": 1792023881.919122
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:1] price 1000)",
+      "at": 1792023881.919122
+    }
+  },
+  "jeffry.kyla1212@outlook.com": {
+    "last_error": {
+      "kind": "error",
+      "text": "FindUltimate failed @ start FindUltimate",
+      "at": 1792021146.6249304
+    },
+    "coins": {
+      "start": 36000,
+      "start_at": 1792021299.0045063,
+      "now": 19420,
+      "now_at": 1792025408.8504732,
+      "end": 19420,
+      "end_at": 1792025470.8685176
+    }
+  },
+  "david.johnson9220@outlook.com": {
+    "coins": {
+      "start": 20000,
+      "start_at": 1792021505.2395868,
+      "now": 2236,
+      "now_at": 1792026250.0284493,
+      "end": 2236,
+      "end_at": 1792026313.5709136
+    },
+    "last_error": {
+      "kind": "error",
+      "text": "BUY failed @ Marquee Matchups 3 > row 10/11",
+      "at": 1792024797.3355572
+    }
+  },
+  "dayan.solomon5764@outlook.com": {
+    "coins": {
+      "start": 17634,
+      "start_at": 1792021722.7623885,
+      "now": 484,
+      "now_at": 1792025730.5675359,
+      "end": 484,
+      "end_at": 1792025793.300078
+    }
+  },
+  "peppinanmonest@gmx.com": {
+    "coins": {
+      "start": 14089,
+      "start_at": 1792023063.372394,
+      "now": 585,
+      "now_at": 1792026323.7771795,
+      "end": 585,
+      "end_at": 1792026323.8562121
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 4:6] price 650)",
+      "at": 1792026323.8258724
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 4:6] price 650)",
+      "at": 1792026323.8258724
+    }
+  },
+  "evans.hatty355@outlook.com": {
+    "coins": {
+      "start": 22000,
+      "start_at": 1792023527.072615,
+      "now": 6235,
+      "now_at": 1792027275.6352692,
+      "end": 6235,
+      "end_at": 1792027337.43563
+    }
+  },
+  "emily.wright1718@outlook.com": {
+    "coins": {
+      "start": 31000,
+      "start_at": 1792025082.8881233,
+      "now": 31000,
+      "now_at": 1792025082.8881233,
+      "end": 31000,
+      "end_at": 1792025141.776598
+    },
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Account Amelia on console @ start CheckAccount",
+      "at": 1792025171.374372
+    }
+  },
+  "rosa.reminder69@outlook.com": {
+    "last_error": {
+      "kind": "pause",
+      "text": "Paused: Start game (MainUltimate) @ start MainUltimate",
+      "at": 1792025744.3525321
+    },
+    "coins": {
+      "start": 21000,
+      "start_at": 1792026276.5816147,
+      "now": 4253,
+      "now_at": 1792030387.2594059,
+      "end": 4253,
+      "end_at": 1792030448.8269684
+    }
+  },
+  "amelia.hobbs1146@outlook.com": {
+    "coins": {
+      "start": 2000,
+      "start_at": 1792025709.3056357,
+      "now": 140,
+      "now_at": 1792026711.919734,
+      "end": 140,
+      "end_at": 1792026712.0017276
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:4] price 350)",
+      "at": 1792026711.9762375
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 2:4] price 350)",
+      "at": 1792026711.9762375
+    }
+  },
+  "just-emee_1992@gmx.de": {
+    "coins": {
+      "start": 5313,
+      "start_at": 1792025820.8143916,
+      "now": 563,
+      "now_at": 1792027209.5099819,
+      "end": 563,
+      "end_at": 1792027209.5918555
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 2:10] price 800)",
+      "at": 1792027209.5687058
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 2:10] price 800)",
+      "at": 1792027209.5687058
+    }
+  },
+  "susan.taylor583@outlook.com": {
+    "coins": {
+      "start": 6000,
+      "start_at": 1792026477.0338066,
+      "now": 240,
+      "now_at": 1792028388.4905984,
+      "end": 240,
+      "end_at": 1792028388.5616477
+    },
+    "last_error": {
+      "kind": "coins",
+      "text": "Out of coins ([Marquee Matchups 3:1] price 350)",
+      "at": 1792028388.5429265
+    },
+    "no_coins": {
+      "text": "Out of coins ([Marquee Matchups 3:1] price 350)",
+      "at": 1792028388.5429265
+    }
+  }
+}

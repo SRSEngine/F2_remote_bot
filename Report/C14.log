@@ -1,0 +1,430 @@
+
+════ 2026-10-11 15:09:56  شروع اجرا  (ریموت C14، pid 20204) START_GAME=True  SHARED=True ════
+15:09:57  ✓ انجام شد   اکانت Samell › شروع بازی › CheckAccount  |  اکانت Samell روی کنسول است (گیمرتگ: Samell#1175)
+15:11:10  ·            اکانت Samell › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+15:18:18  ■ توقف       اکانت Samell › شروع بازی › MainUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:13:24 Found 'Setting'
+            15:13:26 Looking for 'Ultimate'
+            15:13:26 Found 'Setting'
+            15:13:27 Looking for 'Ultimate'
+            15:13:27 Found 'Setting'
+            15:13:28 Looking for 'Ultimate'
+            15:13:28 Found 'Setting'
+            15:13:30 Looking for 'Ultimate'
+            15:13:30 Found 'Setting'
+            15:13:31 Looking for 'Ultimate'
+            15:13:31 Found 'Setting'
+            15:13:32 Looking for 'Main Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 8:22  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 15:18:19  شروع اجرا  (ریموت C14، pid 20076) START_GAME=True  SHARED=True ════
+15:18:25  ✓ انجام شد   اکانت Samell › شروع بازی › CheckAccount  |  اکانت Samell روی کنسول است (گیمرتگ: Samell#1175)
+15:20:29  ✓ انجام شد   اکانت Samell  |  بازی باز شد و صفحه‌ی SBC آمد
+15:21:09  ·            اکانت Samell › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:21:10  ·            اکانت Samell › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:21:12  ·            اکانت Samell › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:21:13  ·            اکانت Samell › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+15:21:13  ✓ انجام شد   اکانت Samell  |  اکانت Samell تمام شد
+15:21:24  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samella Goree' — اکانت لازم: karl
+15:21:45  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1011_152145_001_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:21:10 ===== Marquee Matchups 3 =====
+            15:21:10 Marquee3.csv: 11 rows
+            15:21:12 Challenge 3: قبلاً کامل شده (Completed)
+            15:21:12 ===== Marquee Matchups 4 =====
+            15:21:12 Marquee4.csv: 11 rows
+            15:21:13 Challenge 4: قبلاً کامل شده (Completed)
+            15:21:13 ✓ Account done: Samell
+            15:21:13 ===== Account: karl (karl-armstrong34@outlook.com) =====
+            15:21:13 ===== باز کردن بازی (تلاش 1) =====
+            15:21:24 Account: 'Samella Goree' on console, switching to karl
+            15:21:24 Switch account -> karl
+            15:21:44 Switch: account karl is not added on this console (not in the Who are you? list)
+15:40:16  ▶ ادامه      اکانت karl › شروع بازی › CheckAccount  |  بعد از 18:30 توقف
+15:40:17  ‼ خطای کد    اکانت karl › شروع بازی › CheckAccount  |  ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 21:58  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-11 15:54:47  شروع اجرا  (ریموت C14، pid 23772) START_GAME=True  SHARED=True ════
+15:54:58  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samell#1175' — اکانت لازم: karl
+15:55:19  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1011_155519_001_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:54:47 ===== Account: karl (karl-armstrong34@outlook.com) =====
+            15:54:47 ===== باز کردن بازی (تلاش 1) =====
+            15:54:58 Account: 'Samell#1175' on console, switching to karl
+            15:54:58 Switch account -> karl
+            15:55:18 Switch: account karl is not added on this console (not in the Who are you? list)
+16:08:45  ▶ ادامه      اکانت karl › شروع بازی › CheckAccount  |  بعد از 13:26 توقف
+16:08:46  ‼ خطای کد    اکانت karl › شروع بازی › CheckAccount  |  ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 13:59  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-11 16:28:20  شروع اجرا  (ریموت C14، pid 19896) START_GAME=True  SHARED=True ════
+16:28:31  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samella Goree' — اکانت لازم: karl
+16:28:52  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1011_162852_001_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:28:20 ===== Account: karl (karl-armstrong34@outlook.com) =====
+            16:28:20 ===== باز کردن بازی (تلاش 1) =====
+            16:28:31 Account: 'Samella Goree' on console, switching to karl
+            16:28:31 Switch account -> karl
+            16:28:51 Switch: account karl is not added on this console (not in the Who are you? list)
+17:53:29  ▶ ادامه      اکانت karl › شروع بازی › CheckAccount  |  بعد از 1:24:36 توقف
+17:53:30  ‼ خطای کد    اکانت karl › شروع بازی › CheckAccount  |  ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:25:09  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-11 18:46:06  شروع اجرا  (ریموت C14، pid 23540) START_GAME=True  SHARED=True ════
+18:46:09  ✓ انجام شد   اکانت Samell › شروع بازی › CheckAccount  |  اکانت Samell روی کنسول است (گیمرتگ: Samella Goree)
+18:48:35  ·            اکانت Samell › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:50:21  ✗ خطا        اکانت Samell › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C14\1011_185021_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:48:25 Looking for 'Ultimate'
+            18:48:35 FindUltimate نشد؛ ادامه
+            18:48:35 Looking for 'Main Ultimate'
+            18:48:46 Looking for 'Main Ultimate'
+            18:48:56 Looking for 'Main Ultimate'
+            18:49:06 Looking for 'Main Ultimate'
+            18:49:16 Looking for 'Main Ultimate'
+            18:49:27 Looking for 'Main Ultimate'
+            18:49:37 Looking for 'Main Ultimate'
+            18:49:47 Looking for 'Main Ultimate'
+            18:50:00 Looking for 'Main Ultimate'
+            18:50:11 Looking for 'Main Ultimate'
+18:50:21  ↻ تلاش دوباره اکانت Samell › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:50:26  ✓ انجام شد   اکانت Samell › شروع بازی › CheckAccount  |  اکانت Samell روی کنسول است (گیمرتگ: Samell#1175)
+18:52:54  ·            اکانت Samell › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:54:37  ✗ خطا        اکانت Samell › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C14\1011_185437_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:52:44 Looking for 'Ultimate'
+            18:52:54 FindUltimate نشد؛ ادامه
+            18:52:54 Looking for 'Main Ultimate'
+            18:53:05 Looking for 'Main Ultimate'
+            18:53:15 Looking for 'Main Ultimate'
+            18:53:25 Looking for 'Main Ultimate'
+            18:53:35 Looking for 'Main Ultimate'
+            18:53:46 Looking for 'Main Ultimate'
+            18:53:56 Looking for 'Main Ultimate'
+            18:54:06 Looking for 'Main Ultimate'
+            18:54:17 Looking for 'Main Ultimate'
+            18:54:27 Looking for 'Main Ultimate'
+18:54:37  ↻ تلاش دوباره اکانت Samell › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+18:54:43  ✓ انجام شد   اکانت Samell › شروع بازی › CheckAccount  |  اکانت Samell روی کنسول است (گیمرتگ: Samell#1175)
+18:57:10  ·            اکانت Samell › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:57:59  ✓ انجام شد   اکانت Samell  |  بازی باز شد و صفحه‌ی SBC آمد
+18:58:36  ·            اکانت Samell › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:58:37  ·            اکانت Samell › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:58:40  ·            اکانت Samell › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:58:44  ·            اکانت Samell › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:58:44  ✓ انجام شد   اکانت Samell  |  اکانت Samell تمام شد
+18:58:54  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samella Goree' — اکانت لازم: karl
+18:59:16  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1011_185916_003_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:58:37 ===== Marquee Matchups 3 =====
+            18:58:37 Marquee3.csv: 11 rows
+            18:58:40 Challenge 3: قبلاً کامل شده (Completed)
+            18:58:40 ===== Marquee Matchups 4 =====
+            18:58:40 Marquee4.csv: 11 rows
+            18:58:44 Challenge 4: قبلاً کامل شده (Completed)
+            18:58:44 ✓ Account done: Samell
+            18:58:44 ===== Account: karl (karl-armstrong34@outlook.com) =====
+            18:58:44 ===== باز کردن بازی (تلاش 1) =====
+            18:58:54 Account: 'Samella Goree' on console, switching to karl
+            18:58:54 Switch account -> karl
+            18:59:15 Switch: account karl is not added on this console (not in the Who are you? list)
+19:47:44  ▶ ادامه      اکانت karl › شروع بازی › CheckAccount  |  بعد از 48:27 توقف
+19:47:52  ‼ خطای کد    اکانت karl › شروع بازی › CheckAccount  |  ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:01:45  |  خطا 2، تلاش دوباره 2، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-11 19:57:05  شروع اجرا  (ریموت C14، pid 19616) START_GAME=True  SHARED=True ════
+19:57:11  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samell#1175' — اکانت لازم: karl
+19:57:33  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1011_195733_001_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:57:05 ===== Account: karl (karl-armstrong34@outlook.com) =====
+            19:57:05 ===== باز کردن بازی (تلاش 1) =====
+            19:57:11 Account: 'Samell#1175' on console, switching to karl
+            19:57:11 Switch account -> karl
+            19:57:32 Switch: account karl is not added on this console (not in the Who are you? list)
+20:51:48  ▶ ادامه      اکانت karl › شروع بازی › CheckAccount  |  بعد از 54:15 توقف
+20:51:50  ‼ خطای کد    اکانت karl › شروع بازی › CheckAccount  |  ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 54:44  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-12 13:35:18  شروع اجرا  (ریموت C14، pid 6552) START_GAME=True  SHARED=True ════
+13:35:32  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samella Goree' — اکانت لازم: karl
+13:35:53  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1012_133553_001_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:35:18 ===== Account: karl (karl-armstrong34@outlook.com) =====
+            13:35:18 ===== باز کردن بازی (تلاش 1) =====
+            13:35:32 Account: 'Samella Goree' on console, switching to karl
+            13:35:32 Switch account -> karl
+            13:35:52 Switch: account karl is not added on this console (not in the Who are you? list)
+13:39:20  ▶ ادامه      اکانت karl › شروع بازی › CheckAccount  |  بعد از 3:26 توقف
+13:39:31  ·            اکانت karl › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samell#1175' — اکانت لازم: karl
+13:39:53  ⏸ توقف موقت  اکانت karl › شروع بازی › CheckAccount  |  Account karl on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to karl (karl-armstrong34@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C14\1012_133952_002_pause_Account_karl_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:39:31 Account: 'Samell#1175' on console, switching to karl
+            13:39:31 Switch account -> karl
+            13:39:52 Switch: account karl is not added on this console (not in the Who are you? list)
+13:43:19  ■ توقف       اکانت karl › شروع بازی › CheckAccount  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 8:00  |  خطا 0، تلاش دوباره 0، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-12 13:43:29  شروع اجرا  (ریموت C14، pid 21164) START_GAME=True  SHARED=True ════
+13:43:40  ·            اکانت CARL › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+3 orofiles' — اکانت لازم: CARL
+13:44:37  ·            اکانت CARL › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '' — اکانت لازم: CARL
+13:44:37  ⏸ توقف موقت  اکانت CARL › شروع بازی › CheckAccount  |  Account CARL on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to CARL (carl_agusti45@outlook.com) and put the screen on Home
+          عکس: shots\C14\1012_134437_001_pause_Account_CARL_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:43:29 ===== Account: CARL (carl_agusti45@outlook.com) =====
+            13:43:29 ===== باز کردن بازی (تلاش 1) =====
+            13:43:40 Account: '+3 orofiles' on console, switching to CARL
+            13:43:40 Switch account -> CARL
+            13:43:55 Switch: found 'Carl#7539' -> A
+14:28:47  ▶ ادامه      اکانت CARL › شروع بازی › CheckAccount  |  بعد از 44:09 توقف
+14:28:53  ·            اکانت CARL › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+4 orofiles' — اکانت لازم: CARL
+14:29:11  ✓ انجام شد   اکانت CARL › شروع بازی › CheckAccount  |  اکانت CARL روی کنسول است (گیمرتگ: Carl Agusti)
+16:42:36  ‼ خطای کد    اکانت CARL › شروع بازی › FindUltimate  |  ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C14 در دسترس نیست (\\.\pipe\xbrp-C14). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:29:39 Found 'Games'
+            14:29:42 Text in box: '26 Xbox One'
+            14:29:44 Found 'Games'
+            14:29:47 Text in box: '26 Xbox Seril'
+            14:29:49 Found 'Games'
+            14:29:52 Text in box: '27 XBOX One'
+            14:29:52 Found 'One'
+            14:29:58 Looking for 'Ultimate'
+            14:30:08 Looking for 'Ultimate'
+            14:30:18 Looking for 'Ultimate'
+            14:30:28 Looking for 'Ultimate'
+            16:42:36 Looking for 'Ultimate'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 2:59:07  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-12 16:46:16  شروع اجرا  (ریموت C14، pid 22596) START_GAME=True  SHARED=True ════
+16:46:17  ✓ انجام شد   اکانت CARL › شروع بازی › CheckAccount  |  اکانت CARL روی کنسول است (گیمرتگ: Carl Agusti)
+16:49:34  ·            اکانت CARL › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:51:20  ✗ خطا        اکانت CARL › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C14\1012_165120_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:49:24 Looking for 'Ultimate'
+            16:49:34 FindUltimate نشد؛ ادامه
+            16:49:35 Looking for 'Main Ultimate'
+            16:49:45 Looking for 'Main Ultimate'
+            16:49:55 Looking for 'Main Ultimate'
+            16:50:08 Looking for 'Main Ultimate'
+            16:50:18 Looking for 'Main Ultimate'
+            16:50:29 Looking for 'Main Ultimate'
+            16:50:39 Looking for 'Main Ultimate'
+            16:50:49 Looking for 'Main Ultimate'
+            16:50:59 Looking for 'Main Ultimate'
+            16:51:10 Looking for 'Main Ultimate'
+16:51:20  ↻ تلاش دوباره اکانت CARL › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:51:33  ·            اکانت CARL › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+4 orofiles' — اکانت لازم: CARL
+16:51:52  ✓ انجام شد   اکانت CARL › شروع بازی › CheckAccount  |  اکانت CARL روی کنسول است (گیمرتگ: Carl Agusti)
+16:55:12  ·            اکانت CARL › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:56:59  ✗ خطا        اکانت CARL › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C14\1012_165659_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:55:46 Looking for 'Main Ultimate'
+            16:55:56 Looking for 'Ultimate'
+            16:55:56 Found 'Setting'
+            16:55:57 Looking for 'Ultimate'
+            16:55:58 Found 'Setting'
+            16:55:58 Found 'Ultimate'
+            16:55:58 Looking for 'Main Ultimate'
+            16:56:08 Looking for 'Main Ultimate'
+            16:56:18 Looking for 'Main Ultimate'
+            16:56:28 Looking for 'Main Ultimate'
+            16:56:39 Looking for 'Main Ultimate'
+            16:56:49 Looking for 'Main Ultimate'
+16:56:59  ↻ تلاش دوباره اکانت CARL › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+16:57:04  ✓ انجام شد   اکانت CARL › شروع بازی › CheckAccount  |  اکانت CARL روی کنسول است (گیمرتگ: Carl#7539)
+17:00:35  ✗ خطا        اکانت CARL › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C14\1012_170035_003_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:58:52 Found 'Setting'
+            16:58:52 Found 'Ultimate'
+            16:58:53 Looking for 'Main Ultimate'
+            16:59:03 Looking for 'Main Ultimate'
+            16:59:13 Looking for 'Main Ultimate'
+            16:59:24 Looking for 'Main Ultimate'
+            16:59:34 Looking for 'Main Ultimate'
+            16:59:44 Looking for 'Main Ultimate'
+            16:59:54 Looking for 'Main Ultimate'
+            17:00:05 Looking for 'Main Ultimate'
+            17:00:15 Looking for 'Main Ultimate'
+            17:00:25 Looking for 'Main Ultimate'
+17:00:36  ⏸ توقف موقت  اکانت CARL › شروع بازی › MainUltimate  |  Start game (MainUltimate) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where MainUltimate starts
+          عکس: shots\C14\1012_170035_004_pause_Start_game_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:00:35 ✗ MainUltimate failed (shot: 1012_170035_003_MainUltimate.png)
+17:27:59  ■ توقف       اکانت CARL › شروع بازی › MainUltimate  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 41:42  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-12 17:28:00  شروع اجرا  (ریموت C14، pid 16880) START_GAME=True  SHARED=True ════
+17:28:05  ✓ انجام شد   اکانت CARL › شروع بازی › CheckAccount  |  اکانت CARL روی کنسول است (گیمرتگ: Carl#7539)
+17:30:57  ·            اکانت CARL › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+17:31:04  ✓ انجام شد   اکانت CARL  |  بازی باز شد و صفحه‌ی SBC آمد
+17:31:58  ⏸ توقف موقت  اکانت CARL › چالش Marquee Matchups  |  open set Marquee Matchups نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: open the set by hand (its challenge page)
+          عکس: shots\C14\1012_173158_001_pause_open_set_Marquee_Matchups.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:31:03 Found 'SBC'
+            17:31:04 Plan: Marquee Matchups (4)
+            17:31:04 Looking for set 'Marquee Matchups'
+            17:31:10 Looking for set 'Marquee Matchups'
+            17:31:15 Looking for set 'Marquee Matchups'
+            17:31:20 Looking for set 'Marquee Matchups'
+            17:31:25 Looking for set 'Marquee Matchups'
+            17:31:31 Looking for set 'Marquee Matchups'
+            17:31:36 Looking for set 'Marquee Matchups'
+            17:31:42 Looking for set 'Marquee Matchups'
+            17:31:47 Looking for set 'Marquee Matchups'
+            17:31:53 Looking for set 'Marquee Matchups'
+17:54:45  ▶ ادامه      اکانت CARL › چالش Marquee Matchups  |  بعد از 22:47 توقف
+
+════ 2026-10-13 11:05:25  شروع اجرا  (ریموت C14، pid 17992) START_GAME=True  SHARED=True ════
+11:05:26  ✓ انجام شد   اکانت CARL › شروع بازی › CheckAccount  |  اکانت CARL روی کنسول است (گیمرتگ: Carl#7539)
+11:07:35  ·            اکانت CARL › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+11:07:42  ✓ انجام شد   اکانت CARL  |  بازی باز شد و صفحه‌ی SBC آمد
+11:08:05  ⏸ توقف موقت  اکانت CARL › چالش Marquee Matchups  |  open set Marquee Matchups نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: open the set by hand (its challenge page)
+          عکس: shots\C14\1013_110805_001_pause_open_set_Marquee_Matchups.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            11:06:51 Found 'Ultimate'
+            11:06:51 Looking for 'Main Ultimate'
+            11:07:01 Looking for 'Main Ultimate'
+            11:07:13 Looking for 'Main Ultimate'
+            11:07:24 Looking for 'Main Ultimate'
+            11:07:35 Top coins: '' -> None
+            11:07:35 ReadCoins نشد؛ ادامه
+            11:07:35 Looking for 'SBC'
+            11:07:40 Found 'SBC'
+            11:07:42 Plan: Marquee Matchups (4)
+            11:07:42 Looking for set 'Marquee Matchups'
+            11:07:47 Looking for set 'Marquee Matchups'
+11:12:43  ■ توقف       اکانت CARL › چالش Marquee Matchups  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 7:17  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-13 15:50:23  شروع اجرا  (ریموت C14، pid 10112) START_GAME=True  SHARED=True ════
+15:50:30  ·            اکانت Division › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Samell#1175' — اکانت لازم: Division
+15:50:49  ✓ انجام شد   اکانت Division › شروع بازی › CheckAccount  |  اکانت Division روی کنسول است (گیمرتگ: Division#5465)
+15:53:41  ✓ انجام شد   اکانت Division  |  بازی باز شد و صفحه‌ی SBC آمد
+15:54:31  ·            اکانت Division › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:54:32  ·            اکانت Division › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:54:33  ·            اکانت Division › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:54:34  ·            اکانت Division › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+15:54:34  ✓ انجام شد   اکانت Division  |  اکانت Division تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Division  |  مدت 4:11  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-13 15:55:04  شروع اجرا  (ریموت C14، pid 16232) START_GAME=True  SHARED=True ════
+15:55:15  ·            اکانت WingedCube7701 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Division#5465' — اکانت لازم: WingedCube7701
+15:55:43  ✓ انجام شد   اکانت WingedCube7701 › شروع بازی › CheckAccount  |  اکانت WingedCube7701 روی کنسول است (گیمرتگ: WingedCube#7701)
+15:58:43  ✓ انجام شد   اکانت WingedCube7701  |  بازی باز شد و صفحه‌ی SBC آمد
+15:59:27  ·            اکانت WingedCube7701 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:59:28  ·            اکانت WingedCube7701 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:59:29  ·            اکانت WingedCube7701 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:59:30  ·            اکانت WingedCube7701 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+15:59:30  ✓ انجام شد   اکانت WingedCube7701  |  اکانت WingedCube7701 تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: WingedCube7701  |  مدت 4:26  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-13 15:59:48  شروع اجرا  (ریموت C14، pid 18828) START_GAME=True  SHARED=True ════
+15:59:58  ·            اکانت MOISE › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Pancras Bassford' — اکانت لازم: MOISE
+16:00:27  ✓ انجام شد   اکانت MOISE › شروع بازی › CheckAccount  |  اکانت MOISE روی کنسول است (گیمرتگ: Moise#3468)
+16:03:11  ✓ انجام شد   اکانت MOISE  |  بازی باز شد و صفحه‌ی SBC آمد
+16:03:54  ·            اکانت MOISE › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:03:55  ·            اکانت MOISE › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:03:57  ·            اکانت MOISE › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+16:03:58  ·            اکانت MOISE › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+16:03:58  ✓ انجام شد   اکانت MOISE  |  اکانت MOISE تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: MOISE  |  مدت 4:10  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

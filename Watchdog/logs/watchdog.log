@@ -1,0 +1,134 @@
+﻿20261014_154032 need: D43: bot=pause -> FIX_AND_RESUME
+20261014_154032 agent done -> logs\run_20261014_154032.md (exit 0)
+20261014_154122 ok: nothing to do
+20261014_155101 ok: nothing to do
+20261014_160101 need: D42: bot=pause -> FIX_AND_RESUME
+20261014_160101 agent done -> logs\run_20261014_160101.md (exit 0)
+20261014_161101 ok: nothing to do
+20261014_162101 need: D42: bot=pause -> FIX_AND_RESUME
+20261014_162101 agent done -> logs\run_20261014_162101.md (exit 0)
+20261014_163101 need: D34: bot=run -> FIX_AND_RESTART ; D43: bot=pause -> FIX_AND_RESUME
+20261014_164101 skip: previous cycle still running
+20261014_163101 agent done -> logs\run_20261014_163101.md (exit 0)
+20261014_165101 ok: nothing to do
+20261014_170101 ok: nothing to do
+20261014_171101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_171101 agent done -> logs\run_20261014_171101.md (exit 1)
+20261014_172101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_172101 agent done -> logs\run_20261014_172101.md (exit 1)
+20261014_173101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_173101 agent done -> logs\run_20261014_173101.md (exit 1)
+20261014_174101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_174101 agent done -> logs\run_20261014_174101.md (exit 1)
+20261014_175101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_175101 agent done -> logs\run_20261014_175101.md (exit 1)
+20261014_180101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_180101 agent done -> logs\run_20261014_180101.md (exit 1)
+20261014_181101 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=run -> FIX_AND_RESTART ; D24: bot=run -> FIX_AND_RESTART ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=run -> FIX_AND_RESTART ; D42: bot=run -> FIX_AND_RESTART ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=run -> FIX_AND_RESTART ; F32: bot=run -> FIX_AND_RESTART
+20261014_181101 agent done -> logs\run_20261014_181101.md (exit 1)
+20261014_182101 ok: nothing to do
+20261014_183101 need: D11: bot=stop -> FIX_AND_RESTART ; D13: bot=wait -> FIX_AND_RESTART ; D21: bot=wait -> FIX_AND_RESTART ; D31: bot=wait -> FIX_AND_RESTART ; D34: bot=wait -> FIX_AND_RESTART ; D42: bot=wait -> FIX_AND_RESTART ; D43: bot=wait -> FIX_AND_RESTART ; F31: bot=wait -> FIX_AND_RESTART ; F32: bot=wait -> FIX_AND_RESTART
+20261014_183101 agent done -> logs\run_20261014_183101.md (exit 1)
+20261014_184102 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=wait -> FIX_AND_RESTART ; D21: bot=wait -> FIX_AND_RESTART ; D31: bot=wait -> FIX_AND_RESTART ; D34: bot=wait -> FIX_AND_RESTART ; D42: bot=wait -> FIX_AND_RESTART ; D43: bot=wait -> FIX_AND_RESTART ; F31: bot=wait -> FIX_AND_RESTART ; F32: bot=wait -> FIX_AND_RESTART
+20261014_184102 agent done -> logs\run_20261014_184102.md (exit 1)
+20261014_185102 need: D11: bot=run -> FIX_AND_RESTART ; D13: bot=wait -> FIX_AND_RESTART ; D21: bot=wait -> FIX_AND_RESTART ; D31: bot=wait -> FIX_AND_RESTART ; D34: bot=wait -> FIX_AND_RESTART ; D42: bot=wait -> FIX_AND_RESTART ; D43: bot=wait -> FIX_AND_RESTART ; F31: bot=wait -> FIX_AND_RESTART ; F32: bot=wait -> FIX_AND_RESTART
+20261014_185102 agent done -> logs\run_20261014_185102.md (exit 0)
+20261014_190102 ok: nothing to do
+20261014_191102 ok: nothing to do
+20261014_192102 ok: nothing to do
+20261014_193102 ok: nothing to do
+20261014_194102 need: D21: bot=pause -> FIX_AND_RESUME
+20261014_194102 agent done -> logs\run_20261014_194102.md (exit 0)
+20261014_195102 need: D24: bot=pause -> FIX_AND_RESUME
+20261014_195102 agent done -> logs\run_20261014_195102.md (exit 0)
+20261014_200101 ok: nothing to do
+20261014_201101 need: D42: bot=pause -> FIX_AND_RESUME ; F31: bot=pause -> FIX_AND_RESUME
+20261014_201101 agent done -> logs\run_20261014_201101.md (exit 0)
+20261014_202101 need: F31: bot=pause -> FIX_AND_RESUME
+20261014_202101 agent done -> logs\run_20261014_202101.md (exit 0)
+20261014_203101 need: A87: bot=pause -> FIX_AND_RESUME ; B52: bot=pause -> FIX_AND_RESUME
+20261014_203101 agent done -> logs\run_20261014_203101.md (exit 0)
+20261014_204101 ok: nothing to do
+20261014_205102 need: A87: bot=pause -> FIX_AND_RESUME ; D31: bot=pause -> FIX_AND_RESUME
+20261014_205102 agent done -> logs\run_20261014_205102.md (exit 0)
+20261014_210102 need: D21: bot=pause -> FIX_AND_RESUME ; F31: bot=pause -> FIX_AND_RESUME
+20261014_210102 agent done -> logs\run_20261014_210102.md (exit 0)
+20261014_211101 need: A87: bot=pause -> FIX_AND_RESUME ; B52: bot=pause -> FIX_AND_RESUME ; D31: bot=pause -> FIX_AND_RESUME ; D42: bot=pause -> FIX_AND_RESUME
+20261014_212104 skip: previous cycle still running
+20261014_213102 skip: previous cycle still running
+20261014_211101 agent done -> logs\run_20261014_211101.md (exit 0)
+20261014_214102 need: A87: bot=pause -> FIX_AND_RESUME ; B25: bot=pause -> FIX_AND_RESUME ; B52: bot=pause -> FIX_AND_RESUME ; D11: bot=pause -> FIX_AND_RESUME ; D13: bot=run -> FIX_AND_RESTART ; D21: bot=pause -> FIX_AND_RESUME ; D24: bot=pause -> FIX_AND_RESUME ; D31: bot=run -> FIX_AND_RESTART ; D34: bot=pause -> FIX_AND_RESUME ; D43: bot=run -> FIX_AND_RESTART ; F31: bot=pause -> FIX_AND_RESUME ; F32: bot=pause -> FIX_AND_RESUME
+20261014_215101 skip: previous cycle still running
+20261014_220101 skip: previous cycle still running
+20261014_214102 agent done -> logs\run_20261014_214102.md (exit 0)
+20261014_221101 ok: nothing to do
+20261014_222101 ok: nothing to do
+20261014_223101 ok: nothing to do
+20261014_224101 need: F32: bot=pause -> FIX_AND_RESUME
+20261014_224101 agent done -> logs\run_20261014_224101.md (exit 0)
+20261014_225103 need: F31: bot=pause -> FIX_AND_RESUME
+20261014_225103 agent done -> logs\run_20261014_225103.md (exit 0)
+20261014_230101 need: F32: bot=pause -> FIX_AND_RESUME
+20261014_230101 agent done -> logs\run_20261014_230101.md (exit 0)
+20261014_231101 need: F32: bot=pause -> FIX_AND_RESUME
+20261014_231101 agent done -> logs\run_20261014_231101.md (exit 0)
+20261014_232101 need: D11: bot=pause -> FIX_AND_RESUME
+20261014_232101 agent done -> logs\run_20261014_232101.md (exit 0)
+20261014_233101 need: D31: bot=pause -> FIX_AND_RESUME ; F32: bot=pause -> FIX_AND_RESUME
+20261014_233101 agent done -> logs\run_20261014_233101.md (exit 0)
+20261014_234101 ok: nothing to do
+20261014_235103 need: D11: bot=pause -> FIX_AND_RESUME ; D31: bot=pause -> FIX_AND_RESUME ; D43: bot=pause -> FIX_AND_RESUME
+20261014_235103 agent done -> logs\run_20261014_235103.md (exit 0)
+20261015_000101 need: D21: bot=pause -> FIX_AND_RESUME ; D24: bot=pause -> FIX_AND_RESUME ; F31: bot=pause -> FIX_AND_RESUME
+20261015_000101 agent done -> logs\run_20261015_000101.md (exit 0)
+20261015_001101 need: D24: bot=pause -> FIX_AND_RESUME
+20261015_001101 agent done -> logs\run_20261015_001101.md (exit 0)
+20261015_002101 need: D43: bot=pause -> FIX_AND_RESUME ; F32: bot=pause -> FIX_AND_RESUME
+20261015_002101 agent done -> logs\run_20261015_002101.md (exit 0)
+20261015_003101 ok: nothing to do
+20261015_004101 need: F31: bot=pause -> FIX_AND_RESUME
+20261015_004101 agent done -> logs\run_20261015_004101.md (exit 0)
+20261015_005101 ok: nothing to do
+20261015_010101 ok: nothing to do
+20261015_011101 ok: nothing to do
+20261015_012101 ok: nothing to do
+20261015_013101 ok: nothing to do
+20261015_014101 need: D42: bot=pause -> FIX_AND_RESUME ; F32: bot=pause -> FIX_AND_RESUME
+20261015_014101 agent done -> logs\run_20261015_014101.md (exit 0)
+20261015_015101 need: F32: bot=pause -> FIX_AND_RESUME
+20261015_015101 agent done -> logs\run_20261015_015101.md (exit 0)
+20261015_020101 need: D42: bot=pause -> FIX_AND_RESUME
+20261015_020101 agent done -> logs\run_20261015_020101.md (exit 0)
+20261015_021101 ok: nothing to do
+20261015_022101 ok: nothing to do
+20261015_023101 ok: nothing to do
+20261015_024101 ok: nothing to do
+20261015_025101 ok: nothing to do
+20261015_030101 ok: nothing to do
+20261015_031101 ok: nothing to do
+20261015_032101 ok: nothing to do
+20261015_033101 ok: nothing to do
+20261015_034101 ok: nothing to do
+20261015_080103 ok: nothing to do
+20261015_081102 ok: nothing to do
+20261015_082102 ok: nothing to do
+20261015_083102 ok: nothing to do
+20261015_084102 ok: nothing to do
+20261015_085102 ok: nothing to do
+20261015_090102 ok: nothing to do
+20261015_091102 ok: nothing to do
+20261015_092102 ok: nothing to do
+20261015_093102 ok: nothing to do
+20261015_094102 ok: nothing to do
+20261015_095102 ok: nothing to do
+20261015_100102 ok: nothing to do
+20261015_101103 ok: nothing to do
+20261015_102102 ok: nothing to do
+20261015_103102 ok: nothing to do
+20261015_104102 ok: nothing to do
+20261015_105102 ok: nothing to do
+20261015_110102 ok: nothing to do
+20261015_111102 ok: nothing to do
+20261015_112102 ok: nothing to do
+20261015_113103 ok: nothing to do
+20261015_114102 ok: nothing to do

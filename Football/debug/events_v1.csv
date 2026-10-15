@@ -1,0 +1,51 @@
+time,action,ball_x,ball_y,detail,after_2.5s
+12:34:33,passA,50.1,33.7,pass A to (56 37),ours
+12:34:34,passA,57.7,34.3,pass A to (52 55),ours
+12:34:35,passA,61.8,34.4,pass A to (45 25),ours
+12:34:36,passA,60.2,28.8,pass A to (50 24),ours
+12:34:39,passA,44.7,16.7,pass A to (73 28),noradar
+12:36:00,passA,58.2,33.7,pass A to (56 55),ours
+12:36:01,passA,51.6,33.8,pass A to (57 55),theirs
+12:36:01,passA,45.8,26.3,pass A to (48 34),theirs
+12:36:03,passA,42.8,22.7,pass A to (59 22),theirs
+12:36:12,tackle,58.7,36.5,tackle,theirs
+12:36:23,tackle,90.5,38.8,tackle,ours
+12:36:30,passY,77.5,35.3,pass Y to (61 35),ours
+12:36:31,passY,72.0,32.7,pass Y to (61 33),theirs
+12:36:33,passA,54.8,34.9,pass A to (55 41),loose
+12:36:34,tackle,52.4,36.7,tackle,theirs
+12:36:36,tackle,62.3,38.6,tackle,theirs
+12:36:37,passY,63.1,29.1,pass Y to (36 40),theirs
+12:36:40,passA,62.3,34.4,pass A to (49 15),loose
+12:36:42,tackle,56.8,36.3,tackle,ours
+12:36:45,passA,50.3,33.3,pass A to (61 30),theirs
+12:36:54,passY,75.1,47.2,pass Y to (61 35),theirs
+12:37:01,passY,77.5,50.5,pass Y to (65 35),ours
+12:37:04,passY,82.9,41.9,pass Y to (65 35),ours
+12:37:07,passY,89.2,45.2,pass Y to (65 35),noradar
+12:37:28,passA,84.0,50.6,pass A to (76 32),loose
+12:37:29,passA,78.8,47.5,pass A to (68 17),theirs
+12:37:30,passA,69.9,46.5,pass A to (53 29),theirs
+12:37:33,passY,77.7,44.6,pass Y to (47 46),theirs
+12:37:35,tackle,84.7,46.0,tackle,ours
+12:37:36,tackle,89.3,43.9,tackle,noradar
+12:37:37,passY,94.4,39.7,pass Y to (65 35),noradar
+12:37:50,tackle,105.4,38.6,tackle,ours
+12:37:51,tackle,97.3,51.1,tackle,noradar
+12:38:02,tackle,106.0,44.7,tackle,noradar
+12:38:08,passA,96.7,8.2,pass A to (89 31),ours
+12:38:13,passA,98.2,-2.2,pass A to (101 6),ours
+12:38:14,passY,99.1,1.2,pass Y to (84 31),ours
+12:38:16,passA,92.7,17.1,pass A to (70 33),ours
+12:38:17,passA,77.4,15.7,pass A to (69 32),ours
+12:38:18,passA,69.9,26.2,pass A to (73 16),theirs
+12:38:19,tackle,67.4,19.3,tackle,theirs
+12:38:26,passY,93.1,32.1,pass Y to (65 38),noradar
+12:38:37,passA,53.8,34.0,pass A to (62 36),theirs
+12:38:38,passA,49.5,32.8,pass A to (57 36),theirs
+12:38:39,tackle,52.2,20.2,tackle,theirs
+12:38:45,tackle,72.6,28.6,tackle,ours
+12:38:45,tackle,75.6,28.9,tackle,ours
+12:38:47,passY,83.2,26.0,pass Y to (65 26),ours
+12:38:52,passY,91.2,32.9,pass Y to (65 39),noradar
+12:39:04,passY,90.8,42.8,pass Y to (65 55),noradar

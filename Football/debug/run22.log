@@ -1,0 +1,220 @@
+ 761.11 ours=11 opp=10 ball=(72,45)   press (A+RT)
+ 761.39 ours=12 opp=10 ball=(73,45)   tackle
+ 761.52 ours=12 opp=10 ball=(74,45)   press (A+RT)
+ 766.75 ours=10 opp=11 ball=(96,36)   chase
+ 766.95 ours= 8 opp=11 ball=(102,36)  pass A to (94,51)
+ 767.05 ours= 8 opp=12 ball=(104,36)  dribble
+ 767.25 ours= 0 opp= 0 ball=-         blind dribble
+ 776.81 ours= 0 opp= 0 ball=-         no radar
+ 779.90 ours= 0 opp= 0 ball=-         skip scene: A
+ 780.08 ours= 0 opp= 0 ball=-         no radar
+ 782.48 ours= 0 opp= 0 ball=-         skip scene: A
+ 782.60 ours= 0 opp= 0 ball=-         no radar
+ 785.20 ours= 0 opp= 0 ball=-         skip scene: A
+ 785.37 ours= 0 opp= 0 ball=-         no radar
+ 787.79 ours= 0 opp= 0 ball=-         skip scene: A
+ 787.99 ours= 0 opp= 0 ball=-         no radar
+ 788.85 ours=12 opp=11 ball=(54,36)   kickoff: pass A
+ 789.01 ours=12 opp=11 ball=(56,36)   dribble
+ 789.32 ours= 0 opp= 0 ball=-         no radar
+ 790.45 ours=12 opp= 9 ball=(54,36)   dribble
+ 790.57 ours=10 opp=10 ball=(54,34)   pass A to (56,55)
+ 790.71 ours=10 opp=10 ball=(54,34)   dribble
+ 792.84 ours=10 opp=11 ball=(53,50)   pass A to (64,45)
+ 792.97 ours=10 opp=11 ball=(53,50)   dribble
+ 793.82 ours=10 opp=10 ball=(47,48)   pass A to (59,46)
+ 793.98 ours=11 opp=10 ball=(45,46)   dribble
+ 794.12 ours=11 opp=10 ball=(43,44)   press (A+RT)
+ 795.02 ours=11 opp=11 ball=(32,30)   chase
+ 795.56 ours=11 opp=11 ball=(25,21)   pass A to (35,38)
+ 795.67 ours=11 opp=11 ball=(24,19)   dribble
+ 797.51 ours=10 opp=11 ball=(24,29)   shoot (25 m)
+ 797.66 ours=10 opp= 9 ball=(23,29)   dribble
+ 798.07 ours=11 opp=10 ball=(20,30)   press (A+RT)
+ 798.20 ours=10 opp= 8 ball=(19,30)   dribble
+ 798.56 ours=10 opp=10 ball=(18,31)   shoot (19 m) power
+ 798.69 ours=10 opp=10 ball=(18,31)   dribble
+ 799.48 ours=10 opp=10 ball=(15,31)   pass A to (12,25)
+ 799.61 ours=10 opp= 9 ball=(14,32)   dribble
+ 800.10 ours=17 opp= 6 ball=(14,32)   blind dribble
+ 800.48 ours= 9 opp=10 ball=(6,25)    pass A to (18,42)
+ 800.61 ours=11 opp=11 ball=(11,30)   dribble
+ 800.89 ours=11 opp=10 ball=(12,30)   press (A+RT)
+ 801.03 ours= 9 opp= 9 ball=(11,26)   dribble
+ 801.61 ours=11 opp= 7 ball=(11,18)   shoot (19 m)
+ 801.75 ours=11 opp=10 ball=(17,25)   press (A+RT)
+ 803.93 ours=27 opp=13 ball=(12,22)   blind press (A+RT)
+ 804.07 ours=10 opp=10 ball=(14,22)   press (A+RT)
+ 806.05 ours=11 opp=11 ball=(30,21)   chase
+ 807.95 ours=10 opp=11 ball=(59,26)   pass A to (32,16)
+ 808.08 ours=10 opp=11 ball=(61,26)   dribble
+ 808.89 ours=10 opp=11 ball=(69,30)   pass A to (40,23)
+ 809.03 ours=12 opp=11 ball=(70,31)   dribble
+ 809.83 ours=10 opp=11 ball=(73,33)   pass A to (65,16)
+ 809.98 ours=10 opp=10 ball=(74,33)   dribble
+ 810.81 ours=10 opp=12 ball=(77,33)   pass A to (71,18)
+ 810.94 ours=10 opp=11 ball=(78,33)   dribble
+ 811.78 ours=10 opp=11 ball=(81,32)   pass A to (55,25)
+ 811.93 ours=10 opp=11 ball=(81,31)   dribble
+ 813.44 ours=11 opp= 9 ball=(65,22)   press (A+RT)
+ 813.70 ours=10 opp=10 ball=(64,21)   switch (LB)
+ 813.84 ours=10 opp=10 ball=(63,21)   press (A+RT)
+ 813.97 ours=11 opp=11 ball=(64,24)   chase
+ 814.11 ours=11 opp=10 ball=(64,25)   press (A+RT)
+ 816.77 ours= 9 opp=11 ball=(63,24)   chase
+ 817.07 ours= 9 opp=11 ball=(63,22)   pass A to (58,12)
+ 817.20 ours=10 opp=11 ball=(63,22)   dribble
+ 818.07 ours=11 opp=11 ball=(63,22)   pass A to (48,24)
+ 818.22 ours=11 opp=11 ball=(62,23)   dribble
+ 820.82 ours=11 opp=11 ball=(42,30)   pass A to (41,19)
+ 820.95 ours=10 opp=11 ball=(41,30)   dribble
+ 821.86 ours=11 opp=11 ball=(35,25)   pass A to (37,32)
+ 822.01 ours=10 opp=11 ball=(34,23)   dribble
+ 822.77 ours=10 opp=11 ball=(30,23)   pass A to (31,30)
+ 822.90 ours=11 opp=11 ball=(30,25)   dribble
+ 823.68 ours=10 opp=11 ball=(27,30)   pass A to (27,22)
+ 823.82 ours= 6 opp=11 ball=(27,33)   dribble
+ 823.94 ours= 2 opp=11 ball=(28,35)   blind dribble
+ 824.09 ours=11 opp=13 ball=(28,35)   dribble
+ 824.67 ours= 1 opp= 5 ball=(29,42)   blind dribble
+ 824.93 ours=10 opp=10 ball=(31,41)   pass A to (26,24)
+ 825.07 ours=11 opp=10 ball=(31,41)   dribble
+ 825.17 ours=11 opp=10 ball=(32,41)   press (A+RT)
+ 832.48 ours=10 opp=11 ball=(65,36)   chase
+ 832.73 ours=11 opp=10 ball=(65,36)   press (A+RT)
+ 836.75 ours=10 opp=11 ball=(70,47)   chase
+ 836.89 ours=10 opp= 9 ball=(70,47)   press (A+RT)
+ 837.04 ours=10 opp=11 ball=(70,47)   chase
+ 837.19 ours=10 opp=11 ball=(70,47)   pass A to (69,32)
+ 837.34 ours=10 opp=11 ball=(70,47)   dribble
+ 838.22 ours=11 opp=11 ball=(80,39)   pass A to (68,54)
+ 838.35 ours=11 opp=11 ball=(81,38)   dribble
+ 839.64 ours=11 opp=11 ball=(73,48)   pass A to (82,37)
+ 839.77 ours=12 opp=11 ball=(72,48)   dribble
+ 841.29 ours=10 opp=11 ball=(62,50)   pass A to (71,53)
+ 841.42 ours=10 opp=11 ball=(61,51)   dribble
+ 842.22 ours=12 opp=11 ball=(52,50)   pass A to (65,32)
+ 842.35 ours=11 opp=11 ball=(50,49)   dribble
+ 842.59 ours=11 opp=10 ball=(49,50)   press (A+RT)
+ 844.63 ours= 5 opp=10 ball=(48,58)   switch (LB)
+ 844.74 ours= 2 opp=10 ball=(65,16)   blind press (A+RT)
+ 845.42 ours= 8 opp=10 ball=(52,57)   tackle
+ 845.55 ours=11 opp=10 ball=(52,58)   press (A+RT)
+ 846.90 ours= 4 opp=10 ball=(56,58)   blind press (A+RT)
+ 847.19 ours=10 opp=12 ball=(49,30)   switch (LB)
+ 847.30 ours=12 opp=11 ball=(49,30)   chase
+ 847.45 ours=10 opp=13 ball=(49,30)   pass A to (60,34)
+ 847.60 ours=10 opp=14 ball=(49,30)   dribble
+ 848.17 ours=18 opp=16 ball=(49,30)   blind dribble
+ 848.57 ours= 9 opp=11 ball=(46,54)   dribble
+ 849.42 ours= 7 opp=11 ball=(39,52)   pass A to (41,31)
+ 849.56 ours= 8 opp=11 ball=(38,51)   dribble
+ 850.33 ours=11 opp=12 ball=(34,43)   pass A to (35,51)
+ 850.43 ours=11 opp=11 ball=(34,41)   dribble
+ 851.34 ours=11 opp=11 ball=(32,35)   pass A to (45,16)
+ 851.47 ours=11 opp=11 ball=(32,37)   dribble
+ 852.30 ours=11 opp=11 ball=(30,38)   pass A to (30,45)
+ 852.43 ours=11 opp=11 ball=(31,36)   dribble
+ 853.29 ours=10 opp=11 ball=(28,40)   pass A to (31,32)
+ 853.43 ours=10 opp=11 ball=(27,41)   dribble
+ 854.30 ours=11 opp=10 ball=(24,34)   press (A+RT)
+ 854.43 ours=10 opp= 9 ball=(24,32)   shoot (24 m)
+ 854.53 ours=10 opp=11 ball=(24,31)   dribble
+ 855.43 ours=11 opp=10 ball=(17,31)   shoot (17 m) power
+ 855.57 ours=10 opp=11 ball=(14,31)   dribble
+ 856.31 ours= 0 opp= 0 ball=-         blind dribble
+ 857.78 ours=16 opp= 9 ball=(1,33)    switch (LB)
+ 857.88 ours= 0 opp= 0 ball=-         blind press (A+RT)
+ 858.28 ours= 0 opp= 0 ball=-         no radar
+ 858.72 ours= 8 opp=11 ball=(-1,23)   shoot (12 m) power
+ 858.82 ours= 9 opp=10 ball=(-3,16)   dribble
+ 859.73 ours=10 opp=11 ball=(-3,18)   shoot (17 m)
+ 859.83 ours=10 opp=10 ball=(-3,18)   dribble
+ 860.73 ours=12 opp=11 ball=(5,25)    shoot (10 m)
+ 860.84 ours=11 opp=11 ball=(5,25)    dribble
+ 861.76 ours=11 opp=11 ball=(5,25)    shoot (11 m)
+ 861.86 ours=11 opp=11 ball=(5,25)    dribble
+ 862.36 ours=11 opp=10 ball=(-1,18)   switch (LB)
+ 862.46 ours=12 opp=11 ball=(8,24)    dribble
+ 862.66 ours=11 opp=11 ball=(11,23)   pass A to (22,50)
+ 862.76 ours=11 opp=11 ball=(13,23)   dribble
+ 863.07 ours=11 opp=10 ball=(17,22)   press (A+RT)
+ 863.27 ours=11 opp=11 ball=(19,21)   chase
+ 863.37 ours=11 opp=11 ball=(21,20)   dribble
+ 863.57 ours=11 opp=11 ball=(23,20)   pass A to (32,36)
+ 863.67 ours=11 opp=11 ball=(24,19)   dribble
+ 863.87 ours=11 opp=10 ball=(25,18)   press (A+RT)
+ 864.37 ours=11 opp=10 ball=(27,18)   switch (LB)
+ 864.47 ours=11 opp=10 ball=(27,18)   press (A+RT)
+ 866.28 ours= 0 opp= 0 ball=-         blind press (A+RT)
+ 872.69 ours= 2 opp= 0 ball=-         no radar
+ 875.72 ours= 0 opp= 0 ball=-         skip scene: A
+ 875.85 ours= 0 opp= 0 ball=-         no radar
+ 878.30 ours= 0 opp= 0 ball=-         skip scene: A
+ 878.40 ours= 0 opp= 0 ball=-         no radar
+ 880.81 ours= 0 opp= 0 ball=-         skip scene: A
+ 880.91 ours= 0 opp= 0 ball=-         no radar
+ 883.32 ours= 0 opp= 0 ball=-         skip scene: A
+ 883.43 ours= 0 opp= 0 ball=-         no radar
+ 885.84 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 885.97 ours= 0 opp= 0 ball=-         no radar
+ 888.40 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 888.53 ours= 0 opp= 0 ball=-         no radar
+ 890.99 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 891.14 ours= 0 opp= 0 ball=-         no radar
+ 893.56 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 893.69 ours= 0 opp= 0 ball=-         no radar
+ 896.11 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 896.25 ours= 0 opp= 0 ball=-         no radar
+ 898.68 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 898.83 ours= 0 opp= 0 ball=-         no radar
+ 901.30 ours= 0 opp= 0 ball=(63,71)   menu (SQUAD BATTLES): wait
+ 901.49 ours= 0 opp= 0 ball=(63,71)   no radar
+ 903.87 ours= 0 opp= 0 ball=(54,70)   menu (SQUAD BATTLES): wait
+ 904.05 ours= 0 opp= 0 ball=(54,71)   no radar
+ 906.49 ours= 0 opp= 0 ball=(46,70)   menu (SQUAD BATTLES): wait
+ 906.70 ours= 0 opp= 0 ball=(46,70)   no radar
+ 909.16 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 909.37 ours= 0 opp= 0 ball=-         no radar
+ 911.75 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 911.94 ours= 0 opp= 0 ball=-         no radar
+ 914.34 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 914.55 ours= 0 opp= 0 ball=-         no radar
+ 916.95 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 917.14 ours= 0 opp= 0 ball=-         no radar
+ 919.53 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 919.72 ours= 0 opp= 0 ball=-         no radar
+ 922.06 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 922.25 ours= 0 opp= 0 ball=-         no radar
+ 924.65 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 924.84 ours= 0 opp= 0 ball=-         no radar
+ 927.15 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 927.34 ours= 0 opp= 0 ball=-         no radar
+ 929.78 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 929.96 ours= 0 opp= 0 ball=-         no radar
+ 932.29 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 932.48 ours= 0 opp= 0 ball=-         no radar
+ 934.82 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 934.99 ours= 0 opp= 0 ball=-         no radar
+ 937.37 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 937.56 ours= 0 opp= 0 ball=-         no radar
+ 939.90 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 940.09 ours= 0 opp= 0 ball=-         no radar
+ 942.53 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 942.72 ours= 0 opp= 0 ball=-         no radar
+ 945.13 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 945.33 ours= 0 opp= 0 ball=-         no radar
+ 947.66 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 947.86 ours= 0 opp= 0 ball=-         no radar
+ 950.22 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 950.42 ours= 0 opp= 0 ball=-         no radar
+ 952.83 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 953.02 ours= 0 opp= 0 ball=-         no radar
+ 955.35 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 955.54 ours= 0 opp= 0 ball=-         no radar
+ 957.93 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 958.14 ours= 0 opp= 0 ball=-         no radar
+ 960.46 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 960.66 ours= 0 opp= 0 ball=-         no radar
+ 963.03 ours= 0 opp= 0 ball=-         menu (SQUAD BATTLES): wait
+ 963.21 ours= 0 opp= 0 ball=-         no radar

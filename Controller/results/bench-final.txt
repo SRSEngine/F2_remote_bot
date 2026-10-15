@@ -1,0 +1,80 @@
+pipe       #1  right call    0.07 ms  local   0.056 ms  e2e   122.1 ms 
+tcp        #1  left  call    0.17 ms  local   0.077 ms  e2e   126.1 ms 
+udp        #1  right call    0.22 ms  local   0.152 ms  e2e   110.6 ms 
+wmcopy     #1  left  call    0.18 ms  local   0.116 ms  e2e   145.9 ms 
+keys       #1  right call   80.19 ms  local   0.069 ms  e2e   174.1 ms 
+sendinput  #1  left  call   81.44 ms  local   0.612 ms  e2e    92.2 ms 
+cloud      #1  right call 2820.02 ms  local  -1.000 ms  e2e  2243.9 ms 
+pipe       #2  left  call    0.23 ms  local   0.092 ms  e2e   101.2 ms 
+tcp        #2  right call    0.14 ms  local   0.067 ms  e2e   113.1 ms 
+udp        #2  left  call    0.14 ms  local   0.076 ms  e2e   120.4 ms 
+wmcopy     #2  right call    0.10 ms  local   0.072 ms  e2e   110.4 ms 
+keys       #2  left  call   80.55 ms  local   0.094 ms  e2e   135.1 ms 
+sendinput  #2  right call   81.31 ms  local   0.427 ms  e2e   161.3 ms 
+cloud      #2  left  call 1393.72 ms  local  -1.000 ms  e2e  1342.3 ms 
+pipe       #3  right call    0.06 ms  local   0.052 ms  e2e   183.8 ms 
+tcp        #3  left  call    0.20 ms  local   0.097 ms  e2e    99.8 ms 
+udp        #3  right call    0.15 ms  local   0.067 ms  e2e   149.0 ms 
+wmcopy     #3  left  call    0.06 ms  local   0.037 ms  e2e    99.8 ms 
+keys       #3  right call   80.35 ms  local   0.073 ms  e2e   162.3 ms 
+sendinput  #3  left  call   81.10 ms  local   0.675 ms  e2e   102.6 ms 
+cloud      #3  right call 1384.48 ms  local  -1.000 ms  e2e  1372.0 ms 
+pipe       #4  left  call    0.04 ms  local   0.029 ms  e2e   102.9 ms 
+tcp        #4  right call    0.20 ms  local   0.154 ms  e2e   537.0 ms 
+udp        #4  left  call    0.13 ms  local   0.067 ms  e2e   473.1 ms 
+wmcopy     #4  right call    8.10 ms  local   7.477 ms  e2e   304.3 ms 
+keys       #4  left  call   80.19 ms  local   0.150 ms  e2e   160.4 ms 
+sendinput  #4  right call   80.74 ms  local   0.434 ms  e2e   255.4 ms 
+cloud      #4  left  call 1102.76 ms  local  -1.000 ms  e2e  1054.7 ms 
+pipe       #5  right call    0.06 ms  local   0.045 ms  e2e   142.9 ms 
+tcp        #5  left  call    0.14 ms  local   0.072 ms  e2e   138.5 ms 
+udp        #5  right call    0.16 ms  local   0.084 ms  e2e   151.5 ms 
+wmcopy     #5  left  call    0.22 ms  local   0.117 ms  e2e    93.6 ms 
+keys       #5  right call   80.20 ms  local   1.456 ms  e2e   118.6 ms 
+sendinput  #5  left  call   80.99 ms  local   0.479 ms  e2e   126.5 ms 
+cloud      #5  right call 1708.85 ms  local  -1.000 ms  e2e  1644.8 ms 
+pipe       #6  left  call    0.09 ms  local   0.060 ms  e2e    96.6 ms 
+tcp        #6  right call    0.10 ms  local   0.047 ms  e2e   105.2 ms 
+udp        #6  left  call    0.14 ms  local   0.061 ms  e2e   130.5 ms 
+wmcopy     #6  right call    0.06 ms  local   0.041 ms  e2e   113.9 ms 
+keys       #6  left  call   80.47 ms  local   0.108 ms  e2e   117.9 ms 
+sendinput  #6  right call   80.50 ms  local   0.412 ms  e2e   210.1 ms 
+cloud      #6  left  call 1359.34 ms  local  -1.000 ms  e2e  1305.1 ms 
+pipe       #7  right call    0.10 ms  local   0.053 ms  e2e   127.4 ms 
+tcp        #7  left  call    0.45 ms  local   0.280 ms  e2e   134.8 ms 
+udp        #7  right call    0.10 ms  local   0.049 ms  e2e   113.6 ms 
+wmcopy     #7  left  call    0.07 ms  local   0.054 ms  e2e   124.2 ms 
+keys       #7  right call   80.71 ms  local   0.046 ms  e2e   113.3 ms 
+sendinput  #7  left  call   81.11 ms  local   0.507 ms  e2e   134.6 ms 
+cloud      #7  right call 1323.75 ms  local  -1.000 ms  e2e  1295.2 ms 
+pipe       #8  left  call    0.10 ms  local   0.040 ms  e2e   102.7 ms 
+tcp        #8  right call    0.20 ms  local   0.102 ms  e2e   115.7 ms 
+udp        #8  left  call    0.16 ms  local   0.087 ms  e2e    97.8 ms 
+wmcopy     #8  right call    0.09 ms  local   0.044 ms  e2e   157.1 ms 
+keys       #8  left  call   80.13 ms  local   0.135 ms  e2e   105.8 ms 
+sendinput  #8  right call   80.62 ms  local   0.608 ms  e2e   121.4 ms 
+cloud      #8  left  call 1080.47 ms  local  -1.000 ms  e2e   999.0 ms 
+pipe       #9  right call    0.09 ms  local   0.048 ms  e2e   112.6 ms 
+tcp        #9  left  call    0.13 ms  local   0.071 ms  e2e   149.7 ms 
+udp        #9  right call    0.09 ms  local   0.040 ms  e2e   128.4 ms 
+wmcopy     #9  left  call    0.09 ms  local   0.044 ms  e2e   109.6 ms 
+keys       #9  right call   80.14 ms  local   0.046 ms  e2e   111.7 ms 
+sendinput  #9  left  call   80.79 ms  local   0.708 ms  e2e   141.5 ms 
+cloud      #9  right call 1068.25 ms  local  -1.000 ms  e2e  1070.0 ms 
+pipe       #10 left  call    0.05 ms  local   0.030 ms  e2e    96.1 ms 
+tcp        #10 right call    0.31 ms  local   0.178 ms  e2e   155.5 ms 
+udp        #10 left  call    0.09 ms  local   0.042 ms  e2e    88.7 ms 
+wmcopy     #10 right call    0.08 ms  local   0.046 ms  e2e   137.3 ms 
+keys       #10 left  call   80.65 ms  local   0.057 ms  e2e   105.9 ms 
+sendinput  #10 right call   81.03 ms  local   0.444 ms  e2e   145.5 ms 
+cloud      #10 left  call 1401.34 ms  local  -1.000 ms  e2e  1316.2 ms 
+saved C:\Users\Reach\Desktop\New Remote\Controller\results\bench-20261002-200257.json
+
+method      ok/n   call(med)  local(med)  e2e(med)  e2e(min)  e2e(max)
+pipe       10/10      0.08       0.050     107.7      96.1     183.8
+tcp        10/10      0.18       0.087     130.5      99.8     537.0
+udp        10/10      0.14       0.067     124.4      88.7     473.1
+wmcopy     10/10      0.09       0.050     119.1      93.6     304.3
+keys       10/10     80.28       0.084     118.3     105.8     174.1
+sendinput  10/10     81.01       0.493     138.0      92.2     255.4
+cloud      10/10   1371.91      -1.000    1310.6     999.0    2243.9

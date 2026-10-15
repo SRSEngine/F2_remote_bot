@@ -1,0 +1,49 @@
+ 645.29 ours= 0 opp= 0 ball=-         no radar
+ 648.40 ours= 0 opp= 0 ball=-         half/full time: B resume
+ 648.54 ours= 0 opp= 0 ball=-         no radar
+ 650.92 ours= 0 opp= 0 ball=-         skip scene: A
+ 651.08 ours= 0 opp= 0 ball=-         no radar
+ 652.00 ours=11 opp=11 ball=(54,34)   press (A+RT)
+ 652.17 ours=11 opp=11 ball=(57,34)   chase
+ 652.60 ours=11 opp=10 ball=(61,34)   switch (LB)
+ 652.74 ours=11 opp=10 ball=(61,34)   press (A+RT)
+ 654.65 ours= 9 opp=10 ball=(54,34)   switch (LB)
+ 654.79 ours=10 opp=10 ball=(54,35)   press (A+RT)
+ 654.94 ours=10 opp=11 ball=(55,35)   chase
+ 655.23 ours=10 opp=11 ball=(56,35)   dribble
+ 656.63 ours=11 opp=11 ball=(72,36)   pass A to (63,37)
+ 656.77 ours=12 opp=11 ball=(73,35)   dribble
+ 657.56 ours=11 opp=11 ball=(72,39)   pass A to (48,43)
+ 657.71 ours=11 opp=11 ball=(71,41)   dribble
+ 658.49 ours=11 opp=10 ball=(67,45)   pass A to (74,38)
+ 658.65 ours=12 opp=10 ball=(66,46)   press (A+RT)
+ 658.91 ours=39 opp=11 ball=(66,46)   blind press (A+RT)
+ 659.45 ours=10 opp=10 ball=(64,51)   press (A+RT)
+ 660.03 ours=11 opp=11 ball=(66,52)   chase
+ 660.18 ours=11 opp=11 ball=(68,51)   press (A+RT)
+ 660.33 ours=42 opp=13 ball=(68,51)   no radar
+ 661.78 ours=10 opp=10 ball=(63,53)   press (A+RT)
+ 661.88 ours=10 opp=11 ball=(63,53)   chase
+ 661.98 ours=10 opp=10 ball=(63,52)   press (A+RT)
+ 662.18 ours=10 opp=11 ball=(62,52)   chase
+ 662.28 ours=47 opp=12 ball=(62,52)   no radar
+ 662.50 ours=10 opp=10 ball=(60,51)   press (A+RT)
+ 662.61 ours=40 opp=11 ball=(60,51)   blind press (A+RT)
+ 738.50 ours= 0 opp= 0 ball=-         no radar
+ 741.59 ours= 0 opp= 0 ball=-         skip scene: A
+ 741.70 ours= 0 opp= 0 ball=-         no radar
+ 744.11 ours= 0 opp= 0 ball=-         skip scene: A
+ 744.25 ours= 0 opp= 0 ball=-         no radar
+ 746.66 ours= 0 opp= 0 ball=-         skip scene: A
+ 746.77 ours= 0 opp= 0 ball=-         no radar
+ 749.18 ours= 0 opp= 0 ball=-         half/full time: B resume
+ 749.31 ours= 0 opp= 0 ball=-         no radar
+ 751.73 ours= 0 opp= 0 ball=-         skip scene: A
+ 751.85 ours= 0 opp= 0 ball=-         no radar
+ 752.74 ours=10 opp=11 ball=(54,34)   kickoff: pass A
+ 752.84 ours=11 opp=11 ball=(56,34)   chase
+ 754.26 ours=10 opp=11 ball=(71,26)   dribble
+ 755.56 ours=10 opp=10 ball=(66,26)   pass A to (64,33)
+ 755.66 ours=10 opp=10 ball=(65,27)   dribble
+ 756.46 ours=10 opp=10 ball=(60,29)   pass A to (60,36)
+ 756.56 ours=10 opp=10 ball=(59,30)   dribble

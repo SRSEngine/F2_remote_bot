@@ -1,0 +1,307 @@
+
+════ 2026-10-14 16:23:57  شروع اجرا  (ریموت A87، pid 13388) START_GAME=True  SHARED=True ════
+16:23:58  ✓ انجام شد   اکانت Michael › شروع بازی › CheckAccount  |  اکانت Michael روی کنسول است (گیمرتگ: Michael Mitchell)
+16:25:51  ■ توقف       اکانت Michael › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:24:17 Text in box: '25 Xbox One'
+            16:24:18 Found 'Games'
+            16:24:22 Text in box: '25 Xbox Seri'
+            16:24:23 Found 'Games'
+            16:24:27 Text in box: '26 Xbox One'
+            16:24:28 Found 'Games'
+            16:24:32 Text in box: '26 Xbox Seril'
+            16:24:33 Found 'Games'
+            16:24:37 Text in box: '27 XBOX One'
+            16:24:37 Found 'One'
+            16:24:43 Looking for 'Ultimate'
+            16:24:53 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 1:54  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 16:25:52  شروع اجرا  (ریموت A87، pid 28988) START_GAME=True  SHARED=True ════
+16:26:01  ·            اکانت Michael › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'WalnutAir#6680' — اکانت لازم: Michael
+16:26:19  ✓ انجام شد   اکانت Michael › شروع بازی › CheckAccount  |  اکانت Michael روی کنسول است (گیمرتگ: Michael Mitchell)
+16:33:53  ‼ خطای کد    اکانت Michael › شروع بازی › FindSBC  |  ConnectionError: ریموت A87 در دسترس نیست (\\.\pipe\xbrp-A87). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت A87 در دسترس نیست (\\.\pipe\xbrp-A87). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:27:35 Looking for 'Ultimate'
+            16:27:45 Looking for 'Ultimate'
+            16:27:55 Looking for 'Ultimate'
+            16:27:55 Found 'Setting'
+            16:27:57 Looking for 'Ultimate'
+            16:27:57 Found 'Setting'
+            16:27:57 Found 'Ultimate'
+            16:27:57 Looking for 'Main Ultimate'
+            16:28:08 Looking for 'Main Ultimate'
+            16:28:21 Top coins: '48K' -> 48000
+            16:28:21 Coins: 48000
+            16:28:21 Looking for 'SBC'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 8:01  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-14 20:14:16  شروع اجرا  (ریموت A87، pid 26020) START_GAME=True  SHARED=True ════
+20:14:22  ·            اکانت Michael › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'WalnutAir#6680' — اکانت لازم: Michael
+20:14:40  ✓ انجام شد   اکانت Michael › شروع بازی › CheckAccount  |  اکانت Michael روی کنسول است (گیمرتگ: Michael Mitchell)
+20:16:45  ✓ انجام شد   اکانت Michael  |  بازی باز شد و صفحه‌ی SBC آمد
+20:17:30  ·            اکانت Michael › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:17:31  ·            اکانت Michael › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:17:33  ·            اکانت Michael › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:17:35  ·            اکانت Michael › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:17:35  ✓ انجام شد   اکانت Michael  |  اکانت Michael تمام شد
+20:17:45  ·            اکانت Rodrigo › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Michael Mitchell' — اکانت لازم: Rodrigo
+20:18:08  ✓ انجام شد   اکانت Rodrigo › شروع بازی › CheckAccount  |  اکانت Rodrigo روی کنسول است (گیمرتگ: Rodrigo#56325)
+20:20:02  ✓ انجام شد   اکانت Rodrigo  |  بازی باز شد و صفحه‌ی SBC آمد
+20:20:47  ·            اکانت Rodrigo › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:20:48  ·            اکانت Rodrigo › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:20:51  ·            اکانت Rodrigo › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:20:52  ·            اکانت Rodrigo › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:20:52  ✓ انجام شد   اکانت Rodrigo  |  اکانت Rodrigo تمام شد
+20:21:02  ·            اکانت FIFA 9 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Rodrigo Redondo' — اکانت لازم: FIFA 9
+20:21:26  ✓ انجام شد   اکانت FIFA 9 › شروع بازی › CheckAccount  |  اکانت FIFA 9 روی کنسول است (گیمرتگ: FIFA xs 7#9416)
+20:24:24  ·            اکانت FIFA 9 › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+20:24:41  ·            اکانت FIFA 9 › شروع بازی › MainUltimate  |  قطع ارتباط: You are not connected to the EA Servers → Re-connect to EA Servers
+20:24:46  ·            اکانت FIFA 9 › شروع بازی › MainUltimate  |  MainUltimate: قطع ارتباط — not connected to the EA Servers (re-connect pressed)
+20:24:46  ✗ خطا        اکانت FIFA 9 › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\A87\1014_202446_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:23:33 Looking for 'Ultimate'
+            20:23:43 Looking for 'Ultimate'
+            20:23:53 Looking for 'Ultimate'
+            20:24:04 Looking for 'Ultimate'
+            20:24:14 Looking for 'Ultimate'
+            20:24:24 FindUltimate نشد؛ ادامه
+            20:24:24 Looking for 'Main Ultimate'
+            20:24:34 Looking for 'Ultimate'
+            20:24:34 Found 'Setting'
+            20:24:36 Looking for 'Ultimate'
+            20:24:36 FC offline: 'Press View to reconnect' -> View
+            20:24:41 Not connected to the EA Servers -> Re-connect
+20:24:46  ↻ تلاش دوباره اکانت FIFA 9 › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:33:05  ✗ خطا        اکانت FIFA 9 › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\A87\1014_203305_003_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:26:15 EA code: 15s left, waiting for the next code
+            20:26:30 EA code for FIFA 9 (try 3)
+            20:26:30 Typing 6 chars
+            20:26:49 EA code: accepted
+            20:26:50 Looking for 'Ultimate'
+            20:27:00 Looking for 'Ultimate'
+            20:27:00 Looking for 'Two-factor'
+            20:27:02 EA code for FIFA 9 (try 1)
+            20:27:02 Typing 6 chars
+            20:32:57 Keyboard: key '6' not reached
+            20:33:03 EA code: keyboard did not open
+            20:33:05 EA code: keyboard did not open
+20:35:14  ✗ خطا        اکانت FIFA 9 › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\A87\1014_203514_004_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:33:17 Looking for 'Mobile App Authenticator'
+            20:33:18 Found 'Mobile App Authenticator' (selected) -> A
+            20:33:26 EA code: 4s left, waiting for the next code
+            20:33:30 EA code for FIFA 9 (try 1)
+            20:33:30 Typing 6 chars
+            20:33:55 EA code: page did not move on (wrong or expired code), clearing and retrying
+            20:34:01 EA code for FIFA 9 (try 2)
+            20:34:01 Typing 6 chars
+            20:34:29 EA code: page did not move on (wrong or expired code), clearing and retrying
+            20:34:34 EA code for FIFA 9 (try 3)
+            20:34:34 Typing 6 chars
+            20:35:10 EA code: page did not move on (wrong or expired code), clearing and retrying
+20:36:20  ■ توقف       اکانت FIFA 9 › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:35:14 ✗ EA two-factor failed (shot: 1014_203514_004_EA_two-factor.png)
+            20:35:14 Looking for 'Ultimate'
+            20:35:14 Looking for 'Two-factor'
+            20:35:16 EA code: 13s left, waiting for the next code
+            20:35:30 EA code for FIFA 9 (try 1)
+            20:35:30 Typing 6 chars
+════ پایان: ■ توقف از پنل  |  مدت 22:03  |  خطا 3، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 20:38:08  شروع اجرا  (ریموت A87، pid 25864) START_GAME=True  SHARED=True ════
+20:38:23  ✓ انجام شد   اکانت FIFA 9 › شروع بازی › CheckAccount  |  اکانت FIFA 9 روی کنسول است (گیمرتگ: Fifa 09#3144)
+20:40:21  ✓ انجام شد   اکانت FIFA 9  |  بازی باز شد و صفحه‌ی SBC آمد
+20:41:12  ·            اکانت FIFA 9 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:41:13  ·            اکانت FIFA 9 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:41:15  ·            اکانت FIFA 9 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:41:17  ·            اکانت FIFA 9 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:41:17  ✓ انجام شد   اکانت FIFA 9  |  اکانت FIFA 9 تمام شد
+20:41:29  ·            اکانت one2 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'phoebe castro' — اکانت لازم: one2
+20:41:55  ✓ انجام شد   اکانت one2 › شروع بازی › CheckAccount  |  اکانت one2 روی کنسول است (گیمرتگ: one3#1022)
+20:43:55  ✓ انجام شد   اکانت one2  |  بازی باز شد و صفحه‌ی SBC آمد
+20:44:46  ·            اکانت one2 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:44:48  ·            اکانت one2 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:44:49  ·            اکانت one2 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:44:51  ·            اکانت one2 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:44:51  ✓ انجام شد   اکانت one2  |  اکانت one2 تمام شد
+20:44:58  ✓ انجام شد   اکانت one3 › شروع بازی › CheckAccount  |  اکانت one3 روی کنسول است (گیمرتگ: one3#1022)
+20:47:11  ✓ انجام شد   اکانت one3  |  بازی باز شد و صفحه‌ی SBC آمد
+20:47:55  ·            اکانت one3 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:47:56  ·            اکانت one3 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:48:00  ·            اکانت one3 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:48:02  ·            اکانت one3 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:48:02  ✓ انجام شد   اکانت one3  |  اکانت one3 تمام شد
+20:48:13  ·            اکانت FIFA XS 8 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: FIFA XS 8
+20:48:40  ·            اکانت FIFA XS 8 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'i +5 orofiles' — اکانت لازم: FIFA XS 8
+20:48:40  ⏸ توقف موقت  اکانت FIFA XS 8 › شروع بازی › CheckAccount  |  Account FIFA XS 8 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to FIFA XS 8 (hart_johnpaul43@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_204840_001_pause_Account_FIFA_XS_8_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:47:56 ===== Marquee Matchups 3 =====
+            20:47:56 Marquee Matchups 3.csv: 11 rows
+            20:48:00 Challenge 3: قبلاً کامل شده (Completed)
+            20:48:00 ===== Marquee Matchups 4 =====
+            20:48:00 Marquee Matchups 4.csv: 11 rows
+            20:48:02 Challenge 4: قبلاً کامل شده (Completed)
+            20:48:02 ✓ Account done: one3
+            20:48:02 ===== Account: FIFA XS 8 (hart_johnpaul43@outlook.com) =====
+            20:48:02 ===== باز کردن بازی (تلاش 1) =====
+            20:48:13 Account: 'one one' on console, switching to FIFA XS 8
+            20:48:13 Switch account -> FIFA XS 8
+            20:48:27 Switch: found 'FIFA xs 7#9416' -> A
+20:54:05  ▶ ادامه      اکانت FIFA XS 8 › شروع بازی › CheckAccount  |  بعد از 5:25 توقف
+20:54:12  ✓ انجام شد   اکانت FIFA XS 8 › شروع بازی › CheckAccount  |  اکانت FIFA XS 8 روی کنسول است (گیمرتگ: FIFA 8#4255)
+20:56:20  ·            اکانت FIFA XS 8 › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+20:58:05  ✗ خطا        اکانت FIFA XS 8 › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\A87\1014_205805_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:56:32 Looking for 'Ultimate'
+            20:56:32 Found 'Setting'
+            20:56:32 Found 'Ultimate'
+            20:56:32 Looking for 'Main Ultimate'
+            20:56:42 Looking for 'Main Ultimate'
+            20:56:53 Looking for 'Main Ultimate'
+            20:57:03 Looking for 'Main Ultimate'
+            20:57:13 Looking for 'Main Ultimate'
+            20:57:24 Looking for 'Main Ultimate'
+            20:57:34 Looking for 'Main Ultimate'
+            20:57:44 Looking for 'Main Ultimate'
+            20:57:54 Looking for 'Main Ultimate'
+20:58:05  ↻ تلاش دوباره اکانت FIFA XS 8 › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:59:20  ✓ انجام شد   اکانت FIFA XS 8  |  بازی باز شد و صفحه‌ی SBC آمد
+21:00:16  ·            اکانت FIFA XS 8 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+21:00:19  ·            اکانت FIFA XS 8 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+21:00:26  ·            اکانت FIFA XS 8 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+21:00:28  ·            اکانت FIFA XS 8 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+21:00:28  ✓ انجام شد   اکانت FIFA XS 8  |  اکانت FIFA XS 8 تمام شد
+21:00:44  ·            اکانت FIFA XS 7 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+6 orofiles' — اکانت لازم: FIFA XS 7
+21:01:32  ✓ انجام شد   اکانت FIFA XS 7 › شروع بازی › CheckAccount  |  اکانت FIFA XS 7 روی کنسول است (گیمرتگ: Fifa XS 6#1402)
+21:03:53  ✓ انجام شد   اکانت FIFA XS 7  |  بازی باز شد و صفحه‌ی SBC آمد
+21:04:55  ·            اکانت FIFA XS 7 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+21:04:57  ·            اکانت FIFA XS 7 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+21:04:59  ·            اکانت FIFA XS 7 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+21:05:01  ·            اکانت FIFA XS 7 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+21:05:01  ✓ انجام شد   اکانت FIFA XS 7  |  اکانت FIFA XS 7 تمام شد
+21:05:19  ·            اکانت FIFA XS 6 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+7 orofiles' — اکانت لازم: FIFA XS 6
+21:05:45  ✓ انجام شد   اکانت FIFA XS 6 › شروع بازی › CheckAccount  |  اکانت FIFA XS 6 روی کنسول است (گیمرتگ: Fifa XS 6#1402)
+21:08:22  ✓ انجام شد   اکانت FIFA XS 6  |  بازی باز شد و صفحه‌ی SBC آمد
+21:09:15  ·            اکانت FIFA XS 6 › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+21:09:19  ·            اکانت FIFA XS 6 › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+21:09:20  ·            اکانت FIFA XS 6 › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+21:09:22  ·            اکانت FIFA XS 6 › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+21:09:22  ✓ انجام شد   اکانت FIFA XS 6  |  اکانت FIFA XS 6 تمام شد
+21:09:39  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+7 orofiles' — اکانت لازم: sx4
+21:10:24  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+8 orofiles' — اکانت لازم: sx4
+21:10:24  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_211024_003_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:09:19 ===== Marquee Matchups 3 =====
+            21:09:19 Marquee Matchups 3.csv: 11 rows
+            21:09:20 Challenge 3: قبلاً کامل شده (Completed)
+            21:09:20 ===== Marquee Matchups 4 =====
+            21:09:20 Marquee Matchups 4.csv: 11 rows
+            21:09:22 Challenge 4: قبلاً کامل شده (Completed)
+            21:09:22 ✓ Account done: FIFA XS 6
+            21:09:22 ===== Account: sx4 (mm.h1008@outlook.com) =====
+            21:09:22 ===== باز کردن بازی (تلاش 1) =====
+            21:09:39 Account: '+7 orofiles' on console, switching to sx4
+            21:09:39 Switch account -> sx4
+            21:09:55 Switch: found 'sx5#9780' -> A
+21:23:28  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 13:03 توقف
+21:23:35  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: sx4
+21:24:02  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+9 orofiles' — اکانت لازم: sx4
+21:24:02  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_212402_004_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:23:35 Account: 'one one' on console, switching to sx4
+            21:23:35 Switch account -> sx4
+            21:23:49 Switch: found 'sx 4#7715' -> A
+21:24:33  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 0:31 توقف
+21:24:40  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+9 orofiles' — اکانت لازم: sx4
+21:25:11  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+9 orofiles' — اکانت لازم: sx4
+21:25:11  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_212511_005_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:24:40 Account: '+9 orofiles' on console, switching to sx4
+            21:24:40 Switch account -> sx4
+            21:24:59 Switch: found 'SX5#9780' -> A
+21:26:37  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 1:26 توقف
+21:26:44  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '4#7715' — اکانت لازم: sx4
+21:27:10  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: sx4
+21:27:10  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_212710_006_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:26:44 Account: '4#7715' on console, switching to sx4
+            21:26:44 Switch account -> sx4
+            21:26:57 Switch: found 'sx 4#7715' -> A
+21:27:49  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 0:38 توقف
+21:27:55  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '4#7715' — اکانت لازم: sx4
+21:28:21  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+9 orofiles' — اکانت لازم: sx4
+21:28:21  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_212821_007_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:27:55 Account: '4#7715' on console, switching to sx4
+            21:27:55 Switch account -> sx4
+            21:28:09 Switch: found 'sx5#9780' -> A
+21:29:29  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 1:08 توقف
+21:29:36  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: sx4
+21:30:03  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: sx4
+21:30:03  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_213003_008_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:29:36 Account: 'one one' on console, switching to sx4
+            21:29:36 Switch account -> sx4
+            21:29:51 Switch: found 'sx 4#7715' -> A
+21:31:06  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 1:02 توقف
+21:31:13  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: sx4
+21:31:38  ·            اکانت sx4 › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'one one' — اکانت لازم: sx4
+21:31:38  ⏸ توقف موقت  اکانت sx4 › شروع بازی › CheckAccount  |  Account sx4 on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to sx4 (mm.h1008@outlook.com) and put the screen on Home
+          عکس: shots\A87\1014_213138_009_pause_Account_sx4_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:31:13 Account: 'one one' on console, switching to sx4
+            21:31:13 Switch account -> sx4
+            21:31:25 Switch: found 'sx 4#7715' -> A
+21:56:40  ▶ ادامه      اکانت sx4 › شروع بازی › CheckAccount  |  بعد از 25:02 توقف
+21:56:41  ‼ خطای کد    اکانت sx4 › شروع بازی › CheckAccount  |  ConnectionError: ریموت A87 در دسترس نیست (\\.\pipe\xbrp-A87). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت A87 در دسترس نیست (\\.\pipe\xbrp-A87). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:18:33  |  خطا 1، تلاش دوباره 1، توقف موقت 8، خطای کد 1 ════

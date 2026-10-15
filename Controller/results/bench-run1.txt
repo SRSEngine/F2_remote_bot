@@ -1,0 +1,59 @@
+pipe       not available: open \\.\pipe\xbrp-XBOX: All pipe instances are busy.
+tcp        #1 call 0.07 ms  local 0.04 ms  e2e 248.0 ms 
+tcp        #2 call 0.15 ms  local 0.06 ms  e2e 267.8 ms 
+tcp        #3 call 0.11 ms  local 0.05 ms  e2e 210.4 ms 
+tcp        #4 call 0.24 ms  local 0.08 ms  e2e 218.1 ms 
+tcp        #5 call 0.35 ms  local 0.05 ms  e2e 225.8 ms 
+tcp        #6 call 0.08 ms  local 0.05 ms  e2e 231.4 ms 
+tcp        #7 call 0.13 ms  local 0.05 ms  e2e 228.8 ms 
+tcp        #8 call 0.13 ms  local 0.05 ms  e2e 244.7 ms 
+udp        #1 call 0.28 ms  local 0.16 ms  e2e 229.8 ms 
+udp        #2 call 0.20 ms  local 0.07 ms  e2e 235.1 ms 
+udp        #3 call 0.10 ms  local 0.05 ms  e2e 237.9 ms 
+udp        #4 call 0.17 ms  local 0.06 ms  e2e 245.3 ms 
+udp        #5 call 0.12 ms  local 0.06 ms  e2e 262.2 ms 
+udp        #6 call 0.25 ms  local 0.09 ms  e2e 207.5 ms 
+udp        #7 call 0.13 ms  local 0.05 ms  e2e 223.2 ms 
+udp        #8 call 0.14 ms  local 0.05 ms  e2e 224.7 ms 
+wmcopy     #1 call 0.12 ms  local 0.05 ms  e2e 228.0 ms 
+wmcopy     #2 call 0.10 ms  local 0.04 ms  e2e 232.9 ms 
+wmcopy     #3 call 0.12 ms  local 0.05 ms  e2e 241.4 ms 
+wmcopy     #4 call 0.11 ms  local 0.05 ms  e2e 237.9 ms 
+wmcopy     #5 call 0.11 ms  local 0.04 ms  e2e 234.4 ms 
+wmcopy     #6 call 0.08 ms  local 0.05 ms  e2e 235.4 ms 
+wmcopy     #7 call 0.09 ms  local 0.08 ms  e2e 258.5 ms 
+wmcopy     #8 call 0.09 ms  local 0.03 ms  e2e 205.3 ms 
+keys       #1 call 80.67 ms  local 0.07 ms  e2e 210.6 ms 
+keys       #2 call 80.07 ms  local 0.06 ms  e2e 238.2 ms 
+keys       #3 call 80.58 ms  local 0.07 ms  e2e 203.8 ms 
+keys       #4 call 80.38 ms  local 0.11 ms  e2e 235.2 ms 
+keys       #5 call 80.06 ms  local 80.11 ms  e2e 203.1 ms 
+keys       #6 call 80.47 ms  local 0.06 ms  e2e 220.6 ms 
+keys       #7 call 80.46 ms  local 80.56 ms  e2e 251.0 ms 
+keys       #8 call 80.11 ms  local 80.16 ms  e2e 225.9 ms 
+sendinput  #1 call 114.96 ms  local 112.77 ms  e2e 284.0 ms 
+sendinput  #2 call 119.50 ms  local 111.82 ms  e2e 283.8 ms 
+sendinput  #3 call 125.30 ms  local 44.25 ms  e2e 258.8 ms 
+sendinput  #4 call 122.68 ms  local 112.26 ms  e2e 235.2 ms 
+sendinput  #5 call 113.54 ms  local 112.81 ms  e2e 281.2 ms 
+sendinput  #6 call 112.79 ms  local 112.32 ms  e2e 245.0 ms 
+sendinput  #7 call 113.31 ms  local 113.07 ms  e2e 251.1 ms 
+sendinput  #8 call 112.94 ms  local 112.43 ms  e2e 241.7 ms 
+cloud      #1 call 1949.95 ms  local -1.00 ms  e2e 2008.8 ms 
+cloud      #2 call 1338.72 ms  local -1.00 ms  e2e 1394.6 ms 
+cloud      #3 call 1062.76 ms  local -1.00 ms  e2e 1124.4 ms 
+cloud      #4 call 1442.72 ms  local -1.00 ms  e2e 1454.9 ms 
+cloud      #5 call 1363.70 ms  local -1.00 ms  e2e 1437.0 ms 
+cloud      #6 call 1096.06 ms  local -1.00 ms  e2e 1183.7 ms 
+cloud      #7 call 1060.38 ms  local -1.00 ms  e2e 1133.9 ms 
+cloud      #8 call 1606.52 ms  local -1.00 ms  e2e 1672.2 ms 
+saved C:\Users\Reach\Desktop\New Remote\Controller\results\bench-20261002-195450.json
+
+method      ok/n   call(med)  local(med)  e2e(med)  e2e(min)  e2e(max)
+pipe        0/1      -1.00      -1.000      -1.0      -1.0      -1.0
+tcp         8/8       0.13       0.053     230.1     210.4     267.8
+udp         8/8       0.16       0.060     232.4     207.5     262.2
+wmcopy      8/8       0.11       0.050     234.9     205.3     258.5
+keys        8/8      80.42       0.090     223.2     203.1     251.0
+sendinput   8/8     114.25     112.378     254.9     235.2     284.0
+cloud       8/8    1351.21      -1.000    1415.8    1124.4    2008.8

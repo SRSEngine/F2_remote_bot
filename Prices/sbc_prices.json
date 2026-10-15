@@ -1,0 +1,2048 @@
+{
+ "updated": "2026-10-15T11:46:21",
+ "prices_published": "2026-10-15T11:43:18",
+ "platform": "console",
+ "source": "fut.gg",
+ "rows": [
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 1,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "GK",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | GK",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 109,
+   "cards": [
+    {
+     "eaId": 70780,
+     "price": 200,
+     "overall": 55,
+     "name": "Brad Mayo"
+    },
+    {
+     "eaId": 71069,
+     "price": 200,
+     "overall": 53,
+     "name": "Seb Stacey"
+    },
+    {
+     "eaId": 71368,
+     "price": 200,
+     "overall": 60,
+     "name": "Rebekah Dowsett"
+    },
+    {
+     "eaId": 71447,
+     "price": 200,
+     "overall": 56,
+     "name": "Nicholas Michalski"
+    },
+    {
+     "eaId": 71579,
+     "price": 200,
+     "overall": 56,
+     "name": "Rogan Ravenhill"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 2,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | CB",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 135,
+   "cards": [
+    {
+     "eaId": 71347,
+     "price": 200,
+     "overall": 62,
+     "name": "Amara Nallo"
+    },
+    {
+     "eaId": 71374,
+     "price": 200,
+     "overall": 58,
+     "name": "Ty Ewens-Findlay"
+    },
+    {
+     "eaId": 71990,
+     "price": 200,
+     "overall": 58,
+     "name": "Phil Chinedu"
+    },
+    {
+     "eaId": 72126,
+     "price": 200,
+     "overall": 62,
+     "name": "Aimee Everett"
+    },
+    {
+     "eaId": 73219,
+     "price": 200,
+     "overall": 60,
+     "name": "James Debayo"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 3,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | CB",
+   "problems": [],
+   "csv_price": 450,
+   "cheapest": 300,
+   "count": 1900,
+   "cards": [
+    {
+     "eaId": 72095,
+     "price": 300,
+     "overall": 72,
+     "name": "Wojciech Mońka"
+    },
+    {
+     "eaId": 79991,
+     "price": 300,
+     "overall": 71,
+     "name": "Karel Spáčil"
+    },
+    {
+     "eaId": 82308,
+     "price": 300,
+     "overall": 72,
+     "name": "Mbekezeli Mbokazi"
+    },
+    {
+     "eaId": 210679,
+     "price": 300,
+     "overall": 70,
+     "name": "Paulo Oliveira"
+    },
+    {
+     "eaId": 212485,
+     "price": 300,
+     "overall": 70,
+     "name": "Danny Bakker"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 4,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "OFF",
+    "Pos": "OFF",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 7069,
+   "cards": [
+    {
+     "eaId": 70001,
+     "price": 200,
+     "overall": 62,
+     "name": "Royce Openda"
+    },
+    {
+     "eaId": 70018,
+     "price": 200,
+     "overall": 62,
+     "name": "Coleen Louis"
+    },
+    {
+     "eaId": 70025,
+     "price": 200,
+     "overall": 63,
+     "name": "Siaka Bakayoko"
+    },
+    {
+     "eaId": 70029,
+     "price": 200,
+     "overall": 62,
+     "name": "Jid Okeke"
+    },
+    {
+     "eaId": 70074,
+     "price": 200,
+     "overall": 59,
+     "name": "Kieran Sargeant"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 5,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "CDM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | CDM",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 46,
+   "cards": [
+    {
+     "eaId": 70230,
+     "price": 200,
+     "overall": 61,
+     "name": "Lewis Orford"
+    },
+    {
+     "eaId": 71126,
+     "price": 200,
+     "overall": 60,
+     "name": "Ollie Harrison"
+    },
+    {
+     "eaId": 72070,
+     "price": 200,
+     "overall": 61,
+     "name": "Donay O'Brien-Brady"
+    },
+    {
+     "eaId": 76053,
+     "price": 200,
+     "overall": 62,
+     "name": "Henry Cartwright"
+    },
+    {
+     "eaId": 76226,
+     "price": 200,
+     "overall": 55,
+     "name": "Max Jolliffe"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 6,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "OFF",
+    "Pos": "OFF",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 7069,
+   "cards": [
+    {
+     "eaId": 70001,
+     "price": 200,
+     "overall": 62,
+     "name": "Royce Openda"
+    },
+    {
+     "eaId": 70018,
+     "price": 200,
+     "overall": 62,
+     "name": "Coleen Louis"
+    },
+    {
+     "eaId": 70025,
+     "price": 200,
+     "overall": 63,
+     "name": "Siaka Bakayoko"
+    },
+    {
+     "eaId": 70029,
+     "price": 200,
+     "overall": 62,
+     "name": "Jid Okeke"
+    },
+    {
+     "eaId": 70074,
+     "price": 200,
+     "overall": 59,
+     "name": "Kieran Sargeant"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 7,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "RM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | RM",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 40,
+   "cards": [
+    {
+     "eaId": 70787,
+     "price": 200,
+     "overall": 63,
+     "name": "Jordan Thomas"
+    },
+    {
+     "eaId": 72207,
+     "price": 200,
+     "overall": 60,
+     "name": "Amin Nabizada"
+    },
+    {
+     "eaId": 72582,
+     "price": 200,
+     "overall": 62,
+     "name": "Kane Drummond"
+    },
+    {
+     "eaId": 74775,
+     "price": 200,
+     "overall": 61,
+     "name": "Amani Richards"
+    },
+    {
+     "eaId": 76714,
+     "price": 200,
+     "overall": 56,
+     "name": "Zane Myers"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 8,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "LM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | LM",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 39,
+   "cards": [
+    {
+     "eaId": 73861,
+     "price": 200,
+     "overall": 62,
+     "name": "Silko Thomas"
+    },
+    {
+     "eaId": 75204,
+     "price": 200,
+     "overall": 64,
+     "name": "Lily Murphy"
+    },
+    {
+     "eaId": 75487,
+     "price": 200,
+     "overall": 54,
+     "name": "Benedict Benagr"
+    },
+    {
+     "eaId": 75804,
+     "price": 200,
+     "overall": 61,
+     "name": "Lola Brown"
+    },
+    {
+     "eaId": 76569,
+     "price": 200,
+     "overall": 60,
+     "name": "Zain Silcott-Duberry"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 9,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "CAM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | CAM",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 31,
+   "cards": [
+    {
+     "eaId": 70275,
+     "price": 200,
+     "overall": 64,
+     "name": "Josh Stokes"
+    },
+    {
+     "eaId": 71379,
+     "price": 200,
+     "overall": 56,
+     "name": "Axel Piesold"
+    },
+    {
+     "eaId": 71493,
+     "price": 200,
+     "overall": 62,
+     "name": "Harrison Jones"
+    },
+    {
+     "eaId": 73309,
+     "price": 200,
+     "overall": 58,
+     "name": "Ryley Reynolds"
+    },
+    {
+     "eaId": 74739,
+     "price": 200,
+     "overall": 64,
+     "name": "Rebecca Rayner"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 10,
+   "filter": {
+    "Rarity": "OFF",
+    "Region": "OFF",
+    "Pos": "OFF",
+    "Club": "Eintracht Frankfurt",
+    "League": "Bundesliga"
+   },
+   "matched": "Bundesliga | Frankfurt",
+   "problems": [],
+   "csv_price": 900,
+   "cheapest": 300,
+   "count": 27,
+   "cards": [
+    {
+     "eaId": 75810,
+     "price": 300,
+     "overall": 60,
+     "name": "Amil Šiljević"
+    },
+    {
+     "eaId": 78088,
+     "price": 300,
+     "overall": 63,
+     "name": "Otávio"
+    },
+    {
+     "eaId": 82098,
+     "price": 350,
+     "overall": 64,
+     "name": "Jeremiaha Maluze"
+    },
+    {
+     "eaId": 86824,
+     "price": 350,
+     "overall": 64,
+     "name": "Malik Pimpong"
+    },
+    {
+     "eaId": 202316,
+     "price": 350,
+     "overall": 63,
+     "name": "Timmy Chandler"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 1",
+   "set": "Marquee Matchups",
+   "challenge": "1",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 1.csv",
+   "row": 11,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "ST",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Bronze | England | ST",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 117,
+   "cards": [
+    {
+     "eaId": 70099,
+     "price": 200,
+     "overall": 62,
+     "name": "Olly Sanderson"
+    },
+    {
+     "eaId": 70983,
+     "price": 200,
+     "overall": 57,
+     "name": "Pemi Aderoju"
+    },
+    {
+     "eaId": 71498,
+     "price": 200,
+     "overall": 58,
+     "name": "Leon Chiwome"
+    },
+    {
+     "eaId": 71829,
+     "price": 200,
+     "overall": 62,
+     "name": "Fletcher Holman"
+    },
+    {
+     "eaId": 72459,
+     "price": 200,
+     "overall": 62,
+     "name": "Will Davies"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 1,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "GK",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | GK",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 45,
+   "cards": [
+    {
+     "eaId": 74726,
+     "price": 350,
+     "overall": 69,
+     "name": "Balázs Tóth"
+    },
+    {
+     "eaId": 77044,
+     "price": 350,
+     "overall": 69,
+     "name": "Calum Ward"
+    },
+    {
+     "eaId": 188094,
+     "price": 350,
+     "overall": 66,
+     "name": "Jon McLaughlin"
+    },
+    {
+     "eaId": 200525,
+     "price": 350,
+     "overall": 65,
+     "name": "Sam Walker"
+    },
+    {
+     "eaId": 200715,
+     "price": 350,
+     "overall": 68,
+     "name": "Adam Davies"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 2,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "RB",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | RB",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 47,
+   "cards": [
+    {
+     "eaId": 75296,
+     "price": 350,
+     "overall": 66,
+     "name": "Ronan Kpakio"
+    },
+    {
+     "eaId": 200309,
+     "price": 350,
+     "overall": 69,
+     "name": "Tendayi Darikwa"
+    },
+    {
+     "eaId": 200689,
+     "price": 350,
+     "overall": 70,
+     "name": "Ryan Leonard"
+    },
+    {
+     "eaId": 206653,
+     "price": 350,
+     "overall": 68,
+     "name": "Brad Potts"
+    },
+    {
+     "eaId": 221282,
+     "price": 350,
+     "overall": 71,
+     "name": "Jack Stacey"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 3,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Italy",
+    "Pos": "OFF",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Italy",
+   "problems": [],
+   "csv_price": 850,
+   "cheapest": 250,
+   "count": 434,
+   "cards": [
+    {
+     "eaId": 50597410,
+     "price": 250,
+     "overall": 67,
+     "name": "Filippo Missori"
+    },
+    {
+     "eaId": 72790,
+     "price": 350,
+     "overall": 69,
+     "name": "Simone Tronchin"
+    },
+    {
+     "eaId": 72834,
+     "price": 350,
+     "overall": 70,
+     "name": "Giuseppe Leone"
+    },
+    {
+     "eaId": 72845,
+     "price": 350,
+     "overall": 69,
+     "name": "Andrea Ciofi"
+    },
+    {
+     "eaId": 72916,
+     "price": 350,
+     "overall": 72,
+     "name": "Simone Zanon"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 4,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | CB",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 96,
+   "cards": [
+    {
+     "eaId": 72046,
+     "price": 350,
+     "overall": 68,
+     "name": "Dylan Lawlor"
+    },
+    {
+     "eaId": 72708,
+     "price": 350,
+     "overall": 70,
+     "name": "José Córdoba"
+    },
+    {
+     "eaId": 76250,
+     "price": 350,
+     "overall": 70,
+     "name": "Max Alleyne"
+    },
+    {
+     "eaId": 81262,
+     "price": 350,
+     "overall": 70,
+     "name": "Andrei Coubiș"
+    },
+    {
+     "eaId": 87052,
+     "price": 350,
+     "overall": 65,
+     "name": "Lisav Eissat"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 5,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "LB",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | LB",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 300,
+   "count": 48,
+   "cards": [
+    {
+     "eaId": 253490,
+     "price": 300,
+     "overall": 72,
+     "name": "Darlin Yongwa"
+    },
+    {
+     "eaId": 256831,
+     "price": 300,
+     "overall": 72,
+     "name": "Dennis Cirkin"
+    },
+    {
+     "eaId": 265993,
+     "price": 300,
+     "overall": 72,
+     "name": "Welington"
+    },
+    {
+     "eaId": 72909,
+     "price": 350,
+     "overall": 66,
+     "name": "Josh Edwards"
+    },
+    {
+     "eaId": 203751,
+     "price": 350,
+     "overall": 68,
+     "name": "Conor Townsend"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 6,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "Italy",
+    "Pos": "OFF",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Gold | Italy",
+   "problems": [],
+   "csv_price": 850,
+   "cheapest": 650,
+   "count": 103,
+   "cards": [
+    {
+     "eaId": 202884,
+     "price": 650,
+     "overall": 80,
+     "name": "Leonardo Spinazzola"
+    },
+    {
+     "eaId": 208268,
+     "price": 650,
+     "overall": 81,
+     "name": "Bryan Cristante"
+    },
+    {
+     "eaId": 211361,
+     "price": 650,
+     "overall": 78,
+     "name": "Danilo Cataldi"
+    },
+    {
+     "eaId": 212096,
+     "price": 650,
+     "overall": 79,
+     "name": "Vincenzo Grifo"
+    },
+    {
+     "eaId": 216409,
+     "price": 650,
+     "overall": 80,
+     "name": "Matteo Politano"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 7,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "LM",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | LM",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 300,
+   "count": 47,
+   "cards": [
+    {
+     "eaId": 232545,
+     "price": 300,
+     "overall": 72,
+     "name": "Nathan Broadhead"
+    },
+    {
+     "eaId": 71215,
+     "price": 350,
+     "overall": 68,
+     "name": "Millenic Alli"
+    },
+    {
+     "eaId": 78426,
+     "price": 350,
+     "overall": 73,
+     "name": "Joseph Opoku"
+    },
+    {
+     "eaId": 78923,
+     "price": 350,
+     "overall": 65,
+     "name": "Kyrell Lisbie"
+    },
+    {
+     "eaId": 215798,
+     "price": 350,
+     "overall": 73,
+     "name": "Maxwel Cornet"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 8,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "CM",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | CM",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 39,
+   "cards": [
+    {
+     "eaId": 73427,
+     "price": 350,
+     "overall": 69,
+     "name": "Moussa Baradji"
+    },
+    {
+     "eaId": 193910,
+     "price": 350,
+     "overall": 68,
+     "name": "Adam Forshaw"
+    },
+    {
+     "eaId": 229910,
+     "price": 350,
+     "overall": 70,
+     "name": "Svante Ingelsson"
+    },
+    {
+     "eaId": 230136,
+     "price": 350,
+     "overall": 68,
+     "name": "Jordan Thompson"
+    },
+    {
+     "eaId": 235456,
+     "price": 350,
+     "overall": 74,
+     "name": "Jean-Ricner Bellegarde"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 9,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "CAM",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | CAM",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 30,
+   "cards": [
+    {
+     "eaId": 81539,
+     "price": 350,
+     "overall": 69,
+     "name": "Divine Mukasa"
+    },
+    {
+     "eaId": 211506,
+     "price": 350,
+     "overall": 69,
+     "name": "John Swift"
+    },
+    {
+     "eaId": 220139,
+     "price": 350,
+     "overall": 72,
+     "name": "Sammie Szmodics"
+    },
+    {
+     "eaId": 225748,
+     "price": 350,
+     "overall": 73,
+     "name": "Todd Cantwell"
+    },
+    {
+     "eaId": 233510,
+     "price": 350,
+     "overall": 70,
+     "name": "Tahith Chong"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 10,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "OFF",
+    "Pos": "OFF",
+    "Club": "Como 1907",
+    "League": "Serie A Enilive"
+   },
+   "matched": "Gold | Serie A Enilive | Como 1907",
+   "problems": [],
+   "csv_price": 1200,
+   "cheapest": 650,
+   "count": 20,
+   "cards": [
+    {
+     "eaId": 50560437,
+     "price": 650,
+     "overall": 80,
+     "name": "Robert Sánchez"
+    },
+    {
+     "eaId": 230918,
+     "price": 700,
+     "overall": 80,
+     "name": "Trevoh Chalobah"
+    },
+    {
+     "eaId": 242201,
+     "price": 700,
+     "overall": 81,
+     "name": "Luis Milla"
+    },
+    {
+     "eaId": 262842,
+     "price": 700,
+     "overall": 79,
+     "name": "Martin Baturina"
+    },
+    {
+     "eaId": 50568258,
+     "price": 700,
+     "overall": 82,
+     "name": "Moise Kean"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 2",
+   "set": "Marquee Matchups",
+   "challenge": "2",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 2.csv",
+   "row": 11,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "OFF",
+    "Pos": "ST",
+    "Club": "OFF",
+    "League": "EFL Championship"
+   },
+   "matched": "Silver | EFL Championship | ST",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 77,
+   "cards": [
+    {
+     "eaId": 71181,
+     "price": 350,
+     "overall": 67,
+     "name": "Mamadou Doumbia"
+    },
+    {
+     "eaId": 74865,
+     "price": 350,
+     "overall": 70,
+     "name": "Mihailo Ivanović"
+    },
+    {
+     "eaId": 79947,
+     "price": 350,
+     "overall": 67,
+     "name": "Barney Stewart"
+    },
+    {
+     "eaId": 88663,
+     "price": 350,
+     "overall": 68,
+     "name": "Dastan Satpayev"
+    },
+    {
+     "eaId": 186905,
+     "price": 350,
+     "overall": 69,
+     "name": "Ashley Barnes"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 1,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "GK",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | GK",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 18,
+   "cards": [
+    {
+     "eaId": 71515,
+     "price": 350,
+     "overall": 71,
+     "name": "Bernardo"
+    },
+    {
+     "eaId": 80777,
+     "price": 350,
+     "overall": 68,
+     "name": "Matheus Mendes"
+    },
+    {
+     "eaId": 192397,
+     "price": 350,
+     "overall": 71,
+     "name": "Rafael"
+    },
+    {
+     "eaId": 193107,
+     "price": 350,
+     "overall": 69,
+     "name": "Paulo Victor"
+    },
+    {
+     "eaId": 219339,
+     "price": 350,
+     "overall": 69,
+     "name": "Marcos Felipe"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 2,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "RB",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | RB",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 300,
+   "count": 10,
+   "cards": [
+    {
+     "eaId": 216580,
+     "price": 300,
+     "overall": 71,
+     "name": "Cláudio Winck"
+    },
+    {
+     "eaId": 73453,
+     "price": 350,
+     "overall": 70,
+     "name": "Gustavo Garcia"
+    },
+    {
+     "eaId": 212367,
+     "price": 350,
+     "overall": 67,
+     "name": "Igor Julião"
+    },
+    {
+     "eaId": 244516,
+     "price": 350,
+     "overall": 67,
+     "name": "Gustavo Cascardo"
+    },
+    {
+     "eaId": 251891,
+     "price": 350,
+     "overall": 69,
+     "name": "Lucas Soares"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 3,
+   "filter": {
+    "Rarity": "GOLD",
+    "Region": "Spain",
+    "Pos": "OFF",
+    "Club": "Villarreal CF",
+    "League": "LALIGA EA SPORTS"
+   },
+   "matched": "Gold | Spain | LALIGA EA SPORTS | Villarreal CF",
+   "problems": [],
+   "csv_price": 1200,
+   "cheapest": 750,
+   "count": 6,
+   "cards": [
+    {
+     "eaId": 264388,
+     "price": 750,
+     "overall": 82,
+     "name": "Moleiro"
+    },
+    {
+     "eaId": 270728,
+     "price": 750,
+     "overall": 80,
+     "name": "Carlos Romero"
+    },
+    {
+     "eaId": 208093,
+     "price": 850,
+     "overall": 81,
+     "name": "Gerard Moreno"
+    },
+    {
+     "eaId": 262402,
+     "price": 900,
+     "overall": 79,
+     "name": "Sergi Cardona"
+    },
+    {
+     "eaId": 215590,
+     "price": 1000,
+     "overall": 80,
+     "name": "Ayoze"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 4,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | CB",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 53,
+   "cards": [
+    {
+     "eaId": 72905,
+     "price": 350,
+     "overall": 69,
+     "name": "Raul Gustavo"
+    },
+    {
+     "eaId": 73044,
+     "price": 350,
+     "overall": 67,
+     "name": "Ulisses Wilson"
+    },
+    {
+     "eaId": 73128,
+     "price": 350,
+     "overall": 72,
+     "name": "Zé Vítor"
+    },
+    {
+     "eaId": 79505,
+     "price": 350,
+     "overall": 72,
+     "name": "Bernardo Schappo"
+    },
+    {
+     "eaId": 80021,
+     "price": 350,
+     "overall": 70,
+     "name": "Naves"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 5,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "LB",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | LB",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 300,
+   "count": 24,
+   "cards": [
+    {
+     "eaId": 265993,
+     "price": 300,
+     "overall": 72,
+     "name": "Welington"
+    },
+    {
+     "eaId": 78686,
+     "price": 350,
+     "overall": 69,
+     "name": "Felipe Andrade"
+    },
+    {
+     "eaId": 216283,
+     "price": 350,
+     "overall": 67,
+     "name": "Danilo"
+    },
+    {
+     "eaId": 222388,
+     "price": 350,
+     "overall": 72,
+     "name": "Paulo Azzi"
+    },
+    {
+     "eaId": 229343,
+     "price": 350,
+     "overall": 68,
+     "name": "Wanderson"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 6,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "RM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | RM",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 19,
+   "cards": [
+    {
+     "eaId": 72657,
+     "price": 350,
+     "overall": 68,
+     "name": "Stênio"
+    },
+    {
+     "eaId": 77988,
+     "price": 350,
+     "overall": 68,
+     "name": "Maiara Niehues"
+    },
+    {
+     "eaId": 78991,
+     "price": 350,
+     "overall": 70,
+     "name": "Maranhão"
+    },
+    {
+     "eaId": 83220,
+     "price": 350,
+     "overall": 66,
+     "name": "Diogo Bezerra"
+    },
+    {
+     "eaId": 86437,
+     "price": 350,
+     "overall": 73,
+     "name": "Erick Marcus"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 7,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "CM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | CM",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 350,
+   "count": 22,
+   "cards": [
+    {
+     "eaId": 70419,
+     "price": 350,
+     "overall": 67,
+     "name": "Italo"
+    },
+    {
+     "eaId": 70845,
+     "price": 350,
+     "overall": 70,
+     "name": "Marlon Gomes"
+    },
+    {
+     "eaId": 78172,
+     "price": 350,
+     "overall": 68,
+     "name": "Kaick"
+    },
+    {
+     "eaId": 78971,
+     "price": 350,
+     "overall": 69,
+     "name": "Ageu"
+    },
+    {
+     "eaId": 79704,
+     "price": 350,
+     "overall": 68,
+     "name": "Robinho"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 8,
+   "filter": {
+    "Rarity": "GOLD",
+    "Region": "Argentina",
+    "Pos": "OFF",
+    "Club": "OFF",
+    "League": "LALIGA EA SPORTS"
+   },
+   "matched": "Gold | Argentina | LALIGA EA SPORTS",
+   "problems": [],
+   "csv_price": 800,
+   "cheapest": 650,
+   "count": 14,
+   "cards": [
+    {
+     "eaId": 226226,
+     "price": 650,
+     "overall": 80,
+     "name": "Giovani Lo Celso"
+    },
+    {
+     "eaId": 227186,
+     "price": 650,
+     "overall": 79,
+     "name": "Augusto Batalla"
+    },
+    {
+     "eaId": 267860,
+     "price": 650,
+     "overall": 76,
+     "name": "Valentín Gómez"
+    },
+    {
+     "eaId": 207935,
+     "price": 700,
+     "overall": 76,
+     "name": "Matías Dituro"
+    },
+    {
+     "eaId": 214979,
+     "price": 700,
+     "overall": 82,
+     "name": "Juan Musso"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 9,
+   "filter": {
+    "Rarity": "Silver",
+    "Region": "Brazil",
+    "Pos": "LM",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | LM",
+   "problems": [],
+   "csv_price": 550,
+   "cheapest": 300,
+   "count": 26,
+   "cards": [
+    {
+     "eaId": 254225,
+     "price": 300,
+     "overall": 72,
+     "name": "Anderson Oliveira"
+    },
+    {
+     "eaId": 71914,
+     "price": 350,
+     "overall": 69,
+     "name": "João Peglow"
+    },
+    {
+     "eaId": 72754,
+     "price": 350,
+     "overall": 72,
+     "name": "Luis Guilherme"
+    },
+    {
+     "eaId": 73050,
+     "price": 350,
+     "overall": 67,
+     "name": "Adriano Amorim"
+    },
+    {
+     "eaId": 74233,
+     "price": 350,
+     "overall": 69,
+     "name": "Robert"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 10,
+   "filter": {
+    "Rarity": "GOLD",
+    "Region": "Hungary",
+    "Pos": "OFF",
+    "Club": "Villarreal CF",
+    "League": "LALIGA EA SPORTS"
+   },
+   "matched": "Gold | Hungary | LALIGA EA SPORTS | Villarreal CF",
+   "problems": [],
+   "csv_price": 1200,
+   "cheapest": 850,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 185122,
+     "price": 850,
+     "overall": 82,
+     "name": "Péter Gulácsi"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 3",
+   "set": "Marquee Matchups",
+   "challenge": "3",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 3.csv",
+   "row": 11,
+   "filter": {
+    "Rarity": "SILVER",
+    "Region": "Brazil",
+    "Pos": "ST",
+    "Club": "OFF",
+    "League": "OFF"
+   },
+   "matched": "Silver | Brazil | ST",
+   "problems": [],
+   "csv_price": 500,
+   "cheapest": 250,
+   "count": 40,
+   "cards": [
+    {
+     "eaId": 211561,
+     "price": 250,
+     "overall": 71,
+     "name": "Cassiano"
+    },
+    {
+     "eaId": 73864,
+     "price": 350,
+     "overall": 72,
+     "name": "Juan"
+    },
+    {
+     "eaId": 76383,
+     "price": 350,
+     "overall": 68,
+     "name": "Tamara Bolt"
+    },
+    {
+     "eaId": 80603,
+     "price": 350,
+     "overall": 69,
+     "name": "Janderson"
+    },
+    {
+     "eaId": 80916,
+     "price": 350,
+     "overall": 66,
+     "name": "Luca Meirelles"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 1,
+   "filter": {
+    "Rarity": "GOLD",
+    "Region": "OFF",
+    "Pos": "GK",
+    "Club": "Liverpool",
+    "League": "Premier League"
+   },
+   "matched": "Gold | Premier League | Liverpool | GK",
+   "problems": [],
+   "csv_price": 1300,
+   "cheapest": 700,
+   "count": 2,
+   "cards": [
+    {
+     "eaId": 262621,
+     "price": 700,
+     "overall": 83,
+     "name": "Giorgi Mamardashvili"
+    },
+    {
+     "eaId": 212831,
+     "price": 9000,
+     "overall": 87,
+     "name": "Alisson"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 2,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "Moroco",
+    "Pos": "RB",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Bronze | Morocco | Ligue 1 McDonald's | RB",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 80689,
+     "price": 200,
+     "overall": 61,
+     "name": "Hamza Koutoune"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 3,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "Senegal",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Gold | Senegal | Ligue 1 McDonald's | CB",
+   "problems": [],
+   "csv_price": 850,
+   "cheapest": 650,
+   "count": 2,
+   "cards": [
+    {
+     "eaId": 225859,
+     "price": 650,
+     "overall": 81,
+     "name": "Moussa Niakhaté"
+    },
+    {
+     "eaId": 247248,
+     "price": 950,
+     "overall": 75,
+     "name": "Moustapha Mbow"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 4,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "Morocco",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Gold | Morocco | Ligue 1 McDonald's | CB",
+   "problems": [],
+   "csv_price": 850,
+   "cheapest": 650,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 244749,
+     "price": 650,
+     "overall": 80,
+     "name": "Nayef Aguerd"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 5,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "DR Congo",
+    "Pos": "CB",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Bronze | DR Congo | Ligue 1 McDonald's | CB",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 80775,
+     "price": 200,
+     "overall": 61,
+     "name": "Frédéric Efuele Ngoyala"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 6,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "OFF",
+    "Pos": "LB",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Gold | Ligue 1 McDonald's | LB",
+   "problems": [],
+   "csv_price": 900,
+   "cheapest": 650,
+   "count": 11,
+   "cards": [
+    {
+     "eaId": 229236,
+     "price": 650,
+     "overall": 81,
+     "name": "Matthieu Udol"
+    },
+    {
+     "eaId": 231318,
+     "price": 700,
+     "overall": 78,
+     "name": "Romain Perraud"
+    },
+    {
+     "eaId": 252711,
+     "price": 800,
+     "overall": 75,
+     "name": "Ali Abdi"
+    },
+    {
+     "eaId": 72100,
+     "price": 850,
+     "overall": 77,
+     "name": "Arsène Kouassi"
+    },
+    {
+     "eaId": 211256,
+     "price": 900,
+     "overall": 78,
+     "name": "Nicolás Tagliafico"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 7,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "Cote d'Ivorie",
+    "Pos": "CDM",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Bronze | Ivory Coast | Ligue 1 McDonald's | CDM",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 82080,
+     "price": 200,
+     "overall": 60,
+     "name": "Yvan Zaddy"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 8,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "France",
+    "Pos": "CM",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Bronze | France | Ligue 1 McDonald's | CM",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 12,
+   "cards": [
+    {
+     "eaId": 73624,
+     "price": 200,
+     "overall": 63,
+     "name": "Daren Mosengo"
+    },
+    {
+     "eaId": 78766,
+     "price": 200,
+     "overall": 64,
+     "name": "Martin Rossignol"
+    },
+    {
+     "eaId": 79109,
+     "price": 200,
+     "overall": 63,
+     "name": "Jean Vercruysse"
+    },
+    {
+     "eaId": 80063,
+     "price": 200,
+     "overall": 61,
+     "name": "Djibril Coulibaly"
+    },
+    {
+     "eaId": 80542,
+     "price": 200,
+     "overall": 58,
+     "name": "Roman Murcy"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 9,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "OFF",
+    "Pos": "CM",
+    "Club": "Liverpool",
+    "League": "Premier League"
+   },
+   "matched": "Gold | Premier League | Liverpool | CM",
+   "problems": [],
+   "csv_price": 1300,
+   "cheapest": 900,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 239837,
+     "price": 900,
+     "overall": 84,
+     "name": "Alexis Mac Allister"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 10,
+   "filter": {
+    "Rarity": "Gold",
+    "Region": "OFF",
+    "Pos": "ST",
+    "Club": "OFF",
+    "League": "Premier League"
+   },
+   "matched": "Gold | Premier League | ST",
+   "problems": [],
+   "csv_price": 850,
+   "cheapest": 650,
+   "count": 39,
+   "cards": [
+    {
+     "eaId": 186146,
+     "price": 650,
+     "overall": 80,
+     "name": "Danny Welbeck"
+    },
+    {
+     "eaId": 225539,
+     "price": 650,
+     "overall": 79,
+     "name": "Dominic Solanke"
+    },
+    {
+     "eaId": 235790,
+     "price": 650,
+     "overall": 81,
+     "name": "Kai Havertz"
+    },
+    {
+     "eaId": 253444,
+     "price": 650,
+     "overall": 78,
+     "name": "Arnaud Kalimuendo"
+    },
+    {
+     "eaId": 256612,
+     "price": 650,
+     "overall": 79,
+     "name": "Evanilson"
+    }
+   ]
+  },
+  {
+   "sbc": "Marquee Matchups 4",
+   "set": "Marquee Matchups",
+   "challenge": "4",
+   "csv": "C:/Users/Reach/Desktop/New Remote/Marquee Matchups 4.csv",
+   "row": 11,
+   "filter": {
+    "Rarity": "Bronze",
+    "Region": "England",
+    "Pos": "ST",
+    "Club": "OFF",
+    "League": "Ligue 1 McDonald"
+   },
+   "matched": "Bronze | England | Ligue 1 McDonald's | ST",
+   "problems": [],
+   "csv_price": 200,
+   "cheapest": 200,
+   "count": 1,
+   "cards": [
+    {
+     "eaId": 78145,
+     "price": 200,
+     "overall": 64,
+     "name": "Alejandro Gomes Rodríguez"
+    }
+   ]
+  }
+ ]
+}

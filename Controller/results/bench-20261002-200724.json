@@ -1,0 +1,492 @@
+[
+  {
+    "method": "pipe",
+    "call_ms": 0.2349,
+    "local_ms": 0.1222,
+    "e2e_ms": 217.1801
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1645,
+    "local_ms": 0.0931,
+    "e2e_ms": 120.13640000000001
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.2733,
+    "local_ms": 0.157,
+    "e2e_ms": 116.8109
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.1103,
+    "local_ms": 0.0911,
+    "e2e_ms": 158.0605
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.5949,
+    "local_ms": 0.0903,
+    "e2e_ms": 150.5395
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.2733,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 81.2149,
+    "local_ms": 1.5448,
+    "e2e_ms": 147.3542
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1975.2857,
+    "local_ms": -1,
+    "e2e_ms": 1972.3071
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0761,
+    "local_ms": 0.052,
+    "e2e_ms": 103.8804
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1112,
+    "local_ms": 0.0636,
+    "e2e_ms": 139.21609999999998
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1392,
+    "local_ms": 0.0806,
+    "e2e_ms": 110.7063
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.1959,
+    "local_ms": 0.0984,
+    "e2e_ms": 125.4376
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.5631,
+    "local_ms": 7.5238,
+    "e2e_ms": 121.5154
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.6492,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 81.1002,
+    "local_ms": 3.9775,
+    "e2e_ms": 159.7098
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1297.6943,
+    "local_ms": -1,
+    "e2e_ms": 1287.7282
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0657,
+    "local_ms": 0.0509,
+    "e2e_ms": 103.92450000000001
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1561,
+    "local_ms": 0.083,
+    "e2e_ms": 138.26420000000002
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1141,
+    "local_ms": 0.052,
+    "e2e_ms": 111.90369999999999
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.062,
+    "local_ms": 0.0432,
+    "e2e_ms": 142.8518
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.344,
+    "local_ms": 0.0471,
+    "e2e_ms": 156.5848
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.3843,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 91.0397,
+    "local_ms": 9.6461,
+    "e2e_ms": 133.2614
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1034.1544,
+    "local_ms": -1,
+    "e2e_ms": 1002.0461999999999
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.104,
+    "local_ms": 0.0759,
+    "e2e_ms": 127.2946
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1227,
+    "local_ms": 0.0885,
+    "e2e_ms": 110.44980000000001
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1335,
+    "local_ms": 0.0768,
+    "e2e_ms": 152.0077
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0676,
+    "local_ms": 0.0453,
+    "e2e_ms": 101.39500000000001
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.1063,
+    "local_ms": 0.0522,
+    "e2e_ms": 197.7822
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 34.6617,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 80.8082,
+    "local_ms": 0.5104,
+    "e2e_ms": 160.4743
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1321.7966,
+    "local_ms": -1,
+    "e2e_ms": 1303.2372
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0501,
+    "local_ms": 0.0313,
+    "e2e_ms": 153.41
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1484,
+    "local_ms": 0.0827,
+    "e2e_ms": -1
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1451,
+    "local_ms": 0.0706,
+    "e2e_ms": -1
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.2184,
+    "local_ms": 0.0701,
+    "e2e_ms": 95.58319999999999
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.2296,
+    "local_ms": 0.0541,
+    "e2e_ms": 1978.5136
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.7781,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 97.7017,
+    "local_ms": 17.0566,
+    "e2e_ms": -1
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1032.0509,
+    "local_ms": -1,
+    "e2e_ms": 1030.3415
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1302,
+    "local_ms": 0.0534,
+    "e2e_ms": 120.79220000000001
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1209,
+    "local_ms": 0.0925,
+    "e2e_ms": 137.2718
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1582,
+    "local_ms": 0.1049,
+    "e2e_ms": 124.89239999999998
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0898,
+    "local_ms": 0.0604,
+    "e2e_ms": 125.00640000000001
+  },
+  {
+    "method": "keys",
+    "call_ms": 82.1754,
+    "local_ms": 0.0522,
+    "e2e_ms": 108.73849999999999
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 32.0558,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 81.025,
+    "local_ms": 1.542,
+    "e2e_ms": -1
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1308.6157,
+    "local_ms": -1,
+    "e2e_ms": 1268.2264
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1092,
+    "local_ms": 0.0426,
+    "e2e_ms": 119.75830000000002
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1046,
+    "local_ms": 0.0571,
+    "e2e_ms": 170.6444
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1534,
+    "local_ms": 0.069,
+    "e2e_ms": 150.67079999999999
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0817,
+    "local_ms": 0.0592,
+    "e2e_ms": 124.93360000000001
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.2859,
+    "local_ms": 0.0417,
+    "e2e_ms": 141.1153
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.9935,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 100.0855,
+    "local_ms": 9.8749,
+    "e2e_ms": -1
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1053.9587,
+    "local_ms": -1,
+    "e2e_ms": 1024.6651
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.047,
+    "local_ms": 0.0296,
+    "e2e_ms": 148.8791
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1044,
+    "local_ms": 0.0592,
+    "e2e_ms": 102.06890000000001
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1289,
+    "local_ms": 0.0452,
+    "e2e_ms": 110.4272
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0696,
+    "local_ms": 0.0539,
+    "e2e_ms": 127.3513
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.2709,
+    "local_ms": 0.0914,
+    "e2e_ms": 156.0677
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.526,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 112.4748,
+    "local_ms": 22.6036,
+    "e2e_ms": -1
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1325.0691,
+    "local_ms": -1,
+    "e2e_ms": 1254.7572
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1751,
+    "local_ms": 0.0715,
+    "e2e_ms": 138.0809
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1309,
+    "local_ms": 0.0808,
+    "e2e_ms": 118.35129999999998
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.157,
+    "local_ms": 0.0787,
+    "e2e_ms": 113.4253
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0812,
+    "local_ms": 0.0483,
+    "e2e_ms": 133.8001
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.4387,
+    "local_ms": 0.0627,
+    "e2e_ms": 122.68110000000001
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.6904,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 81.5348,
+    "local_ms": 2.5553,
+    "e2e_ms": -1
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1084.535,
+    "local_ms": -1,
+    "e2e_ms": 1041.0009
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0567,
+    "local_ms": 0.0374,
+    "e2e_ms": 115.6089
+  },
+  {
+    "method": "tcp",
+    "call_ms": 0.1576,
+    "local_ms": 0.0906,
+    "e2e_ms": 159.9931
+  },
+  {
+    "method": "udp",
+    "call_ms": 0.1184,
+    "local_ms": 0.0572,
+    "e2e_ms": 147.5854
+  },
+  {
+    "method": "wmcopy",
+    "call_ms": 0.0828,
+    "local_ms": 0.0575,
+    "e2e_ms": 133.89249999999998
+  },
+  {
+    "method": "keys",
+    "call_ms": 80.5554,
+    "local_ms": 0.0634,
+    "e2e_ms": 117.8445
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 34.6097,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 96.6281,
+    "local_ms": 0.5328,
+    "e2e_ms": -1
+  },
+  {
+    "method": "cloud",
+    "call_ms": 1037.8352,
+    "local_ms": -1,
+    "e2e_ms": 1036.8028
+  }
+]

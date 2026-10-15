@@ -1,0 +1,76 @@
+
+════ 2026-10-14 20:57:47  شروع اجرا  (ریموت A81، pid 21568) START_GAME=True  SHARED=True ════
+20:57:53  ·            اکانت NILS › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'TripleData#1510' — اکانت لازم: NILS
+20:58:14  ✓ انجام شد   اکانت NILS › شروع بازی › CheckAccount  |  اکانت NILS روی کنسول است (گیمرتگ: nils nikolaus9)
+20:59:37  ·            اکانت NILS › شروع بازی › FindUltimate  |  قطع ارتباط با سرور / اینترنت: You have lost your online connection. Check your home network. You will not be able to access FC's online features until  (عکس: shots\A81\1014_205937_001_server_lost.png)
+20:59:39  ·            اکانت NILS › شروع بازی › FindUltimate  |  FindUltimate: قطع ارتباط — You have lost your online connection. Check your home network. You will not be able to access FC's online features until
+20:59:39  ✗ خطا        اکانت NILS › شروع بازی › FindUltimate  |  FindUltimate نشد
+          تابع: FindUltimate ← start_game ← open_game ← main
+          عکس: shots\A81\1014_205939_002_FindUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:58:42 Text in box: '27 XBOX One'
+            20:58:42 Found 'One'
+            20:58:48 Looking for 'Ultimate'
+            20:58:58 Looking for 'Ultimate'
+            20:59:09 Looking for 'Ultimate'
+            20:59:19 Looking for 'Ultimate'
+            20:59:19 EA: 'Is your email up to date?' -> Yes
+            20:59:22 Looking for 'Ultimate'
+            20:59:22 EA: 'Is your email up to date?' -> Yes
+            20:59:25 Looking for 'Ultimate'
+            20:59:26 Looking for 'Ultimate'
+            20:59:37 ⚠ Connection lost: You have lost your online connection. Check your home network. You will not be able to access FC's o
+20:59:39  ↻ تلاش دوباره اکانت NILS › شروع بازی › FindUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:59:46  ✓ انجام شد   اکانت NILS › شروع بازی › CheckAccount  |  اکانت NILS روی کنسول است (گیمرتگ: Nils#6188)
+21:01:44  ✓ انجام شد   اکانت NILS  |  بازی باز شد و صفحه‌ی SBC آمد
+21:02:43  ·            اکانت NILS › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+21:02:45  ·            اکانت NILS › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+21:02:46  ·            اکانت NILS › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+21:02:48  ·            اکانت NILS › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+21:02:48  ✓ انجام شد   اکانت NILS  |  اکانت NILS تمام شد
+21:03:00  ·            اکانت SORENT › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'nils nikolaus9' — اکانت لازم: SORENT
+21:03:28  ✓ انجام شد   اکانت SORENT › شروع بازی › CheckAccount  |  اکانت SORENT روی کنسول است (گیمرتگ: Sorent#2564)
+21:06:10  ✓ انجام شد   اکانت SORENT  |  بازی باز شد و صفحه‌ی SBC آمد
+21:06:43  ·            اکانت SORENT › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+21:08:33  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:09:28  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:11:26  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+21:12:02  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:12:37  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:13:11  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:14:40  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:15:03  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:16:16  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:18:49  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+21:22:02  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:22:20  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+21:22:44  ·            اکانت SORENT › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+21:24:42  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:25:44  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:27:18  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+21:29:11  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:30:07  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:32:02  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+21:33:56  ✓ انجام شد   اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:45:38  ✗ خطا        اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\A81\1014_214538_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:40:40 Found 'Yes'
+            21:41:42 expired
+            21:41:47 Found 'No'
+            21:41:48 Found 'Yes'
+            21:41:49 expired
+            21:41:49 BUY: 3 buys failed -> price 400 to 500
+            21:42:48 Looking for 'Pricing'
+            21:42:50 Looking for 'Pricing'
+            21:42:51 Looking for 'Pricing'
+            21:42:53 Looking for 'Pricing'
+            21:45:38 Pricing: خانه‌ی BuyNow پیدا نشد
+            21:45:38 BUY: قیمت 500 تنظیم نشد
+21:45:38  ↻ تلاش دوباره اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:52:59  ■ توقف       اکانت SORENT › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:45:38 ✗ BUY failed (shot: 1014_214538_003_BUY.png)
+            21:45:38 [Marquee Matchups 2:8] try 1 of 3 failed, back to the squad
+════ پایان: ✗ ریموت قطع  |  مدت 55:11  |  خطا 2، تلاش دوباره 2، توقف موقت 0، خطای کد 0 ════

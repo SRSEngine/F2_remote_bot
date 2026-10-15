@@ -1,0 +1,37 @@
+virtual controller = XInput 0, remote follows it
+pipe       #1  right call    0.14 ms  local   0.065 ms  e2e   124.8 ms 
+sendinput  #1 ERROR could not bring the remote window to the front
+xinput     #1  right call   88.14 ms  local   8.098 ms  e2e    -1.0 ms 
+pipe       #2  left  call    0.07 ms  local   0.048 ms  e2e   107.6 ms 
+sendinput  #2 ERROR could not bring the remote window to the front
+xinput     #2  left  call   80.56 ms  local   4.204 ms  e2e   115.1 ms 
+pipe       #3  right call    0.15 ms  local   0.056 ms  e2e   144.5 ms 
+sendinput  #3 ERROR could not bring the remote window to the front
+xinput     #3  right call   87.20 ms  local   6.292 ms  e2e   114.9 ms 
+pipe       #4  left  call    0.30 ms  local   0.243 ms  e2e   153.6 ms 
+sendinput  #4 ERROR could not bring the remote window to the front
+xinput     #4  left  call   91.51 ms  local   1.027 ms  e2e   112.8 ms 
+pipe       #5  right call    0.10 ms  local   0.077 ms  e2e   105.8 ms 
+sendinput  #5 ERROR could not bring the remote window to the front
+xinput     #5  right call   93.69 ms  local   4.247 ms  e2e   146.5 ms 
+pipe       #6  left  call    0.05 ms  local   0.034 ms  e2e   104.6 ms 
+sendinput  #6 ERROR could not bring the remote window to the front
+xinput     #6  left  call   81.45 ms  local   3.583 ms  e2e   146.2 ms 
+pipe       #7  right call    0.15 ms  local   0.071 ms  e2e   117.1 ms 
+sendinput  #7 ERROR could not bring the remote window to the front
+xinput     #7  right call   98.85 ms  local  14.305 ms  e2e   159.5 ms 
+pipe       #8  left  call    0.08 ms  local   0.057 ms  e2e   113.2 ms 
+sendinput  #8 ERROR could not bring the remote window to the front
+xinput     #8  left  call   90.46 ms  local   2.564 ms  e2e   144.7 ms 
+pipe       #9  right call    0.13 ms  local   0.044 ms  e2e   115.6 ms 
+sendinput  #9 ERROR could not bring the remote window to the front
+xinput     #9  right call   80.42 ms  local   0.575 ms  e2e   157.4 ms 
+pipe       #10 left  call    0.08 ms  local   0.059 ms  e2e   103.4 ms 
+sendinput  #10 ERROR could not bring the remote window to the front
+xinput     #10 left  call  101.49 ms  local   3.069 ms  e2e   116.2 ms 
+saved C:\Users\Reach\Desktop\New Remote\Controller\results\bench-20261002-200940.json
+
+method      ok/n   call(med)  local(med)  e2e(med)  e2e(min)  e2e(max)
+pipe       10/10      0.11       0.058     114.4     103.4     153.6
+sendinput   0/10     -1.00      -1.000      -1.0      -1.0      -1.0
+xinput      9/10     89.30       3.894     144.7     112.8     159.5

@@ -1,0 +1,584 @@
+
+════ 2026-10-11 16:28:55  شروع اجرا  (ریموت C23، pid 22236) START_GAME=True  SHARED=True ════
+16:28:56  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+16:31:20  ·            اکانت Holi › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:33:02  ✗ خطا        اکانت Holi › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C23\1011_163302_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:31:10 Looking for 'Ultimate'
+            16:31:20 FindUltimate نشد؛ ادامه
+            16:31:20 Looking for 'Main Ultimate'
+            16:31:30 Looking for 'Main Ultimate'
+            16:31:41 Looking for 'Main Ultimate'
+            16:31:51 Looking for 'Main Ultimate'
+            16:32:01 Looking for 'Main Ultimate'
+            16:32:11 Looking for 'Main Ultimate'
+            16:32:21 Looking for 'Main Ultimate'
+            16:32:32 Looking for 'Main Ultimate'
+            16:32:42 Looking for 'Main Ultimate'
+            16:32:52 Looking for 'Main Ultimate'
+16:33:02  ↻ تلاش دوباره اکانت Holi › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:33:07  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+16:35:33  ·            اکانت Holi › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:37:16  ✗ خطا        اکانت Holi › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C23\1011_163716_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:35:23 Looking for 'Ultimate'
+            16:35:33 FindUltimate نشد؛ ادامه
+            16:35:33 Looking for 'Main Ultimate'
+            16:35:44 Looking for 'Main Ultimate'
+            16:35:54 Looking for 'Main Ultimate'
+            16:36:04 Looking for 'Main Ultimate'
+            16:36:15 Looking for 'Main Ultimate'
+            16:36:25 Looking for 'Main Ultimate'
+            16:36:35 Looking for 'Main Ultimate'
+            16:36:45 Looking for 'Main Ultimate'
+            16:36:56 Looking for 'Main Ultimate'
+            16:37:06 Looking for 'Main Ultimate'
+16:37:16  ↻ تلاش دوباره اکانت Holi › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+16:37:21  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+16:39:49  ·            اکانت Holi › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:41:32  ✗ خطا        اکانت Holi › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C23\1011_164132_003_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:39:39 Looking for 'Ultimate'
+            16:39:49 FindUltimate نشد؛ ادامه
+            16:39:49 Looking for 'Main Ultimate'
+            16:40:00 Looking for 'Main Ultimate'
+            16:40:10 Looking for 'Main Ultimate'
+            16:40:20 Looking for 'Main Ultimate'
+            16:40:30 Looking for 'Main Ultimate'
+            16:40:41 Looking for 'Main Ultimate'
+            16:40:51 Looking for 'Main Ultimate'
+            16:41:01 Looking for 'Main Ultimate'
+            16:41:11 Looking for 'Main Ultimate'
+            16:41:22 Looking for 'Main Ultimate'
+16:41:32  ⏸ توقف موقت  اکانت Holi › شروع بازی › MainUltimate  |  Start game (MainUltimate) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where MainUltimate starts
+          عکس: shots\C23\1011_164132_004_pause_Start_game_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:41:32 ✗ MainUltimate failed (shot: 1011_164132_003_MainUltimate.png)
+16:42:13  ▶ ادامه      اکانت Holi › شروع بازی › MainUltimate  |  بعد از 0:40 توقف
+16:42:32  ✓ انجام شد   اکانت Holi  |  بازی باز شد و صفحه‌ی SBC آمد
+16:42:50  ·            اکانت Holi › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:42:51  ·            اکانت Holi › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:43:17  ⏸ توقف موقت  اکانت Holi › چالش Marquee Matchups 3  |  Start challenge Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C23\1011_164317_005_pause_Start_challenge_Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:42:47 SBC intro: Advance
+            16:42:49 Set Marquee Matchups: 4 challenge(s)
+            16:42:49 ===== Marquee Matchups 1 =====
+            16:42:49 Marquee1.csv: 11 rows
+            16:42:50 Challenge 1: قبلاً کامل شده (Completed)
+            16:42:50 ===== Marquee Matchups 2 =====
+            16:42:50 Marquee2.csv: 11 rows
+            16:42:51 Challenge 2: قبلاً کامل شده (Completed)
+            16:42:51 ===== Marquee Matchups 3 =====
+            16:42:51 Marquee3.csv: 11 rows
+            16:42:55 Challenge 3: وارد شد
+            16:42:56 Looking for 'Challenge'
+16:52:11  ■ توقف       اکانت Holi › چالش Marquee Matchups 3  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 23:16  |  خطا 3، تلاش دوباره 2، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-11 16:52:12  شروع اجرا  (ریموت C23، pid 23364) START_GAME=True  SHARED=True ════
+16:52:18  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+16:54:43  ·            اکانت Holi › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+16:56:25  ✗ خطا        اکانت Holi › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C23\1011_165625_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:54:33 Looking for 'Ultimate'
+            16:54:43 FindUltimate نشد؛ ادامه
+            16:54:44 Looking for 'Main Ultimate'
+            16:54:54 Looking for 'Main Ultimate'
+            16:55:04 Looking for 'Main Ultimate'
+            16:55:14 Looking for 'Main Ultimate'
+            16:55:24 Looking for 'Main Ultimate'
+            16:55:34 Looking for 'Main Ultimate'
+            16:55:45 Looking for 'Main Ultimate'
+            16:55:55 Looking for 'Main Ultimate'
+            16:56:05 Looking for 'Main Ultimate'
+            16:56:15 Looking for 'Main Ultimate'
+16:56:25  ↻ تلاش دوباره اکانت Holi › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+16:56:31  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+16:58:56  ·            اکانت Holi › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+17:00:38  ✗ خطا        اکانت Holi › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C23\1011_170038_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:58:46 Looking for 'Ultimate'
+            16:58:56 FindUltimate نشد؛ ادامه
+            16:58:56 Looking for 'Main Ultimate'
+            16:59:07 Looking for 'Main Ultimate'
+            16:59:17 Looking for 'Main Ultimate'
+            16:59:27 Looking for 'Main Ultimate'
+            16:59:37 Looking for 'Main Ultimate'
+            16:59:47 Looking for 'Main Ultimate'
+            16:59:58 Looking for 'Main Ultimate'
+            17:00:08 Looking for 'Main Ultimate'
+            17:00:18 Looking for 'Main Ultimate'
+            17:00:28 Looking for 'Main Ultimate'
+17:00:38  ↻ تلاش دوباره اکانت Holi › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+17:00:44  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+17:03:09  ·            اکانت Holi › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+17:04:51  ✗ خطا        اکانت Holi › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C23\1011_170451_003_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:02:59 Looking for 'Ultimate'
+            17:03:09 FindUltimate نشد؛ ادامه
+            17:03:09 Looking for 'Main Ultimate'
+            17:03:20 Looking for 'Main Ultimate'
+            17:03:30 Looking for 'Main Ultimate'
+            17:03:40 Looking for 'Main Ultimate'
+            17:03:50 Looking for 'Main Ultimate'
+            17:04:00 Looking for 'Main Ultimate'
+            17:04:10 Looking for 'Main Ultimate'
+            17:04:21 Looking for 'Main Ultimate'
+            17:04:31 Looking for 'Main Ultimate'
+            17:04:41 Looking for 'Main Ultimate'
+17:04:51  ⏸ توقف موقت  اکانت Holi › شروع بازی › MainUltimate  |  Start game (MainUltimate) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where MainUltimate starts
+          عکس: shots\C23\1011_170451_004_pause_Start_game_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:04:51 ✗ MainUltimate failed (shot: 1011_170451_003_MainUltimate.png)
+17:05:43  ▶ ادامه      اکانت Holi › شروع بازی › MainUltimate  |  بعد از 0:51 توقف
+17:05:51  ■ توقف       اکانت Holi › شروع بازی › MainUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:05:44 ===== باز کردن بازی (تلاش 1) =====
+            17:05:44 Looking for 'Main Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 13:39  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-11 17:05:52  شروع اجرا  (ریموت C23، pid 5236) START_GAME=True  SHARED=True ════
+17:05:58  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+17:08:32  ✓ انجام شد   اکانت Holi  |  بازی باز شد و صفحه‌ی SBC آمد
+17:08:41  ·            اکانت Holi › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+17:08:42  ·            اکانت Holi › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+17:09:08  ⏸ توقف موقت  اکانت Holi › چالش Marquee Matchups 3  |  Start challenge Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C23\1011_170908_001_pause_Start_challenge_Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:08:37 Looking for set 'Marquee Matchups'
+            17:08:40 Set Marquee Matchups: 4 challenge(s)
+            17:08:40 ===== Marquee Matchups 1 =====
+            17:08:40 Marquee1.csv: 11 rows
+            17:08:41 Challenge 1: قبلاً کامل شده (Completed)
+            17:08:41 ===== Marquee Matchups 2 =====
+            17:08:41 Marquee2.csv: 11 rows
+            17:08:42 Challenge 2: قبلاً کامل شده (Completed)
+            17:08:42 ===== Marquee Matchups 3 =====
+            17:08:42 Marquee3.csv: 11 rows
+            17:08:46 Challenge 3: وارد شد
+            17:08:46 Looking for 'Challenge'
+17:20:17  ▶ ادامه      اکانت Holi › چالش Marquee Matchups 3  |  بعد از 11:08 توقف
+17:20:18  ■ توقف       اکانت Holi › چالش Marquee Matchups 3  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:20:18 Looking for 'Challenge'
+════ پایان: ■ توقف از پنل  |  مدت 14:26  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-11 18:23:06  شروع اجرا  (ریموت C23، pid 16092) START_GAME=True  SHARED=True ════
+18:23:12  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+18:25:07  ✓ انجام شد   اکانت Holi  |  بازی باز شد و صفحه‌ی SBC آمد
+18:25:18  ·            اکانت Holi › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:25:19  ·            اکانت Holi › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:25:46  ⏸ توقف موقت  اکانت Holi › چالش Marquee Matchups 3  |  Start challenge Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C23\1011_182546_001_pause_Start_challenge_Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:25:12 Looking for set 'Marquee Matchups'
+            18:25:17 Set Marquee Matchups: 4 challenge(s)
+            18:25:17 ===== Marquee Matchups 1 =====
+            18:25:17 Marquee1.csv: 11 rows
+            18:25:18 Challenge 1: قبلاً کامل شده (Completed)
+            18:25:18 ===== Marquee Matchups 2 =====
+            18:25:18 Marquee2.csv: 11 rows
+            18:25:19 Challenge 2: قبلاً کامل شده (Completed)
+            18:25:19 ===== Marquee Matchups 3 =====
+            18:25:19 Marquee3.csv: 11 rows
+            18:25:24 Challenge 3: وارد شد
+            18:25:24 Looking for 'Challenge'
+18:28:38  ▶ ادامه      اکانت Holi › چالش Marquee Matchups 3  |  بعد از 2:52 توقف
+18:29:00  ⏸ توقف موقت  اکانت Holi › چالش Marquee Matchups 3  |  Start challenge Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C23\1011_182900_002_pause_Start_challenge_Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:28:39 Looking for 'Challenge'
+18:29:10  ▶ ادامه      اکانت Holi › چالش Marquee Matchups 3  |  بعد از 0:10 توقف
+18:29:25  ·            اکانت Holi › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+18:31:00  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:31:51  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:32:39  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:33:27  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:34:15  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:35:06  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+18:36:19  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:37:10  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:38:01  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+18:40:25  ✓ انجام شد   اکانت Holi › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+18:41:43  ✗ خطا        اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_184142_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:41:09 850
+            18:41:10 900
+            18:41:11 950
+            18:41:11 1000
+            18:41:12 1100
+            18:41:15 Looking for 'BuyNow' (قیمت 1200)
+            18:41:20 Found 'BuyNow (2)'
+            18:41:21 Found 'No'
+            18:41:21 Found 'Yes'
+            18:41:29 BUY: no cards found -> price 1200 to 1300
+            18:41:42 FindFilter: به Pricing نرسید
+            18:41:42 BUY: قیمت 1300 تنظیم نشد
+18:41:43  ↻ تلاش دوباره اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:43:02  ✗ خطا        اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_184302_004_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:41:43 ✗ BUY failed (shot: 1011_184142_003_BUY.png)
+            18:41:43 [Marquee Matchups 3:11] try 1 of 3 failed, back to the squad
+            18:41:57 Pricing: club=True، قیمت نادیده گرفته شد
+            18:42:02 Looking for 'Rarity'
+            18:42:11 GOLD پیدا شد
+            18:42:13 Looking for 'Position'
+            18:42:22 Found 'Default'
+            18:42:26 LALIGA EA SPORTS پیدا شد
+            18:42:33 Found 'Any (4)'
+            18:42:41 Villarreal CF پیدا شد
+18:43:02  ↻ تلاش دوباره اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+18:43:22  ✗ خطا        اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_184322_005_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:43:02 ✗ back_to_market failed (shot: 1011_184302_004_back_to_market.png)
+            18:43:02 [Marquee Matchups 3:11] try 2 of 3 failed, back to the squad
+18:43:25  ⏸ توقف موقت  اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  [Marquee Matchups 3:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C23\1011_184324_006_pause__Marquee_Matchups_3_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:43:22 ✗ enter_slot failed (shot: 1011_184322_005_enter_slot.png)
+            18:43:22 [Marquee Matchups 3:11] try 3 of 3 failed, back to the squad
+18:50:53  ▶ ادامه      اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بعد از 7:28 توقف
+18:51:08  ✗ خطا        اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_185108_007_enter_slot.png
+18:51:08  ↻ تلاش دوباره اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:51:24  ✗ خطا        اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_185124_008_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:51:08 ✗ enter_slot failed (shot: 1011_185108_007_enter_slot.png)
+            18:51:08 [Marquee Matchups 3:11] try 1 of 3 failed, back to the squad
+18:51:24  ⏸ توقف موقت  اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  [Marquee Matchups 3:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C23\1011_185124_009_pause__Marquee_Matchups_3_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:51:24 ✗ back_to_squad failed (shot: 1011_185124_008_back_to_squad.png)
+18:51:46  ■ توقف       اکانت Holi › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 28:39  |  خطا 5، تلاش دوباره 3، توقف موقت 4، خطای کد 0 ════
+
+════ 2026-10-11 18:51:47  شروع اجرا  (ریموت C23، pid 19772) START_GAME=True  SHARED=True ════
+18:51:52  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+18:53:47  ✓ انجام شد   اکانت Holi  |  بازی باز شد و صفحه‌ی SBC آمد
+18:54:22  ·            اکانت Holi › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:54:23  ·            اکانت Holi › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:54:25  ·            اکانت Holi › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:54:26  ·            اکانت Holi › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:54:26  ✓ انجام شد   اکانت Holi  |  اکانت Holi تمام شد
+18:54:37  ·            اکانت friend › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Ytt Tree' — اکانت لازم: friend
+18:54:56  ✓ انجام شد   اکانت friend › شروع بازی › CheckAccount  |  اکانت friend روی کنسول است (گیمرتگ: Friend#7396)
+18:57:07  ✓ انجام شد   اکانت friend  |  بازی باز شد و صفحه‌ی SBC آمد
+18:57:18  ·            اکانت friend › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:57:39  ·            اکانت friend › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+18:59:25  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:00:15  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:01:05  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:01:53  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:02:42  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:04:12  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_190412_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:03:35 300
+            19:03:36 350
+            19:03:37 400
+            19:03:37 450
+            19:03:38 500
+            19:03:46 Found 'Top9'
+            19:03:49 Italy پیدا شد
+            19:03:50 Looking for 'Position'
+            19:03:56 Looking for 'BuyNow' (قیمت 550)
+            19:04:00 BUY: no cards found -> price 550 to 650
+            19:04:12 FindFilter: به Pricing نرسید
+            19:04:12 BUY: قیمت 650 تنظیم نشد
+19:04:12  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:06:12  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_190612_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:05:35 Looking for 'Position'
+            19:05:41 Looking for 'BuyNow' (قیمت 550)
+            19:05:46 Found 'BuyNow (2)'
+            19:05:46 Found 'No'
+            19:05:47 Found 'Yes'
+            19:05:57 Found 'BuyNow (2)'
+            19:05:57 expired
+            19:05:59 Found 'BuyNow (2)'
+            19:05:59 expired
+            19:06:00 BUY: 3 buys failed -> price 550 to 650
+            19:06:12 FindFilter: به Pricing نرسید
+            19:06:12 BUY: قیمت 650 تنظیم نشد
+19:06:12  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:08:11  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_190811_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:07:35 Looking for 'Position'
+            19:07:40 Looking for 'BuyNow' (قیمت 550)
+            19:07:45 Found 'BuyNow (2)'
+            19:07:46 Found 'No'
+            19:07:46 Found 'Yes'
+            19:07:56 Found 'BuyNow (2)'
+            19:07:57 expired
+            19:07:58 Found 'BuyNow (2)'
+            19:07:59 expired
+            19:07:59 BUY: 3 buys failed -> price 550 to 650
+            19:08:11 FindFilter: به Pricing نرسید
+            19:08:11 BUY: قیمت 650 تنظیم نشد
+19:08:12  ⏸ توقف موقت  اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C23\1011_190812_004_pause__Marquee_Matchups_2_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:08:11 ✗ BUY failed (shot: 1011_190811_003_BUY.png)
+            19:08:11 [Marquee Matchups 2:6] try 3 of 3 failed, back to the squad
+19:08:31  ■ توقف       اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 16:44  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-11 19:08:32  شروع اجرا  (ریموت C23، pid 27580) START_GAME=True  SHARED=True ════
+19:08:42  ✓ انجام شد   اکانت friend › شروع بازی › CheckAccount  |  اکانت friend روی کنسول است (گیمرتگ: friend whitney)
+19:11:03  ✓ انجام شد   اکانت friend  |  بازی باز شد و صفحه‌ی SBC آمد
+19:11:13  ·            اکانت friend › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:11:32  ·            اکانت friend › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+19:12:19  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:12:39  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:12:59  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:13:19  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:13:39  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:14:28  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:16:16  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:17:07  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:18:38  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:20:52  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+19:22:53  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_192253_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:22:00 Looking for 'Rarity'
+            19:22:10 Silver پیدا شد
+            19:22:12 Looking for 'Position'
+            19:22:19 Found 'Default'
+            19:22:21 EFL Championship پیدا شد
+            19:22:25 Looking for 'BuyNow' (قیمت 550)
+            19:22:30 Found 'BuyNow (2)'
+            19:22:31 Found 'No'
+            19:22:31 Found 'Yes'
+            19:22:39 BUY: no cards found -> price 550 to 650
+            19:22:53 FindFilter: به Pricing نرسید
+            19:22:53 BUY: قیمت 650 تنظیم نشد
+19:22:53  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:23:58  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_192358_002_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:22:53 ✗ BUY failed (shot: 1011_192253_001_BUY.png)
+            19:22:53 [Marquee Matchups 2:11] try 1 of 3 failed, back to the squad
+            19:23:07 Pricing: club=True، قیمت نادیده گرفته شد
+            19:23:12 Looking for 'Rarity'
+            19:23:21 Silver پیدا شد
+            19:23:22 Looking for 'Position'
+            19:23:31 Found 'Default'
+            19:23:33 EFL Championship پیدا شد
+19:23:58  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:24:22  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_192422_003_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:23:58 ✗ back_to_market failed (shot: 1011_192358_002_back_to_market.png)
+            19:23:58 [Marquee Matchups 2:11] try 2 of 3 failed, back to the squad
+19:24:24  ⏸ توقف موقت  اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  [Marquee Matchups 2:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C23\1011_192424_004_pause__Marquee_Matchups_2_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:24:22 ✗ enter_slot failed (shot: 1011_192422_003_enter_slot.png)
+            19:24:22 [Marquee Matchups 2:11] try 3 of 3 failed, back to the squad
+19:25:43  ▶ ادامه      اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بعد از 1:18 توقف
+19:25:58  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_192558_005_enter_slot.png
+19:25:58  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:26:14  ✗ خطا        اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_192614_006_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:25:58 ✗ enter_slot failed (shot: 1011_192558_005_enter_slot.png)
+            19:25:58 [Marquee Matchups 2:11] try 1 of 3 failed, back to the squad
+19:26:14  ⏸ توقف موقت  اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  [Marquee Matchups 2:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C23\1011_192614_007_pause__Marquee_Matchups_2_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:26:14 ✗ back_to_squad failed (shot: 1011_192614_006_back_to_squad.png)
+19:26:42  ■ توقف       اکانت friend › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 18:10  |  خطا 5، تلاش دوباره 3، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-11 19:26:43  شروع اجرا  (ریموت C23، pid 23952) START_GAME=True  SHARED=True ════
+19:26:53  ✓ انجام شد   اکانت friend › شروع بازی › CheckAccount  |  اکانت friend روی کنسول است (گیمرتگ: friend whitney)
+19:29:02  ✓ انجام شد   اکانت friend  |  بازی باز شد و صفحه‌ی SBC آمد
+19:29:12  ·            اکانت friend › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:29:13  ·            اکانت friend › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:29:33  ·            اکانت friend › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+19:31:08  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:31:27  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:32:15  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:33:05  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:33:53  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:34:47  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+19:36:05  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:36:56  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:37:47  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:40:14  ✓ انجام شد   اکانت friend › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+19:41:40  ✗ خطا        اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_194140_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:41:01 1100
+            19:41:04 Looking for 'BuyNow' (قیمت 1200)
+            19:41:10 Found 'BuyNow (2)'
+            19:41:10 Found 'No'
+            19:41:11 Found 'Yes'
+            19:41:15 Found 'BuyNow (2)'
+            19:41:18 Found 'BuyNow (2)'
+            19:41:18 Found 'No'
+            19:41:19 Found 'Yes'
+            19:41:27 BUY: no cards found -> price 1200 to 1300
+            19:41:40 FindFilter: به Pricing نرسید
+            19:41:40 BUY: قیمت 1300 تنظیم نشد
+19:41:40  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:43:04  ✗ خطا        اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_194304_002_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:41:40 ✗ BUY failed (shot: 1011_194140_001_BUY.png)
+            19:41:40 [Marquee Matchups 3:11] try 1 of 3 failed, back to the squad
+            19:41:55 Pricing: club=True، قیمت نادیده گرفته شد
+            19:41:59 Looking for 'Rarity'
+            19:42:08 GOLD پیدا شد
+            19:42:10 Looking for 'Position'
+            19:42:20 Found 'Default'
+            19:42:24 LALIGA EA SPORTS پیدا شد
+            19:42:31 Found 'Any (4)'
+            19:42:39 Villarreal CF پیدا شد
+19:43:04  ↻ تلاش دوباره اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:43:27  ✗ خطا        اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C23\1011_194327_003_enter_slot.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:43:04 ✗ back_to_market failed (shot: 1011_194304_002_back_to_market.png)
+            19:43:04 [Marquee Matchups 3:11] try 2 of 3 failed, back to the squad
+19:43:29  ⏸ توقف موقت  اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  [Marquee Matchups 3:11] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C23\1011_194329_004_pause__Marquee_Matchups_3_11_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:43:27 ✗ enter_slot failed (shot: 1011_194327_003_enter_slot.png)
+            19:43:27 [Marquee Matchups 3:11] try 3 of 3 failed, back to the squad
+19:45:26  ■ توقف       اکانت friend › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 18:42  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-11 19:45:26  شروع اجرا  (ریموت C23، pid 9632) START_GAME=True  SHARED=True ════
+19:45:37  ✓ انجام شد   اکانت friend › شروع بازی › CheckAccount  |  اکانت friend روی کنسول است (گیمرتگ: friend whitney)
+19:47:36  ✓ انجام شد   اکانت friend  |  بازی باز شد و صفحه‌ی SBC آمد
+19:47:52  ‼ خطای کد    اکانت friend › چالش Marquee Matchups  |  ConnectionError: ریموت C23 در دسترس نیست (\\.\pipe\xbrp-C23). xbrp باز است؟
+                                ^^^^^^^^^^^^^^^^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 937, in until
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C23 در دسترس نیست (\\.\pipe\xbrp-C23). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:47:07 Looking for 'Ultimate'
+            19:47:08 Found 'Setting'
+            19:47:08 Found 'Ultimate'
+            19:47:08 Looking for 'Main Ultimate'
+            19:47:18 Looking for 'Main Ultimate'
+            19:47:29 Looking for 'SBC'
+            19:47:35 Found 'SBC'
+            19:47:36 Plan: Marquee Matchups (4)
+            19:47:36 Looking for set 'Marquee Matchups'
+            19:47:41 Looking for set 'Marquee Matchups'
+            19:47:47 Looking for set 'Marquee Matchups'
+            19:47:52 Looking for set 'Marquee Matchups'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 2:25  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 19:49:21  شروع اجرا  (ریموت C23، pid 25216) START_GAME=True  SHARED=True ════
+19:49:45  ✗ خطا        اکانت friend › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C23\1011_194945_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:49:21 ===== Account: friend (friend-whitney79@outlook.com) =====
+            19:49:21 ===== باز کردن بازی (تلاش 1) =====
+19:49:45  ↻ تلاش دوباره اکانت friend › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+19:50:10  ✗ خطا        اکانت friend › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C23\1011_195010_002_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:49:45 ✗ GotoHome failed (shot: 1011_194945_001_GotoHome.png)
+            19:49:45 ===== باز کردن بازی (تلاش 2) =====
+19:50:10  ↻ تلاش دوباره اکانت friend › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+19:50:35  ✗ خطا        اکانت friend › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C23\1011_195035_003_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:50:10 ✗ GotoHome failed (shot: 1011_195010_002_GotoHome.png)
+            19:50:10 ===== باز کردن بازی (تلاش 3) =====
+19:50:35  ⏸ توقف موقت  اکانت friend › شروع بازی › GotoHome  |  Start game (GotoHome) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where GotoHome starts
+          عکس: shots\C23\1011_195035_004_pause_Start_game_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:50:35 ✗ GotoHome failed (shot: 1011_195035_003_GotoHome.png)
+19:51:56  ▶ ادامه      اکانت friend › شروع بازی › GotoHome  |  بعد از 1:20 توقف
+19:52:07  ✓ انجام شد   اکانت friend › شروع بازی › CheckAccount  |  اکانت friend روی کنسول است (گیمرتگ: friend whitney)
+19:54:16  ✓ انجام شد   اکانت friend  |  بازی باز شد و صفحه‌ی SBC آمد
+19:54:59  ·            اکانت friend › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:55:00  ·            اکانت friend › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:55:02  ·            اکانت friend › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:55:03  ·            اکانت friend › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+19:55:03  ✓ انجام شد   اکانت friend  |  اکانت friend تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: friend  |  مدت 5:42  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-12 13:11:30  شروع اجرا  (ریموت C23، pid 15416) START_GAME=True  SHARED=True ════
+13:11:37  ✓ انجام شد   اکانت Holi › شروع بازی › CheckAccount  |  اکانت Holi روی کنسول است (گیمرتگ: Holi#5772)
+13:13:40  ✓ انجام شد   اکانت Holi  |  بازی باز شد و صفحه‌ی SBC آمد
+13:14:14  ·            اکانت Holi › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+13:14:15  ·            اکانت Holi › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+13:14:16  ·            اکانت Holi › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+13:14:17  ·            اکانت Holi › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+13:14:17  ✓ انجام شد   اکانت Holi  |  اکانت Holi تمام شد
+13:14:28  ·            اکانت friend › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Ytt Tree' — اکانت لازم: friend
+13:14:46  ✓ انجام شد   اکانت friend › شروع بازی › CheckAccount  |  اکانت friend روی کنسول است (گیمرتگ: Friend#7396)
+13:16:54  ✓ انجام شد   اکانت friend  |  بازی باز شد و صفحه‌ی SBC آمد
+13:17:28  ·            اکانت friend › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+13:17:29  ·            اکانت friend › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+13:17:30  ·            اکانت friend › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+13:17:34  ·            اکانت friend › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+13:17:34  ✓ انجام شد   اکانت friend  |  اکانت friend تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Holi, friend  |  مدت 6:04  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

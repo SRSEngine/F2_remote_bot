@@ -1,0 +1,269 @@
+
+════ 2026-10-11 16:30:14  شروع اجرا  (ریموت C22، pid 27332) START_GAME=True  SHARED=True ════
+16:32:40  ■ توقف       اکانت bolton › شروع بازی › GotoHome  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:30:14 ===== Account: bolton (bolton_lacey1@outlook.com) =====
+            16:30:14 ===== باز کردن بازی (تلاش 1) =====
+════ پایان: ✗ ریموت قطع  |  مدت 2:26  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 17:07:51  شروع اجرا  (ریموت C22، pid 20320) START_GAME=True  SHARED=True ════
+17:07:52  ✓ انجام شد   اکانت bolton › شروع بازی › CheckAccount  |  اکانت bolton روی کنسول است (گیمرتگ: Bolton#3958)
+17:10:06  ✓ انجام شد   اکانت bolton  |  بازی باز شد و صفحه‌ی SBC آمد
+17:10:47  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1  |  Start challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C22\1011_171047_001_pause_Start_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:10:07 Looking for set 'Marquee Matchups'
+            17:10:12 Looking for set 'Marquee Matchups'
+            17:10:14 SBC intro: Advance
+            17:10:16 SBC intro: Advance
+            17:10:18 SBC intro: Advance
+            17:10:20 SBC intro: Advance
+            17:10:21 SBC intro: Advance
+            17:10:23 Set Marquee Matchups: 4 challenge(s)
+            17:10:23 ===== Marquee Matchups 1 =====
+            17:10:23 Marquee1.csv: 11 rows
+            17:10:26 Challenge 1: وارد شد
+            17:10:26 Looking for 'Challenge'
+17:10:53  ▶ ادامه      اکانت bolton › چالش Marquee Matchups 1  |  بعد از 0:05 توقف
+17:11:18  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1  |  Start challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C22\1011_171118_002_pause_Start_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:10:57 Looking for 'Challenge'
+17:11:26  ▶ ادامه      اکانت bolton › چالش Marquee Matchups 1  |  بعد از 0:08 توقف
+17:11:49  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1  |  Start challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C22\1011_171149_003_pause_Start_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:11:27 Looking for 'Challenge'
+            17:11:29 Found 'Sub'
+17:12:05  ▶ ادامه      اکانت bolton › چالش Marquee Matchups 1  |  بعد از 0:16 توقف
+17:12:29  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1  |  Start challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C22\1011_171229_004_pause_Start_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:12:06 Looking for 'Challenge'
+            17:12:08 Found 'Sub'
+17:18:22  ■ توقف       اکانت bolton › چالش Marquee Matchups 1  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 10:30  |  خطا 0، تلاش دوباره 0، توقف موقت 4، خطای کد 0 ════
+
+════ 2026-10-11 17:18:22  شروع اجرا  (ریموت C22، pid 21460) START_GAME=True  SHARED=True ════
+17:18:28  ✓ انجام شد   اکانت bolton › شروع بازی › CheckAccount  |  اکانت bolton روی کنسول است (گیمرتگ: Bolton#3958)
+17:20:54  ·            اکانت bolton › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+17:21:54  ✓ انجام شد   اکانت bolton  |  بازی باز شد و صفحه‌ی SBC آمد
+17:22:27  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1  |  Start challenge Marquee Matchups 1 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C22\1011_172227_001_pause_Start_challenge_Marquee_Matchups_1.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:21:26 Looking for 'Main Ultimate'
+            17:21:36 Looking for 'Main Ultimate'
+            17:21:48 Looking for 'SBC'
+            17:21:53 Found 'SBC'
+            17:21:54 Plan: Marquee Matchups (4)
+            17:21:54 Looking for set 'Marquee Matchups'
+            17:21:59 Looking for set 'Marquee Matchups'
+            17:22:03 Set Marquee Matchups: 4 challenge(s)
+            17:22:03 ===== Marquee Matchups 1 =====
+            17:22:03 Marquee1.csv: 11 rows
+            17:22:05 Challenge 1: وارد شد
+            17:22:05 Looking for 'Challenge'
+17:24:07  ▶ ادامه      اکانت bolton › چالش Marquee Matchups 1  |  بعد از 1:40 توقف
+17:24:26  ·            اکانت bolton › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+17:25:06  ✓ انجام شد   اکانت bolton › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+17:25:40  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_172540_002_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:24:20 Squad cleared
+            17:24:26 [Marquee Matchups 1:1/11] Bronze | England | GK | OFF | OFF | 200
+            17:24:37 Pricing: club=True، قیمت نادیده گرفته شد
+            17:24:44 Found 'Top9'
+            17:24:46 England پیدا شد
+            17:24:46 Looking for 'Rarity'
+            17:24:53 Bronze پیدا شد
+            17:24:55 Looking for 'Position'
+            17:25:03 Found in Club
+            17:25:06 [Marquee Matchups 1:2/11] Bronze | England | CB | OFF | OFF | 200
+            17:25:19 Pricing: club=True، قیمت نادیده گرفته شد
+            17:25:20 Looking for 'Position'
+17:25:40  ↻ تلاش دوباره اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:26:37  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_172637_003_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:25:40 ✗ back_to_market failed (shot: 1011_172540_002_back_to_market.png)
+            17:25:40 [Marquee Matchups 1:2] try 1 of 3 failed, back to the squad
+            17:25:53 Pricing: club=True، قیمت نادیده گرفته شد
+            17:26:00 Found 'Top9'
+            17:26:01 England پیدا شد
+            17:26:02 Looking for 'Rarity'
+            17:26:09 Bronze پیدا شد
+            17:26:11 Looking for 'Position'
+17:26:37  ↻ تلاش دوباره اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:27:34  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_172734_004_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:26:37 ✗ back_to_market failed (shot: 1011_172637_003_back_to_market.png)
+            17:26:37 [Marquee Matchups 1:2] try 2 of 3 failed, back to the squad
+            17:26:50 Pricing: club=True، قیمت نادیده گرفته شد
+            17:26:57 Found 'Top9'
+            17:26:59 England پیدا شد
+            17:26:59 Looking for 'Rarity'
+            17:27:06 Bronze پیدا شد
+            17:27:08 Looking for 'Position'
+17:27:36  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  [Marquee Matchups 1:2] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C22\1011_172736_005_pause__Marquee_Matchups_1_2_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:27:34 ✗ back_to_market failed (shot: 1011_172734_004_back_to_market.png)
+            17:27:34 [Marquee Matchups 1:2] try 3 of 3 failed, back to the squad
+17:43:19  ▶ ادامه      اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بعد از 15:42 توقف
+17:44:15  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_174415_006_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:43:30 Pricing: club=True، قیمت نادیده گرفته شد
+            17:43:37 Found 'Top9'
+            17:43:39 England پیدا شد
+            17:43:40 Looking for 'Rarity'
+            17:43:47 Bronze پیدا شد
+            17:43:49 Looking for 'Position'
+17:44:15  ↻ تلاش دوباره اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:45:12  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_174512_007_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:44:15 ✗ back_to_market failed (shot: 1011_174415_006_back_to_market.png)
+            17:44:15 [Marquee Matchups 1:2] try 1 of 3 failed, back to the squad
+            17:44:27 Pricing: club=True، قیمت نادیده گرفته شد
+            17:44:34 Found 'Top9'
+            17:44:36 England پیدا شد
+            17:44:37 Looking for 'Rarity'
+            17:44:44 Bronze پیدا شد
+            17:44:46 Looking for 'Position'
+17:45:12  ↻ تلاش دوباره اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:46:09  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_174609_008_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:45:12 ✗ back_to_market failed (shot: 1011_174512_007_back_to_market.png)
+            17:45:12 [Marquee Matchups 1:2] try 2 of 3 failed, back to the squad
+            17:45:25 Pricing: club=True، قیمت نادیده گرفته شد
+            17:45:31 Found 'Top9'
+            17:45:33 England پیدا شد
+            17:45:34 Looking for 'Rarity'
+            17:45:41 Bronze پیدا شد
+            17:45:43 Looking for 'Position'
+17:46:11  ⏸ توقف موقت  اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  [Marquee Matchups 1:2] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C22\1011_174611_009_pause__Marquee_Matchups_1_2_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:46:09 ✗ back_to_market failed (shot: 1011_174609_008_back_to_market.png)
+            17:46:09 [Marquee Matchups 1:2] try 3 of 3 failed, back to the squad
+17:49:07  ▶ ادامه      اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بعد از 2:55 توقف
+17:50:03  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_175003_010_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:49:18 Pricing: club=True، قیمت نادیده گرفته شد
+            17:49:25 Found 'Top9'
+            17:49:27 England پیدا شد
+            17:49:28 Looking for 'Rarity'
+            17:49:35 Bronze پیدا شد
+            17:49:37 Looking for 'Position'
+17:50:03  ↻ تلاش دوباره اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:51:00  ✗ خطا        اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C22\1011_175100_011_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:50:03 ✗ back_to_market failed (shot: 1011_175003_010_back_to_market.png)
+            17:50:03 [Marquee Matchups 1:2] try 1 of 3 failed, back to the squad
+            17:50:16 Pricing: club=True، قیمت نادیده گرفته شد
+            17:50:22 Found 'Top9'
+            17:50:24 England پیدا شد
+            17:50:25 Looking for 'Rarity'
+            17:50:32 Bronze پیدا شد
+            17:50:34 Looking for 'Position'
+17:51:00  ↻ تلاش دوباره اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+17:51:13  ■ توقف       اکانت bolton › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:51:00 ✗ back_to_market failed (shot: 1011_175100_011_back_to_market.png)
+            17:51:00 [Marquee Matchups 1:2] try 2 of 3 failed, back to the squad
+            17:51:11 Pricing: club=True، قیمت نادیده گرفته شد
+════ پایان: ■ توقف از پنل  |  مدت 32:50  |  خطا 8، تلاش دوباره 6، توقف موقت 3، خطای کد 0 ════
+
+════ 2026-10-11 18:38:19  شروع اجرا  (ریموت C22، pid 26392) START_GAME=True  SHARED=True ════
+18:38:43  ✗ خطا        اکانت randall › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\C22\1011_183843_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:38:19 ===== Account: randall (randall-jerome72@outlook.com) =====
+            18:38:19 ===== باز کردن بازی (تلاش 1) =====
+18:38:43  ↻ تلاش دوباره اکانت randall › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:39:13  ·            اکانت randall › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'bolton lacey' — اکانت لازم: randall
+18:39:37  ⏸ توقف موقت  اکانت randall › شروع بازی › CheckAccount  |  Account randall on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to randall (randall-jerome72@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C22\1011_183937_002_pause_Account_randall_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:38:43 ✗ GotoHome failed (shot: 1011_183843_001_GotoHome.png)
+            18:38:43 ===== باز کردن بازی (تلاش 2) =====
+            18:39:13 Account: 'bolton lacey' on console, switching to randall
+            18:39:13 Switch account -> randall
+            18:39:36 Switch: account randall is not added on this console (not in the Who are you? list)
+18:40:03  ▶ ادامه      اکانت randall › شروع بازی › CheckAccount  |  بعد از 0:25 توقف
+18:40:14  ·            اکانت randall › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Bolton#3958' — اکانت لازم: randall
+18:40:36  ⏸ توقف موقت  اکانت randall › شروع بازی › CheckAccount  |  Account randall on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to randall (randall-jerome72@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C22\1011_184036_003_pause_Account_randall_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:40:14 Account: 'Bolton#3958' on console, switching to randall
+            18:40:14 Switch account -> randall
+            18:40:35 Switch: account randall is not added on this console (not in the Who are you? list)
+18:41:52  ▶ ادامه      اکانت randall › شروع بازی › CheckAccount  |  بعد از 1:16 توقف
+18:42:04  ·            اکانت randall › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'bolton lacey' — اکانت لازم: randall
+18:42:25  ⏸ توقف موقت  اکانت randall › شروع بازی › CheckAccount  |  Account randall on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to randall (randall-jerome72@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C22\1011_184225_004_pause_Account_randall_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:42:04 Account: 'bolton lacey' on console, switching to randall
+            18:42:04 Switch account -> randall
+            18:42:24 Switch: account randall is not added on this console (not in the Who are you? list)
+18:43:40  ▶ ادامه      اکانت randall › شروع بازی › CheckAccount  |  بعد از 1:14 توقف
+18:43:51  ·            اکانت randall › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Bolton#3958' — اکانت لازم: randall
+18:44:13  ⏸ توقف موقت  اکانت randall › شروع بازی › CheckAccount  |  Account randall on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to randall (randall-jerome72@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C22\1011_184413_005_pause_Account_randall_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:43:51 Account: 'Bolton#3958' on console, switching to randall
+            18:43:51 Switch account -> randall
+            18:44:12 Switch: account randall is not added on this console (not in the Who are you? list)
+18:44:17  ▶ ادامه      اکانت randall › شروع بازی › CheckAccount  |  بعد از 0:03 توقف
+18:44:32  ·            اکانت randall › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Bolton#3958' — اکانت لازم: randall
+18:44:54  ⏸ توقف موقت  اکانت randall › شروع بازی › CheckAccount  |  Account randall on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to randall (randall-jerome72@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C22\1011_184454_006_pause_Account_randall_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:44:32 Account: 'Bolton#3958' on console, switching to randall
+            18:44:32 Switch account -> randall
+            18:44:53 Switch: account randall is not added on this console (not in the Who are you? list)
+18:45:35  ▶ ادامه      اکانت randall › شروع بازی › CheckAccount  |  بعد از 0:41 توقف
+18:45:44  ·            اکانت randall › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Bolton#3958' — اکانت لازم: randall
+18:46:05  ⏸ توقف موقت  اکانت randall › شروع بازی › CheckAccount  |  Account randall on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to randall (randall-jerome72@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\C22\1011_184605_007_pause_Account_randall_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:45:44 Account: 'Bolton#3958' on console, switching to randall
+            18:45:44 Switch account -> randall
+            18:46:04 Switch: account randall is not added on this console (not in the Who are you? list)
+18:53:19  ▶ ادامه      اکانت randall › شروع بازی › CheckAccount  |  بعد از 7:13 توقف
+18:53:20  ✓ انجام شد   اکانت randall › شروع بازی › CheckAccount  |  اکانت randall روی کنسول است (گیمرتگ: Rendall#3680)
+19:01:27  ·            اکانت randall › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+19:02:18  ✓ انجام شد   اکانت randall  |  بازی باز شد و صفحه‌ی SBC آمد
+19:03:00  ·            اکانت randall › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:03:01  ·            اکانت randall › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:03:03  ·            اکانت randall › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:03:04  ·            اکانت randall › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+19:03:04  ✓ انجام شد   اکانت randall  |  اکانت randall تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: randall  |  مدت 24:45  |  خطا 1، تلاش دوباره 1، توقف موقت 6، خطای کد 0 ════

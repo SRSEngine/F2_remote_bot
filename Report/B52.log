@@ -1,0 +1,275 @@
+
+════ 2026-10-14 16:24:08  شروع اجرا  (ریموت B52، pid 29128) START_GAME=True  SHARED=True ════
+16:24:09  ✓ انجام شد   اکانت Mack › شروع بازی › CheckAccount  |  اکانت Mack روی کنسول است (گیمرتگ: Mack#1806)
+16:26:00  ■ توقف       اکانت Mack › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:24:40 Found 'Games'
+            16:24:44 Text in box: '26 Xbox Seril'
+            16:24:45 Found 'Games'
+            16:24:49 Text in box: '27 XBOX One'
+            16:24:49 Found 'One'
+            16:24:55 Looking for 'Ultimate'
+            16:25:05 Looking for 'Ultimate'
+            16:25:16 Looking for 'Ultimate'
+            16:25:26 Looking for 'Ultimate'
+            16:25:36 Looking for 'Ultimate'
+            16:25:46 Looking for 'Ultimate'
+            16:25:57 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 1:51  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 16:26:01  شروع اجرا  (ریموت B52، pid 24724) START_GAME=True  SHARED=True ════
+16:26:07  ·            اکانت Mack › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Rmoni Szerlong' — اکانت لازم: Mack
+16:26:28  ✓ انجام شد   اکانت Mack › شروع بازی › CheckAccount  |  اکانت Mack روی کنسول است (گیمرتگ: Mack Gaey)
+16:35:42  ‼ خطای کد    اکانت Mack › شروع بازی › FindSBC  |  ConnectionError: ریموت B52 در دسترس نیست (\\.\pipe\xbrp-B52). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت B52 در دسترس نیست (\\.\pipe\xbrp-B52). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:27:56 Looking for 'Ultimate'
+            16:27:56 Found 'Setting'
+            16:27:58 Looking for 'Ultimate'
+            16:27:58 Found 'Setting'
+            16:27:58 Found 'Ultimate'
+            16:27:58 Looking for 'Main Ultimate'
+            16:28:09 Looking for 'Main Ultimate'
+            16:28:21 Looking for 'Main Ultimate'
+            16:29:15 Looking for 'Main Ultimate'
+            16:29:51 Top coins: '599K' -> 599000
+            16:29:51 Coins: 599000
+            16:29:52 Looking for 'SBC'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 9:40  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-14 20:16:00  شروع اجرا  (ریموت B52، pid 18972) START_GAME=True  SHARED=True ════
+20:16:06  ·            اکانت Mack › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+1 orofile' — اکانت لازم: Mack
+20:16:24  ✓ انجام شد   اکانت Mack › شروع بازی › CheckAccount  |  اکانت Mack روی کنسول است (گیمرتگ: Mack Gaey)
+20:17:18  ·            اکانت Mack › شروع بازی › FindUltimate  |  قطع ارتباط با سرور / اینترنت: You have lost your online connection. Check your home network. You will not be able to access FC's online features until  (عکس: shots\B52\1014_201718_001_server_lost.png)
+20:17:20  ·            اکانت Mack › شروع بازی › FindUltimate  |  FindUltimate: قطع ارتباط — You have lost your online connection. Check your home network. You will not be able to access FC's online features until
+20:17:20  ✗ خطا        اکانت Mack › شروع بازی › FindUltimate  |  FindUltimate نشد
+          تابع: FindUltimate ← start_game ← open_game ← main
+          عکس: shots\B52\1014_201720_002_FindUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:16:43 Text in box: '25 Xbox One'
+            20:16:44 Found 'Games'
+            20:16:47 Text in box: '25 Xbox Seri'
+            20:16:49 Found 'Games'
+            20:16:52 Text in box: '26 Xbox One'
+            20:16:53 Found 'Games'
+            20:16:57 Text in box: '26 Xbox Seril'
+            20:16:58 Found 'Games'
+            20:17:02 Text in box: '27 XBOX One'
+            20:17:02 Found 'One'
+            20:17:08 Looking for 'Ultimate'
+            20:17:18 ⚠ Connection lost: You have lost your online connection. Check your home network. You will not be able to access FC's o
+20:17:20  ↻ تلاش دوباره اکانت Mack › شروع بازی › FindUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+20:17:25  ✓ انجام شد   اکانت Mack › شروع بازی › CheckAccount  |  اکانت Mack روی کنسول است (گیمرتگ: Mack#1806)
+20:19:22  ✓ انجام شد   اکانت Mack  |  بازی باز شد و صفحه‌ی SBC آمد
+20:20:07  ·            اکانت Mack › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:20:08  ·            اکانت Mack › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:20:10  ·            اکانت Mack › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:20:11  ·            اکانت Mack › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:20:11  ✓ انجام شد   اکانت Mack  |  اکانت Mack تمام شد
+20:20:22  ·            اکانت Kathy › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Mack Gaey' — اکانت لازم: Kathy
+20:20:43  ✓ انجام شد   اکانت Kathy › شروع بازی › CheckAccount  |  اکانت Kathy روی کنسول است (گیمرتگ: KathY#8807)
+20:23:11  ✓ انجام شد   اکانت Kathy  |  بازی باز شد و صفحه‌ی SBC آمد
+20:23:56  ·            اکانت Kathy › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:23:57  ·            اکانت Kathy › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:23:59  ·            اکانت Kathy › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:24:00  ·            اکانت Kathy › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:24:00  ✓ انجام شد   اکانت Kathy  |  اکانت Kathy تمام شد
+20:24:11  ·            اکانت Keenan › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Kathy Lopo' — اکانت لازم: Keenan
+20:24:31  ✓ انجام شد   اکانت Keenan › شروع بازی › CheckAccount  |  اکانت Keenan روی کنسول است (گیمرتگ: Keenan#8755)
+20:26:33  ·            اکانت Keenan › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+20:26:40  ✓ انجام شد   اکانت Keenan  |  بازی باز شد و صفحه‌ی SBC آمد
+20:27:25  ·            اکانت Keenan › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+20:27:26  ·            اکانت Keenan › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+20:27:28  ·            اکانت Keenan › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:27:29  ·            اکانت Keenan › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:27:29  ✓ انجام شد   اکانت Keenan  |  اکانت Keenan تمام شد
+20:27:40  ·            اکانت Web one › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Keenan Boyer' — اکانت لازم: Web one
+20:28:05  ·            اکانت Web one › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '' — اکانت لازم: Web one
+20:28:05  ⏸ توقف موقت  اکانت Web one › شروع بازی › CheckAccount  |  Account Web one on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to Web one (nourmahmoud61401@outlook.com) and put the screen on Home
+          عکس: shots\B52\1014_202805_003_pause_Account_Web_one_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:27:26 ===== Marquee Matchups 3 =====
+            20:27:26 Marquee Matchups 3.csv: 11 rows
+            20:27:28 Challenge 3: قبلاً کامل شده (Completed)
+            20:27:28 ===== Marquee Matchups 4 =====
+            20:27:28 Marquee Matchups 4.csv: 11 rows
+            20:27:29 Challenge 4: قبلاً کامل شده (Completed)
+            20:27:29 ✓ Account done: Keenan
+            20:27:29 ===== Account: Web one (nourmahmoud61401@outlook.com) =====
+            20:27:29 ===== باز کردن بازی (تلاش 1) =====
+            20:27:40 Account: 'Keenan Boyer' on console, switching to Web one
+            20:27:40 Switch account -> Web one
+            20:27:53 Switch: found 'WebOne#3648' -> A
+20:31:41  ▶ ادامه      اکانت Web one › شروع بازی › CheckAccount  |  بعد از 3:36 توقف
+20:31:43  ✓ انجام شد   اکانت Web one › شروع بازی › CheckAccount  |  اکانت Web one روی کنسول است (گیمرتگ: WebOne#3648)
+20:33:55  ·            اکانت Web one › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+20:34:01  ✓ انجام شد   اکانت Web one  |  بازی باز شد و صفحه‌ی SBC آمد
+20:34:26  ·            اکانت Web one › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:35:07  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:35:26  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:36:00  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+20:36:31  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:37:46  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:38:18  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:39:29  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:40:20  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:41:09  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:43:12  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+20:44:54  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:45:10  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+20:45:33  ·            اکانت Web one › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+20:47:22  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:48:13  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:49:43  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:51:27  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:52:33  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:54:33  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:56:45  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:57:35  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:58:26  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:01:21  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+21:03:21  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+21:03:34  ✓ انجام شد   اکانت Web one › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+21:04:04  ·            اکانت Web one › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+21:05:14  ✗ خطا        اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\B52\1014_210514_004_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:03:56 Squad cleared
+            21:04:04 [Marquee Matchups 3:1/11] Silver | Brazil | GK | OFF | OFF | 550
+            21:04:17 Pricing: club=True، قیمت نادیده گرفته شد
+            21:04:26 Found 'Top9'
+            21:04:32 Brazil پیدا شد
+            21:04:33 Looking for 'Rarity'
+            21:04:44 Silver پیدا شد
+            21:04:46 Looking for 'Position'
+            21:05:01 GoFilter: به League نرسید
+            21:05:01 فیلتر League='OFF': تلاش 1 نشد
+            21:05:14 GoFilter: به League نرسید
+            21:05:14 فیلتر League='OFF': تلاش 2 نشد
+21:05:14  ↻ تلاش دوباره اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:05:52  ✗ خطا        اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\B52\1014_210552_005_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:05:14 ✗ فیلترهای Club failed (shot: 1014_210514_004_Club.png)
+            21:05:14 [Marquee Matchups 3:1] try 1 of 3 failed, back to the squad
+            21:05:26 Pricing: club=True، قیمت نادیده گرفته شد
+            21:05:39 GoFilter: به Country نرسید
+            21:05:39 فیلتر Region='Brazil': تلاش 1 نشد
+            21:05:52 GoFilter: به Country نرسید
+            21:05:52 فیلتر Region='Brazil': تلاش 2 نشد
+21:05:52  ↻ تلاش دوباره اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+21:06:36  ✗ خطا        اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  فیلترهای Club نشد
+          تابع: فیلترهای Club ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\B52\1014_210636_006_Club.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:05:52 ✗ فیلترهای Club failed (shot: 1014_210552_005_Club.png)
+            21:05:52 [Marquee Matchups 3:1] try 2 of 3 failed, back to the squad
+            21:06:06 Pricing: club=True، قیمت نادیده گرفته شد
+            21:06:23 GoFilter: به Country نرسید
+            21:06:23 فیلتر Region='Brazil': تلاش 1 نشد
+            21:06:36 GoFilter: به Country نرسید
+            21:06:36 فیلتر Region='Brazil': تلاش 2 نشد
+21:06:41  ⏸ توقف موقت  اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  [Marquee Matchups 3:1] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\B52\1014_210641_007_pause__Marquee_Matchups_3_1_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:06:36 ✗ فیلترهای Club failed (shot: 1014_210636_006_Club.png)
+            21:06:36 [Marquee Matchups 3:1] try 3 of 3 failed, back to the squad
+21:15:54  ▶ ادامه      اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بعد از 9:13 توقف
+21:17:49  ✗ کوین تمام  اکانت Web one › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  کوین اکانت Web one تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 3:1] price 400)
+          عکس: shots\B52\1014_211749_008_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:17:05 150
+            21:17:06 200
+            21:17:07 250
+            21:17:08 300
+            21:17:09 300
+            21:17:19 Found 'Top9'
+            21:17:22 Brazil پیدا شد
+            21:17:23 Looking for 'Rarity'
+            21:17:36 Silver پیدا شد
+            21:17:38 Looking for 'Position'
+            21:17:44 Looking for 'BuyNow' (قیمت 400)
+            21:17:49 BUY: out of coins (239 < 400)
+21:18:02  ·            اکانت kelby › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'tyh ey' — اکانت لازم: kelby
+21:18:30  ✓ انجام شد   اکانت kelby › شروع بازی › CheckAccount  |  اکانت kelby روی کنسول است (گیمرتگ: KelbY#2337)
+21:19:22  ·            اکانت kelby › شروع بازی › find_platform  |  find_platform نشد (لازم نیست، ادامه)
+21:22:03  ·            اکانت kelby › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+21:23:48  ✗ خطا        اکانت kelby › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\B52\1014_212348_009_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:21:52 Looking for 'Ultimate'
+            21:22:03 FindUltimate نشد؛ ادامه
+            21:22:03 Looking for 'Main Ultimate'
+            21:22:13 Looking for 'Main Ultimate'
+            21:22:24 Looking for 'Main Ultimate'
+            21:22:35 Looking for 'Main Ultimate'
+            21:22:45 Looking for 'Main Ultimate'
+            21:22:55 Looking for 'Main Ultimate'
+            21:23:06 Looking for 'Main Ultimate'
+            21:23:16 Looking for 'Main Ultimate'
+            21:23:27 Looking for 'Main Ultimate'
+            21:23:37 Looking for 'Main Ultimate'
+21:23:48  ↻ تلاش دوباره اکانت kelby › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+21:26:25  ·            اکانت kelby › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+21:28:08  ✗ خطا        اکانت kelby › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\B52\1014_212808_010_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:26:14 Looking for 'Ultimate'
+            21:26:25 FindUltimate نشد؛ ادامه
+            21:26:25 Looking for 'Main Ultimate'
+            21:26:35 Looking for 'Main Ultimate'
+            21:26:46 Looking for 'Main Ultimate'
+            21:26:56 Looking for 'Main Ultimate'
+            21:27:06 Looking for 'Main Ultimate'
+            21:27:17 Looking for 'Main Ultimate'
+            21:27:27 Looking for 'Main Ultimate'
+            21:27:37 Looking for 'Main Ultimate'
+            21:27:48 Looking for 'Main Ultimate'
+            21:27:58 Looking for 'Main Ultimate'
+21:28:08  ↻ تلاش دوباره اکانت kelby › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+21:30:44  ·            اکانت kelby › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+21:32:28  ✗ خطا        اکانت kelby › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\B52\1014_213228_011_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:30:34 Looking for 'Ultimate'
+            21:30:44 FindUltimate نشد؛ ادامه
+            21:30:45 Looking for 'Main Ultimate'
+            21:30:55 Looking for 'Main Ultimate'
+            21:31:05 Looking for 'Main Ultimate'
+            21:31:16 Looking for 'Main Ultimate'
+            21:31:26 Looking for 'Main Ultimate'
+            21:31:37 Looking for 'Main Ultimate'
+            21:31:47 Looking for 'Main Ultimate'
+            21:31:57 Looking for 'Main Ultimate'
+            21:32:08 Looking for 'Main Ultimate'
+            21:32:18 Looking for 'Main Ultimate'
+21:32:29  ⏸ توقف موقت  اکانت kelby › شروع بازی › MainUltimate  |  Start game (MainUltimate) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where MainUltimate starts
+          عکس: shots\B52\1014_213229_012_pause_Start_game_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:32:28 ✗ MainUltimate failed (shot: 1014_213228_011_MainUltimate.png)
+21:46:16  ▶ ادامه      اکانت kelby › شروع بازی › MainUltimate  |  بعد از 13:47 توقف
+21:52:58  ■ توقف       اکانت kelby › شروع بازی › MainUltimate  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:47:36 ===== باز کردن بازی (تلاش 1) =====
+            21:47:36 Looking for 'Main Ultimate'
+            21:50:22 Looking for 'Main Ultimate'
+════ پایان: ✗ ریموت قطع  |  مدت 1:36:57  |  خطا 7، تلاش دوباره 5، توقف موقت 3، خطای کد 0 ════

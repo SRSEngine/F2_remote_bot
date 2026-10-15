@@ -1,0 +1,935 @@
+
+════ 2026-10-13 19:31:26  شروع اجرا  (ریموت D11، pid 20216) START_GAME=True  SHARED=True ════
+19:31:33  ·            اکانت Felix › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+1 orofile' — اکانت لازم: Felix
+19:31:50  ✓ انجام شد   اکانت Felix › شروع بازی › CheckAccount  |  اکانت Felix روی کنسول است (گیمرتگ: felix Todd)
+19:34:07  ✓ انجام شد   اکانت Felix  |  بازی باز شد و صفحه‌ی SBC آمد
+19:34:24  ·            اکانت Felix › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:34:44  ·            اکانت Felix › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+19:36:22  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:37:08  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:38:32  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:39:53  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:40:51  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:41:36  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:42:51  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:43:38  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:44:24  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:46:30  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+19:47:21  ■ توقف       اکانت Felix › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:46:25 Card 1: Rebert Så... -> buy
+            19:46:28 Found 'No'
+            19:46:29 Found 'Yes'
+            19:46:30 Bought (قیمت 1200)
+            19:46:30 Squad players (bought): Vigouroux, •arke, Låcchesi, Cdulibaly, fonway, Caruso, Bellegarde, wift, Rebert Så...
+            19:46:30 [Marquee Matchups 2:11/11] Silver | OFF | ST | OFF | EFL Championship | 550
+            19:46:44 Pricing: club=True، قیمت نادیده گرفته شد
+            19:46:44 Looking for 'Rarity'
+            19:46:52 Silver پیدا شد
+            19:46:54 Looking for 'Position'
+            19:47:01 Found 'Default'
+            19:47:03 EFL Championship پیدا شد
+════ پایان: ■ توقف از پنل  |  مدت 15:54  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-13 19:47:23  شروع اجرا  (ریموت D11، pid 1344) START_GAME=True  SHARED=True ════
+19:47:28  ✓ انجام شد   اکانت Felix › شروع بازی › CheckAccount  |  اکانت Felix روی کنسول است (گیمرتگ: Felix#90679)
+19:47:51  ■ توقف       اکانت Felix › شروع بازی › find_platform  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:47:23 ===== Account: Felix (Felix.todd56@outlook.com) =====
+            19:47:23 ===== باز کردن بازی (تلاش 1) =====
+            19:47:28 Account OK: Felix (Felix#90679)
+            19:47:29 Looking for 'Recent game'
+            19:47:31 Looking for 'Recent game'
+            19:47:39 بازی بسته شد
+            19:47:43 Found 'My games' -> entering
+            19:47:44 Found 'Games'
+            19:47:48 Text in box: '26 Xbox One'
+            19:47:49 Found 'Games'
+════ پایان: ■ توقف از پنل  |  مدت 0:28  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-13 19:47:52  شروع اجرا  (ریموت D11، pid 17928) START_GAME=True  SHARED=True ════
+19:47:58  ✓ انجام شد   اکانت Felix › شروع بازی › CheckAccount  |  اکانت Felix روی کنسول است (گیمرتگ: Felix#90679)
+19:50:13  ✓ انجام شد   اکانت Felix  |  بازی باز شد و صفحه‌ی SBC آمد
+19:50:22  ·            اکانت Felix › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:50:40  ·            اکانت Felix › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+19:51:24  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:52:19  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:52:57  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:53:32  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:53:51  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:54:37  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:55:24  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:55:42  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:56:01  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:56:53  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+19:58:30  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:59:12  ✓ انجام شد   اکانت Felix › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+19:59:13  ·            اکانت Felix › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:59:14  ·            اکانت Felix › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+19:59:14  ✓ انجام شد   اکانت Felix  |  اکانت Felix تمام شد
+19:59:25  ·            اکانت SOPHIA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'felix Todd' — اکانت لازم: SOPHIA
+19:59:45  ✓ انجام شد   اکانت SOPHIA › شروع بازی › CheckAccount  |  اکانت SOPHIA روی کنسول است (گیمرتگ: Sophia#76665)
+20:01:35  ·            اکانت SOPHIA › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+20:01:42  ✓ انجام شد   اکانت SOPHIA  |  بازی باز شد و صفحه‌ی SBC آمد
+20:02:17  ·            اکانت SOPHIA › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:03:42  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:04:28  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:05:43  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+20:06:13  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:07:21  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:07:49  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:08:40  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:09:22  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:10:07  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:12:03  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+20:13:30  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:13:46  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+20:14:07  ·            اکانت SOPHIA › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+20:15:45  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:16:32  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:17:56  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:19:14  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:20:00  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:21:42  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:23:32  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:24:19  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:25:05  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:27:06  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+20:28:40  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:28:55  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+20:29:16  ·            اکانت SOPHIA › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+20:30:48  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:31:35  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:34:03  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+20:35:38  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:36:25  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:37:11  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:37:58  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:39:59  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+20:41:34  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:44:11  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+20:45:45  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+20:46:00  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+20:46:21  ·            اکانت SOPHIA › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+20:47:14  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+20:49:23  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+20:51:09  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+20:52:34  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+20:53:57  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+20:55:16  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+20:56:50  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+20:57:50  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:00:22  ✗ خطا        اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1013_210022_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:59:55 Found 'Yes'
+            21:00:03 Card 1: Allister expired -> next
+            21:00:04 Card 2: Allister expired -> next
+            21:00:05 Card 3: Allister -> buy
+            21:00:05 Found 'No'
+            21:00:06 Found 'Yes'
+            21:00:07 Card 1: Mac Allister -> buy
+            21:00:08 Found 'No'
+            21:00:08 Found 'Yes'
+            21:00:09 BUY: 3 buys failed -> price 1300 to 1400
+            21:00:22 FindFilter: به Pricing نرسید
+            21:00:22 BUY: قیمت 1400 تنظیم نشد
+21:00:22  ↻ تلاش دوباره اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:00:34  ✗ خطا        اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1013_210034_002_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:00:22 ✗ BUY failed (shot: 1013_210022_001_BUY.png)
+            21:00:22 [Marquee Matchups 4:9] try 1 of 3 failed, back to the squad
+            21:00:23 پاپ‌آپ 'Expired' بسته شد
+            21:00:24 پاپ‌آپ 'Expired' بسته شد
+            21:00:26 پاپ‌آپ 'Expired' بسته شد
+            21:00:27 پاپ‌آپ 'Expired' بسته شد
+            21:00:29 پاپ‌آپ 'Expired' بسته شد
+            21:00:30 پاپ‌آپ 'Expired' بسته شد
+            21:00:32 پاپ‌آپ 'Expired' بسته شد
+            21:00:33 پاپ‌آپ 'Expired' بسته شد
+21:00:34  ⏸ توقف موقت  اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  [Marquee Matchups 4:9] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\D11\1013_210034_003_pause__Marquee_Matchups_4_9_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:00:34 ✗ back_to_squad failed (shot: 1013_210034_002_back_to_squad.png)
+21:39:31  ▶ ادامه      اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بعد از 38:56 توقف
+21:41:40  ✓ انجام شد   اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+21:42:43  ✗ کوین تمام  اکانت SOPHIA › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  کوین اکانت SOPHIA تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 4:10] price 850)
+          عکس: shots\D11\1013_214243_004_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:42:25 400
+            21:42:26 450
+            21:42:26 500
+            21:42:27 550
+            21:42:28 600
+            21:42:28 650
+            21:42:29 700
+            21:42:30 750
+            21:42:30 800
+            21:42:33 Looking for 'Position'
+            21:42:39 Looking for 'BuyNow' (قیمت 850)
+            21:42:43 BUY: out of coins (484 < 850)
+21:42:54  ·            اکانت Liam › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Sophia Brown' — اکانت لازم: Liam
+21:43:18  ✓ انجام شد   اکانت Liam › شروع بازی › CheckAccount  |  اکانت Liam روی کنسول است (گیمرتگ: liam#91694)
+21:45:26  ✓ انجام شد   اکانت Liam  |  بازی باز شد و صفحه‌ی SBC آمد
+21:46:03  ·            اکانت Liam › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+21:47:31  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:48:15  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:49:31  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+21:50:03  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:51:17  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:51:46  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:52:39  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:52:58  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:53:42  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:55:41  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+21:57:12  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+21:57:30  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+21:57:52  ·            اکانت Liam › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+21:59:34  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:00:46  ✗ خطا        اکانت Liam › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1013_220046_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            22:00:21 Card 1: pakio -> buy
+            22:00:24 Found 'No'
+            22:00:25 Found 'Yes'
+            22:00:26 Card 1: '(pakio -> buy
+            22:00:27 Found 'No'
+            22:00:27 Found 'Yes'
+            22:00:29 Card 1: pakio -> buy
+            22:00:30 Found 'No'
+            22:00:30 Found 'Yes'
+            22:00:31 BUY: 3 buys failed -> price 550 to 650
+            22:00:46 FindFilter: به Pricing نرسید
+            22:00:46 BUY: قیمت 650 تنظیم نشد
+22:00:46  ↻ تلاش دوباره اکانت Liam › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+22:02:29  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد (تلاش 2)
+22:03:58  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+22:05:21  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:06:13  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:07:01  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+22:08:20  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:09:08  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:10:01  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:12:16  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+22:13:55  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:14:11  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+22:14:34  ·            اکانت Liam › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+22:16:10  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:16:59  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:19:34  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+22:21:14  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:22:02  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:22:03  ‼ خطای کد    اکانت Liam › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  ConnectionError: ریموت D11 در دسترس نیست (\\.\pipe\xbrp-D11). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت D11 در دسترس نیست (\\.\pipe\xbrp-D11). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            22:21:51 400
+            22:21:52 450
+            22:21:52 500
+            22:21:55 Looking for 'Position'
+            22:21:55 Looking for 'BuyNow' (قیمت 550)
+            22:21:59 My Coins: 15960
+            22:22:00 Card 1: anilo -> buy
+            22:22:00 Found 'No'
+            22:22:01 Found 'Yes'
+            22:22:02 Bought (قیمت 550)
+            22:22:02 Squad players (bought): Diego Calai, Matheus S..., Sergi Card..., uan, anilo
+            22:22:02 [Marquee Matchups 3:6/11] Silver | Brazil | RM | OFF | OFF | 550
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 2:34:10  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-14 15:08:53  شروع اجرا  (ریموت D11، pid 23436) START_GAME=True  SHARED=True ════
+15:08:59  ·            اکانت Liam › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jerusalem Simmons' — اکانت لازم: Liam
+15:09:20  ✓ انجام شد   اکانت Liam › شروع بازی › CheckAccount  |  اکانت Liam روی کنسول است (گیمرتگ: liam#91694)
+15:10:06  ·            اکانت Liam › شروع بازی › FindUltimate  |  قطع ارتباط با سرور / اینترنت: You have lost your online connection. Check your home network. You will not be able to access FC's online features until  (عکس: shots\D11\1014_151006_001_server_lost.png)
+15:10:08  ·            اکانت Liam › شروع بازی › FindUltimate  |  FindUltimate: قطع ارتباط — You have lost your online connection. Check your home network. You will not be able to access FC's online features until
+15:10:09  ✗ خطا        اکانت Liam › شروع بازی › FindUltimate  |  FindUltimate نشد
+          تابع: FindUltimate ← start_game ← open_game ← main
+          عکس: shots\D11\1014_151008_002_FindUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:09:25 Looking for 'Recent game'
+            15:09:31 منوی بازی باز نشد؛ بازی اخیری نیست
+            15:09:36 Found 'My games' -> entering
+            15:09:37 Found 'Games'
+            15:09:41 Text in box: '26 Xbox One'
+            15:09:42 Found 'Games'
+            15:09:46 Text in box: '26 Xbox Seril'
+            15:09:47 Found 'Games'
+            15:09:50 Text in box: '27 XBOX One'
+            15:09:50 Found 'One'
+            15:09:56 Looking for 'Ultimate'
+            15:10:06 ⚠ Connection lost: You have lost your online connection. Check your home network. You will not be able to access FC's o
+15:10:09  ↻ تلاش دوباره اکانت Liam › شروع بازی › FindUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+15:10:14  ✓ انجام شد   اکانت Liam › شروع بازی › CheckAccount  |  اکانت Liam روی کنسول است (گیمرتگ: liam#91694)
+15:12:01  ✓ انجام شد   اکانت Liam  |  بازی باز شد و صفحه‌ی SBC آمد
+15:12:10  ·            اکانت Liam › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:12:11  ·            اکانت Liam › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:12:30  ·            اکانت Liam › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+15:13:12  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:13:31  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:14:40  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+15:15:28  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:15:48  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:17:07  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:17:59  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:20:09  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+15:21:51  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:24:39  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+15:25:26  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+15:25:44  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+15:26:07  ·            اکانت Liam › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+15:29:24  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+15:31:35  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:33:29  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+15:35:04  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+15:36:33  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:37:56  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+15:39:32  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:40:36  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:43:33  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+15:44:00  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+15:45:53  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:46:39  ✓ انجام شد   اکانت Liam › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+15:46:39  ✓ انجام شد   اکانت Liam  |  اکانت Liam تمام شد
+15:46:50  ·            اکانت MADDIE › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'liam smith' — اکانت لازم: MADDIE
+15:47:16  ✓ انجام شد   اکانت MADDIE › شروع بازی › CheckAccount  |  اکانت MADDIE روی کنسول است (گیمرتگ: Maddie#6499)
+15:49:21  ·            اکانت MADDIE › شروع بازی › ReadCoins  |  ReadCoins نشد (لازم نیست، ادامه)
+15:49:28  ✓ انجام شد   اکانت MADDIE  |  بازی باز شد و صفحه‌ی SBC آمد
+15:49:47  ·            اکانت MADDIE › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:49:50  ·            اکانت MADDIE › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:49:51  ·            اکانت MADDIE › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:50:13  ·            اکانت MADDIE › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+15:51:11  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+15:53:26  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:54:17  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+15:56:01  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+15:57:35  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+15:59:01  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+16:00:44  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:01:49  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:04:35  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+16:05:03  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+16:06:59  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:07:46  ✓ انجام شد   اکانت MADDIE › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+16:07:46  ✓ انجام شد   اکانت MADDIE  |  اکانت MADDIE تمام شد
+16:07:56  ·            اکانت BRIDGETTE › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Madera Teddy' — اکانت لازم: BRIDGETTE
+16:08:18  ✓ انجام شد   اکانت BRIDGETTE › شروع بازی › CheckAccount  |  اکانت BRIDGETTE روی کنسول است (گیمرتگ: Bridgette#3544)
+16:10:05  ✓ انجام شد   اکانت BRIDGETTE  |  بازی باز شد و صفحه‌ی SBC آمد
+16:10:41  ·            اکانت BRIDGETTE › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+16:12:07  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:12:50  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:14:04  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+16:14:34  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:15:43  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:16:11  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:17:03  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:17:45  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:18:29  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:20:33  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+16:22:09  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+16:22:28  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+16:22:52  ·            اکانت BRIDGETTE › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+16:24:42  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:25:33  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:27:06  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+
+════ 2026-10-14 16:40:35  شروع اجرا  (ریموت D11، pid 6788) START_GAME=True  SHARED=True ════
+16:40:55  ·            اکانت BRIDGETTE › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'felix Todd' — اکانت لازم: BRIDGETTE
+16:41:13  ✓ انجام شد   اکانت BRIDGETTE › شروع بازی › CheckAccount  |  اکانت BRIDGETTE روی کنسول است (گیمرتگ: bridgette murazik79)
+16:43:22  ✓ انجام شد   اکانت BRIDGETTE  |  بازی باز شد و صفحه‌ی SBC آمد
+16:43:32  ·            اکانت BRIDGETTE › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:43:51  ·            اکانت BRIDGETTE › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+16:44:38  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:44:58  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:45:38  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+16:47:14  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:48:06  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:49:55  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+16:51:46  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:52:35  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:53:24  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:55:33  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+16:57:15  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+16:57:28  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+16:57:51  ·            اکانت BRIDGETTE › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+16:59:31  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:00:21  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+17:04:36  ✗ خطا        اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1014_170436_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:04:10 800
+            17:04:10 850
+            17:04:11 900
+            17:04:12 950
+            17:04:12 1000
+            17:04:13 1100
+            17:04:14 1200
+            17:04:15 1300
+            17:04:15 1400
+            17:04:21 BUY: no cards found -> price 1500 to 1600
+            17:04:36 FindFilter: به Pricing نرسید
+            17:04:36 BUY: قیمت 1600 تنظیم نشد
+17:04:36  ↻ تلاش دوباره اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+17:09:27  ■ توقف       اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:06:14 850
+            17:06:14 900
+            17:06:15 950
+            17:06:16 1000
+            17:06:17 1100
+            17:06:26 Found 'Top9'
+            17:06:29 Spain پیدا شد
+            17:06:30 Looking for 'Rarity'
+            17:06:39 GOLD پیدا شد
+            17:06:41 Looking for 'Position'
+            17:06:50 Found 'Default'
+            17:06:55 LALIGA EA SPORTS پیدا شد
+════ پایان: ✗ ریموت قطع  |  مدت 28:51  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 18:31:21  شروع اجرا  (ریموت D11، pid 5480) START_GAME=True  SHARED=True ════
+18:33:50  ■ توقف       -  |  ریموت وصل نشد: Remote still not healthy after 3 reconnects
+════ پایان: ✗ ریموت قطع  |  مدت 2:29  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 18:54:09  شروع اجرا  (ریموت D11، pid 23204) START_GAME=True  SHARED=True ════
+18:54:13  ■ توقف       اکانت BRIDGETTE › شروع بازی › GotoHome  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:54:09 ===== Account: BRIDGETTE (bridgette_murazik79@outlook.com) =====
+            18:54:09 ===== باز کردن بازی (تلاش 1) =====
+════ پایان: ■ توقف از پنل  |  مدت 0:03  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-14 18:54:14  شروع اجرا  (ریموت D11، pid 25880) START_GAME=True  SHARED=True ════
+18:54:38  ✗ خطا        اکانت BRIDGETTE › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\D11\1014_185438_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:54:14 ===== Account: BRIDGETTE (bridgette_murazik79@outlook.com) =====
+            18:54:14 ===== باز کردن بازی (تلاش 1) =====
+18:54:38  ↻ تلاش دوباره اکانت BRIDGETTE › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:55:01  ✗ خطا        اکانت BRIDGETTE › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\D11\1014_185501_002_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:54:38 ✗ GotoHome failed (shot: 1014_185438_001_GotoHome.png)
+            18:54:38 ===== باز کردن بازی (تلاش 2) =====
+18:55:01  ↻ تلاش دوباره اکانت BRIDGETTE › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+18:55:25  ✗ خطا        اکانت BRIDGETTE › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\D11\1014_185525_003_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:55:01 ✗ GotoHome failed (shot: 1014_185501_002_GotoHome.png)
+            18:55:02 ===== باز کردن بازی (تلاش 3) =====
+18:55:25  ⏸ توقف موقت  اکانت BRIDGETTE › شروع بازی › GotoHome  |  Start game (GotoHome) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where GotoHome starts
+          عکس: shots\D11\1014_185525_004_pause_Start_game_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:55:25 ✗ GotoHome failed (shot: 1014_185525_003_GotoHome.png)
+18:56:23  ■ توقف       اکانت BRIDGETTE › شروع بازی › GotoHome  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 2:09  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-14 18:56:24  شروع اجرا  (ریموت D11، pid 18648) START_GAME=True  SHARED=True ════
+18:56:48  ✗ خطا        اکانت BRIDGETTE › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\D11\1014_185648_001_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:56:24 ===== Account: BRIDGETTE (bridgette_murazik79@outlook.com) =====
+            18:56:24 ===== باز کردن بازی (تلاش 1) =====
+18:56:48  ↻ تلاش دوباره اکانت BRIDGETTE › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:57:11  ✗ خطا        اکانت BRIDGETTE › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\D11\1014_185711_002_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:56:48 ✗ GotoHome failed (shot: 1014_185648_001_GotoHome.png)
+            18:56:48 ===== باز کردن بازی (تلاش 2) =====
+18:57:11  ↻ تلاش دوباره اکانت BRIDGETTE › شروع بازی › GotoHome  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+18:57:35  ✗ خطا        اکانت BRIDGETTE › شروع بازی › GotoHome  |  GotoHome نشد
+          تابع: GotoHome ← start_game ← open_game ← main
+          عکس: shots\D11\1014_185735_003_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:57:11 ✗ GotoHome failed (shot: 1014_185711_002_GotoHome.png)
+            18:57:12 ===== باز کردن بازی (تلاش 3) =====
+18:57:35  ⏸ توقف موقت  اکانت BRIDGETTE › شروع بازی › GotoHome  |  Start game (GotoHome) نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen where GotoHome starts
+          عکس: shots\D11\1014_185735_004_pause_Start_game_GotoHome.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:57:35 ✗ GotoHome failed (shot: 1014_185735_003_GotoHome.png)
+18:58:30  ■ توقف       اکانت BRIDGETTE › شروع بازی › GotoHome  |  «توقف» از پنل
+════ پایان: ■ توقف از پنل  |  مدت 2:06  |  خطا 3، تلاش دوباره 2، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-14 18:58:31  شروع اجرا  (ریموت D11، pid 16756) START_GAME=True  SHARED=True ════
+18:58:56  ·            اکانت BRIDGETTE › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'UnrulyHawk76254' — اکانت لازم: BRIDGETTE
+18:59:17  ✓ انجام شد   اکانت BRIDGETTE › شروع بازی › CheckAccount  |  اکانت BRIDGETTE روی کنسول است (گیمرتگ: Bridgette#3544)
+19:01:05  ✓ انجام شد   اکانت BRIDGETTE  |  بازی باز شد و صفحه‌ی SBC آمد
+19:01:11  ·            اکانت BRIDGETTE › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:01:13  ·            اکانت BRIDGETTE › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:01:33  ·            اکانت BRIDGETTE › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+19:02:18  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:02:38  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:05:41  ✗ خطا        اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1014_190541_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:05:15 Card 1: Gerard M... -> buy
+            19:05:19 Found 'No'
+            19:05:19 Found 'Yes'
+            19:05:21 Card 1: Gerard M... -> buy
+            19:05:21 Found 'No'
+            19:05:22 Found 'Yes'
+            19:05:24 Card 1: Gerard M... -> buy
+            19:05:24 Found 'No'
+            19:05:25 Found 'Yes'
+            19:05:26 BUY: 3 buys failed -> price 1000 to 1100
+            19:05:41 FindFilter: به Pricing نرسید
+            19:05:41 BUY: قیمت 1100 تنظیم نشد
+19:05:41  ↻ تلاش دوباره اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:08:22  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد (تلاش 2)
+19:10:03  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:10:51  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:11:42  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:12:29  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:14:40  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+19:16:21  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+19:19:13  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+19:20:57  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+19:21:09  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+19:21:31  ·            اکانت BRIDGETTE › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:24:14  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:26:25  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:28:17  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:29:45  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:31:22  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:33:16  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+19:34:55  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:36:00  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:38:16  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:38:44  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+19:40:37  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:41:31  ✓ انجام شد   اکانت BRIDGETTE › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+19:41:31  ✓ انجام شد   اکانت BRIDGETTE  |  اکانت BRIDGETTE تمام شد
+19:41:41  ·            اکانت Noah › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'bridgette murazik79' — اکانت لازم: Noah
+19:42:04  ✓ انجام شد   اکانت Noah › شروع بازی › CheckAccount  |  اکانت Noah روی کنسول است (گیمرتگ: noah#76539)
+19:44:48  ✓ انجام شد   اکانت Noah  |  بازی باز شد و صفحه‌ی SBC آمد
+19:44:57  ·            اکانت Noah › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:45:19  ·            اکانت Noah › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+19:47:04  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:47:53  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:49:21  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:50:45  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:51:33  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:52:23  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+19:53:43  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:54:33  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:55:22  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+19:58:11  ✗ خطا        اکانت Noah › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1014_195811_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:57:50 Card 12: Kean expired -> next
+            19:57:52 Card 13: Da Cunha expired -> next
+            19:57:53 Card 14: Robert Sa... expired -> next
+            19:57:54 Card 15: Douvikas expired -> next
+            19:57:55 Card 16: Douvikas expired -> next
+            19:57:56 Card 17: Robert Sa... expired -> next
+            19:57:56 Card 18: Da Cunha expired -> next
+            19:57:57 Card 19: Kean expired -> next
+            19:57:58 Card 20: Luis Milla expired -> next
+            19:57:59 BUY: no new card in the list -> price 900 to 1000
+            19:58:11 FindFilter: به Pricing نرسید
+            19:58:11 BUY: قیمت 1000 تنظیم نشد
+19:58:11  ↻ تلاش دوباره اکانت Noah › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:00:16  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد (تلاش 2)
+20:01:49  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:02:56  ✓ انجام شد   اکانت Noah › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+20:02:58  ·            اکانت Noah › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+20:03:00  ·            اکانت Noah › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+20:03:00  ✓ انجام شد   اکانت Noah  |  اکانت Noah تمام شد
+20:03:16  ·            اکانت Elina › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+3 orofiles' — اکانت لازم: Elina
+20:03:57  ✓ انجام شد   اکانت Elina › شروع بازی › CheckAccount  |  اکانت Elina روی کنسول است (گیمرتگ: Elina Roberts)
+20:06:33  ✓ انجام شد   اکانت Elina  |  بازی باز شد و صفحه‌ی SBC آمد
+20:07:00  ·            اکانت Elina › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:07:43  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:08:52  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:09:28  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+20:10:00  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:10:57  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:11:28  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:12:23  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:13:09  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:13:54  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:16:10  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+20:17:46  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:18:05  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+20:18:28  ·            اکانت Elina › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+20:20:13  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:21:01  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:21:42  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:22:48  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:23:47  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:25:35  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+20:27:24  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:28:12  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:29:01  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:31:34  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+20:32:24  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:32:40  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+20:33:03  ·            اکانت Elina › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+20:34:43  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:35:03  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:36:16  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+20:37:36  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:38:31  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:39:32  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:40:23  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:43:06  ✗ خطا        اکانت Elina › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1014_204306_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:42:39 Card 1: Lo Celso -> buy
+            20:42:41 Found 'No'
+            20:42:42 Found 'Yes'
+            20:42:45 Card 1: Lo Celso -> buy
+            20:42:46 Found 'No'
+            20:42:46 Found 'Yes'
+            20:42:48 Card 1: Lo Celso -> buy
+            20:42:49 Found 'No'
+            20:42:49 Found 'Yes'
+            20:42:50 BUY: 3 buys failed -> price 650 to 750
+            20:43:06 FindFilter: به Pricing نرسید
+            20:43:06 BUY: قیمت 750 تنظیم نشد
+20:43:06  ↻ تلاش دوباره اکانت Elina › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:45:18  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد (تلاش 2)
+20:47:07  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:50:08  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+20:51:52  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+20:52:12  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+20:52:34  ·            اکانت Elina › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+20:55:30  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+20:57:50  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:00:00  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+21:01:52  ✗ خطا        اکانت Elina › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1014_210152_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:01:05 350
+            21:01:05 400
+            21:01:06 450
+            21:01:07 500
+            21:01:08 550
+            21:01:08 600
+            21:01:18 Found 'Top9'
+            21:01:31 Morocco پیدا شد
+            21:01:31 Looking for 'BuyNow' (قیمت 650)
+            21:01:36 BUY: no cards found -> price 650 to 750
+            21:01:52 FindFilter: به Pricing نرسید
+            21:01:52 BUY: قیمت 750 تنظیم نشد
+21:01:52  ↻ تلاش دوباره اکانت Elina › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:04:45  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد (تلاش 2)
+21:06:49  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:08:25  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+21:10:17  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:11:31  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:14:22  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+21:15:11  ✗ خطا        اکانت Elina › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  back_to_market نشد
+          تابع: back_to_market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\D11\1014_211511_005_back_to_market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:14:00 Found 'Any (4)'
+            21:14:08 Liverpool پیدا شد
+            21:14:09 Looking for 'BuyNow' (قیمت 1200)
+            21:14:13 My Coins: 12634
+            21:14:14 Card 1: Mac Allister -> buy
+            21:14:19 Found 'No'
+            21:14:19 Found 'Yes'
+            21:14:22 Bought (قیمت 1200)
+            21:14:22 Squad players (bought): Mamardas..., Koutoune, Niakhate, Aguerd, Efuele Ng..., Udol, Zaddy, Noubissie, Mac Allister
+            21:14:22 [Marquee Matchups 4:10/11] Gold | OFF | ST | OFF | Premier League | 850
+            21:14:37 Pricing: club=True، قیمت نادیده گرفته شد
+            21:14:38 Looking for 'Position'
+21:15:11  ↻ تلاش دوباره اکانت Elina › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:15:14  ·            اکانت Elina › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  قطع ارتباط (1/4): برگشت به ست Marquee Matchups و چالش از اول — thrown out of the squad (set)
+21:15:39  ·            اکانت Elina › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+21:16:46  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+21:18:09  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:19:06  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+21:19:50  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+21:20:59  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:21:42  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+21:22:37  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:23:10  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:24:20  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+21:26:21  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 10/11 (Gold | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+21:28:28  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronze | England | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:29:29  ✓ انجام شد   اکانت Elina › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+21:29:29  ✓ انجام شد   اکانت Elina  |  اکانت Elina تمام شد
+21:29:45  ·            اکانت EMMA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+4 orofiles' — اکانت لازم: EMMA
+21:30:01  ⏸ توقف موقت  اکانت EMMA › شروع بازی › CheckAccount  |  Account EMMA on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to EMMA (Emma.Turner96@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\D11\1014_213001_006_pause_Account_EMMA_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:29:16 Looking for set 'Marquee Matchups'
+            21:29:19 SBC intro: Advance
+            21:29:21 SBC intro: Advance
+            21:29:23 SBC intro: Advance
+            21:29:25 SBC intro: Advance
+            21:29:27 SBC intro: Advance
+            21:29:29 ✓ Account done: Elina
+            21:29:29 ===== Account: EMMA (Emma.Turner96@outlook.com) =====
+            21:29:29 ===== باز کردن بازی (تلاش 1) =====
+            21:29:45 Account: '+4 orofiles' on console, switching to EMMA
+            21:29:45 Switch account -> EMMA
+            21:30:00 Switch: account EMMA is not added on this console (not in the Who are you? list)
+21:57:32  ▶ ادامه      اکانت EMMA › شروع بازی › CheckAccount  |  بعد از 27:31 توقف
+21:57:33  ‼ خطای کد    اکانت EMMA › شروع بازی › CheckAccount  |  ConnectionError: ریموت D11 در دسترس نیست (\\.\pipe\xbrp-D11). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت D11 در دسترس نیست (\\.\pipe\xbrp-D11). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 2:59:01  |  خطا 5، تلاش دوباره 5، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-14 22:00:42  شروع اجرا  (ریموت D11، pid 28592) START_GAME=True  SHARED=True ════
+22:00:53  ·            اکانت EMMA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Elina Roberts' — اکانت لازم: EMMA
+22:01:26  ⏸ توقف موقت  اکانت EMMA › شروع بازی › CheckAccount  |  Account EMMA on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to EMMA (Emma.Turner96@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\D11\1014_220126_001_pause_Account_EMMA_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            22:00:42 ===== Account: EMMA (Emma.Turner96@outlook.com) =====
+            22:00:42 ===== باز کردن بازی (تلاش 1) =====
+            22:00:53 Account: 'Elina Roberts' on console, switching to EMMA
+            22:00:53 Switch account -> EMMA
+            22:01:03 Switch: EMMA not in this part of the list -> Down x10
+            22:01:09 Switch: EMMA not in this part of the list -> Down x10
+            22:01:14 Switch: EMMA not in this part of the list -> Down x10
+            22:01:19 Switch: EMMA not in this part of the list -> Down x10
+            22:01:25 Switch: account EMMA is not added on this console (not in the Who are you? list)
+22:01:38  ▶ ادامه      اکانت EMMA › شروع بازی › CheckAccount  |  بعد از 0:12 توقف
+22:01:49  ·            اکانت EMMA › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Elina#3635' — اکانت لازم: EMMA
+22:02:22  ⏸ توقف موقت  اکانت EMMA › شروع بازی › CheckAccount  |  Account EMMA on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to EMMA (Emma.Turner96@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\D11\1014_220222_002_pause_Account_EMMA_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            22:01:49 Account: 'Elina#3635' on console, switching to EMMA
+            22:01:49 Switch account -> EMMA
+            22:02:00 Switch: EMMA not in this part of the list -> Down x10
+            22:02:05 Switch: EMMA not in this part of the list -> Down x10
+            22:02:10 Switch: EMMA not in this part of the list -> Down x10
+            22:02:15 Switch: EMMA not in this part of the list -> Down x10
+            22:02:21 Switch: account EMMA is not added on this console (not in the Who are you? list)
+22:04:54  ▶ ادامه      اکانت EMMA › شروع بازی › CheckAccount  |  بعد از 2:32 توقف
+22:04:55  ✓ انجام شد   اکانت EMMA › شروع بازی › CheckAccount  |  اکانت EMMA روی کنسول است (گیمرتگ: Emmaa#6417)
+22:06:58  ✓ انجام شد   اکانت EMMA  |  بازی باز شد و صفحه‌ی SBC آمد
+22:07:23  ·            اکانت EMMA › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+22:08:51  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:09:47  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:10:21  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+22:10:52  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:11:53  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:12:23  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:13:20  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:14:09  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:14:53  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:16:55  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+22:18:33  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+22:18:51  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+22:19:16  ·            اکانت EMMA › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+22:21:21  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:22:25  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:23:54  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+22:25:19  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:26:09  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:28:03  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+22:28:55  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:30:16  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:31:05  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:33:16  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+22:34:59  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+22:35:18  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+22:35:42  ·            اکانت EMMA › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+22:37:24  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:38:14  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:41:03  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+22:42:47  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:43:37  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:44:25  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:45:11  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:47:18  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+22:48:55  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+22:51:57  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+22:54:14  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+22:54:28  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+22:54:51  ·            اکانت EMMA › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+22:57:26  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+22:59:51  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+23:01:48  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | Senegal | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+23:04:06  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | Morocco | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+23:05:37  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+23:07:25  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 6/11 (Gold | OFF | LB | OFF | Ligue 1 McDonald | 900)  |  بازیکن اضافه شد
+23:09:13  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronze | Cote d'Ivorie | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+23:09:45  ✓ انجام شد   اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronze | France | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+23:13:56  ✗ کوین تمام  اکانت EMMA › چالش Marquee Matchups 4 › بازیکن 9/11 (Gold | OFF | CM | Liverpool | Premier League | 1300)  |  کوین اکانت EMMA تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 4:9] price 1000)
+          عکس: shots\D11\1014_231356_003_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            23:13:42 550
+            23:13:43 600
+            23:13:44 650
+            23:13:45 700
+            23:13:45 750
+            23:13:46 800
+            23:13:47 850
+            23:13:48 900
+            23:13:48 950
+            23:13:49 1000
+            23:13:50 1100
+            23:13:56 BUY: out of coins (1169 < 1200)
+23:14:12  ·            اکانت ANGEL › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+5 orofiles' — اکانت لازم: ANGEL
+23:14:50  ⏸ توقف موقت  اکانت ANGEL › شروع بازی › CheckAccount  |  Account ANGEL on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to ANGEL (angel-stevens88@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\D11\1014_231450_004_pause_Account_ANGEL_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            23:13:56 ✗ Out of coins: EMMA ([Marquee Matchups 4:9] price 1000) - moving to the next account
+            23:13:56 ===== Account: ANGEL (angel-stevens88@outlook.com) =====
+            23:13:56 ===== باز کردن بازی (تلاش 1) =====
+            23:14:12 Account: '+5 orofiles' on console, switching to ANGEL
+            23:14:12 Switch account -> ANGEL
+            23:14:24 Switch: ANGEL not in this part of the list -> Down x10
+            23:14:31 Switch: ANGEL not in this part of the list -> Down x10
+            23:14:37 Switch: ANGEL not in this part of the list -> Down x10
+            23:14:43 Switch: ANGEL not in this part of the list -> Down x10
+            23:14:49 Switch: account ANGEL is not added on this console (not in the Who are you? list)
+23:22:44  ▶ ادامه      اکانت ANGEL › شروع بازی › CheckAccount  |  بعد از 7:53 توقف
+23:22:48  ✓ انجام شد   اکانت ANGEL › شروع بازی › CheckAccount  |  اکانت ANGEL روی کنسول است (گیمرتگ: Angell#6387)
+23:25:19  ✓ انجام شد   اکانت ANGEL  |  بازی باز شد و صفحه‌ی SBC آمد
+23:25:47  ·            اکانت ANGEL › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+23:27:22  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:28:09  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:29:32  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+23:30:05  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:31:22  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:31:53  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:32:50  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:33:37  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:34:25  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:37:13  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+23:38:57  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:39:16  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+23:39:40  ·            اکانت ANGEL › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+23:41:27  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+23:42:16  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+23:43:46  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+23:45:12  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+23:46:02  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+23:46:53  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+23:48:15  ✓ انجام شد   اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+23:49:16  ✗ کوین تمام  اکانت ANGEL › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  کوین اکانت ANGEL تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 2:8] price 350)
+          عکس: shots\D11\1014_234916_005_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            23:48:56 Looking for 'BuyNow' (قیمت 350)
+            23:49:00 My Coins: 138
+            23:49:00 BUY: no cards found -> price 350 to 450
+            23:49:05 Looking for 'Pricing'
+            23:49:06 0
+            23:49:06 150
+            23:49:07 200
+            23:49:08 250
+            23:49:09 300
+            23:49:09 350
+            23:49:10 400
+            23:49:16 BUY: out of coins (138 < 450)
+23:49:32  ·            اکانت HUDSON › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+6 orofiles' — اکانت لازم: HUDSON
+23:50:58  ⏸ توقف موقت  اکانت HUDSON › شروع بازی › CheckAccount  |  Account HUDSON on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: could not switch to HUDSON (hudson.barnes80@outlook.com) automatically - it is not in the Who are you? list (not added) or the switch failed; add/switch it and put the screen on Home
+          عکس: shots\D11\1014_235058_006_pause_Account_HUDSON_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            23:49:16 ✗ Out of coins: ANGEL ([Marquee Matchups 2:8] price 350) - moving to the next account
+            23:49:16 ===== Account: HUDSON (hudson.barnes80@outlook.com) =====
+            23:49:16 ===== باز کردن بازی (تلاش 1) =====
+            23:49:32 Account: '+6 orofiles' on console, switching to HUDSON
+            23:49:32 Switch account -> HUDSON
+            23:49:44 Switch: HUDSON not in this part of the list -> Down x10
+            23:50:19 Switch: HUDSON not in this part of the list -> Down x10
+            23:50:28 Switch: HUDSON not in this part of the list -> Down x10
+            23:50:38 Switch: HUDSON not in this part of the list -> Down x10
+            23:50:46 Switch: HUDSON not in this part of the list -> Down x10
+            23:50:56 Switch: account HUDSON is not added on this console (not in the Who are you? list)
+23:53:50  ▶ ادامه      اکانت HUDSON › شروع بازی › CheckAccount  |  بعد از 2:51 توقف
+23:53:51  ✓ انجام شد   اکانت HUDSON › شروع بازی › CheckAccount  |  اکانت HUDSON روی کنسول است (گیمرتگ: Hudson Barnes)
+23:56:27  ✓ انجام شد   اکانت HUDSON  |  بازی باز شد و صفحه‌ی SBC آمد
+23:56:54  ·            اکانت HUDSON › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+23:58:27  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:59:12  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+23:59:48  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+00:00:21  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:00:50  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:01:21  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:02:16  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:03:03  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:03:50  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:05:46  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+00:07:24  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+00:07:40  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+00:08:02  ·            اکانت HUDSON › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+00:09:49  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:10:37  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:12:25  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+00:13:50  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:14:39  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:16:31  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+00:18:22  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:19:11  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:20:01  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:22:36  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+00:24:18  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+00:24:35  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+00:24:59  ·            اکانت HUDSON › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+00:26:38  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:27:28  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:30:14  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 3/11 (GOLD | Spain | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+00:31:58  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:33:03  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:33:52  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 6/11 (Silver | Brazil | RM | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:34:41  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:35:43  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 8/11 (GOLD | Argentina | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+00:37:00  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+00:39:56  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | Hungary | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+00:41:39  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3 › بازیکن 11/11 (SILVER | Brazil | ST | OFF | OFF | 500)  |  بازیکن اضافه شد
+00:41:57  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+00:42:20  ·            اکانت HUDSON › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+00:44:40  ✓ انجام شد   اکانت HUDSON › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+00:46:52  ✗ کوین تمام  اکانت HUDSON › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  کوین اکانت HUDSON تمام شد؛ بقیه‌ی SBCهای این اکانت رد شد ([Marquee Matchups 4:2] price 200)
+          عکس: shots\D11\1015_004652_007_no_coins.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            00:46:00 Looking for 'Pricing'
+            00:46:01 0
+            00:46:01 150
+            00:46:11 Found 'Top9'
+            00:46:22 Moroco پیدا شد
+            00:46:23 Looking for 'Rarity'
+            00:46:31 Bronze پیدا شد
+            00:46:33 Looking for 'Position'
+            00:46:41 Found 'Default'
+            00:46:44 Ligue 1 McDonald پیدا شد
+            00:46:49 Looking for 'BuyNow' (قیمت 200)
+            00:46:52 BUY: out of coins (167 < 200)
+00:46:52  ·            -  |  همه‌ی اکانت‌ها تمام شد: خاموش کردن کنسول
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — کوین تمام: EMMA, ANGEL, HUDSON — کنسول خاموش شد  |  مدت 2:46:17  |  خطا 0، تلاش دوباره 0، توقف موقت 4، خطای کد 0 ════

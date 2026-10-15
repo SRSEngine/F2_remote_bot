@@ -1,0 +1,442 @@
+ 299.38 ours=10 opp=10 ball=(82,52)   recover
+ 300.24 ours=10 opp=11 ball=(80,51)   pass A to (75,64)
+ 300.34 ours=10 opp=11 ball=(80,51)   dribble
+ 300.84 ours=12 opp=10 ball=(76,50)   contain
+ 300.94 ours=11 opp=11 ball=(74,49)   dribble
+ 301.04 ours=11 opp=10 ball=(71,48)   recover
+ 301.24 ours=11 opp=10 ball=(69,47)   pass A to (59,31)
+ 301.34 ours=11 opp=10 ball=(69,48)   dribble
+ 301.44 ours=11 opp= 8 ball=(68,48)   recover
+ 302.85 ours=11 opp=10 ball=(72,47)   contain
+ 302.95 ours=11 opp=11 ball=(72,47)   chase
+ 303.05 ours=11 opp=10 ball=(73,47)   contain
+ 303.25 ours=11 opp=11 ball=(73,47)   chase
+ 303.35 ours=11 opp=10 ball=(74,47)   contain
+ 303.56 ours=11 opp=11 ball=(75,47)   chase
+ 303.66 ours=10 opp=10 ball=(76,46)   recover
+ 304.86 ours=10 opp=10 ball=(81,44)   contain
+ 305.26 ours=11 opp= 9 ball=(82,42)   recover
+ 306.06 ours=11 opp= 8 ball=(85,42)   contain
+ 306.16 ours=11 opp= 8 ball=(85,42)   recover
+ 306.87 ours=11 opp= 9 ball=(87,44)   contain
+ 308.08 ours= 9 opp=10 ball=(93,47)   recover
+ 308.38 ours=11 opp= 8 ball=(94,46)   contain
+ 308.79 ours=11 opp= 9 ball=(96,44)   recover
+ 309.55 ours=11 opp=11 ball=(102,40)  chase
+ 309.65 ours=10 opp=10 ball=(105,39)  dribble
+ 309.75 ours= 0 opp= 0 ball=-         no radar
+ 312.85 ours= 0 opp= 0 ball=-         skip scene: A
+ 313.05 ours= 0 opp= 0 ball=-         no radar
+ 313.68 ours=11 opp=10 ball=(101,43)  recover
+ 314.11 ours=12 opp=11 ball=(101,43)  chase
+ 314.27 ours=12 opp= 8 ball=(101,43)  recover
+ 314.56 ours=11 opp=11 ball=(101,43)  chase
+ 316.20 ours= 9 opp=11 ball=(101,43)  dribble
+ 316.53 ours=12 opp=10 ball=(101,43)  recover
+ 316.70 panel kick: PUSH TEAM UÅPIEL*E CALL TEAM SHORT GROUND PASS LOB PASS TOGGLE OVERLAY
+ 316.70 ours=14 opp= 8 ball=-         no radar
+ 317.82 ours= 0 opp= 0 ball=-         set piece: A
+ 318.01 ours= 0 opp= 0 ball=-         no radar
+ 318.67 ours= 9 opp= 5 ball=(101,43)  recover
+ 318.82 ours= 9 opp=11 ball=(101,42)  dribble
+ 319.80 ours=11 opp=10 ball=(92,38)   recover
+ 319.93 ours=11 opp=11 ball=(90,37)   dribble
+ 320.04 ours=11 opp=10 ball=(89,36)   recover
+ 320.41 ours=11 opp=11 ball=(88,36)   dribble
+ 322.25 ours=10 opp=11 ball=(87,37)   pass Y to (69,59)
+ 322.37 ours=10 opp=10 ball=(87,37)   dribble
+ 323.20 ours=10 opp=11 ball=(82,35)   pass A to (71,13)
+ 323.30 ours=11 opp=10 ball=(82,34)   recover
+ 323.42 ours=11 opp=10 ball=(81,33)   contain
+ 323.57 ours=10 opp=10 ball=(81,32)   dribble
+ 324.10 ours=11 opp=10 ball=(79,33)   contain
+ 324.35 ours=11 opp= 8 ball=(77,38)   recover
+ 325.04 ours=11 opp=10 ball=(77,34)   contain
+ 325.29 ours=10 opp=10 ball=(80,29)   recover
+ 328.08 ours= 0 opp= 0 ball=-         no radar
+ 328.63 ours= 9 opp= 8 ball=(98,21)   recover
+ 328.78 ours= 0 opp= 0 ball=-         no radar
+ 328.94 ours=10 opp= 9 ball=(99,21)   recover
+ 329.69 ours= 0 opp= 0 ball=-         no radar
+ 331.21 ours=10 opp=10 ball=(105,18)  recover
+ 331.37 ours=10 opp=11 ball=(104,18)  pass A to (96,36)
+ 331.54 ours= 0 opp= 0 ball=-         no radar
+ 332.50 ours=11 opp=11 ball=(106,27)  chase
+ 332.66 ours=10 opp=12 ball=(106,28)  dribble
+ 332.83 ours=11 opp=10 ball=(105,28)  contain
+ 333.29 ours=10 opp= 8 ball=(107,26)  recover
+ 333.59 ours=11 opp=10 ball=(103,28)  contain
+ 333.90 ours= 9 opp= 8 ball=(101,21)  recover
+ 335.58 ours=11 opp= 9 ball=(92,23)   contain
+ 335.74 ours=10 opp= 9 ball=(92,23)   recover
+ 336.20 ours=11 opp= 9 ball=(92,25)   contain
+ 336.34 ours=10 opp=10 ball=(93,25)   recover
+ 336.46 ours=11 opp= 9 ball=(92,24)   contain
+ 336.62 ours=11 opp= 9 ball=(91,23)   recover
+ 337.29 ours=11 opp=10 ball=(92,25)   contain
+ 337.43 ours=10 opp=10 ball=(93,26)   recover
+ 337.73 ours=10 opp=11 ball=(94,28)   pass Y to (76,6)
+ 337.88 ours=10 opp=10 ball=(94,28)   dribble
+ 338.19 ours=11 opp=10 ball=(97,29)   recover
+ 338.48 ours=12 opp=11 ball=(101,31)  dribble
+ 340.28 ours=10 opp=10 ball=(96,34)   pass A to (85,39)
+ 340.42 ours=10 opp=11 ball=(95,33)   dribble
+ 341.05 ours=11 opp= 9 ball=(89,36)   contain
+ 341.35 ours=11 opp= 9 ball=(86,38)   recover
+ 341.85 ours=11 opp=10 ball=(80,42)   contain
+ 341.96 ours=11 opp=11 ball=(78,42)   chase
+ 342.33 ours=11 opp=10 ball=(73,43)   recover
+ 345.22 ours=11 opp=11 ball=(77,52)   chase
+ 345.36 ours=11 opp=10 ball=(78,52)   contain
+ 345.96 ours= 0 opp= 0 ball=-         no radar
+ 346.54 ours=11 opp= 7 ball=(82,52)   contain
+ 346.80 ours=10 opp= 7 ball=(83,51)   recover
+ 348.01 ours= 9 opp= 9 ball=(89,49)   dribble
+ 348.21 ours= 9 opp= 9 ball=(89,48)   recover
+ 348.31 ours= 8 opp=10 ball=(88,46)   pass A to (65,34)
+ 348.42 ours= 8 opp=10 ball=(88,45)   dribble
+ 350.74 ours= 8 opp= 9 ball=(87,47)   pass A to (65,35)
+ 350.84 ours=10 opp= 9 ball=(87,47)   dribble
+ 351.44 ours=11 opp= 9 ball=(87,48)   contain
+ 352.15 ours= 9 opp= 8 ball=(89,48)   recover
+ 352.25 ours=11 opp= 8 ball=(90,48)   tackle
+ 352.35 ours=11 opp= 7 ball=(90,48)   contain
+ 352.45 ours=11 opp= 8 ball=(91,48)   recover
+ 352.55 ours=10 opp= 8 ball=(91,47)   contain
+ 353.45 ours= 9 opp= 7 ball=(95,46)   recover
+ 353.55 ours=10 opp= 8 ball=(95,46)   contain
+ 353.65 ours= 9 opp= 6 ball=(95,45)   recover
+ 355.07 ours= 8 opp= 7 ball=-         no radar
+ 358.14 ours= 0 opp= 0 ball=-         skip scene: A
+ 358.24 ours= 0 opp= 0 ball=-         no radar
+ 359.45 ours=11 opp=11 ball=(101,25)  chase
+ 359.65 ours=11 opp=10 ball=(101,25)  contain
+ 359.75 ours= 9 opp=10 ball=-         no radar
+ 359.85 ours=11 opp=10 ball=(101,25)  contain
+ 359.95 ours=11 opp=11 ball=(101,25)  chase
+ 360.75 ours=10 opp=11 ball=(101,25)  dribble
+ 361.15 ours=11 opp=10 ball=(98,23)   recover
+ 361.35 ours=11 opp=11 ball=(96,22)   dribble
+ 361.45 ours= 9 opp=10 ball=(105,11)  tackle
+ 361.55 ours=10 opp=10 ball=(96,21)   dribble
+ 362.45 ours=11 opp=10 ball=(91,29)   recover
+ 362.75 ours=12 opp=11 ball=(87,33)   dribble
+ 362.85 ours=11 opp= 9 ball=(86,33)   contain
+ 363.06 ours=11 opp=11 ball=(83,35)   pass A to (68,52)
+ 363.16 ours=11 opp= 9 ball=(82,36)   recover
+ 363.76 ours=11 opp=11 ball=(74,40)   chase
+ 363.86 ours=10 opp=10 ball=(73,41)   recover
+ 364.06 ours=11 opp=10 ball=(71,42)   contain
+ 364.46 ours=11 opp=11 ball=(67,43)   chase
+ 364.56 ours=11 opp=10 ball=(66,44)   recover
+ 364.66 ours= 0 opp= 0 ball=-         no radar
+ 364.86 ours=11 opp=11 ball=(62,44)   recover
+ 365.17 ours= 9 opp=11 ball=(62,45)   dribble
+ 366.08 ours= 0 opp= 0 ball=-         no radar
+ 366.68 ours=10 opp= 9 ball=(69,46)   contain
+ 367.18 ours=10 opp= 9 ball=(72,46)   dribble
+ 367.38 ours=11 opp= 9 ball=(74,46)   recover
+ 367.48 ours= 9 opp=10 ball=(74,46)   dribble
+ 367.58 ours=11 opp= 9 ball=(75,46)   recover
+ 369.28 ours= 0 opp= 0 ball=-         no radar
+ 369.38 ours=11 opp= 9 ball=(83,44)   recover
+ 369.69 ours=11 opp= 9 ball=(84,45)   contain
+ 370.99 ours= 9 opp= 8 ball=(88,39)   pass A to (67,34)
+ 371.09 ours= 9 opp= 6 ball=(88,39)   dribble
+ 371.19 ours=11 opp= 7 ball=(88,38)   contain
+ 371.39 ours= 9 opp= 8 ball=(89,37)   dribble
+ 371.89 ours= 8 opp=10 ball=(90,35)   pass A to (104,34)
+ 371.99 ours= 8 opp=10 ball=(91,34)   dribble
+ 372.40 ours=11 opp= 9 ball=(91,33)   contain
+ 372.50 ours= 9 opp= 8 ball=(93,34)   dribble
+ 373.70 ours= 0 opp= 0 ball=-         no radar
+ 374.65 ours=10 opp=10 ball=(107,53)  recover
+ 374.76 ours= 9 opp=11 ball=(107,54)  dribble
+ 375.06 ours= 0 opp= 0 ball=-         no radar
+ 378.07 ours= 0 opp= 0 ball=-         skip scene: A
+ 378.22 ours= 0 opp= 0 ball=-         no radar
+ 380.15 panel defend: MOVE}GO$LKEEPER '9 SWITCH
+ 380.15 ours= 0 opp= 0 ball=-         their set piece: wait
+ 380.30 ours= 0 opp= 0 ball=-         no radar
+ 380.63 ours= 0 opp= 0 ball=-         skip scene: A
+ 380.82 ours= 0 opp= 0 ball=-         no radar
+ 383.20 ours= 0 opp= 0 ball=-         skip scene: A
+ 383.43 ours= 0 opp= 0 ball=-         no radar
+ 385.53 ours= 6 opp= 5 ball=(99,49)   recover
+ 385.86 ours= 7 opp= 5 ball=(97,44)   contain
+ 386.01 ours= 6 opp= 5 ball=(97,41)   recover
+ 386.15 ours= 8 opp= 5 ball=(96,40)   contain
+ 386.60 ours= 6 opp= 5 ball=(93,37)   recover
+ 386.91 ours= 7 opp= 6 ball=(88,39)   contain
+ 387.06 ours= 4 opp= 5 ball=(87,39)   no radar
+ 387.95 ours= 5 opp= 5 ball=(82,41)   recover
+ 388.23 ours= 7 opp= 8 ball=(80,44)   contain
+ 388.52 ours= 6 opp= 8 ball=(79,48)   recover
+ 389.62 ours= 7 opp= 6 ball=-         no radar
+ 390.91 ours=11 opp= 8 ball=(78,57)   contain
+ 391.46 ours= 9 opp=11 ball=(80,56)   dribble
+ 392.95 ours= 8 opp= 8 ball=(80,54)   pass A to (79,42)
+ 393.10 ours= 8 opp= 8 ball=(79,54)   dribble
+ 393.83 ours= 0 opp= 0 ball=-         no radar
+ 394.42 ours=10 opp=11 ball=(77,48)   pass A to (63,33)
+ 394.54 ours=10 opp=11 ball=(77,48)   dribble
+ 395.16 ours= 0 opp= 0 ball=-         no radar
+ 395.66 ours=11 opp= 9 ball=(68,42)   recover
+ 396.76 ours=10 opp=11 ball=(66,40)   dribble
+ 397.77 ours=10 opp=11 ball=(70,39)   pass A to (52,30)
+ 397.87 ours=10 opp= 9 ball=(71,39)   dribble
+ 398.67 ours=11 opp=10 ball=(66,38)   contain
+ 398.77 ours=11 opp=11 ball=(65,37)   dribble
+ 399.27 ours=11 opp=10 ball=(56,32)   recover
+ 399.37 ours=11 opp=11 ball=(55,31)   dribble
+ 399.47 ours=11 opp=10 ball=(54,30)   recover
+ 399.57 ours=10 opp=10 ball=(52,29)   pass A to (62,18)
+ 399.67 ours=10 opp= 8 ball=(50,29)   dribble
+ 399.77 ours=11 opp= 9 ball=(49,28)   contain
+ 399.97 ours=11 opp=10 ball=(47,28)   recover
+ 401.28 ours=11 opp= 8 ball=-         no radar
+ 401.48 ours=11 opp= 9 ball=(35,24)   recover
+ 402.20 ours=11 opp= 9 ball=(36,24)   contain
+ 402.60 ours=10 opp= 9 ball=(37,25)   recover
+ 403.10 ours=11 opp= 9 ball=(33,24)   contain
+ 403.30 ours=11 opp= 9 ball=(29,27)   recover
+ 404.00 ours=11 opp=11 ball=(18,34)   chase
+ 404.10 ours=11 opp=10 ball=(17,35)   recover
+ 404.31 ours=11 opp=11 ball=(15,37)   chase
+ 404.41 ours=11 opp=10 ball=(13,38)   recover
+ 404.91 ours=11 opp=11 ball=-         no radar
+ 405.01 ours=11 opp=10 ball=(8,41)    recover
+ 406.71 ours=11 opp= 9 ball=(31,43)   contain
+ 407.01 ours=11 opp= 9 ball=(35,42)   recover
+ 407.91 ours=11 opp= 9 ball=(45,37)   contain
+ 408.42 ours=10 opp=10 ball=(60,31)   pass A to (42,29)
+ 408.52 ours=10 opp=10 ball=(50,34)   dribble
+ 408.72 ours=11 opp=10 ball=(50,35)   contain
+ 410.42 ours=10 opp=10 ball=(54,38)   recover
+ 412.13 ours= 9 opp= 9 ball=(63,31)   contain
+ 417.34 ours= 9 opp=10 ball=(84,33)   recover
+ 417.54 ours= 8 opp=10 ball=(86,34)   pass A to (63,18)
+ 417.64 ours=10 opp=10 ball=(86,34)   dribble
+ 418.44 ours=10 opp= 8 ball=(89,35)   pass Y to (65,50)
+ 418.54 ours=10 opp= 8 ball=(89,35)   dribble
+ 418.74 ours=11 opp= 8 ball=(90,35)   recover
+ 418.84 ours=10 opp= 8 ball=(91,35)   dribble
+ 419.15 ours=11 opp= 8 ball=(95,35)   recover
+ 419.35 ours=11 opp= 9 ball=(99,36)   contain
+ 419.55 ours=10 opp= 9 ball=(102,36)  recover
+ 421.66 ours=13 opp= 9 ball=(99,33)   contain
+ 421.76 ours=13 opp=11 ball=(99,32)   chase
+ 421.86 ours=13 opp= 9 ball=(98,31)   recover
+ 422.46 ours=12 opp=10 ball=(98,33)   contain
+ 422.66 ours=10 opp=10 ball=(99,36)   recover
+ 422.86 ours=10 opp=12 ball=(101,37)  dribble
+ 423.06 ours=11 opp=10 ball=(101,37)  recover
+ 423.67 ours=13 opp=10 ball=(100,39)  contain
+ 423.77 ours=13 opp=11 ball=(97,40)   chase
+ 423.87 ours=13 opp= 9 ball=(97,40)   recover
+ 424.17 ours=12 opp=10 ball=(92,42)   contain
+ 424.27 ours=12 opp=11 ball=(91,43)   chase
+ 424.37 ours=13 opp=10 ball=(90,43)   recover
+ 424.78 ours=11 opp=11 ball=(87,45)   chase
+ 424.88 ours=10 opp=11 ball=(85,44)   pass A to (76,58)
+ 424.98 ours=11 opp=11 ball=(85,44)   dribble
+ 425.08 ours=11 opp= 8 ball=(83,43)   contain
+ 425.18 ours=11 opp= 8 ball=(82,43)   recover
+ 425.78 ours=11 opp=11 ball=(80,44)   chase
+ 425.88 ours=11 opp=10 ball=(80,45)   recover
+ 427.89 ours=11 opp=10 ball=(84,47)   contain
+ 428.49 ours=10 opp= 9 ball=(86,45)   recover
+ 428.69 ours=10 opp= 9 ball=(88,45)   contain
+ 428.89 ours=11 opp= 9 ball=(89,45)   recover
+ 428.99 ours=10 opp= 8 ball=(89,44)   contain
+ 429.09 ours= 9 opp= 8 ball=(90,44)   recover
+ 429.79 ours=10 opp= 7 ball=(93,43)   contain
+ 429.99 ours=10 opp= 7 ball=(95,40)   recover
+ 430.09 ours= 9 opp= 6 ball=(96,41)   contain
+ 430.19 ours=11 opp= 8 ball=(96,43)   recover
+ 430.49 ours=10 opp=11 ball=(98,45)   pass Y to (77,56)
+ 430.59 ours=12 opp= 9 ball=(98,46)   recover
+ 430.69 ours= 8 opp= 8 ball=(98,47)   dribble
+ 430.80 ours=12 opp= 9 ball=(99,48)   recover
+ 430.90 ours= 8 opp=10 ball=(99,49)   dribble
+ 431.50 ours=11 opp= 8 ball=(101,52)  recover
+ 432.62 ours=13 opp=10 ball=(102,56)  contain
+ 433.44 ours= 0 opp= 0 ball=-         no radar
+ 436.53 ours= 0 opp= 0 ball=-         skip scene: A
+ 436.69 ours= 0 opp= 0 ball=-         no radar
+ 436.89 ours= 9 opp= 6 ball=(102,56)  recover
+ 437.09 ours=11 opp= 6 ball=(102,55)  contain
+ 438.41 ours=11 opp= 8 ball=(103,52)  recover
+ 438.71 ours=11 opp=11 ball=(103,51)  chase
+ 438.81 ours=11 opp=10 ball=(103,51)  recover
+ 438.91 ours=11 opp=11 ball=(103,51)  chase
+ 439.02 ours= 0 opp= 0 ball=-         no radar
+ 440.05 ours=13 opp=11 ball=(103,49)  chase
+ 440.47 ours=13 opp=10 ball=(104,49)  recover
+ 440.58 ours= 0 opp= 0 ball=-         no radar
+ 443.59 ours= 0 opp= 0 ball=-         skip scene: A
+ 443.69 ours= 0 opp= 0 ball=-         no radar
+ 446.10 ours= 0 opp= 0 ball=-         skip scene: A
+ 446.25 ours= 0 opp= 0 ball=-         no radar
+ 446.66 panel corner: KICKTAK , PLÄY TO LEUVE
+ 448.68 ours= 0 opp= 0 ball=-         skip scene: A
+ 448.82 ours= 0 opp= 0 ball=-         no radar
+ 450.12 ours=10 opp=10 ball=(97,55)   recover
+ 450.32 ours=10 opp=11 ball=(97,55)   dribble
+ 452.32 ours=10 opp=11 ball=(92,51)   pass A to (80,67)
+ 452.42 ours=10 opp=10 ball=(91,51)   dribble
+ 453.23 ours=10 opp=11 ball=(86,51)   pass A to (81,68)
+ 453.33 ours=11 opp=12 ball=(85,52)   dribble
+ 453.73 ours= 0 opp= 0 ball=-         no radar
+ 453.93 ours=10 opp=11 ball=(81,52)   dribble
+ 454.13 ours=10 opp=11 ball=(80,52)   pass A to (78,70)
+ 454.23 ours=10 opp=11 ball=(79,52)   dribble
+ 454.53 ours= 0 opp= 0 ball=-         no radar
+ 454.73 ours=12 opp=10 ball=(72,48)   recover
+ 456.14 ours= 0 opp= 0 ball=-         no radar
+ 457.54 ours= 9 opp=10 ball=(74,31)   contain
+ 457.74 ours= 0 opp= 0 ball=-         no radar
+ 457.84 ours= 9 opp=10 ball=(75,32)   contain
+ 458.94 ours= 9 opp=10 ball=(90,35)   recover
+ 459.05 ours= 9 opp=10 ball=(79,37)   contain
+ 460.15 ours=10 opp=10 ball=(83,43)   recover
+ 460.45 ours= 9 opp= 8 ball=(84,47)   contain
+ 462.15 ours= 9 opp=10 ball=(86,42)   recover
+ 462.25 ours=11 opp=10 ball=(86,41)   tackle
+ 462.35 ours= 9 opp=11 ball=(86,41)   dribble
+ 463.16 ours= 8 opp= 9 ball=(89,45)   pass A to (65,35)
+ 463.26 ours= 9 opp= 9 ball=(89,45)   dribble
+ 464.06 ours= 9 opp= 9 ball=(91,47)   pass A to (65,35)
+ 464.16 ours= 8 opp= 9 ball=(91,47)   dribble
+ 464.96 ours= 7 opp= 9 ball=(107,38)  contain
+ 465.07 ours= 7 opp= 9 ball=-         no radar
+ 468.09 ours= 0 opp= 0 ball=-         skip scene: A
+ 468.24 ours= 0 opp= 0 ball=-         no radar
+ 470.64 ours= 0 opp= 0 ball=-         skip scene: A
+ 470.80 ours= 0 opp= 0 ball=-         no radar
+ 473.15 ours= 0 opp= 0 ball=-         skip scene: A
+ 473.25 ours= 0 opp= 0 ball=-         no radar
+ 475.66 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 475.80 ours= 0 opp= 0 ball=-         no radar
+ 478.22 ours= 0 opp= 0 ball=(5,71)    menu (SETTINGS): wait
+ 478.37 ours= 0 opp= 0 ball=(76,71)   no radar
+ 480.79 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 480.93 ours= 0 opp= 0 ball=-         no radar
+ 483.35 ours= 0 opp= 0 ball=(58,70)   menu (SETTINGS): wait
+ 483.50 ours= 0 opp= 0 ball=(58,70)   no radar
+ 485.94 ours= 0 opp= 0 ball=(49,70)   menu (SETTINGS): wait
+ 486.08 ours= 0 opp= 0 ball=(49,70)   no radar
+ 488.49 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 488.65 ours= 0 opp= 0 ball=-         no radar
+ 491.06 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 491.20 ours= 0 opp= 0 ball=-         no radar
+ 493.62 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 493.74 ours= 0 opp= 0 ball=-         no radar
+ 496.15 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 496.27 ours= 0 opp= 0 ball=-         no radar
+ 498.69 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 498.82 ours= 0 opp= 0 ball=-         no radar
+ 501.23 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 501.35 ours= 0 opp= 0 ball=-         no radar
+ 503.77 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 503.92 ours= 0 opp= 0 ball=-         no radar
+ 506.33 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 506.46 ours= 0 opp= 0 ball=-         no radar
+ 508.87 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 509.01 ours= 0 opp= 0 ball=-         no radar
+ 511.42 ours= 0 opp= 0 ball=(72,71)   menu (SETTINGS): wait
+ 511.56 ours= 0 opp= 0 ball=(3,71)    no radar
+ 513.97 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 514.12 ours= 0 opp= 0 ball=(62,71)   no radar
+ 516.55 ours= 0 opp= 0 ball=(54,70)   menu (SETTINGS): wait
+ 516.70 ours= 0 opp= 0 ball=(54,71)   no radar
+ 519.11 ours= 0 opp= 0 ball=(46,70)   menu (SETTINGS): wait
+ 519.27 ours= 0 opp= 0 ball=-         no radar
+ 521.69 ours= 0 opp= 0 ball=(37,70)   menu (SETTINGS): wait
+ 521.83 ours= 0 opp= 0 ball=-         no radar
+ 524.26 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 524.39 ours= 0 opp= 0 ball=-         no radar
+ 526.80 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 526.93 ours= 0 opp= 0 ball=-         no radar
+ 529.34 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 529.47 ours= 0 opp= 0 ball=-         no radar
+ 531.88 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 532.01 ours= 0 opp= 0 ball=-         no radar
+ 534.42 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 534.56 ours= 0 opp= 0 ball=-         no radar
+ 536.97 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 537.11 ours= 0 opp= 0 ball=-         no radar
+ 539.51 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 539.65 ours= 0 opp= 0 ball=-         no radar
+ 542.05 ours= 0 opp= 0 ball=-         menu (RESUME): wait
+ 542.23 ours= 0 opp= 0 ball=-         no radar
+ 544.64 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 544.77 ours= 0 opp= 0 ball=-         no radar
+ 547.19 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 547.33 ours= 0 opp= 0 ball=-         no radar
+ 549.74 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 549.87 ours= 0 opp= 0 ball=-         no radar
+ 552.28 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 552.42 ours= 0 opp= 0 ball=-         no radar
+ 554.83 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 554.96 ours= 0 opp= 0 ball=-         no radar
+ 557.37 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 557.49 ours= 0 opp= 0 ball=-         no radar
+ 559.91 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 560.05 ours= 0 opp= 0 ball=-         no radar
+ 562.46 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 562.60 ours= 0 opp= 0 ball=-         no radar
+ 565.01 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 565.14 ours= 0 opp= 0 ball=-         no radar
+ 567.55 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 567.69 ours= 0 opp= 0 ball=-         no radar
+ 570.10 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 570.24 ours= 0 opp= 0 ball=-         no radar
+ 572.68 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 572.83 ours= 0 opp= 0 ball=-         no radar
+ 575.18 ours= 0 opp= 0 ball=(3,71)    menu (SETTINGS): wait
+ 575.33 ours= 0 opp= 0 ball=(3,71)    no radar
+ 577.76 ours= 0 opp= 0 ball=(-1,71)   menu (SETTINGS): wait
+ 577.91 ours= 0 opp= 0 ball=(63,71)   no radar
+ 580.35 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 580.49 ours= 0 opp= 0 ball=(54,71)   no radar
+ 582.94 ours= 0 opp= 0 ball=(47,71)   menu (SETTINGS): wait
+ 583.07 ours= 0 opp= 0 ball=(46,70)   no radar
+ 585.48 ours= 0 opp= 0 ball=(38,70)   menu (SETTINGS): wait
+ 585.63 ours= 0 opp= 0 ball=-         no radar
+ 588.04 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 588.18 ours= 0 opp= 0 ball=-         no radar
+ 590.58 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 590.72 ours= 0 opp= 0 ball=-         no radar
+ 593.13 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 593.26 ours= 0 opp= 0 ball=-         no radar
+ 595.70 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 595.83 ours= 0 opp= 0 ball=-         no radar
+ 598.25 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 598.38 ours= 0 opp= 0 ball=-         no radar
+ 600.79 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 600.92 ours= 0 opp= 0 ball=-         no radar
+ 603.37 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 603.53 ours= 0 opp= 0 ball=-         no radar
+ 605.96 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 606.12 ours= 0 opp= 0 ball=-         no radar
+ 608.54 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 608.68 ours= 0 opp= 0 ball=-         no radar
+ 611.10 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 611.25 ours= 0 opp= 0 ball=-         no radar
+ 613.67 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 613.80 ours= 0 opp= 0 ball=-         no radar
+ 616.22 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 616.35 ours= 0 opp= 0 ball=-         no radar
+ 618.81 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 618.96 ours= 0 opp= 0 ball=-         no radar
+ 621.38 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 621.51 ours= 0 opp= 0 ball=-         no radar
+ 623.93 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 624.06 ours= 0 opp= 0 ball=-         no radar
+ 626.50 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 626.64 ours= 0 opp= 0 ball=-         no radar
+ 629.05 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 629.19 ours= 0 opp= 0 ball=-         no radar
+ 631.60 ours= 0 opp= 0 ball=-         menu (SETTINGS): wait
+ 631.74 ours= 0 opp= 0 ball=-         no radar

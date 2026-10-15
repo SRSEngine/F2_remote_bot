@@ -1,0 +1,2192 @@
+
+════ 2026-10-10 17:58:16  شروع اجرا  (ریموت C12، pid 27944) START_GAME=True ════
+17:59:55  ■ توقف       شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            17:58:44 Text in box: '26 Xbox One'
+            17:58:45 Found 'Games'
+            17:58:49 Text in box: '26 Xbox Seril'
+            17:58:50 Found 'Games'
+            17:58:53 Text in box: '27 XBOX One'
+            17:58:53 Found 'One'
+            17:58:59 Looking for 'Ultimate'
+            17:59:09 Looking for 'Ultimate'
+            17:59:20 Looking for 'Ultimate'
+            17:59:30 Looking for 'Ultimate'
+            17:59:40 Looking for 'Ultimate'
+            17:59:50 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 1:39  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:25:03  شروع اجرا  (ریموت C12، pid 27872) START_GAME=True  SHARED=True ════
+18:25:04  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack Wright)
+18:27:28  ·            اکانت Jack › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:29:11  ✗ خطا        اکانت Jack › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_182911_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:27:18 Looking for 'Ultimate'
+            18:27:28 FindUltimate نشد؛ ادامه
+            18:27:29 Looking for 'Main Ultimate'
+            18:27:39 Looking for 'Main Ultimate'
+            18:27:49 Looking for 'Main Ultimate'
+            18:27:59 Looking for 'Main Ultimate'
+            18:28:09 Looking for 'Main Ultimate'
+            18:28:20 Looking for 'Main Ultimate'
+            18:28:30 Looking for 'Main Ultimate'
+            18:28:40 Looking for 'Main Ultimate'
+            18:28:50 Looking for 'Main Ultimate'
+            18:29:01 Looking for 'Main Ultimate'
+18:29:11  ↻ تلاش دوباره اکانت Jack › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:29:16  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:44:27  ■ توقف       اکانت Jack › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:29:42 Found 'Games'
+            18:29:45 Text in box: '26 Xbox One'
+            18:29:47 Found 'Games'
+            18:29:50 Text in box: '26 Xbox Seril'
+            18:29:51 Found 'Games'
+            18:29:55 Text in box: '27 XBOX One'
+            18:29:55 Found 'One'
+            18:30:01 Looking for 'Ultimate'
+            18:30:11 Looking for 'Ultimate'
+            18:30:21 Looking for 'Ultimate'
+            18:44:15 Looking for 'Ultimate'
+            18:44:25 Looking for 'Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 19:23  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:44:31  شروع اجرا  (ریموت C12، pid 22356) START_GAME=True  SHARED=True ════
+18:44:36  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:46:28  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_184628_001_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:45:06 Text in box: '26 Xbox One'
+            18:45:07 Found 'Games'
+            18:45:11 Text in box: '26 Xbox Seril'
+            18:45:12 Found 'Games'
+            18:45:16 Text in box: '27 XBOX One'
+            18:45:16 Found 'One'
+            18:45:22 Looking for 'Ultimate'
+            18:45:32 Looking for 'Ultimate'
+            18:45:42 Looking for 'Ultimate'
+            18:45:52 Looking for 'Ultimate'
+            18:45:52 Looking for 'Two-factor'
+            18:46:28 Two-factor: تمام نشد
+18:50:07  ■ توقف       اکانت Jack › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:46:28 ✗ EA two-factor نشد (عکس: 1010_184628_001_EA_two-factor.png)
+            18:46:28 Looking for 'Ultimate'
+            18:46:28 Looking for 'Two-factor'
+════ پایان: ■ توقف از پنل  |  مدت 5:36  |  خطا 1، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:50:08  شروع اجرا  (ریموت C12، pid 27232) START_GAME=True  SHARED=True ════
+18:50:14  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:51:40  ■ توقف       اکانت Jack › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:50:39 Found 'Games'
+            18:50:42 Text in box: '26 Xbox One'
+            18:50:44 Found 'Games'
+            18:50:47 Text in box: '26 Xbox Seril'
+            18:50:48 Found 'Games'
+            18:50:52 Text in box: '27 XBOX One'
+            18:50:52 Found 'One'
+            18:50:58 Looking for 'Ultimate'
+            18:51:08 Looking for 'Ultimate'
+            18:51:18 Looking for 'Ultimate'
+            18:51:28 Looking for 'Ultimate'
+            18:51:28 Looking for 'Two-factor'
+════ پایان: ■ توقف از پنل  |  مدت 1:31  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:51:49  شروع اجرا  (ریموت C12، pid 5672) START_GAME=True  SHARED=True ════
+18:51:55  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:53:37  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185337_001_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:52:20 Found 'Games'
+            18:52:23 Text in box: '26 Xbox One'
+            18:52:24 Found 'Games'
+            18:52:28 Text in box: '26 Xbox Seril'
+            18:52:29 Found 'Games'
+            18:52:33 Text in box: '27 XBOX One'
+            18:52:33 Found 'One'
+            18:52:42 Looking for 'Ultimate'
+            18:52:52 Looking for 'Ultimate'
+            18:53:02 Looking for 'Ultimate'
+            18:53:02 Looking for 'Two-factor'
+            18:53:37 Two-factor: تمام نشد
+18:54:12  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185411_002_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:53:37 ✗ EA two-factor نشد (عکس: 1010_185337_001_EA_two-factor.png)
+            18:53:37 Looking for 'Ultimate'
+            18:53:37 Looking for 'Two-factor'
+            18:54:11 Two-factor: تمام نشد
+18:54:46  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185446_003_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:54:12 ✗ EA two-factor نشد (عکس: 1010_185411_002_EA_two-factor.png)
+            18:54:12 Looking for 'Ultimate'
+            18:54:12 Looking for 'Two-factor'
+            18:54:46 Two-factor: تمام نشد
+18:55:21  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185521_004_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:54:46 ✗ EA two-factor نشد (عکس: 1010_185446_003_EA_two-factor.png)
+            18:54:46 Looking for 'Ultimate'
+            18:54:46 Looking for 'Two-factor'
+            18:55:21 Two-factor: تمام نشد
+18:55:57  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185556_005_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:55:21 ✗ EA two-factor نشد (عکس: 1010_185521_004_EA_two-factor.png)
+            18:55:21 Looking for 'Ultimate'
+            18:55:21 Looking for 'Two-factor'
+            18:55:56 Two-factor: تمام نشد
+18:56:16  ■ توقف       اکانت Jack › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:55:57 ✗ EA two-factor نشد (عکس: 1010_185556_005_EA_two-factor.png)
+            18:55:57 Looking for 'Ultimate'
+            18:55:57 Looking for 'Two-factor'
+════ پایان: ■ توقف از پنل  |  مدت 4:27  |  خطا 5، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:56:21  شروع اجرا  (ریموت C12، pid 13024) START_GAME=True  SHARED=True ════
+18:56:26  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:58:15  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185815_001_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:56:55 Text in box: '26 Xbox One'
+            18:56:56 Found 'Games'
+            18:56:59 Text in box: '26 Xbox Seril'
+            18:57:01 Found 'Games'
+            18:57:04 Text in box: '27 XBOX One'
+            18:57:04 Found 'One'
+            18:57:10 Looking for 'Ultimate'
+            18:57:20 Looking for 'Ultimate'
+            18:57:30 Looking for 'Ultimate'
+            18:57:40 Looking for 'Ultimate'
+            18:57:41 Looking for 'Two-factor'
+            18:58:15 Two-factor: تمام نشد
+18:58:50  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185850_002_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:58:15 ✗ EA two-factor نشد (عکس: 1010_185815_001_EA_two-factor.png)
+            18:58:15 Looking for 'Ultimate'
+            18:58:15 Looking for 'Two-factor'
+            18:58:50 Two-factor: تمام نشد
+18:59:26  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_185926_003_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:58:50 ✗ EA two-factor نشد (عکس: 1010_185850_002_EA_two-factor.png)
+            18:58:50 Looking for 'Ultimate'
+            18:58:50 Looking for 'Two-factor'
+            18:59:26 Two-factor: تمام نشد
+18:59:49  ■ توقف       اکانت Jack › شروع بازی › FindUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:59:26 ✗ EA two-factor نشد (عکس: 1010_185926_003_EA_two-factor.png)
+            18:59:26 Looking for 'Ultimate'
+            18:59:26 Looking for 'Two-factor'
+════ پایان: ■ توقف از پنل  |  مدت 3:28  |  خطا 3، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 18:59:49  شروع اجرا  (ریموت C12، pid 17760) START_GAME=True  SHARED=True ════
+18:59:55  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+19:01:44  ✗ خطا        اکانت Jack › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_190144_001_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:00:33 Found 'One'
+            19:00:39 Looking for 'Ultimate'
+            19:00:49 Looking for 'Ultimate'
+            19:00:59 Looking for 'Ultimate'
+            19:00:59 Looking for 'Two-factor'
+            19:01:01 Looking for 'Mobile App Authenticator'
+            19:01:02 Found 'Mobile App Authenticator' (selected) -> A
+            19:01:09 EA code for Jack (try 1)
+            19:01:09 Typing 6 chars
+            19:01:36 EA code: صفحه نرفت (کد اشتباه یا منقضی)؛ پاک و دوباره
+            19:01:42 EA code: کیبورد باز نشد
+            19:01:44 EA code: کیبورد باز نشد
+19:02:02  ·            اکانت Jack › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+19:03:45  ✓ انجام شد   اکانت Jack  |  بازی باز شد و صفحه‌ی SBC آمد
+19:04:28  ⏸ توقف موقت  اکانت Jack › چالش Marquee Matchups  |  open set Marquee Matchups نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: open the set by hand (its challenge page)
+          عکس: shots\C12\1010_190428_002_pause_open_set_Marquee_Matchups.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:03:16 Found 'Ultimate'
+            19:03:16 Looking for 'Main Ultimate'
+            19:03:27 Looking for 'Main Ultimate'
+            19:03:38 Looking for 'SBC'
+            19:03:43 Found 'SBC'
+            19:03:45 Plan: Marquee Matchups (4)
+            19:03:45 Looking for set 'Marquee Matchups'
+            19:03:50 Looking for set 'Marquee Matchups'
+            19:03:55 Looking for set 'Marquee Matchups'
+            19:04:00 Looking for set 'Marquee Matchups'
+            19:04:05 Looking for set 'Marquee Matchups'
+            19:04:11 Looking for set 'Marquee Matchups'
+19:08:55  ▶ ادامه      اکانت Jack › چالش Marquee Matchups  |  بعد از 4:26 توقف
+19:09:16  ·            اکانت Jack › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:09:17  ·            اکانت Jack › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:09:18  ·            اکانت Jack › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:09:20  ·            اکانت Jack › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+19:09:20  ✓ انجام شد   اکانت Jack  |  اکانت Jack تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Jack  |  مدت 9:30  |  خطا 1، تلاش دوباره 0، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-10 19:26:12  شروع اجرا  (ریموت C12، pid 23860) START_GAME=True  SHARED=True ════
+19:26:23  ·            اکانت Chester › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: Chester
+19:26:23  ⏸ توقف موقت  اکانت Chester › شروع بازی › CheckAccount  |  پیدا کردن اکانت Chester روی کنسول نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: روی کنسول به اکانت Chester (Chester.mand456@outlook.com) سوئیچ کنید و صفحه را روی Home بگذارید
+          عکس: shots\C12\1010_192623_001_pause__Chester.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:26:12 ===== Account: Chester (Chester.mand456@outlook.com) =====
+            19:26:12 ===== باز کردن بازی (تلاش 1) =====
+19:26:44  ▶ ادامه      اکانت Chester › شروع بازی › CheckAccount  |  بعد از 0:21 توقف
+19:26:45  ✓ انجام شد   اکانت Chester › شروع بازی › CheckAccount  |  اکانت Chester روی کنسول است (گیمرتگ: Chester#2832)
+19:28:16  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192816_002_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:27:23 Text in box: '27 XBOX One'
+            19:27:23 Found 'One'
+            19:27:29 Looking for 'Ultimate'
+            19:27:39 Looking for 'Ultimate'
+            19:27:49 Looking for 'Ultimate'
+            19:27:59 Looking for 'Ultimate'
+            19:27:59 Looking for 'Two-factor'
+            19:28:01 Looking for 'Mobile App Authenticator'
+            19:28:02 Found 'Mobile App Authenticator' (selected) -> A
+            19:28:12 EA code: کیبورد باز نشد
+            19:28:14 EA code: کیبورد باز نشد
+            19:28:16 EA code: کیبورد باز نشد
+19:28:21  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192821_003_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:16 ✗ EA two-factor نشد (عکس: 1010_192816_002_EA_two-factor.png)
+            19:28:16 Looking for 'Ultimate'
+            19:28:16 Looking for 'Two-factor'
+            19:28:18 EA code: کیبورد باز نشد
+            19:28:19 EA code: کیبورد باز نشد
+            19:28:21 EA code: کیبورد باز نشد
+19:28:27  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192827_004_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:21 ✗ EA two-factor نشد (عکس: 1010_192821_003_EA_two-factor.png)
+            19:28:21 Looking for 'Ultimate'
+            19:28:21 Looking for 'Two-factor'
+            19:28:23 EA code: کیبورد باز نشد
+            19:28:25 EA code: کیبورد باز نشد
+            19:28:27 EA code: کیبورد باز نشد
+19:28:33  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192833_005_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:27 ✗ EA two-factor نشد (عکس: 1010_192827_004_EA_two-factor.png)
+            19:28:27 Looking for 'Ultimate'
+            19:28:27 Looking for 'Two-factor'
+            19:28:29 EA code: کیبورد باز نشد
+            19:28:31 EA code: کیبورد باز نشد
+            19:28:33 EA code: کیبورد باز نشد
+19:28:39  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192839_006_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:33 ✗ EA two-factor نشد (عکس: 1010_192833_005_EA_two-factor.png)
+            19:28:33 Looking for 'Ultimate'
+            19:28:33 Looking for 'Two-factor'
+            19:28:35 EA code: کیبورد باز نشد
+            19:28:37 EA code: کیبورد باز نشد
+            19:28:39 EA code: کیبورد باز نشد
+19:28:44  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192844_007_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:39 ✗ EA two-factor نشد (عکس: 1010_192839_006_EA_two-factor.png)
+            19:28:39 Looking for 'Ultimate'
+            19:28:39 Looking for 'Two-factor'
+            19:28:41 EA code: کیبورد باز نشد
+            19:28:42 EA code: کیبورد باز نشد
+            19:28:44 EA code: کیبورد باز نشد
+19:28:50  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_192850_008_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:44 ✗ EA two-factor نشد (عکس: 1010_192844_007_EA_two-factor.png)
+            19:28:44 Looking for 'Ultimate'
+            19:28:44 Looking for 'Two-factor'
+            19:28:46 EA code: کیبورد باز نشد
+            19:28:48 EA code: کیبورد باز نشد
+            19:28:50 EA code: کیبورد باز نشد
+19:28:50  ·            اکانت Chester › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+19:30:32  ✗ خطا        اکانت Chester › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193032_009_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:50 ✗ EA two-factor نشد (عکس: 1010_192850_008_EA_two-factor.png)
+            19:28:50 FindUltimate نشد؛ ادامه
+            19:28:50 Looking for 'Main Ultimate'
+            19:29:00 Looking for 'Main Ultimate'
+            19:29:11 Looking for 'Main Ultimate'
+            19:29:21 Looking for 'Main Ultimate'
+            19:29:31 Looking for 'Main Ultimate'
+            19:29:41 Looking for 'Main Ultimate'
+            19:29:51 Looking for 'Main Ultimate'
+            19:30:01 Looking for 'Main Ultimate'
+            19:30:12 Looking for 'Main Ultimate'
+            19:30:22 Looking for 'Main Ultimate'
+19:30:32  ↻ تلاش دوباره اکانت Chester › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+19:30:37  ✓ انجام شد   اکانت Chester › شروع بازی › CheckAccount  |  اکانت Chester روی کنسول است (گیمرتگ: Chester#2832)
+19:32:07  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193207_010_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:31:17 Text in box: '27 XBOX One'
+            19:31:17 Found 'One'
+            19:31:23 Looking for 'Ultimate'
+            19:31:33 Looking for 'Ultimate'
+            19:31:43 Looking for 'Ultimate'
+            19:31:53 Looking for 'Ultimate'
+            19:31:54 Looking for 'Two-factor'
+            19:31:55 Looking for 'Mobile App Authenticator'
+            19:31:56 Found 'Mobile App Authenticator' (selected) -> A
+            19:32:04 EA code: کیبورد باز نشد
+            19:32:06 EA code: کیبورد باز نشد
+            19:32:07 EA code: کیبورد باز نشد
+19:32:13  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193213_011_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:07 ✗ EA two-factor نشد (عکس: 1010_193207_010_EA_two-factor.png)
+            19:32:07 Looking for 'Ultimate'
+            19:32:07 Looking for 'Two-factor'
+            19:32:09 EA code: کیبورد باز نشد
+            19:32:11 EA code: کیبورد باز نشد
+            19:32:13 EA code: کیبورد باز نشد
+19:32:19  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193219_012_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:13 ✗ EA two-factor نشد (عکس: 1010_193213_011_EA_two-factor.png)
+            19:32:13 Looking for 'Ultimate'
+            19:32:13 Looking for 'Two-factor'
+            19:32:15 EA code: کیبورد باز نشد
+            19:32:17 EA code: کیبورد باز نشد
+            19:32:19 EA code: کیبورد باز نشد
+19:32:25  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193225_013_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:19 ✗ EA two-factor نشد (عکس: 1010_193219_012_EA_two-factor.png)
+            19:32:19 Looking for 'Ultimate'
+            19:32:19 Looking for 'Two-factor'
+            19:32:21 EA code: کیبورد باز نشد
+            19:32:23 EA code: کیبورد باز نشد
+            19:32:25 EA code: کیبورد باز نشد
+19:32:31  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193230_014_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:25 ✗ EA two-factor نشد (عکس: 1010_193225_013_EA_two-factor.png)
+            19:32:25 Looking for 'Ultimate'
+            19:32:25 Looking for 'Two-factor'
+            19:32:27 EA code: کیبورد باز نشد
+            19:32:29 EA code: کیبورد باز نشد
+            19:32:30 EA code: کیبورد باز نشد
+19:32:36  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193236_015_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:31 ✗ EA two-factor نشد (عکس: 1010_193230_014_EA_two-factor.png)
+            19:32:31 Looking for 'Ultimate'
+            19:32:31 Looking for 'Two-factor'
+            19:32:33 EA code: کیبورد باز نشد
+            19:32:35 EA code: کیبورد باز نشد
+            19:32:36 EA code: کیبورد باز نشد
+19:32:42  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193242_016_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:36 ✗ EA two-factor نشد (عکس: 1010_193236_015_EA_two-factor.png)
+            19:32:37 Looking for 'Ultimate'
+            19:32:37 Looking for 'Two-factor'
+            19:32:39 EA code: کیبورد باز نشد
+            19:32:40 EA code: کیبورد باز نشد
+            19:32:42 EA code: کیبورد باز نشد
+19:32:42  ·            اکانت Chester › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+19:34:25  ✗ خطا        اکانت Chester › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193425_017_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:32:42 ✗ EA two-factor نشد (عکس: 1010_193242_016_EA_two-factor.png)
+            19:32:42 FindUltimate نشد؛ ادامه
+            19:32:43 Looking for 'Main Ultimate'
+            19:32:53 Looking for 'Main Ultimate'
+            19:33:03 Looking for 'Main Ultimate'
+            19:33:13 Looking for 'Main Ultimate'
+            19:33:23 Looking for 'Main Ultimate'
+            19:33:34 Looking for 'Main Ultimate'
+            19:33:44 Looking for 'Main Ultimate'
+            19:33:54 Looking for 'Main Ultimate'
+            19:34:04 Looking for 'Main Ultimate'
+            19:34:15 Looking for 'Main Ultimate'
+19:34:25  ↻ تلاش دوباره اکانت Chester › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+19:34:30  ✓ انجام شد   اکانت Chester › شروع بازی › CheckAccount  |  اکانت Chester روی کنسول است (گیمرتگ: Chester#2832)
+19:35:59  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193559_018_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:35:08 Text in box: '27 XBOX One'
+            19:35:08 Found 'One'
+            19:35:14 Looking for 'Ultimate'
+            19:35:24 Looking for 'Ultimate'
+            19:35:35 Looking for 'Ultimate'
+            19:35:45 Looking for 'Ultimate'
+            19:35:45 Looking for 'Two-factor'
+            19:35:46 Looking for 'Mobile App Authenticator'
+            19:35:48 Found 'Mobile App Authenticator' (selected) -> A
+            19:35:56 EA code: کیبورد باز نشد
+            19:35:57 EA code: کیبورد باز نشد
+            19:35:59 EA code: کیبورد باز نشد
+19:36:05  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193605_019_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:35:59 ✗ EA two-factor نشد (عکس: 1010_193559_018_EA_two-factor.png)
+            19:35:59 Looking for 'Ultimate'
+            19:35:59 Looking for 'Two-factor'
+            19:36:01 EA code: کیبورد باز نشد
+            19:36:03 EA code: کیبورد باز نشد
+            19:36:05 EA code: کیبورد باز نشد
+19:36:11  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193611_020_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:05 ✗ EA two-factor نشد (عکس: 1010_193605_019_EA_two-factor.png)
+            19:36:05 Looking for 'Ultimate'
+            19:36:05 Looking for 'Two-factor'
+            19:36:07 EA code: کیبورد باز نشد
+            19:36:09 EA code: کیبورد باز نشد
+            19:36:11 EA code: کیبورد باز نشد
+19:36:16  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193616_021_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:11 ✗ EA two-factor نشد (عکس: 1010_193611_020_EA_two-factor.png)
+            19:36:11 Looking for 'Ultimate'
+            19:36:11 Looking for 'Two-factor'
+            19:36:13 EA code: کیبورد باز نشد
+            19:36:15 EA code: کیبورد باز نشد
+            19:36:16 EA code: کیبورد باز نشد
+19:36:22  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193622_022_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:16 ✗ EA two-factor نشد (عکس: 1010_193616_021_EA_two-factor.png)
+            19:36:17 Looking for 'Ultimate'
+            19:36:17 Looking for 'Two-factor'
+            19:36:19 EA code: کیبورد باز نشد
+            19:36:20 EA code: کیبورد باز نشد
+            19:36:22 EA code: کیبورد باز نشد
+19:36:28  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193628_023_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:22 ✗ EA two-factor نشد (عکس: 1010_193622_022_EA_two-factor.png)
+            19:36:22 Looking for 'Ultimate'
+            19:36:22 Looking for 'Two-factor'
+            19:36:24 EA code: کیبورد باز نشد
+            19:36:26 EA code: کیبورد باز نشد
+            19:36:28 EA code: کیبورد باز نشد
+19:36:34  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_193634_024_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:28 ✗ EA two-factor نشد (عکس: 1010_193628_023_EA_two-factor.png)
+            19:36:28 Looking for 'Ultimate'
+            19:36:28 Looking for 'Two-factor'
+            19:36:30 EA code: کیبورد باز نشد
+            19:36:32 EA code: کیبورد باز نشد
+            19:36:34 EA code: کیبورد باز نشد
+19:36:34  ·            اکانت Chester › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+19:39:11  ✓ انجام شد   اکانت Chester  |  بازی باز شد و صفحه‌ی SBC آمد
+19:39:42  ·            اکانت Chester › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+19:42:49  ✗ خطا        اکانت Chester › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_194249_025_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:40:54 Bronze پیدا شد
+            19:40:56 Looking for 'Position'
+            19:41:01 Looking for 'BuyNow' (قیمت 200)
+            19:41:07 Found 'BuyNow (2)'
+            19:41:46 expired
+            19:41:48 Found 'BuyNow (2)'
+            19:42:33 expired
+            19:42:35 Found 'BuyNow (2)'
+            19:42:37 expired
+            19:42:37 BUY: ۳ بار خرید نشد → قیمت 200 ← 300
+            19:42:49 FindFilter: به Pricing نرسید
+            19:42:49 BUY: قیمت 300 تنظیم نشد
+19:42:49  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:44:30  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد (تلاش 2)
+19:45:24  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+19:47:49  ■ توقف       اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:45:54 Looking for 'Pricing'
+            19:45:56 Looking for 'Pricing'
+            19:45:56 0
+            19:45:57 150
+            19:46:00 Looking for 'BuyNow' (قیمت 200)
+            19:46:05 Found 'BuyNow (2)'
+            19:46:46 expired
+            19:46:48 Found 'BuyNow (2)'
+            19:47:34 expired
+            19:47:37 Found 'BuyNow (2)'
+            19:47:38 expired
+            19:47:38 BUY: ۳ بار خرید نشد → قیمت 200 ← 300
+════ پایان: ■ توقف از پنل  |  مدت 21:37  |  خطا 24، تلاش دوباره 3، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-10 19:47:51  شروع اجرا  (ریموت C12، pid 25776) START_GAME=True  SHARED=True ════
+19:47:56  ✓ انجام شد   اکانت Chester › شروع بازی › CheckAccount  |  اکانت Chester روی کنسول است (گیمرتگ: Chester#2832)
+19:49:51  ✓ انجام شد   اکانت Chester  |  بازی باز شد و صفحه‌ی SBC آمد
+19:50:16  ·            اکانت Chester › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+19:50:59  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+19:51:18  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+19:54:09  ✗ خطا        اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_195409_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:52:02 Looking for 'Rarity'
+            19:52:09 Bronze پیدا شد
+            19:52:10 Looking for 'Position'
+            19:52:15 Looking for 'BuyNow' (قیمت 200)
+            19:52:21 Found 'BuyNow (2)'
+            19:52:49 Found 'BuyNow (2)'
+            19:53:03 Found 'BuyNow (2)'
+            19:53:26 Found 'BuyNow (2)'
+            19:53:38 Found 'BuyNow (2)'
+            19:53:50 Found 'BuyNow (2)'
+            19:53:59 Found 'BuyNow (2)'
+            19:54:09 BUY: خرید انجام نشد
+19:54:09  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:57:25  ✗ خطا        اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_195725_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:55:27 Bronze پیدا شد
+            19:55:29 Looking for 'Position'
+            19:55:34 Looking for 'BuyNow' (قیمت 200)
+            19:55:39 Found 'BuyNow (2)'
+            19:56:20 expired
+            19:56:23 Found 'BuyNow (2)'
+            19:57:08 expired
+            19:57:11 Found 'BuyNow (2)'
+            19:57:12 expired
+            19:57:13 BUY: ۳ بار خرید نشد → قیمت 200 ← 300
+            19:57:25 FindFilter: به Pricing نرسید
+            19:57:25 BUY: قیمت 300 تنظیم نشد
+19:57:25  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:57:58  ■ توقف       اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:57:25 ✗ BUY نشد (عکس: 1010_195725_002_BUY.png)
+            19:57:25 [Marquee Matchups 1:3] تلاش 2 از 3 نشد؛ برگشت به اسکواد
+            19:57:37 Pricing: club=True، قیمت نادیده گرفته شد
+            19:57:43 Found 'Top9'
+            19:57:46 England پیدا شد
+            19:57:46 Looking for 'Rarity'
+            19:57:54 Bronze پیدا شد
+            19:57:55 Looking for 'Position'
+════ پایان: ■ توقف از پنل  |  مدت 10:07  |  خطا 2، تلاش دوباره 2، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-10 19:58:01  شروع اجرا  (ریموت C12، pid 26544) START_GAME=True  SHARED=True ════
+19:58:06  ✓ انجام شد   اکانت Chester › شروع بازی › CheckAccount  |  اکانت Chester روی کنسول است (گیمرتگ: Chester#2832)
+19:59:51  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_195951_001_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:58:36 Found 'Games'
+            19:58:40 Text in box: '26 Xbox Seril'
+            19:58:41 Found 'Games'
+            19:58:44 Text in box: '27 XBOX One'
+            19:58:44 Found 'One'
+            19:58:50 Looking for 'Ultimate'
+            19:59:00 Looking for 'Ultimate'
+            19:59:10 Looking for 'Ultimate'
+            19:59:21 Looking for 'Ultimate'
+            19:59:31 Looking for 'Ultimate'
+            19:59:31 Looking for 'Two-factor'
+            19:59:51 Two-factor: تمام نشد
+20:00:11  ✗ خطا        اکانت Chester › شروع بازی › FindUltimate  |  EA two-factor نشد
+          تابع: EA two-factor ← FindUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_200011_002_EA_two-factor.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:59:51 ✗ EA two-factor نشد (عکس: 1010_195951_001_EA_two-factor.png)
+            19:59:51 Looking for 'Ultimate'
+            19:59:51 Looking for 'Two-factor'
+            20:00:11 Two-factor: تمام نشد
+20:00:39  ✓ انجام شد   اکانت Chester  |  بازی باز شد و صفحه‌ی SBC آمد
+20:01:05  ·            اکانت Chester › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+20:01:44  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:02:03  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:03:17  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:04:09  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:04:56  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:05:44  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:06:32  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:07:01  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:07:19  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+20:09:20  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+20:09:56  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+20:10:03  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+20:10:48  ·            اکانت Chester › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+20:12:31  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:13:27  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:14:23  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:15:14  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:16:14  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:17:43  ✗ خطا        اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_201743_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:17:06 300
+            20:17:07 350
+            20:17:08 400
+            20:17:08 450
+            20:17:09 500
+            20:17:18 Found 'Top9'
+            20:17:20 Italy پیدا شد
+            20:17:21 Looking for 'Position'
+            20:17:27 Looking for 'BuyNow' (قیمت 550)
+            20:17:31 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            20:17:43 FindFilter: به Pricing نرسید
+            20:17:43 BUY: قیمت 650 تنظیم نشد
+20:17:43  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:19:26  ✗ خطا        اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_201926_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:18:42 400
+            20:18:43 450
+            20:18:43 500
+            20:18:52 Found 'Top9'
+            20:18:54 Italy پیدا شد
+            20:18:55 Looking for 'Rarity'
+            20:19:03 Silver پیدا شد
+            20:19:05 Looking for 'Position'
+            20:19:11 Looking for 'BuyNow' (قیمت 550)
+            20:19:14 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            20:19:26 FindFilter: به Pricing نرسید
+            20:19:26 BUY: قیمت 650 تنظیم نشد
+20:19:26  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:22:08  ✗ خطا        اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_202208_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:20:48 Looking for 'Position'
+            20:20:54 Looking for 'BuyNow' (قیمت 550)
+            20:20:59 Found 'BuyNow (2)'
+            20:21:33 Found 'No'
+            20:21:34 Found 'Yes'
+            20:21:51 Found 'BuyNow (2)'
+            20:21:52 expired
+            20:21:54 Found 'BuyNow (2)'
+            20:21:56 expired
+            20:21:56 BUY: ۳ بار خرید نشد → قیمت 550 ← 650
+            20:22:08 FindFilter: به Pricing نرسید
+            20:22:08 BUY: قیمت 650 تنظیم نشد
+20:22:08  ⏸ توقف موقت  اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  [Marquee Matchups 2:6] بازیکن نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی اسکواد، روی خانه‌ی همین بازیکن بگذارید
+          عکس: shots\C12\1010_202208_006_pause__Marquee_Matchups_2_6.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:22:08 ✗ BUY نشد (عکس: 1010_202208_005_BUY.png)
+            20:22:08 [Marquee Matchups 2:6] تلاش 3 از 3 نشد؛ برگشت به اسکواد
+20:35:13  ▶ ادامه      اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بعد از 13:05 توقف
+20:36:57  ✗ خطا        اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_203657_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:36:13 400
+            20:36:14 450
+            20:36:14 500
+            20:36:23 Found 'Top9'
+            20:36:26 Italy پیدا شد
+            20:36:26 Looking for 'Rarity'
+            20:36:34 Silver پیدا شد
+            20:36:36 Looking for 'Position'
+            20:36:42 Looking for 'BuyNow' (قیمت 550)
+            20:36:45 BUY: کارتی پیدا نشد → قیمت 550 ← 650
+            20:36:57 FindFilter: به Pricing نرسید
+            20:36:57 BUY: قیمت 650 تنظیم نشد
+20:36:57  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:39:24  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد (تلاش 2)
+20:40:47  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:41:43  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:44:02  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:46:11  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 10/11 (GOLD | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+20:47:56  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+20:48:01  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+20:48:34  ⏸ توقف موقت  اکانت Chester › چالش Marquee Matchups 3  |  باز کردن چالش Marquee Matchups 3 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: صفحه را روی لیست چالش‌ها بگذارید
+          عکس: shots\C12\1010_204833_008_pause__Marquee_Matchups_3.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:47:27 Looking for 'Position'
+            20:47:33 Found 'Default'
+            20:47:36 EFL Championship پیدا شد
+            20:47:40 Looking for 'BuyNow' (قیمت 550)
+            20:47:45 Found 'BuyNow (2)'
+            20:47:52 Found 'No'
+            20:47:53 Found 'Yes'
+            20:47:56 Bought (قیمت 550)
+            20:48:01 ===== Marquee Matchups 3 =====
+            20:48:01 Marquee3.csv: 11 rows
+            20:48:17 Challenge 3: به آن نرسید (الان روی None)
+            20:48:31 Challenge 3: به آن نرسید (الان روی None)
+20:48:55  ▶ ادامه      اکانت Chester › چالش Marquee Matchups 3  |  بعد از 0:21 توقف
+20:49:17  ·            اکانت Chester › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+20:51:12  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:52:11  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:53:02  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:53:53  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:54:44  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:55:35  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+20:56:51  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:57:42  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+20:58:38  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+21:01:28  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+21:02:49  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+21:02:55  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+21:03:24  ·            اکانت Chester › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+21:05:32  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+21:07:05  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronz | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:08:21  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 3/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+21:09:16  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 4/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+21:10:29  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronz | OFF | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:13:03  ✗ خطا        اکانت Chester › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronz | OFF | RB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1010_211303_009_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:10:43 Pricing: club=True، قیمت نادیده گرفته شد
+            21:10:43 Looking for 'Position'
+            21:11:00 Looking for 'Pricing'
+            21:11:01 Looking for 'Pricing'
+            21:11:01 0
+            21:11:02 150
+            21:11:05 Looking for 'Position'
+            21:11:05 Looking for 'BuyNow' (قیمت 200)
+            21:11:11 Found 'BuyNow (2)'
+            21:11:17 Found 'No'
+            21:11:18 Found 'Yes'
+            21:13:03 BUY: خرید انجام نشد
+21:13:03  ↻ تلاش دوباره اکانت Chester › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronz | OFF | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+21:14:49  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronz | OFF | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد (تلاش 2)
+21:15:41  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronz | OFF | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:16:28  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronz | OFF | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:18:32  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 9/11 (GOLD | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+21:19:42  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 10/11 (GOLD | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+21:21:15  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronz | OFF | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+21:21:20  ✓ انجام شد   اکانت Chester › چالش Marquee Matchups 4  |  Submit شد، چالش تمام شد
+21:21:20  ✓ انجام شد   اکانت Chester  |  اکانت Chester تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: Chester  |  مدت 1:23:18  |  خطا 7، تلاش دوباره 4، توقف موقت 2، خطای کد 0 ════
+
+════ 2026-10-10 21:27:19  شروع اجرا  (ریموت C12، pid 28424) START_GAME=True  SHARED=True ════
+21:27:20  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+21:29:44  ·            اکانت locke › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+21:31:26  ✗ خطا        اکانت locke › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1010_213126_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:29:34 Looking for 'Ultimate'
+            21:29:44 FindUltimate نشد؛ ادامه
+            21:29:44 Looking for 'Main Ultimate'
+            21:29:55 Looking for 'Main Ultimate'
+            21:30:05 Looking for 'Main Ultimate'
+            21:30:15 Looking for 'Main Ultimate'
+            21:30:25 Looking for 'Main Ultimate'
+            21:30:35 Looking for 'Main Ultimate'
+            21:30:45 Looking for 'Main Ultimate'
+            21:30:56 Looking for 'Main Ultimate'
+            21:31:06 Looking for 'Main Ultimate'
+            21:31:16 Looking for 'Main Ultimate'
+21:31:26  ↻ تلاش دوباره اکانت locke › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+21:31:31  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: Locke#9141)
+21:33:57  ·            اکانت locke › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+21:35:39  ‼ خطای کد    اکانت locke › شروع بازی › MainUltimate  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            21:33:37 Looking for 'Ultimate'
+            21:33:47 Looking for 'Ultimate'
+            21:33:57 FindUltimate نشد؛ ادامه
+            21:33:57 Looking for 'Main Ultimate'
+            21:34:07 Looking for 'Main Ultimate'
+            21:34:17 Looking for 'Main Ultimate'
+            21:34:28 Looking for 'Main Ultimate'
+            21:34:38 Looking for 'Main Ultimate'
+            21:34:48 Looking for 'Main Ultimate'
+            21:34:58 Looking for 'Main Ultimate'
+            21:35:08 Looking for 'Main Ultimate'
+            21:35:18 Looking for 'Main Ultimate'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 8:19  |  خطا 1، تلاش دوباره 1، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 13:33:18  شروع اجرا  (ریموت C12، pid 2460) START_GAME=True  SHARED=True ════
+13:33:24  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'chester Mand' — اکانت لازم: locke
+13:33:29  ■ توقف       اکانت locke › شروع بازی › CheckAccount  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:33:18 ===== Account: locke (locke-cherie88@outlook.com) =====
+            13:33:18 ===== باز کردن بازی (تلاش 1) =====
+            13:33:24 Account: 'chester Mand' on console, switching to locke
+            13:33:24 Switch account -> locke
+════ پایان: ■ توقف از پنل  |  مدت 0:10  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 13:33:43  شروع اجرا  (ریموت C12، pid 16548) START_GAME=True  SHARED=True ════
+13:33:49  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+1 orofile' — اکانت لازم: locke
+13:34:10  ■ توقف       اکانت locke › شروع بازی › CheckAccount  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:33:43 ===== Account: locke (locke-cherie88@outlook.com) =====
+            13:33:43 ===== باز کردن بازی (تلاش 1) =====
+            13:33:49 Account: '+1 orofile' on console, switching to locke
+            13:33:49 Switch account -> locke
+            13:34:05 Switch: found 'Locke#9141' -> A
+════ پایان: ■ توقف از پنل  |  مدت 0:26  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 13:34:43  شروع اجرا  (ریموت C12، pid 15276) START_GAME=True  SHARED=True ════
+13:34:44  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: Locke#9141)
+13:37:10  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+13:37:32  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups  |  open set Marquee Matchups نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: open the set by hand (its challenge page)
+          عکس: shots\C12\1011_133732_001_pause_open_set_Marquee_Matchups.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:36:27 Found 'Setting'
+            13:36:29 Looking for 'Ultimate'
+            13:36:29 Found 'Setting'
+            13:36:29 Found 'Ultimate'
+            13:36:29 Looking for 'Main Ultimate'
+            13:36:39 Looking for 'Main Ultimate'
+            13:36:51 Looking for 'Main Ultimate'
+            13:37:03 Looking for 'SBC'
+            13:37:09 Found 'SBC'
+            13:37:10 Plan: Marquee Matchups (4)
+            13:37:10 Looking for set 'Marquee Matchups'
+            13:37:15 Looking for set 'Marquee Matchups'
+13:43:52  ▶ ادامه      اکانت locke › چالش Marquee Matchups  |  بعد از 6:19 توقف
+13:44:44  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups  |  open set Marquee Matchups نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: open the set by hand (its challenge page)
+          عکس: shots\C12\1011_134444_002_pause_open_set_Marquee_Matchups.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:43:53 Looking for set 'Marquee Matchups'
+            13:43:58 Looking for set 'Marquee Matchups'
+            13:44:03 Looking for set 'Marquee Matchups'
+            13:44:08 Looking for set 'Marquee Matchups'
+            13:44:14 Looking for set 'Marquee Matchups'
+            13:44:19 Looking for set 'Marquee Matchups'
+            13:44:24 Looking for set 'Marquee Matchups'
+            13:44:29 Looking for set 'Marquee Matchups'
+            13:44:34 Looking for set 'Marquee Matchups'
+            13:44:39 Looking for set 'Marquee Matchups'
+13:50:55  ▶ ادامه      اکانت locke › چالش Marquee Matchups  |  بعد از 6:10 توقف
+13:51:33  ·            اکانت locke › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+13:53:06  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:53:53  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:54:38  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 3/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:55:24  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:56:10  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:56:56  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:57:43  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:58:12  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+13:58:31  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+14:00:26  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+14:01:48  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1 › بازیکن 11/11 (Silver | OFF | OFF | OFF | OFF | 450)  |  بازیکن اضافه شد
+14:01:55  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+14:02:27  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 2  |  Open challenge Marquee Matchups 2 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C12\1011_140227_003_pause_Open_challenge_Marquee_Matchups_2.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:01:18 400
+            14:01:22 Looking for 'Rarity'
+            14:01:31 Silver پیدا شد
+            14:01:37 Looking for 'BuyNow' (قیمت 450)
+            14:01:43 Found 'BuyNow (2)'
+            14:01:44 Found 'No'
+            14:01:45 Found 'Yes'
+            14:01:48 Bought (قیمت 450)
+            14:01:55 ===== Marquee Matchups 2 =====
+            14:01:55 Marquee2.csv: 11 rows
+            14:02:10 Challenge 2: به آن نرسید (الان روی None)
+            14:02:25 Challenge 2: به آن نرسید (الان روی None)
+14:19:39  ▶ ادامه      اکانت locke › چالش Marquee Matchups 2  |  بعد از 17:12 توقف
+14:20:00  ·            اکانت locke › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+14:20:46  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:22:04  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:23:07  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:24:00  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:24:52  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:27:09  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 6/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد
+14:28:32  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:29:23  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:31:16  ✗ خطا        اکانت locke › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_143115_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:30:43 Found 'BuyNow (2)'
+            14:30:44 Found 'No'
+            14:30:45 Found 'Yes'
+            14:30:51 Found 'BuyNow (2)'
+            14:30:52 Found 'No'
+            14:30:53 Found 'Yes'
+            14:30:58 Found 'BuyNow (2)'
+            14:30:59 Found 'No'
+            14:31:00 Found 'Yes'
+            14:31:04 BUY: 3 buys failed -> price 550 to 650
+            14:31:15 FindFilter: به Pricing نرسید
+            14:31:15 BUY: قیمت 650 تنظیم نشد
+14:31:16  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:33:01  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | Italy | OFF | OFF | OFF | 550)  |  بازیکن اضافه شد (تلاش 2)
+14:35:13  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 10/11 (GOLD | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+14:37:00  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+14:37:09  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+14:37:31  ·            اکانت locke › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+14:39:19  ✗ خطا        اکانت locke › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_143919_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:38:31 400
+            14:38:32 450
+            14:38:33 500
+            14:38:41 Found 'Top9'
+            14:38:44 Brazil پیدا شد
+            14:38:45 Looking for 'Rarity'
+            14:38:53 Silver پیدا شد
+            14:38:55 Looking for 'Position'
+            14:39:00 Looking for 'BuyNow' (قیمت 550)
+            14:39:03 BUY: no cards found -> price 550 to 650
+            14:39:19 FindFilter: به Pricing نرسید
+            14:39:19 BUY: قیمت 650 تنظیم نشد
+14:39:19  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:41:13  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              return next(self.gen)
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 616, in frozen
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:39:19 ✗ BUY failed (shot: 1011_143919_005_BUY.png)
+            14:39:19 [Marquee Matchups 3:1] try 1 of 3 failed, back to the squad
+            14:39:19 پاپ‌آپ 'Ok (2)' بسته شد
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:06:29  |  خطا 2، تلاش دوباره 2، توقف موقت 3، خطای کد 1 ════
+
+════ 2026-10-11 15:10:16  شروع اجرا  (ریموت C12، pid 21396) START_GAME=True  SHARED=True ════
+15:10:27  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: locke
+15:10:46  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+15:12:53  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+15:13:03  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:13:04  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:13:24  ·            اکانت locke › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+15:15:04  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:15:57  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:16:58  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 3/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:17:50  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 4/11 (Silver | Brazil | CB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:18:42  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 5/11 (Silver | Brazil | LB | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:19:33  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 6/11 (GOLD | OFF | OFF | OFF | LALIGA EA SPORTS | 800)  |  بازیکن اضافه شد
+15:20:49  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 7/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:21:56  ✗ خطا        اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_152156_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:21:25 450
+            15:21:26 500
+            15:21:29 Looking for 'BuyNow' (قیمت 550)
+            15:21:34 Found 'BuyNow (2)'
+            15:21:35 Found 'No'
+            15:21:36 Found 'Yes'
+            15:21:40 expired
+            15:21:41 expired
+            15:21:43 expired
+            15:21:44 BUY: 3 buys failed -> price 550 to 650
+            15:21:56 FindFilter: به Pricing نرسید
+            15:21:56 BUY: قیمت 650 تنظیم نشد
+15:21:56  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+15:22:07  ✗ خطا        اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_152207_002_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:21:56 ✗ BUY failed (shot: 1011_152156_001_BUY.png)
+            15:21:56 [Marquee Matchups 3:8] try 1 of 3 failed, back to the squad
+            15:21:56 پاپ‌آپ 'Expired' بسته شد
+            15:21:57 پاپ‌آپ 'Expired' بسته شد
+            15:21:59 پاپ‌آپ 'Expired' بسته شد
+            15:22:00 پاپ‌آپ 'Expired' بسته شد
+            15:22:01 پاپ‌آپ 'Expired' بسته شد
+            15:22:03 پاپ‌آپ 'Expired' بسته شد
+            15:22:04 پاپ‌آپ 'Expired' بسته شد
+            15:22:06 پاپ‌آپ 'Expired' بسته شد
+15:22:07  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  [Marquee Matchups 3:8] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_152207_003_pause__Marquee_Matchups_3_8_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:22:07 ✗ back_to_squad failed (shot: 1011_152207_002_back_to_squad.png)
+15:31:51  ▶ ادامه      اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بعد از 9:43 توقف
+15:32:05  ✗ خطا        اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  enter_slot نشد
+          تابع: enter_slot ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_153205_004_enter_slot.png
+15:32:05  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+15:32:17  ✗ خطا        اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_153217_005_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:32:05 ✗ enter_slot failed (shot: 1011_153205_004_enter_slot.png)
+            15:32:05 [Marquee Matchups 3:8] try 1 of 3 failed, back to the squad
+            15:32:05 پاپ‌آپ 'Expired' بسته شد
+            15:32:07 پاپ‌آپ 'Expired' بسته شد
+            15:32:08 پاپ‌آپ 'Expired' بسته شد
+            15:32:09 پاپ‌آپ 'Expired' بسته شد
+            15:32:11 پاپ‌آپ 'Expired' بسته شد
+            15:32:12 پاپ‌آپ 'Expired' بسته شد
+            15:32:14 پاپ‌آپ 'Expired' بسته شد
+            15:32:15 پاپ‌آپ 'Expired' بسته شد
+15:32:17  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  [Marquee Matchups 3:8] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_153217_006_pause__Marquee_Matchups_3_8_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:32:17 ✗ back_to_squad failed (shot: 1011_153217_005_back_to_squad.png)
+15:33:05  ▶ ادامه      اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بعد از 0:48 توقف
+15:34:44  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 8/11 (Silver | Brazil | CM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:35:37  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 9/11 (Silver | Brazil | LM | OFF | OFF | 550)  |  بازیکن اضافه شد
+15:38:04  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 10/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+15:39:04  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3 › بازیکن 11/11 (GOLD | OFF | OFF | Villarreal CF | LALIGA EA SPORTS | 1200)  |  بازیکن اضافه شد
+15:39:11  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 3  |  Submit شد، چالش تمام شد
+15:39:46  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4  |  Open challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge list
+          عکس: shots\C12\1011_153946_007_pause_Open_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:38:49 1000
+            15:38:50 1100
+            15:38:53 Looking for 'BuyNow' (قیمت 1200)
+            15:38:58 Found 'BuyNow (2)'
+            15:38:59 Found 'No'
+            15:39:00 Found 'Yes'
+            15:39:04 Bought (قیمت 1200)
+            15:39:11 ===== Marquee Matchups 4 =====
+            15:39:11 Marquee4.csv: 11 rows
+            15:39:11 Reward: Claim
+            15:39:27 Challenge 4: challenge page of Marquee Matchups not shown
+            15:39:44 Challenge 4: challenge page of Marquee Matchups not shown
+15:40:16  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4  |  بعد از 0:29 توقف
+15:40:17  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 4  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 30:01  |  خطا 4، تلاش دوباره 2، توقف موقت 3، خطای کد 1 ════
+
+════ 2026-10-11 15:45:11  شروع اجرا  (ریموت C12، pid 14304) START_GAME=True  SHARED=True ════
+15:45:22  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: locke
+15:45:40  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+15:47:36  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+15:47:46  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:47:47  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:47:48  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:48:10  ·            اکانت locke › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+15:49:20  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            15:47:58 Found 'Sub (2)' , Start Challenge
+            15:47:59 Looking for 'Clear Squad'
+            15:48:04 Squad cleared
+            15:48:10 [Marquee Matchups 4:1/11] GOLD | OFF | GK | Liverpool | Premier League | 1300
+            15:48:22 Pricing: club=True، قیمت نادیده گرفته شد
+            15:48:27 Looking for 'Rarity'
+            15:48:44 GOLD پیدا شد
+            15:48:46 Looking for 'Position'
+            15:48:59 Found 'Default'
+            15:49:01 Premier League پیدا شد
+            15:49:07 Found 'Any (4)'
+            15:49:13 Liverpool پیدا شد
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 4:08  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 15:54:38  شروع اجرا  (ریموت C12، pid 25640) START_GAME=True  SHARED=True ════
+15:54:49  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: locke
+15:55:06  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+15:57:01  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+15:57:10  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+15:57:11  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+15:57:12  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+15:57:32  ·            اکانت locke › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+15:59:41  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+16:01:13  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronz | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:02:33  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 3/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+16:03:41  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 4/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+16:04:55  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronz | OFF | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:05:41  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronz | OFF | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:06:26  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronz | OFF | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:07:11  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronz | OFF | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:08:45  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 4 › بازیکن 9/11 (GOLD | OFF | CM | Liverpool | Premier League | 1300)  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:08:25 600
+            16:08:26 650
+            16:08:26 700
+            16:08:27 750
+            16:08:28 800
+            16:08:29 850
+            16:08:29 900
+            16:08:30 950
+            16:08:31 1000
+            16:08:31 1100
+            16:08:32 1200
+            16:08:35 Looking for 'Rarity'
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 14:06  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 1 ════
+
+════ 2026-10-11 16:28:00  شروع اجرا  (ریموت C12، pid 25660) START_GAME=True  SHARED=True ════
+16:28:11  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: locke
+16:28:29  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+16:30:23  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+16:30:33  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+16:30:34  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+16:30:35  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+16:30:54  ·            اکانت locke › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+16:31:49  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+16:32:31  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronz | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:33:00  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 3/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+16:33:19  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 4/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+16:33:46  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronz | OFF | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:34:05  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronz | OFF | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:34:24  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronz | OFF | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:34:42  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronz | OFF | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:36:51  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 9/11 (GOLD | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+16:38:02  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 10/11 (GOLD | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+16:39:39  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronz | OFF | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:39:43  ✗ خطا        اکانت locke › چالش Marquee Matchups 4  |  Submit چالش Marquee Matchups 4 نشد
+          تابع: Submit چالش Marquee Matchups 4 ← run_challenge ← run_plan ← main
+          عکس: shots\C12\1011_163943_001_Submit_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:38:59 Looking for 'Pricing'
+            16:39:00 0
+            16:39:00 150
+            16:39:03 Looking for 'Rarity'
+            16:39:12 Bronz پیدا شد
+            16:39:20 Found 'Default'
+            16:39:23 Ligue 1 McDonald پیدا شد
+            16:39:27 Looking for 'BuyNow' (قیمت 200)
+            16:39:32 Found 'BuyNow (2)'
+            16:39:36 Found 'No'
+            16:39:37 Found 'Yes'
+            16:39:39 Bought (قیمت 200)
+16:39:43  ·            اکانت locke › چالش Marquee Matchups 4  |  Submit پیدا نشد → پاک کردن اسکواد و چیدن دوباره (یک بار)
+16:40:49  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+16:41:33  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronz | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:42:03  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 3/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+16:42:22  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 4/11 (GOLD | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+16:42:50  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronz | OFF | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:43:09  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronz | OFF | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:43:28  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 7/11 (Bronz | OFF | CDM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:43:46  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 8/11 (Bronz | OFF | CM | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:44:38  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 9/11 (GOLD | OFF | CM | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+16:45:04  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 10/11 (GOLD | OFF | ST | OFF | Premier League | 850)  |  بازیکن اضافه شد
+16:45:46  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 11/11 (Bronz | OFF | ST | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+16:45:49  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4  |  Submit challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: press Submit by hand or put the screen on the full squad
+          عکس: shots\C12\1011_164549_002_pause_Submit_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            16:44:35 Found in Club
+            16:44:38 [Marquee Matchups 4:10/11] GOLD | OFF | ST | OFF | Premier League | 850
+            16:44:51 Pricing: club=True، قیمت نادیده گرفته شد
+            16:44:51 Looking for 'Position'
+            16:45:01 Found in Club
+            16:45:04 [Marquee Matchups 4:11/11] Bronz | OFF | ST | OFF | Ligue 1 McDonald | 200
+            16:45:18 Pricing: club=True، قیمت نادیده گرفته شد
+            16:45:18 Looking for 'Rarity'
+            16:45:25 Bronz پیدا شد
+            16:45:34 Found 'Default'
+            16:45:37 Ligue 1 McDonald پیدا شد
+            16:45:44 Found in Club
+17:53:29  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4  |  بعد از 1:07:39 توقف
+17:53:30  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 4  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 210, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:25:30  |  خطا 1، تلاش دوباره 0، توقف موقت 1، خطای کد 1 ════
+
+════ 2026-10-11 18:21:10  شروع اجرا  (ریموت C12، pid 24272) START_GAME=True  SHARED=True ════
+18:21:15  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:23:41  ·            اکانت Jack › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:25:23  ✗ خطا        اکانت Jack › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1011_182523_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:23:31 Looking for 'Ultimate'
+            18:23:41 FindUltimate نشد؛ ادامه
+            18:23:41 Looking for 'Main Ultimate'
+            18:23:51 Looking for 'Main Ultimate'
+            18:24:02 Looking for 'Main Ultimate'
+            18:24:12 Looking for 'Main Ultimate'
+            18:24:22 Looking for 'Main Ultimate'
+            18:24:32 Looking for 'Main Ultimate'
+            18:24:42 Looking for 'Main Ultimate'
+            18:24:52 Looking for 'Main Ultimate'
+            18:25:03 Looking for 'Main Ultimate'
+            18:25:13 Looking for 'Main Ultimate'
+18:25:23  ↻ تلاش دوباره اکانت Jack › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:25:29  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:28:00  ·            اکانت Jack › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:29:43  ✗ خطا        اکانت Jack › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1011_182943_002_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:27:50 Looking for 'Ultimate'
+            18:28:00 FindUltimate نشد؛ ادامه
+            18:28:00 Looking for 'Main Ultimate'
+            18:28:10 Looking for 'Main Ultimate'
+            18:28:21 Looking for 'Main Ultimate'
+            18:28:31 Looking for 'Main Ultimate'
+            18:28:41 Looking for 'Main Ultimate'
+            18:28:51 Looking for 'Main Ultimate'
+            18:29:02 Looking for 'Main Ultimate'
+            18:29:12 Looking for 'Main Ultimate'
+            18:29:22 Looking for 'Main Ultimate'
+            18:29:32 Looking for 'Main Ultimate'
+18:29:43  ↻ تلاش دوباره اکانت Jack › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 2 از 3 نشد، دوباره
+18:29:48  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack#86483)
+18:32:14  ·            اکانت Jack › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:32:43  ■ توقف       اکانت Jack › شروع بازی › MainUltimate  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:30:52 Looking for 'Ultimate'
+            18:31:02 Looking for 'Ultimate'
+            18:31:13 Looking for 'Ultimate'
+            18:31:23 Looking for 'Ultimate'
+            18:31:33 Looking for 'Ultimate'
+            18:31:43 Looking for 'Ultimate'
+            18:31:53 Looking for 'Ultimate'
+            18:32:04 Looking for 'Ultimate'
+            18:32:14 FindUltimate نشد؛ ادامه
+            18:32:14 Looking for 'Main Ultimate'
+            18:32:24 Looking for 'Main Ultimate'
+            18:32:34 Looking for 'Main Ultimate'
+════ پایان: ■ توقف از پنل  |  مدت 11:33  |  خطا 2، تلاش دوباره 2، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-11 18:32:46  شروع اجرا  (ریموت C12، pid 12064) START_GAME=True  SHARED=True ════
+18:32:56  ·            اکانت Jack › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'locke cherie' — اکانت لازم: Jack
+18:33:15  ✓ انجام شد   اکانت Jack › شروع بازی › CheckAccount  |  اکانت Jack روی کنسول است (گیمرتگ: Jack Wright)
+18:35:40  ·            اکانت Jack › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:35:59  ✓ انجام شد   اکانت Jack  |  بازی باز شد و صفحه‌ی SBC آمد
+18:36:33  ·            اکانت Jack › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:36:34  ·            اکانت Jack › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:36:37  ·            اکانت Jack › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:36:41  ·            اکانت Jack › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:36:41  ✓ انجام شد   اکانت Jack  |  اکانت Jack تمام شد
+18:36:52  ·            اکانت Chester › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: Chester
+18:37:11  ✓ انجام شد   اکانت Chester › شروع بازی › CheckAccount  |  اکانت Chester روی کنسول است (گیمرتگ: chester Mand)
+18:39:37  ·            اکانت Chester › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:39:56  ✓ انجام شد   اکانت Chester  |  بازی باز شد و صفحه‌ی SBC آمد
+18:40:30  ·            اکانت Chester › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:40:32  ·            اکانت Chester › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:40:34  ·            اکانت Chester › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:40:35  ·            اکانت Chester › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:40:35  ✓ انجام شد   اکانت Chester  |  اکانت Chester تمام شد
+18:40:46  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'chester Mand' — اکانت لازم: locke
+18:41:05  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+18:43:33  ·            اکانت locke › شروع بازی › FindUltimate  |  FindUltimate نشد (لازم نیست، ادامه)
+18:45:16  ✗ خطا        اکانت locke › شروع بازی › MainUltimate  |  MainUltimate نشد
+          تابع: MainUltimate ← start_game ← open_game ← main
+          عکس: shots\C12\1011_184516_001_MainUltimate.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:43:23 Looking for 'Ultimate'
+            18:43:33 FindUltimate نشد؛ ادامه
+            18:43:33 Looking for 'Main Ultimate'
+            18:43:43 Looking for 'Main Ultimate'
+            18:43:54 Looking for 'Main Ultimate'
+            18:44:04 Looking for 'Main Ultimate'
+            18:44:14 Looking for 'Main Ultimate'
+            18:44:24 Looking for 'Main Ultimate'
+            18:44:35 Looking for 'Main Ultimate'
+            18:44:45 Looking for 'Main Ultimate'
+            18:44:55 Looking for 'Main Ultimate'
+            18:45:05 Looking for 'Main Ultimate'
+18:45:16  ↻ تلاش دوباره اکانت locke › شروع بازی › MainUltimate  |  شروع بازی از Home: تلاش 1 از 3 نشد، دوباره
+18:45:21  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: Locke#9141)
+18:47:28  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+18:47:38  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:47:39  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:47:40  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:48:07  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4  |  Start challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C12\1011_184807_002_pause_Start_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:47:37 Marquee1.csv: 11 rows
+            18:47:38 Challenge 1: قبلاً کامل شده (Completed)
+            18:47:38 ===== Marquee Matchups 2 =====
+            18:47:38 Marquee2.csv: 11 rows
+            18:47:39 Challenge 2: قبلاً کامل شده (Completed)
+            18:47:39 ===== Marquee Matchups 3 =====
+            18:47:39 Marquee3.csv: 11 rows
+            18:47:40 Challenge 3: قبلاً کامل شده (Completed)
+            18:47:40 ===== Marquee Matchups 4 =====
+            18:47:40 Marquee4.csv: 11 rows
+            18:47:45 Challenge 4: وارد شد
+            18:47:46 Looking for 'Challenge'
+18:49:50  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4  |  بعد از 1:42 توقف
+18:50:05  ·            اکانت locke › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+18:50:59  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+18:51:41  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+18:52:10  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+18:52:29  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+18:54:19  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_185419_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:53:24 150
+            18:53:33 Found 'Top9'
+            18:53:38 Belgium پیدا شد
+            18:53:39 Looking for 'Rarity'
+            18:53:46 Bronze پیدا شد
+            18:53:48 Looking for 'Position'
+            18:53:55 Found 'Default'
+            18:53:58 Ligue 1 McDonald پیدا شد
+            18:54:02 Looking for 'BuyNow' (قیمت 200)
+            18:54:06 BUY: no cards found -> price 200 to 300
+            18:54:19 FindFilter: به Pricing نرسید
+            18:54:19 BUY: قیمت 300 تنظیم نشد
+18:54:19  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+18:56:23  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_185623_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:55:27 150
+            18:55:36 Found 'Top9'
+            18:55:42 Belgium پیدا شد
+            18:55:43 Looking for 'Rarity'
+            18:55:50 Bronze پیدا شد
+            18:55:52 Looking for 'Position'
+            18:55:59 Found 'Default'
+            18:56:02 Ligue 1 McDonald پیدا شد
+            18:56:06 Looking for 'BuyNow' (قیمت 200)
+            18:56:10 BUY: no cards found -> price 200 to 300
+            18:56:23 FindFilter: به Pricing نرسید
+            18:56:23 BUY: قیمت 300 تنظیم نشد
+18:56:23  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+18:58:26  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_185826_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:57:32 150
+            18:57:41 Found 'Top9'
+            18:57:46 Belgium پیدا شد
+            18:57:47 Looking for 'Rarity'
+            18:57:54 Bronze پیدا شد
+            18:57:56 Looking for 'Position'
+            18:58:03 Found 'Default'
+            18:58:06 Ligue 1 McDonald پیدا شد
+            18:58:10 Looking for 'BuyNow' (قیمت 200)
+            18:58:14 BUY: no cards found -> price 200 to 300
+            18:58:26 FindFilter: به Pricing نرسید
+            18:58:26 BUY: قیمت 300 تنظیم نشد
+18:58:27  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_185827_006_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:58:26 ✗ BUY failed (shot: 1011_185826_005_BUY.png)
+            18:58:26 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+18:59:18  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 0:51 توقف
+19:01:18  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_190118_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:00:24 150
+            19:00:33 Found 'Top9'
+            19:00:39 Belgium پیدا شد
+            19:00:40 Looking for 'Rarity'
+            19:00:47 Bronze پیدا شد
+            19:00:49 Looking for 'Position'
+            19:00:56 Found 'Default'
+            19:00:58 Ligue 1 McDonald پیدا شد
+            19:01:02 Looking for 'BuyNow' (قیمت 200)
+            19:01:06 BUY: no cards found -> price 200 to 300
+            19:01:18 FindFilter: به Pricing نرسید
+            19:01:18 BUY: قیمت 300 تنظیم نشد
+19:01:18  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:03:16  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_190316_008_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:02:24 150
+            19:02:32 Found 'Top9'
+            19:02:37 Belgium پیدا شد
+            19:02:38 Looking for 'Rarity'
+            19:02:45 Bronze پیدا شد
+            19:02:47 Looking for 'Position'
+            19:02:54 Found 'Default'
+            19:02:56 Ligue 1 McDonald پیدا شد
+            19:03:01 Looking for 'BuyNow' (قیمت 200)
+            19:03:04 BUY: no cards found -> price 200 to 300
+            19:03:16 FindFilter: به Pricing نرسید
+            19:03:16 BUY: قیمت 300 تنظیم نشد
+19:03:16  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:05:14  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_190514_009_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:04:22 150
+            19:04:30 Found 'Top9'
+            19:04:36 Belgium پیدا شد
+            19:04:36 Looking for 'Rarity'
+            19:04:43 Bronze پیدا شد
+            19:04:45 Looking for 'Position'
+            19:04:52 Found 'Default'
+            19:04:55 Ligue 1 McDonald پیدا شد
+            19:04:59 Looking for 'BuyNow' (قیمت 200)
+            19:05:02 BUY: no cards found -> price 200 to 300
+            19:05:14 FindFilter: به Pricing نرسید
+            19:05:14 BUY: قیمت 300 تنظیم نشد
+19:05:15  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_190515_010_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:05:14 ✗ BUY failed (shot: 1011_190514_009_BUY.png)
+            19:05:14 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+19:09:10  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 3:55 توقف
+19:11:09  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_191109_011_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:10:16 150
+            19:10:25 Found 'Top9'
+            19:10:30 Belgium پیدا شد
+            19:10:31 Looking for 'Rarity'
+            19:10:38 Bronze پیدا شد
+            19:10:39 Looking for 'Position'
+            19:10:46 Found 'Default'
+            19:10:49 Ligue 1 McDonald پیدا شد
+            19:10:53 Looking for 'BuyNow' (قیمت 200)
+            19:10:57 BUY: no cards found -> price 200 to 300
+            19:11:09 FindFilter: به Pricing نرسید
+            19:11:09 BUY: قیمت 300 تنظیم نشد
+19:11:09  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:13:13  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_191313_012_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:12:18 150
+            19:12:27 Found 'Top9'
+            19:12:32 Belgium پیدا شد
+            19:12:33 Looking for 'Rarity'
+            19:12:40 Bronze پیدا شد
+            19:12:42 Looking for 'Position'
+            19:12:49 Found 'Default'
+            19:12:52 Ligue 1 McDonald پیدا شد
+            19:12:56 Looking for 'BuyNow' (قیمت 200)
+            19:13:00 BUY: no cards found -> price 200 to 300
+            19:13:13 FindFilter: به Pricing نرسید
+            19:13:13 BUY: قیمت 300 تنظیم نشد
+19:13:13  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:15:17  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_191517_013_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:14:22 150
+            19:14:31 Found 'Top9'
+            19:14:36 Belgium پیدا شد
+            19:14:37 Looking for 'Rarity'
+            19:14:44 Bronze پیدا شد
+            19:14:46 Looking for 'Position'
+            19:14:53 Found 'Default'
+            19:14:56 Ligue 1 McDonald پیدا شد
+            19:15:00 Looking for 'BuyNow' (قیمت 200)
+            19:15:04 BUY: no cards found -> price 200 to 300
+            19:15:17 FindFilter: به Pricing نرسید
+            19:15:17 BUY: قیمت 300 تنظیم نشد
+19:15:17  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_191517_014_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:15:17 ✗ BUY failed (shot: 1011_191517_013_BUY.png)
+            19:15:17 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+19:15:32  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 0:15 توقف
+19:17:31  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_191731_015_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:16:39 150
+            19:16:48 Found 'Top9'
+            19:16:53 Belgium پیدا شد
+            19:16:54 Looking for 'Rarity'
+            19:17:00 Bronze پیدا شد
+            19:17:02 Looking for 'Position'
+            19:17:09 Found 'Default'
+            19:17:12 Ligue 1 McDonald پیدا شد
+            19:17:16 Looking for 'BuyNow' (قیمت 200)
+            19:17:19 BUY: no cards found -> price 200 to 300
+            19:17:31 FindFilter: به Pricing نرسید
+            19:17:31 BUY: قیمت 300 تنظیم نشد
+19:17:31  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:19:29  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_191929_016_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:18:37 150
+            19:18:46 Found 'Top9'
+            19:18:51 Belgium پیدا شد
+            19:18:52 Looking for 'Rarity'
+            19:18:59 Bronze پیدا شد
+            19:19:00 Looking for 'Position'
+            19:19:07 Found 'Default'
+            19:19:10 Ligue 1 McDonald پیدا شد
+            19:19:14 Looking for 'BuyNow' (قیمت 200)
+            19:19:17 BUY: no cards found -> price 200 to 300
+            19:19:29 FindFilter: به Pricing نرسید
+            19:19:29 BUY: قیمت 300 تنظیم نشد
+19:19:29  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:21:27  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_192127_017_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:20:35 150
+            19:20:44 Found 'Top9'
+            19:20:49 Belgium پیدا شد
+            19:20:50 Looking for 'Rarity'
+            19:20:56 Bronze پیدا شد
+            19:20:58 Looking for 'Position'
+            19:21:05 Found 'Default'
+            19:21:08 Ligue 1 McDonald پیدا شد
+            19:21:12 Looking for 'BuyNow' (قیمت 200)
+            19:21:15 BUY: no cards found -> price 200 to 300
+            19:21:27 FindFilter: به Pricing نرسید
+            19:21:27 BUY: قیمت 300 تنظیم نشد
+19:21:28  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_192127_018_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:21:27 ✗ BUY failed (shot: 1011_192127_017_BUY.png)
+            19:21:27 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+19:23:09  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 1:41 توقف
+19:25:13  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_192513_019_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:24:18 150
+            19:24:27 Found 'Top9'
+            19:24:32 Belgium پیدا شد
+            19:24:33 Looking for 'Rarity'
+            19:24:40 Bronze پیدا شد
+            19:24:42 Looking for 'Position'
+            19:24:49 Found 'Default'
+            19:24:52 Ligue 1 McDonald پیدا شد
+            19:24:57 Looking for 'BuyNow' (قیمت 200)
+            19:25:00 BUY: no cards found -> price 200 to 300
+            19:25:13 FindFilter: به Pricing نرسید
+            19:25:13 BUY: قیمت 300 تنظیم نشد
+19:25:13  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:27:17  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_192717_020_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:26:22 150
+            19:26:31 Found 'Top9'
+            19:26:36 Belgium پیدا شد
+            19:26:37 Looking for 'Rarity'
+            19:26:45 Bronze پیدا شد
+            19:26:46 Looking for 'Position'
+            19:26:54 Found 'Default'
+            19:26:56 Ligue 1 McDonald پیدا شد
+            19:27:00 Looking for 'BuyNow' (قیمت 200)
+            19:27:04 BUY: no cards found -> price 200 to 300
+            19:27:17 FindFilter: به Pricing نرسید
+            19:27:17 BUY: قیمت 300 تنظیم نشد
+19:27:17  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:29:20  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_192920_021_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:28:25 150
+            19:28:34 Found 'Top9'
+            19:28:39 Belgium پیدا شد
+            19:28:40 Looking for 'Rarity'
+            19:28:48 Bronze پیدا شد
+            19:28:49 Looking for 'Position'
+            19:28:57 Found 'Default'
+            19:28:59 Ligue 1 McDonald پیدا شد
+            19:29:03 Looking for 'BuyNow' (قیمت 200)
+            19:29:07 BUY: no cards found -> price 200 to 300
+            19:29:20 FindFilter: به Pricing نرسید
+            19:29:20 BUY: قیمت 300 تنظیم نشد
+19:29:20  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_192920_022_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:29:20 ✗ BUY failed (shot: 1011_192920_021_BUY.png)
+            19:29:20 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+19:30:49  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 1:28 توقف
+19:32:48  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_193248_023_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:31:56 150
+            19:32:04 Found 'Top9'
+            19:32:09 Belgium پیدا شد
+            19:32:10 Looking for 'Rarity'
+            19:32:17 Bronze پیدا شد
+            19:32:19 Looking for 'Position'
+            19:32:26 Found 'Default'
+            19:32:28 Ligue 1 McDonald پیدا شد
+            19:32:32 Looking for 'BuyNow' (قیمت 200)
+            19:32:36 BUY: no cards found -> price 200 to 300
+            19:32:48 FindFilter: به Pricing نرسید
+            19:32:48 BUY: قیمت 300 تنظیم نشد
+19:32:48  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+19:34:50  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_193450_024_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:33:54 150
+            19:34:02 Found 'Top9'
+            19:34:08 Belgium پیدا شد
+            19:34:09 Looking for 'Rarity'
+            19:34:16 Bronze پیدا شد
+            19:34:18 Looking for 'Position'
+            19:34:25 Found 'Default'
+            19:34:27 Ligue 1 McDonald پیدا شد
+            19:34:31 Looking for 'BuyNow' (قیمت 200)
+            19:34:35 BUY: no cards found -> price 200 to 300
+            19:34:50 FindFilter: به Pricing نرسید
+            19:34:50 BUY: قیمت 300 تنظیم نشد
+19:34:50  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+19:36:52  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_193651_025_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:35:57 150
+            19:36:05 Found 'Top9'
+            19:36:11 Belgium پیدا شد
+            19:36:12 Looking for 'Rarity'
+            19:36:19 Bronze پیدا شد
+            19:36:21 Looking for 'Position'
+            19:36:28 Found 'Default'
+            19:36:31 Ligue 1 McDonald پیدا شد
+            19:36:35 Looking for 'BuyNow' (قیمت 200)
+            19:36:38 BUY: no cards found -> price 200 to 300
+            19:36:51 FindFilter: به Pricing نرسید
+            19:36:51 BUY: قیمت 300 تنظیم نشد
+19:36:52  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_193652_026_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:36:52 ✗ BUY failed (shot: 1011_193651_025_BUY.png)
+            19:36:52 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+19:47:45  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 10:53 توقف
+19:47:51  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+              ~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 575, in _ensure
+              self.grab()
+              ~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 557, in grab
+              img = self.source()
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 218, in snap
+              reply = self.send(f"snap {self.snap_path}")
+            File "C:\Users\Reach\Desktop\New Remote\Founder\founder.py", line 202, in send
+              raise ConnectionError(
+                  f"ریموت {self.console} در دسترس نیست ({self.pipe}). xbrp باز است؟")
+          ConnectionError: ریموت C12 در دسترس نیست (\\.\pipe\xbrp-C12). xbrp باز است؟
+════ پایان: ‼ خطای کد: ConnectionError  |  مدت 1:15:05  |  خطا 19، تلاش دوباره 13، توقف موقت 7، خطای کد 1 ════
+
+════ 2026-10-11 19:48:45  شروع اجرا  (ریموت C12، pid 25020) START_GAME=True  SHARED=True ════
+19:48:56  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: locke
+19:49:14  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: locke cherie)
+19:51:10  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+19:51:21  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+19:51:22  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+19:51:24  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+19:51:51  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4  |  Start challenge Marquee Matchups 4 نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the challenge squad
+          عکس: shots\C12\1011_195151_001_pause_Start_challenge_Marquee_Matchups_4.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:51:20 Marquee Matchups 1.csv: 11 rows
+            19:51:21 Challenge 1: قبلاً کامل شده (Completed)
+            19:51:21 ===== Marquee Matchups 2 =====
+            19:51:21 Marquee Matchups 2.csv: 11 rows
+            19:51:22 Challenge 2: قبلاً کامل شده (Completed)
+            19:51:22 ===== Marquee Matchups 3 =====
+            19:51:22 Marquee Matchups 3.csv: 11 rows
+            19:51:24 Challenge 3: قبلاً کامل شده (Completed)
+            19:51:24 ===== Marquee Matchups 4 =====
+            19:51:24 Marquee Matchups 4.csv: 11 rows
+            19:51:29 Challenge 4: وارد شد
+            19:51:29 Looking for 'Challenge'
+19:52:24  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4  |  بعد از 0:33 توقف
+19:52:39  ·            اکانت locke › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+19:53:33  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+19:54:15  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+19:54:44  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:55:02  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+19:59:34  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_195934_002_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            19:59:23 550
+            19:59:23 600
+            19:59:24 650
+            19:59:25 700
+            19:59:25 750
+            19:59:26 800
+            19:59:26 850
+            19:59:27 900
+            19:59:28 950
+            19:59:28 1000
+            19:59:29 1100
+            19:59:34 BUY: no cards found and the price cap was reached (1200)
+19:59:34  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:02:02  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_200202_003_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:01:32 250
+            20:01:37 BUY: no cards found -> price 300 to 400
+            20:01:42 Looking for 'Pricing'
+            20:01:42 0
+            20:01:42 150
+            20:01:43 200
+            20:01:44 250
+            20:01:44 300
+            20:01:45 350
+            20:01:50 BUY: no cards found -> price 400 to 500
+            20:02:02 FindFilter: به Pricing نرسید
+            20:02:02 BUY: قیمت 500 تنظیم نشد
+20:02:02  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:02:17  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_200217_004_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:02:02 ✗ BUY failed (shot: 1011_200202_003_BUY.png)
+            20:02:02 [Marquee Matchups 4:5] try 2 of 3 failed, back to the squad
+            20:02:02 پاپ‌آپ 'Clear squad → No' بسته شد
+20:02:17  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_200217_005_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:02:17 ✗ back_to_squad failed (shot: 1011_200217_004_back_to_squad.png)
+20:06:37  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 4:20 توقف
+20:11:31  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_201131_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:11:20 550
+            20:11:21 600
+            20:11:21 650
+            20:11:22 700
+            20:11:22 750
+            20:11:23 800
+            20:11:24 850
+            20:11:24 900
+            20:11:25 950
+            20:11:26 1000
+            20:11:26 1100
+            20:11:31 BUY: no cards found and the price cap was reached (1200)
+20:11:31  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:16:16  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_201616_007_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:16:05 550
+            20:16:06 600
+            20:16:06 650
+            20:16:07 700
+            20:16:07 750
+            20:16:08 800
+            20:16:09 850
+            20:16:09 900
+            20:16:10 950
+            20:16:11 1000
+            20:16:11 1100
+            20:16:16 BUY: no cards found and the price cap was reached (1200)
+20:16:16  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:21:01  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_202101_008_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:20:50 550
+            20:20:50 600
+            20:20:51 650
+            20:20:52 700
+            20:20:52 750
+            20:20:53 800
+            20:20:54 850
+            20:20:54 900
+            20:20:55 950
+            20:20:55 1000
+            20:20:56 1100
+            20:21:01 BUY: no cards found and the price cap was reached (1200)
+20:21:03  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_202103_009_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:21:01 ✗ BUY failed (shot: 1011_202101_008_BUY.png)
+            20:21:01 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+20:22:35  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 1:31 توقف
+20:27:19  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_202719_010_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:27:07 550
+            20:27:08 600
+            20:27:09 650
+            20:27:09 700
+            20:27:10 750
+            20:27:10 800
+            20:27:11 850
+            20:27:12 900
+            20:27:12 950
+            20:27:13 1000
+            20:27:13 1100
+            20:27:19 BUY: no cards found and the price cap was reached (1200)
+20:27:19  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:32:04  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_203204_011_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:31:52 550
+            20:31:53 600
+            20:31:53 650
+            20:31:54 700
+            20:31:55 750
+            20:31:55 800
+            20:31:56 850
+            20:31:57 900
+            20:31:57 950
+            20:31:58 1000
+            20:31:58 1100
+            20:32:04 BUY: no cards found and the price cap was reached (1200)
+20:32:04  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:36:49  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_203649_012_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:36:37 550
+            20:36:38 600
+            20:36:39 650
+            20:36:39 700
+            20:36:40 750
+            20:36:41 800
+            20:36:41 850
+            20:36:42 900
+            20:36:42 950
+            20:36:43 1000
+            20:36:44 1100
+            20:36:49 BUY: no cards found and the price cap was reached (1200)
+20:36:51  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:5] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1011_203651_013_pause__Marquee_Matchups_4_5_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:36:49 ✗ BUY failed (shot: 1011_203649_012_BUY.png)
+            20:36:49 [Marquee Matchups 4:5] try 3 of 3 failed, back to the squad
+20:39:40  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بعد از 2:49 توقف
+20:44:25  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_204425_014_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:44:13 550
+            20:44:14 600
+            20:44:14 650
+            20:44:15 700
+            20:44:16 750
+            20:44:16 800
+            20:44:17 850
+            20:44:18 900
+            20:44:18 950
+            20:44:19 1000
+            20:44:19 1100
+            20:44:25 BUY: no cards found and the price cap was reached (1200)
+20:44:25  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+20:49:13  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1011_204913_015_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:49:01 550
+            20:49:02 600
+            20:49:03 650
+            20:49:03 700
+            20:49:04 750
+            20:49:04 800
+            20:49:05 850
+            20:49:06 900
+            20:49:06 950
+            20:49:07 1000
+            20:49:08 1100
+            20:49:13 BUY: no cards found and the price cap was reached (1200)
+20:49:13  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+20:51:45  ■ توقف       اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | Belgium | CB | OFF | Ligue 1 McDonald | 200)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            20:51:24 350
+            20:51:29 BUY: no cards found -> price 400 to 500
+            20:51:34 Looking for 'Pricing'
+            20:51:34 0
+            20:51:34 150
+            20:51:35 200
+            20:51:36 250
+            20:51:36 300
+            20:51:37 350
+            20:51:37 400
+            20:51:38 450
+            20:51:43 BUY: no cards found -> price 500 to 600
+════ پایان: ■ توقف از پنل  |  مدت 1:03:00  |  خطا 11، تلاش دوباره 8، توقف موقت 4، خطای کد 0 ════
+
+════ 2026-10-12 13:35:19  شروع اجرا  (ریموت C12، pid 6228) START_GAME=True  SHARED=True ════
+13:35:25  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: '+1 orofile' — اکانت لازم: locke
+13:35:56  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: Locke#9141)
+13:37:57  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+13:38:08  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+13:38:09  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+13:38:10  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+13:38:29  ·            اکانت locke › چالش Marquee Matchups 4  |  اسکواد اول کار پاک شد
+13:39:24  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 1/11 (GOLD | OFF | GK | Liverpool | Premier League | 1300)  |  بازیکن اضافه شد
+13:41:00  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 2/11 (Bronze | OFF | LB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+13:41:30  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 3/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+13:41:48  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 4/11 (Gold | OFF | CB | OFF | Ligue 1 McDonald | 850)  |  بازیکن اضافه شد
+13:43:25  ✓ انجام شد   اکانت locke › چالش Marquee Matchups 4 › بازیکن 5/11 (Bronze | DR Congo | CB | OFF | Ligue 1 McDonald | 200)  |  بازیکن اضافه شد
+13:48:38  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_134838_001_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:48:29 0
+            13:48:30 0
+            13:48:30 0
+            13:48:31 0
+            13:48:32 0
+            13:48:32 0
+            13:48:33 0
+            13:48:34 0
+            13:48:35 0
+            13:48:35 Pricing: به 1100 نرسید (الان 0)
+            13:48:38 Pricing: 'Min' پیدا نشد
+            13:48:38 BUY: قیمت 1100 تنظیم نشد
+13:48:38  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+13:48:54  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  back_to_squad نشد
+          تابع: back_to_squad ← back_to_squad ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_134854_002_back_to_squad.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:48:38 ✗ BUY failed (shot: 1012_134838_001_BUY.png)
+            13:48:38 [Marquee Matchups 4:6] try 1 of 3 failed, back to the squad
+13:48:54  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1012_134854_003_pause__Marquee_Matchups_4_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            13:48:54 ✗ back_to_squad failed (shot: 1012_134854_002_back_to_squad.png)
+14:03:37  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بعد از 14:43 توقف
+14:08:33  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_140833_004_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:08:13 650
+            14:08:14 700
+            14:08:15 750
+            14:08:15 800
+            14:08:16 850
+            14:08:16 900
+            14:08:17 950
+            14:08:18 1000
+            14:08:23 BUY: no cards found -> price 1100 to 1200
+            14:08:28 Looking for 'Pricing'
+            14:08:28 1100
+            14:08:33 BUY: no cards found and the price cap was reached (1200)
+14:08:33  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:13:44  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_141344_005_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:13:32 550
+            14:13:33 600
+            14:13:33 650
+            14:13:34 700
+            14:13:34 750
+            14:13:35 800
+            14:13:36 850
+            14:13:37 900
+            14:13:37 950
+            14:13:38 1000
+            14:13:39 1100
+            14:13:44 BUY: no cards found and the price cap was reached (1200)
+14:13:44  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+14:18:46  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_141846_006_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:18:34 550
+            14:18:35 600
+            14:18:35 650
+            14:18:36 700
+            14:18:37 750
+            14:18:37 800
+            14:18:38 850
+            14:18:38 900
+            14:18:39 950
+            14:18:40 1000
+            14:18:40 1100
+            14:18:46 BUY: no cards found and the price cap was reached (1200)
+14:18:48  ⏸ توقف موقت  اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  [Marquee Matchups 4:6] player نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: put the screen on the squad, on this player's slot
+          عکس: shots\C12\1012_141848_007_pause__Marquee_Matchups_4_6_player.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:18:46 ✗ BUY failed (shot: 1012_141846_006_BUY.png)
+            14:18:46 [Marquee Matchups 4:6] try 3 of 3 failed, back to the squad
+14:21:16  ▶ ادامه      اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بعد از 2:27 توقف
+14:26:23  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  BUY نشد
+          تابع: BUY ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_142623_008_BUY.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:26:11 550
+            14:26:11 600
+            14:26:12 650
+            14:26:13 700
+            14:26:13 750
+            14:26:14 800
+            14:26:15 850
+            14:26:15 900
+            14:26:16 950
+            14:26:17 1000
+            14:26:17 1100
+            14:26:23 BUY: no cards found and the price cap was reached (1200)
+14:26:23  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 1 از 3 نشد، دوباره
+14:29:44  ✗ خطا        اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  فیلترهای Market نشد
+          تابع: فیلترهای Market ← do_row ← run_row ← fill_squad ← run_challenge
+          عکس: shots\C12\1012_142944_009_Market.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:28:51 FindFilter: به Rarity نرسید
+            14:28:51 Looking for 'Rarity'
+            14:29:01 FindFilter: به Rarity نرسید
+            14:29:01 Looking for 'Rarity'
+            14:29:12 FindFilter: به Rarity نرسید
+            14:29:12 Looking for 'Rarity'
+            14:29:23 FindFilter: به Rarity نرسید
+            14:29:23 Looking for 'Rarity'
+            14:29:33 FindFilter: به Rarity نرسید
+            14:29:33 Looking for 'Rarity'
+            14:29:44 FindFilter: به Rarity نرسید
+            14:29:44 فیلتر Rarity='Bronze': تلاش 1 نشد
+14:29:44  ↻ تلاش دوباره اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  بازیکن: تلاش 2 از 3 نشد، دوباره
+16:42:36  ‼ خطای کد    اکانت locke › چالش Marquee Matchups 4 › بازیکن 6/11 (Bronze | Moroco | RB | OFF | Ligue 1 McDonald | 200)  |  RuntimeError: remote 'C12' is not running (running: none)
+            File "C:\Users\Reach\Desktop\New Remote\Controller\xbox.py", line 267, in press
+              self._cmd("press %s %d" % ("+".join(keys), hold))
+              ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Controller\xbox.py", line 421, in _cmd
+              self._reconnect()
+              ~~~~~~~~~~~~~~~^^
+            File "C:\Users\Reach\Desktop\New Remote\Controller\xbox.py", line 408, in _reconnect
+              self.info = _remote_info(self.remote)
+                          ~~~~~~~~~~~~^^^^^^^^^^^^^
+            File "C:\Users\Reach\Desktop\New Remote\Controller\xbox.py", line 101, in _remote_info
+              raise RuntimeError("remote %r is not running (running: %s)" % (name, ", ".join(found) or "none"))
+          RuntimeError: remote 'C12' is not running (running: none)
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            14:29:44 ✗ فیلترهای Market failed (shot: 1012_142944_009_Market.png)
+            14:29:44 [Marquee Matchups 4:6] try 2 of 3 failed, back to the squad
+            14:29:59 Pricing: club=True، قیمت نادیده گرفته شد
+            14:30:05 Found 'Top9'
+            14:30:16 Moroco پیدا شد
+            14:30:17 Looking for 'Rarity'
+            14:30:24 Bronze پیدا شد
+            14:30:26 Looking for 'Position'
+            14:30:34 Found 'Default'
+            14:30:37 Ligue 1 McDonald پیدا شد
+════ پایان: ‼ خطای کد: RuntimeError  |  مدت 3:07:17  |  خطا 7، تلاش دوباره 5، توقف موقت 2، خطای کد 1 ════
+
+════ 2026-10-12 17:56:07  شروع اجرا  (ریموت C12، pid 17680) START_GAME=True  SHARED=True ════
+17:56:13  ·            اکانت locke › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: locke
+17:56:52  ✓ انجام شد   اکانت locke › شروع بازی › CheckAccount  |  اکانت locke روی کنسول است (گیمرتگ: Locke#9141)
+18:00:22  ✓ انجام شد   اکانت locke  |  بازی باز شد و صفحه‌ی SBC آمد
+18:01:03  ·            اکانت locke › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:01:04  ·            اکانت locke › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:01:05  ·            اکانت locke › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:01:06  ·            اکانت locke › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:01:06  ✓ انجام شد   اکانت locke  |  اکانت locke تمام شد
+18:01:16  ·            اکانت currie › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: currie
+18:02:11  ·            اکانت currie › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: currie
+18:02:11  ⏸ توقف موقت  اکانت currie › شروع بازی › CheckAccount  |  Account currie on console نشد — منتظر درست کردن دستی و «ادامه»
+          راهنما: switch the console to currie (currie_jayvon10@outlook.com) and put the screen on Home
+          عکس: shots\C12\1012_180211_001_pause_Account_currie_on_console.png
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            18:01:04 ===== Marquee Matchups 3 =====
+            18:01:04 Marquee Matchups 3.csv: 11 rows
+            18:01:05 Challenge 3: قبلاً کامل شده (Completed)
+            18:01:05 ===== Marquee Matchups 4 =====
+            18:01:05 Marquee Matchups 4.csv: 11 rows
+            18:01:06 Challenge 4: قبلاً کامل شده (Completed)
+            18:01:06 ✓ Account done: locke
+            18:01:06 ===== Account: currie (currie_jayvon10@outlook.com) =====
+            18:01:06 ===== باز کردن بازی (تلاش 1) =====
+            18:01:16 Account: 'Jack Wright' on console, switching to currie
+            18:01:16 Switch account -> currie
+            18:01:29 Switch: found 'Currie#9770' -> A
+18:07:18  ▶ ادامه      اکانت currie › شروع بازی › CheckAccount  |  بعد از 5:07 توقف
+18:07:44  ·            اکانت currie › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Jack Wright' — اکانت لازم: currie
+18:08:02  ✓ انجام شد   اکانت currie › شروع بازی › CheckAccount  |  اکانت currie روی کنسول است (گیمرتگ: currie jayvon)
+18:10:34  ✓ انجام شد   اکانت currie  |  بازی باز شد و صفحه‌ی SBC آمد
+18:11:09  ·            اکانت currie › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+18:11:10  ·            اکانت currie › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+18:11:13  ·            اکانت currie › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+18:11:14  ·            اکانت currie › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+18:11:14  ✓ انجام شد   اکانت currie  |  اکانت currie تمام شد
+════ پایان: ✓ همه‌ی چالش‌ها تمام شد — اکانت‌ها: locke, currie  |  مدت 15:07  |  خطا 0، تلاش دوباره 0، توقف موقت 1، خطای کد 0 ════
+
+════ 2026-10-13 10:56:28  شروع اجرا  (ریموت C12، pid 16552) START_GAME=True  SHARED=True ════
+════ پایان: ✓ همه‌ی اکانت‌ها از قبل کامل بودند  |  مدت 0:00  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════
+
+════ 2026-10-13 10:56:35  شروع اجرا  (ریموت C12، pid 19432) START_GAME=True  SHARED=True ════
+════ پایان: ✓ همه‌ی اکانت‌ها از قبل کامل بودند  |  مدت 0:00  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

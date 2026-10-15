@@ -1,0 +1,192 @@
+[
+  {
+    "method": "pipe",
+    "call_ms": 0.1432,
+    "local_ms": 0.0649,
+    "e2e_ms": 124.77100000000002
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 34.216,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 88.1398,
+    "local_ms": 8.0979,
+    "e2e_ms": -1
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0703,
+    "local_ms": 0.0479,
+    "e2e_ms": 107.64030000000001
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 33.139,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 80.5585,
+    "local_ms": 4.2037,
+    "e2e_ms": 115.1
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1489,
+    "local_ms": 0.0563,
+    "e2e_ms": 144.49679999999998
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 31.7635,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 87.1982,
+    "local_ms": 6.2915,
+    "e2e_ms": 114.90939999999999
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.3002,
+    "local_ms": 0.2434,
+    "e2e_ms": 153.64079999999998
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 33.7012,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 91.5131,
+    "local_ms": 1.027,
+    "e2e_ms": 112.8484
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0966,
+    "local_ms": 0.0775,
+    "e2e_ms": 105.78990000000002
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 33.1528,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 93.6948,
+    "local_ms": 4.2474,
+    "e2e_ms": 146.482
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0507,
+    "local_ms": 0.0343,
+    "e2e_ms": 104.62559999999999
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 33.5369,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 81.4514,
+    "local_ms": 3.5833,
+    "e2e_ms": 146.21609999999998
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1468,
+    "local_ms": 0.071,
+    "e2e_ms": 117.13719999999998
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 32.9032,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 98.8529,
+    "local_ms": 14.3051,
+    "e2e_ms": 159.5402
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0759,
+    "local_ms": 0.0566,
+    "e2e_ms": 113.19449999999999
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 33.3458,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 90.4569,
+    "local_ms": 2.5637,
+    "e2e_ms": 144.7405
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.1261,
+    "local_ms": 0.0443,
+    "e2e_ms": 115.5961
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 34.3751,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 80.4229,
+    "local_ms": 0.5745,
+    "e2e_ms": 157.3578
+  },
+  {
+    "method": "pipe",
+    "call_ms": 0.0845,
+    "local_ms": 0.0595,
+    "e2e_ms": 103.37630000000001
+  },
+  {
+    "method": "sendinput",
+    "call_ms": 50.2196,
+    "local_ms": -1,
+    "e2e_ms": -1,
+    "note": "could not bring the remote window to the front"
+  },
+  {
+    "method": "xinput",
+    "call_ms": 101.4944,
+    "local_ms": 3.0687,
+    "e2e_ms": 116.1555
+  }
+]
