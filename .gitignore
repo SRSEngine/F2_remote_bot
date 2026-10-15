@@ -1,0 +1,56 @@
+# ===== F2 project - .gitignore =====
+# Tracked on purpose: source code, docs (CLAUDE.md / README), Founder/Templates (bot needs them),
+# SBC CSV files, Pannel/data/sbcs.json (SBC list), current xbrp / xbpad / RemoteShot binaries + DLLs.
+
+# ---------- secrets (passwords, Microsoft / Xbox tokens) ----------
+Pannel/tokens/
+Pannel/data/accounts.json
+CPU Decode/xbrp_token.json
+*_token.json
+
+# ---------- panel runtime state ----------
+Pannel/data/*
+!Pannel/data/sbcs.json
+Pannel/login_errors/
+Pannel/logs/
+Pannel/F2.ico
+Controller/remotes/
+
+# ---------- price tool output + cache (rebuilt automatically) ----------
+Prices/cache/
+Prices/all_players.json
+Prices/sbc_prices.json
+Prices/sbc_prices.csv
+Prices/loop_status.json
+*.tmp
+
+# ---------- logs, reports, screenshots ----------
+*.log
+Report/
+Watchdog/logs/
+Watchdog/snaps/
+Watchdog/restarts.json
+Screenshot/Shots/
+Play/fails/
+Football/debug/
+Controller/results/
+
+# ---------- backups and old builds ----------
+Backup/
+**/Backup/
+*.bak
+*.bak-*
+*.py.bak*
+*-before-*.exe
+*.before-*
+
+# ---------- Python / editor / OS ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.lock
