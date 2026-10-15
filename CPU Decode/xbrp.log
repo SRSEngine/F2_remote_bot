@@ -294,3 +294,7 @@ Consoles:
 [11:56:23] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#140)
 [11:56:29] Session state: Failed
 [11:56:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#141)
+[11:56:34] Session state: Failed
+[11:56:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#142)
+[11:56:38] Session state: Failed
+[11:56:38] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#143)
