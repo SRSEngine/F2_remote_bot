@@ -1,0 +1,55 @@
+
+════ 2026-10-15 12:03:01  شروع اجرا  (ریموت A12، pid 14544) START_GAME=True  SHARED=True ════
+12:03:02  ✓ انجام شد   اکانت Doraken › شروع بازی › CheckAccount  |  اکانت Doraken روی کنسول است (گیمرتگ: Dora Ken)
+12:05:30  ✓ انجام شد   اکانت Doraken  |  بازی باز شد و صفحه‌ی SBC آمد
+12:06:18  ·            اکانت Doraken › چالش Marquee Matchups 1  |  قبلاً کامل شده (Completed)، رد شد
+12:06:19  ·            اکانت Doraken › چالش Marquee Matchups 2  |  قبلاً کامل شده (Completed)، رد شد
+12:06:21  ·            اکانت Doraken › چالش Marquee Matchups 3  |  قبلاً کامل شده (Completed)، رد شد
+12:06:25  ·            اکانت Doraken › چالش Marquee Matchups 4  |  قبلاً کامل شده (Completed)، رد شد
+12:06:25  ✓ انجام شد   اکانت Doraken  |  اکانت Doraken تمام شد
+12:06:35  ·            اکانت Lynn › شروع بازی › CheckAccount  |  گیمرتگ روی Home: 'Dora Ken' — اکانت لازم: Lynn
+12:06:53  ✓ انجام شد   اکانت Lynn › شروع بازی › CheckAccount  |  اکانت Lynn روی کنسول است (گیمرتگ: Lynn#4089)
+12:09:00  ✓ انجام شد   اکانت Lynn  |  بازی باز شد و صفحه‌ی SBC آمد
+12:09:25  ·            اکانت Lynn › چالش Marquee Matchups 1  |  اسکواد اول کار پاک شد
+12:10:51  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 1/11 (Bronze | England | GK | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:11:10  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 2/11 (Bronze | England | CB | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:12:48  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 3/11 (Silver | OFF | CB | OFF | OFF | 450)  |  بازیکن اضافه شد
+12:13:18  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 4/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:14:31  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 5/11 (Bronze | England | CDM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:14:58  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 6/11 (Bronze | OFF | OFF | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:15:50  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 7/11 (Bronze | England | RM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:23:06  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 8/11 (Bronze | England | LM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:23:49  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 9/11 (Bronze | England | CAM | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:25:40  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 10/11 (OFF | OFF | OFF | Eintracht Frankfurt | Bundesliga | 900)  |  بازیکن اضافه شد
+12:27:09  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1 › بازیکن 11/11 (Bronze | England | ST | OFF | OFF | 200)  |  بازیکن اضافه شد
+12:27:27  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 1  |  Submit شد، چالش تمام شد
+12:27:50  ·            اکانت Lynn › چالش Marquee Matchups 2  |  اسکواد اول کار پاک شد
+12:29:28  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 1/11 (Silver | OFF | GK | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:30:12  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 2/11 (Silver | OFF | RB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:31:58  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 3/11 (Silver | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+12:33:30  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 4/11 (Silver | OFF | CB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:34:15  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 5/11 (Silver | OFF | LB | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:35:01  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 6/11 (Gold | Italy | OFF | OFF | OFF | 850)  |  بازیکن اضافه شد
+12:36:40  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 7/11 (Silver | OFF | LM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:37:27  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 8/11 (Silver | OFF | CM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:38:14  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 9/11 (Silver | OFF | CAM | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:40:32  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 10/11 (Gold | OFF | OFF | Como 1907 | Serie A Enilive | 1200)  |  بازیکن اضافه شد
+12:42:10  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2 › بازیکن 11/11 (Silver | OFF | ST | OFF | EFL Championship | 550)  |  بازیکن اضافه شد
+12:42:23  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 2  |  Submit شد، چالش تمام شد
+12:42:47  ·            اکانت Lynn › چالش Marquee Matchups 3  |  اسکواد اول کار پاک شد
+12:44:23  ✓ انجام شد   اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 1/11 (Silver | Brazil | GK | OFF | OFF | 550)  |  بازیکن اضافه شد
+12:44:36  ■ توقف       اکانت Lynn › چالش Marquee Matchups 3 › بازیکن 2/11 (Silver | Brazil | RB | OFF | OFF | 550)  |  «توقف» از پنل
+          آخرین کارها (از رویداد قبلی تا اینجا):
+            12:44:00 Brazil پیدا شد
+            12:44:01 Looking for 'Rarity'
+            12:44:10 Silver پیدا شد
+            12:44:12 Looking for 'Position'
+            12:44:17 Looking for 'BuyNow' (قیمت 350)
+            12:44:20 My Coins: 26790
+            12:44:21 Card 1: Samuel Po... -> buy
+            12:44:22 Found 'No'
+            12:44:22 Found 'Yes'
+            12:44:23 Bought (قیمت 350)
+            12:44:23 Squad players (bought): Samuel Po...
+            12:44:24 [Marquee Matchups 3:2/11] Silver | Brazil | RB | OFF | OFF | 550
+════ پایان: ■ توقف از پنل  |  مدت 41:34  |  خطا 0، تلاش دوباره 0، توقف موقت 0، خطای کد 0 ════

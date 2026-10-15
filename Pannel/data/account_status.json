@@ -2990,5 +2990,25 @@
       "text": "Out of coins ([Marquee Matchups 3:1] price 350)",
       "at": 1792028388.5429265
     }
+  },
+  "dorakenkon12@outlook.com": {
+    "coins": {
+      "start": 54000,
+      "start_at": 1792062324.0615966,
+      "now": 54000,
+      "now_at": 1792062324.0615966,
+      "end": 54000,
+      "end_at": 1792062385.207934
+    }
+  },
+  "lynn.english66@outlook.com": {
+    "coins": {
+      "start": 32000,
+      "start_at": 1792062534.0467634,
+      "now": 26790,
+      "now_at": 1792064660.9873724,
+      "end": 26790,
+      "end_at": 1792064676.3109837
+    }
   }
 }

@@ -1,300 +1,400 @@
-[11:44:52] Player: built-in (FFmpeg on the CPU, d3d drawing)
-[11:44:53] Microsoft login OK
-[11:44:55] Xbox Live OK 
-[11:44:56] Streaming service OK (https://uks.core.gssv-play-prodxhome.xboxlive.com)
+[11:59:26] Player: built-in (FFmpeg on the CPU, d3d drawing)
+[11:59:26] Microsoft login OK
+[11:59:29] Xbox Live OK 
+[11:59:31] Streaming service OK (https://uks.core.gssv-play-prodxhome.xboxlive.com)
 
 Consoles:
   1) XBOX                 XboxSeriesS  On         F4001C628BE98523
-[11:44:57] Connecting to XBOX (F4001C628BE98523)
-[11:44:57] [ctl] gamepad control for "A12": pipe \\.\pipe\xbrp-A12, tcp 127.0.0.1:61385, udp 127.0.0.1:61455 (file C:\Users\Reach\Desktop\New Remote\Controller\remotes\A12.json)
-[11:44:57] Window on \\.\DISPLAY2 (hardware overlay monitor: lowest GPU use)
-[11:44:59] Session state: Failed
-[11:45:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#1)
-[11:45:04] Session state: Failed
-[11:45:04] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#2)
-[11:45:09] Session state: Failed
-[11:45:09] Pipe: reconnect
-[11:45:09] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#3)
-[11:45:14] Session state: Failed
-[11:45:14] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#4)
-[11:45:18] Session state: Failed
-[11:45:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#5)
-[11:45:24] Session state: Failed
-[11:45:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#6)
-[11:45:28] Session state: Failed
-[11:45:28] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#7)
-[11:45:33] Session state: Failed
-[11:45:33] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#8)
-[11:45:38] Session state: Failed
-[11:45:38] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#9)
-[11:45:43] Session state: Failed
-[11:45:43] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#10)
-[11:45:49] Session state: Failed
-[11:45:49] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#11)
-[11:45:53] Session state: Failed
-[11:45:53] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#12)
-[11:45:55] Pipe: reconnect
-[11:45:58] Session state: Failed
-[11:45:58] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#13)
-[11:46:03] Session state: Failed
-[11:46:04] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#14)
-[11:46:08] Session state: Failed
-[11:46:08] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#15)
-[11:46:14] Session state: Failed
-[11:46:14] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#16)
-[11:46:18] Session state: Failed
-[11:46:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#17)
-[11:46:23] Session state: Failed
-[11:46:23] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#18)
-[11:46:28] Session state: Failed
-[11:46:28] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#19)
-[11:46:33] Session state: Failed
-[11:46:33] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#20)
-[11:46:38] Session state: Failed
-[11:46:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#21)
-[11:46:41] Pipe: reconnect
-[11:46:43] Session state: Failed
-[11:46:43] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#22)
-[11:46:48] Session state: Failed
-[11:46:48] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#23)
-[11:46:52] Session state: Failed
-[11:46:52] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#24)
-[11:46:57] Session state: Failed
-[11:46:57] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#25)
-[11:47:03] Session state: Failed
-[11:47:03] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#26)
-[11:47:08] Session state: Failed
-[11:47:08] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#27)
-[11:47:12] Session state: Failed
-[11:47:12] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#28)
-[11:47:17] Session state: Failed
-[11:47:17] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#29)
-[11:47:21] Session state: Failed
-[11:47:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#30)
-[11:47:26] Session state: Failed
-[11:47:27] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#31)
-[11:47:28] Bot: wait
-[11:47:31] Session state: Failed
-[11:47:31] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#32)
-[11:47:36] Session state: Failed
-[11:47:36] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#33)
-[11:47:40] Session state: Failed
-[11:47:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#34)
-[11:47:45] Session state: Failed
-[11:47:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#35)
-[11:47:50] Session state: Failed
-[11:47:50] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#36)
-[11:47:55] Session state: Failed
-[11:47:55] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#37)
-[11:48:00] Session state: Failed
-[11:48:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#38)
-[11:48:05] Session state: Failed
-[11:48:06] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#39)
-[11:48:11] Session state: Failed
-[11:48:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#40)
-[11:48:16] Session state: Failed
-[11:48:17] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#41)
-[11:48:21] Session state: Failed
-[11:48:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#42)
-[11:48:25] Session state: Failed
-[11:48:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#43)
-[11:48:30] Session state: Failed
-[11:48:30] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#44)
-[11:48:35] Session state: Failed
-[11:48:35] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#45)
-[11:48:41] Session state: Failed
-[11:48:41] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#46)
-[11:48:45] Session state: Failed
-[11:48:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#47)
-[11:48:50] Session state: Failed
-[11:48:51] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#48)
-[11:48:55] Session state: Failed
-[11:48:56] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#49)
-[11:49:00] Session state: Failed
-[11:49:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#50)
-[11:49:05] Session state: Failed
-[11:49:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#51)
-[11:49:10] Session state: Failed
-[11:49:10] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#52)
-[11:49:14] Session state: Failed
-[11:49:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#53)
-[11:49:19] Session state: Failed
-[11:49:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#54)
-[11:49:24] Session state: Failed
-[11:49:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#55)
-[11:49:29] Session state: Failed
-[11:49:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#56)
-[11:49:34] Session state: Failed
-[11:49:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#57)
-[11:49:38] Session state: Failed
-[11:49:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#58)
-[11:49:43] Session state: Failed
-[11:49:43] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#59)
-[11:49:48] Session state: Failed
-[11:49:48] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#60)
-[11:49:53] Session state: Failed
-[11:49:53] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#61)
-[11:49:59] Session state: Failed
-[11:49:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#62)
-[11:50:03] Session state: Failed
-[11:50:03] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#63)
-[11:50:08] Session state: Failed
-[11:50:08] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#64)
-[11:50:12] Session state: Failed
-[11:50:12] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#65)
-[11:50:18] Session state: Failed
-[11:50:18] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#66)
-[11:50:23] Session state: Failed
-[11:50:23] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#67)
-[11:50:27] Session state: Failed
-[11:50:28] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#68)
-[11:50:32] Session state: Failed
-[11:50:32] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#69)
-[11:50:37] Session state: Failed
-[11:50:37] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#70)
-[11:50:42] Session state: Failed
-[11:50:42] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#71)
-[11:50:47] Session state: Failed
-[11:50:47] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#72)
-[11:50:52] Session state: Failed
-[11:50:52] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#73)
-[11:50:57] Session state: Failed
-[11:50:57] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#74)
-[11:51:01] Session state: Failed
-[11:51:01] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#75)
-[11:51:07] Session state: Failed
-[11:51:07] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#76)
-[11:51:12] Session state: Failed
-[11:51:12] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#77)
-[11:51:17] Session state: Failed
-[11:51:17] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#78)
-[11:51:21] Session state: Failed
-[11:51:22] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#79)
-[11:51:26] Session state: Failed
-[11:51:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#80)
-[11:51:31] Session state: Failed
-[11:51:31] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#81)
-[11:51:36] Session state: Failed
-[11:51:36] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#82)
-[11:51:40] Session state: Failed
-[11:51:41] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#83)
-[11:51:46] Session state: Failed
-[11:51:46] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#84)
-[11:51:52] Session state: Failed
-[11:51:52] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#85)
-[11:51:57] Session state: Failed
-[11:51:57] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#86)
-[11:52:02] Session state: Failed
-[11:52:02] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#87)
-[11:52:07] Session state: Failed
-[11:52:07] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#88)
-[11:52:11] Session state: Failed
-[11:52:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#89)
-[11:52:16] Session state: Failed
-[11:52:16] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#90)
-[11:52:21] Session state: Failed
-[11:52:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#91)
-[11:52:26] Session state: Failed
-[11:52:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#92)
-[11:52:30] Session state: Failed
-[11:52:30] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#93)
-[11:52:35] Session state: Failed
-[11:52:35] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#94)
-[11:52:39] Session state: Failed
-[11:52:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#95)
-[11:52:45] Session state: Failed
-[11:52:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#96)
-[11:52:50] Session state: Failed
-[11:52:50] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#97)
-[11:52:55] Session state: Failed
-[11:52:55] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#98)
-[11:53:00] Session state: Failed
-[11:53:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#99)
-[11:53:05] Session state: Failed
-[11:53:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#100)
-[11:53:10] Session state: Failed
-[11:53:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#101)
-[11:53:15] Session state: Failed
-[11:53:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#102)
-[11:53:20] Session state: Failed
-[11:53:20] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#103)
-[11:53:24] Session state: Failed
-[11:53:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#104)
-[11:53:29] Session state: Failed
-[11:53:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#105)
-[11:53:34] Session state: Failed
-[11:53:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#106)
-[11:53:39] Session state: Failed
-[11:53:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#107)
-[11:53:44] Session state: Failed
-[11:53:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#108)
-[11:53:48] Session state: Failed
-[11:53:48] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#109)
-[11:53:54] Session state: Failed
-[11:53:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#110)
-[11:53:59] Session state: Failed
-[11:53:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#111)
-[11:54:04] Session state: Failed
-[11:54:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#112)
-[11:54:10] Session state: Failed
-[11:54:10] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#113)
-[11:54:14] Session state: Failed
-[11:54:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#114)
-[11:54:19] Session state: Failed
-[11:54:20] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#115)
-[11:54:25] Session state: Failed
-[11:54:25] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#116)
-[11:54:29] Session state: Failed
-[11:54:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#117)
-[11:54:34] Session state: Failed
-[11:54:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#118)
-[11:54:38] Session state: Failed
-[11:54:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#119)
-[11:54:44] Session state: Failed
-[11:54:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#120)
-[11:54:49] Session state: Failed
-[11:54:49] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#121)
-[11:54:54] Session state: Failed
-[11:54:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#122)
-[11:54:59] Session state: Failed
-[11:54:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#123)
-[11:55:04] Session state: Failed
-[11:55:04] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#124)
-[11:55:09] Session state: Failed
-[11:55:09] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#125)
-[11:55:14] Session state: Failed
-[11:55:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#126)
-[11:55:19] Session state: Failed
-[11:55:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#127)
-[11:55:23] Session state: Failed
-[11:55:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#128)
-[11:55:28] Session state: Failed
-[11:55:28] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#129)
-[11:55:33] Session state: Failed
-[11:55:33] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#130)
-[11:55:38] Session state: Failed
-[11:55:38] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#131)
-[11:55:44] Session state: Failed
-[11:55:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#132)
-[11:55:49] Session state: Failed
-[11:55:49] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#133)
-[11:55:54] Session state: Failed
-[11:55:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#134)
-[11:55:59] Session state: Failed
-[11:55:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#135)
-[11:56:05] Session state: Failed
-[11:56:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#136)
-[11:56:09] Session state: Failed
-[11:56:09] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#137)
-[11:56:14] Session state: Failed
-[11:56:14] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#138)
-[11:56:19] Session state: Failed
-[11:56:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#139)
-[11:56:23] Session state: Failed
-[11:56:23] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#140)
-[11:56:29] Session state: Failed
-[11:56:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#141)
-[11:56:34] Session state: Failed
-[11:56:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#142)
-[11:56:38] Session state: Failed
-[11:56:38] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#143)
+[11:59:33] Connecting to XBOX (F4001C628BE98523)
+[11:59:33] [ctl] gamepad control for "A12": pipe \\.\pipe\xbrp-A12, tcp 127.0.0.1:63440, udp 127.0.0.1:61847 (file C:\Users\Reach\Desktop\New Remote\Controller\remotes\A12.json)
+[11:59:33] Window on \\.\DISPLAY2 (hardware overlay monitor: lowest GPU use)
+[11:59:35] Session state: Failed
+[11:59:35] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#1)
+[11:59:40] Session state: Failed
+[11:59:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#2)
+[11:59:44] Pipe: reconnect
+[11:59:45] Session state: Failed
+[11:59:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#3)
+[11:59:51] Session state: Failed
+[11:59:51] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#4)
+[11:59:56] Session state: Failed
+[11:59:56] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#5)
+[12:00:02] Session state: Failed
+[12:00:02] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#6)
+[12:00:07] Session state: Failed
+[12:00:07] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#7)
+[12:00:11] Session state: Failed
+[12:00:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#8)
+[12:00:16] Session state: Failed
+[12:00:16] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#9)
+[12:00:21] Session state: Failed
+[12:00:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#10)
+[12:00:26] Session state: Failed
+[12:00:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#11)
+[12:00:30] Pipe: reconnect
+[12:00:31] Session state: Failed
+[12:00:31] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#12)
+[12:00:35] Session state: Failed
+[12:00:35] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#13)
+[12:00:40] Session state: Failed
+[12:00:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#14)
+[12:00:45] Session state: Failed
+[12:00:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#15)
+[12:00:50] Session state: Failed
+[12:00:51] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#16)
+[12:00:55] Session state: Failed
+[12:00:55] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#17)
+[12:01:00] Session state: Failed
+[12:01:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#18)
+[12:01:04] Session state: Failed
+[12:01:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#19)
+[12:01:09] Session state: Failed
+[12:01:09] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#20)
+[12:01:15] Session state: Failed
+[12:01:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#21)
+[12:01:17] Pipe: reconnect
+[12:01:20] Session state: Failed
+[12:01:20] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#22)
+[12:01:25] Session state: Failed
+[12:01:25] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#23)
+[12:01:29] Session state: Failed
+[12:01:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#24)
+[12:01:34] Session state: Failed
+[12:01:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#25)
+[12:01:39] Session state: Failed
+[12:01:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#26)
+[12:01:44] Session state: Failed
+[12:01:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#27)
+[12:01:49] Session state: Failed
+[12:01:49] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#28)
+[12:01:54] Session state: Failed
+[12:01:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#29)
+[12:01:59] Session state: Failed
+[12:01:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#30)
+[12:02:03] Bot: wait
+[12:02:04] Session state: Provisioning
+[12:02:15] Session state: Provisioned
+[12:02:16] Sending SDP offer
+[12:02:17] Console answer (video): m=video 9 UDP/TLS/RTP/SAVPF 102 103 104 105 106 107 | transport-cc on | rtpmap:102 H264/90000 | rtpmap:103 rtx/90000 | fmtp:103 apt=102 | rtpmap:104 H264/90000 | rtpmap:105 rtx/90000 | fmtp:105 apt=104 | rtpmap:106 H264/90000 | rtpmap:107 rtx/90000 | fmtp:107 apt=106 | ssrc-group:FID 3890070152 1104846671
+[12:02:17] Sending 6 ICE candidates
+[12:02:17] Connection: connecting
+[12:02:19] Added 3 remote ICE candidates
+[12:02:19] Connection: connected
+[12:02:19] Network path: local host 192.168.172.175:54567 <-> console host 192.168.172.176:9002
+[12:02:19] [input] channel open
+[12:02:19] [chat] channel open
+[12:02:19] [control] channel open
+[12:02:19] [message] channel open, sending handshake
+[12:02:19] [control] {"dataChannelOnlySessionCount":0,"message":"dataChannelOnlySessionCountChanged"}
+[12:02:19] Audio track (audio/opus) - ignored
+[12:02:19] [message] handshake OK - authorizing, starting input, sending config
+[12:02:19] [input] client metadata sent
+[12:02:19] Video track: video/H264 level-asymmetry-allowed=1;packetization-mode=1;profile-level-id=42e02a
+[12:02:19] [input] server report type 16, 10 bytes
+[12:02:19] [input] server report type 128, 13 bytes
+[12:02:19] [message] Message /streaming/properties/titleinfo
+[12:02:19] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:02:19] First keyframe received - video 1920x1080
+[12:02:29] Video: 60 fps, 0.2 Mbit/s, dropped 0 (skipped packets 0, repaired 10, keyframe requests 0; decoded 595, shown 50, broken 0, decode 424 ms, draw 99 ms)
+[12:02:39] Video: 60 fps, 0.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 43, broken 0, decode 405 ms, draw 60 ms)
+[12:02:39] [message] Message /streaming/properties/titleinfo
+[12:02:39] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:02:40] [message] Message /streaming/properties/titleinfo
+[12:02:40] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:02:42] Bot: run
+[12:02:49] Video: 59 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 590, shown 50, broken 0, decode 668 ms, draw 77 ms)
+[12:02:59] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 432 ms, draw 79 ms)
+[12:03:00] Bot: launched C:\Users\Reach\AppData\Local\Programs\Python\Python313\python.exe C:\Users\Reach\Desktop\New Remote\Play\run_bot.py (pid 14544)
+[12:03:03] [message] Message /streaming/properties/titleinfo
+[12:03:03] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:03:09] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 4, keyframe requests 0; decoded 600, shown 50, broken 0, decode 489 ms, draw 74 ms)
+[12:03:12] [message] Message /streaming/properties/titleinfo
+[12:03:12] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:03:19] Video: 60 fps, 2.0 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 421 ms, draw 77 ms)
+[12:03:29] Video: 60 fps, 0.9 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 216 ms, draw 84 ms)
+[12:03:39] Video: 60 fps, 0.9 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 208 ms, draw 73 ms)
+[12:03:43] [message] Message /streaming/properties/titleinfo
+[12:03:43] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:03:43] [message] Message /streaming/title/canRecordChanged
+[12:03:43] [message] Message /streaming/properties/titleinfo
+[12:03:43] [message] Message /streaming/touchcontrols/showtitledefault
+[12:03:49] Video: 59 fps, 1.8 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 587, shown 50, broken 0, decode 372 ms, draw 97 ms)
+[12:03:59] Video: 60 fps, 2.0 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 448 ms, draw 76 ms)
+[12:04:09] Video: 60 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 461 ms, draw 83 ms)
+[12:04:19] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 414 ms, draw 76 ms)
+[12:04:28] [input] server report type 128, 13 bytes
+[12:04:28] [input] server report type 128, 13 bytes
+[12:04:29] Video: 60 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 455 ms, draw 64 ms)
+[12:04:39] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 451 ms, draw 66 ms)
+[12:04:49] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 528 ms, draw 83 ms)
+[12:04:59] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 397 ms, draw 65 ms)
+[12:05:09] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 394 ms, draw 79 ms)
+[12:05:19] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 424 ms, draw 90 ms)
+[12:05:24] [input] server report type 128, 13 bytes
+[12:05:29] Video: 60 fps, 2.5 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 519 ms, draw 54 ms)
+[12:05:39] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 571 ms, draw 68 ms)
+[12:05:49] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 617 ms, draw 59 ms)
+[12:05:59] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 473 ms, draw 69 ms)
+[12:06:09] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 472 ms, draw 93 ms)
+[12:06:19] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 470 ms, draw 74 ms)
+[12:06:25] [message] Message /streaming/properties/titleinfo
+[12:06:25] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:06:28] [message] Message /streaming/properties/titleinfo
+[12:06:28] [message] Message /streaming/properties/titleinfo
+[12:06:28] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:06:29] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 499 ms, draw 83 ms)
+[12:06:35] [message] Message /streaming/properties/titleinfo
+[12:06:35] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:06:39] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 507 ms, draw 63 ms)
+[12:06:49] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 444 ms, draw 122 ms)
+[12:06:51] [message] Message /streaming/properties/titleinfo
+[12:06:51] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:06:53] [message] Message /streaming/properties/titleinfo
+[12:06:53] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:06:59] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 585, shown 48, broken 0, decode 489 ms, draw 83 ms)
+[12:07:03] [message] Message /streaming/properties/titleinfo
+[12:07:04] [message] Message /streaming/properties/titleinfo
+[12:07:06] [message] Message /streaming/properties/titleinfo
+[12:07:06] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:07:09] Video: 60 fps, 2.5 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 615, shown 43, broken 0, decode 541 ms, draw 37 ms)
+[12:07:19] Video: 60 fps, 1.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 355 ms, draw 66 ms)
+[12:07:29] Video: 60 fps, 1.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 324 ms, draw 62 ms)
+[12:07:37] [message] Message /streaming/properties/titleinfo
+[12:07:37] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:07:37] [message] Message /streaming/properties/titleinfo
+[12:07:37] [message] Message /streaming/touchcontrols/showtitledefault
+[12:07:39] Video: 59 fps, 1.6 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 588, shown 50, broken 0, decode 369 ms, draw 62 ms)
+[12:07:45] [message] Message /streaming/properties/titleinfo
+[12:07:45] [message] Message /streaming/touchcontrols/showlayoutv2
+[12:07:49] Video: 60 fps, 1.7 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 360 ms, draw 55 ms)
+[12:07:50] [message] Message /streaming/properties/titleinfo
+[12:07:50] [message] Message /streaming/touchcontrols/showtitledefault
+[12:07:59] Video: 60 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 551 ms, draw 62 ms)
+[12:08:09] Video: 60 fps, 2.0 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 371 ms, draw 76 ms)
+[12:08:19] Video: 60 fps, 1.9 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 401 ms, draw 84 ms)
+[12:08:29] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 484 ms, draw 74 ms)
+[12:08:39] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 503 ms, draw 59 ms)
+[12:08:49] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 496 ms, draw 70 ms)
+[12:08:59] Video: 60 fps, 2.5 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 539 ms, draw 74 ms)
+[12:09:09] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 557 ms, draw 71 ms)
+[12:09:19] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 475 ms, draw 72 ms)
+[12:09:29] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 468 ms, draw 61 ms)
+[12:09:39] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 471 ms, draw 69 ms)
+[12:09:49] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 426 ms, draw 64 ms)
+[12:09:59] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 448 ms, draw 54 ms)
+[12:10:09] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 424 ms, draw 57 ms)
+[12:10:15] [input] anti-idle nudge (every 8 minutes)
+[12:10:19] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 441 ms, draw 70 ms)
+[12:10:29] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 407 ms, draw 59 ms)
+[12:10:39] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 450 ms, draw 64 ms)
+[12:10:49] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 441 ms, draw 70 ms)
+[12:10:59] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 473 ms, draw 67 ms)
+[12:11:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 424 ms, draw 65 ms)
+[12:11:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 410 ms, draw 63 ms)
+[12:11:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 432 ms, draw 57 ms)
+[12:11:40] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 4, keyframe requests 0; decoded 600, shown 50, broken 0, decode 410 ms, draw 79 ms)
+[12:11:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 462 ms, draw 56 ms)
+[12:12:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 480 ms, draw 66 ms)
+[12:12:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 407 ms, draw 68 ms)
+[12:12:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 450 ms, draw 68 ms)
+[12:12:30] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 426 ms, draw 58 ms)
+[12:12:40] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 410 ms, draw 52 ms)
+[12:12:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 462 ms, draw 74 ms)
+[12:13:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 427 ms, draw 60 ms)
+[12:13:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 438 ms, draw 70 ms)
+[12:13:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 5, keyframe requests 0; decoded 598, shown 50, broken 0, decode 446 ms, draw 71 ms)
+[12:13:30] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 602, shown 51, broken 0, decode 420 ms, draw 56 ms)
+[12:13:40] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 405 ms, draw 63 ms)
+[12:13:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 474 ms, draw 56 ms)
+[12:14:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 472 ms, draw 50 ms)
+[12:14:10] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 466 ms, draw 49 ms)
+[12:14:20] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 525 ms, draw 49 ms)
+[12:14:30] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 521 ms, draw 55 ms)
+[12:14:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 472 ms, draw 82 ms)
+[12:14:50] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 410 ms, draw 59 ms)
+[12:15:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 444 ms, draw 61 ms)
+[12:15:10] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 423 ms, draw 65 ms)
+[12:15:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 409 ms, draw 68 ms)
+[12:15:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 455 ms, draw 60 ms)
+[12:15:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 438 ms, draw 61 ms)
+[12:15:50] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 472 ms, draw 63 ms)
+[12:15:50] Bot: pause
+[12:16:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 417 ms, draw 64 ms)
+[12:16:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 399 ms, draw 71 ms)
+[12:16:20] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 411 ms, draw 53 ms)
+[12:16:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 408 ms, draw 69 ms)
+[12:16:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 412 ms, draw 59 ms)
+[12:16:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 408 ms, draw 66 ms)
+[12:17:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 428 ms, draw 54 ms)
+[12:17:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 389 ms, draw 74 ms)
+[12:17:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 419 ms, draw 71 ms)
+[12:17:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 394 ms, draw 67 ms)
+[12:17:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 418 ms, draw 70 ms)
+[12:17:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 435 ms, draw 63 ms)
+[12:18:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 424 ms, draw 71 ms)
+[12:18:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 422 ms, draw 62 ms)
+[12:18:16] [input] anti-idle nudge (every 8 minutes)
+[12:18:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 430 ms, draw 68 ms)
+[12:18:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 403 ms, draw 56 ms)
+[12:18:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 407 ms, draw 66 ms)
+[12:18:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 411 ms, draw 69 ms)
+[12:19:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 451 ms, draw 60 ms)
+[12:19:10] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 427 ms, draw 70 ms)
+[12:19:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 407 ms, draw 61 ms)
+[12:19:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 393 ms, draw 70 ms)
+[12:19:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 408 ms, draw 68 ms)
+[12:19:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 423 ms, draw 68 ms)
+[12:20:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 399 ms, draw 82 ms)
+[12:20:10] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 437 ms, draw 68 ms)
+[12:20:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 447 ms, draw 61 ms)
+[12:20:30] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 439 ms, draw 64 ms)
+[12:20:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 418 ms, draw 59 ms)
+[12:20:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 400 ms, draw 89 ms)
+[12:21:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 405 ms, draw 64 ms)
+[12:21:10] Video: 60 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 467 ms, draw 48 ms)
+[12:21:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 420 ms, draw 53 ms)
+[12:21:30] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 435 ms, draw 59 ms)
+[12:21:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 432 ms, draw 59 ms)
+[12:21:50] Video: 55 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 551, shown 47, broken 0, decode 391 ms, draw 56 ms)
+[12:22:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 425 ms, draw 56 ms)
+[12:22:10] Video: 60 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 419 ms, draw 62 ms)
+[12:22:20] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 442 ms, draw 52 ms)
+[12:22:28] Bot: run
+[12:22:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 421 ms, draw 63 ms)
+[12:22:40] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 412 ms, draw 60 ms)
+[12:22:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 440 ms, draw 59 ms)
+[12:23:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 423 ms, draw 60 ms)
+[12:23:10] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 508 ms, draw 52 ms)
+[12:23:20] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 428 ms, draw 67 ms)
+[12:23:30] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 455 ms, draw 56 ms)
+[12:23:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 462 ms, draw 66 ms)
+[12:23:50] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 463 ms, draw 72 ms)
+[12:24:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 465 ms, draw 55 ms)
+[12:24:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 412 ms, draw 66 ms)
+[12:24:20] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 440 ms, draw 62 ms)
+[12:24:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 451 ms, draw 61 ms)
+[12:24:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 423 ms, draw 54 ms)
+[12:24:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 461 ms, draw 60 ms)
+[12:25:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 432 ms, draw 57 ms)
+[12:25:10] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 410 ms, draw 75 ms)
+[12:25:20] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 450 ms, draw 66 ms)
+[12:25:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 390 ms, draw 50 ms)
+[12:25:40] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 494 ms, draw 62 ms)
+[12:25:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 440 ms, draw 56 ms)
+[12:26:00] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 419 ms, draw 69 ms)
+[12:26:10] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 435 ms, draw 75 ms)
+[12:26:16] [input] anti-idle nudge (every 8 minutes)
+[12:26:20] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 427 ms, draw 55 ms)
+[12:26:30] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 413 ms, draw 74 ms)
+[12:26:40] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 396 ms, draw 87 ms)
+[12:26:50] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 601, shown 50, broken 0, decode 431 ms, draw 69 ms)
+[12:27:00] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 421 ms, draw 66 ms)
+[12:27:10] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 601, shown 50, broken 0, decode 460 ms, draw 76 ms)
+[12:27:20] Video: 60 fps, 2.1 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 400 ms, draw 87 ms)
+[12:27:30] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 446 ms, draw 67 ms)
+[12:27:41] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 410 ms, draw 91 ms)
+[12:27:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 601, shown 50, broken 0, decode 443 ms, draw 69 ms)
+[12:28:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 393 ms, draw 84 ms)
+[12:28:11] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 424 ms, draw 74 ms)
+[12:28:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 457 ms, draw 64 ms)
+[12:28:31] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 598, shown 49, broken 0, decode 427 ms, draw 74 ms)
+[12:28:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 7, keyframe requests 0; decoded 602, shown 51, broken 0, decode 426 ms, draw 59 ms)
+[12:28:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 439 ms, draw 64 ms)
+[12:29:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 601, shown 50, broken 0, decode 445 ms, draw 56 ms)
+[12:29:11] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 443 ms, draw 62 ms)
+[12:29:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 437 ms, draw 69 ms)
+[12:29:31] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 529 ms, draw 70 ms)
+[12:29:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 406 ms, draw 66 ms)
+[12:29:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 380 ms, draw 71 ms)
+[12:30:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 413 ms, draw 72 ms)
+[12:30:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 404 ms, draw 72 ms)
+[12:30:21] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 463 ms, draw 75 ms)
+[12:30:31] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 384 ms, draw 77 ms)
+[12:30:41] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 468 ms, draw 71 ms)
+[12:30:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 449 ms, draw 64 ms)
+[12:31:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 428 ms, draw 58 ms)
+[12:31:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 441 ms, draw 68 ms)
+[12:31:21] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 414 ms, draw 58 ms)
+[12:31:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 442 ms, draw 65 ms)
+[12:31:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 598, shown 49, broken 0, decode 457 ms, draw 68 ms)
+[12:31:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 602, shown 51, broken 0, decode 409 ms, draw 70 ms)
+[12:32:01] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 466 ms, draw 73 ms)
+[12:32:11] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 401 ms, draw 74 ms)
+[12:32:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 441 ms, draw 72 ms)
+[12:32:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 436 ms, draw 69 ms)
+[12:32:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 441 ms, draw 68 ms)
+[12:32:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 427 ms, draw 64 ms)
+[12:33:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 431 ms, draw 77 ms)
+[12:33:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 391 ms, draw 87 ms)
+[12:33:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 430 ms, draw 65 ms)
+[12:33:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 602, shown 50, broken 0, decode 497 ms, draw 76 ms)
+[12:33:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 419 ms, draw 68 ms)
+[12:33:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 400 ms, draw 74 ms)
+[12:34:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 599, shown 50, broken 0, decode 406 ms, draw 63 ms)
+[12:34:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 405 ms, draw 56 ms)
+[12:34:16] [input] anti-idle nudge (every 8 minutes)
+[12:34:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 448 ms, draw 65 ms)
+[12:34:31] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 418 ms, draw 76 ms)
+[12:34:41] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 402 ms, draw 81 ms)
+[12:34:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 401 ms, draw 62 ms)
+[12:35:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 431 ms, draw 65 ms)
+[12:35:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 426 ms, draw 61 ms)
+[12:35:21] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 411 ms, draw 71 ms)
+[12:35:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 460 ms, draw 73 ms)
+[12:35:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 437 ms, draw 61 ms)
+[12:35:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 403 ms, draw 64 ms)
+[12:36:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 598, shown 50, broken 0, decode 444 ms, draw 51 ms)
+[12:36:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 602, shown 50, broken 0, decode 430 ms, draw 79 ms)
+[12:36:21] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 510 ms, draw 39 ms)
+[12:36:31] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 583 ms, draw 47 ms)
+[12:36:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 612 ms, draw 73 ms)
+[12:36:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 579 ms, draw 60 ms)
+[12:37:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 574 ms, draw 52 ms)
+[12:37:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 669 ms, draw 62 ms)
+[12:37:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 584 ms, draw 61 ms)
+[12:37:31] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 657 ms, draw 49 ms)
+[12:37:41] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 619 ms, draw 56 ms)
+[12:37:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 615 ms, draw 55 ms)
+[12:38:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 595 ms, draw 54 ms)
+[12:38:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 647 ms, draw 65 ms)
+[12:38:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 605 ms, draw 44 ms)
+[12:38:31] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 596 ms, draw 50 ms)
+[12:38:41] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 597, shown 49, broken 0, decode 641 ms, draw 65 ms)
+[12:38:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 603, shown 51, broken 0, decode 569 ms, draw 59 ms)
+[12:39:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 607 ms, draw 73 ms)
+[12:39:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 617 ms, draw 44 ms)
+[12:39:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 649 ms, draw 86 ms)
+[12:39:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 590 ms, draw 54 ms)
+[12:39:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 609 ms, draw 64 ms)
+[12:39:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 586 ms, draw 47 ms)
+[12:40:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 598, shown 50, broken 0, decode 565 ms, draw 52 ms)
+[12:40:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 602, shown 50, broken 0, decode 616 ms, draw 32 ms)
+[12:40:21] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 568 ms, draw 46 ms)
+[12:40:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 618 ms, draw 39 ms)
+[12:40:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 572 ms, draw 45 ms)
+[12:40:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 574 ms, draw 46 ms)
+[12:41:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 570 ms, draw 63 ms)
+[12:41:11] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 594 ms, draw 66 ms)
+[12:41:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 51, broken 0, decode 587 ms, draw 72 ms)
+[12:41:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 564 ms, draw 63 ms)
+[12:41:41] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 554 ms, draw 63 ms)
+[12:41:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 581 ms, draw 59 ms)
+[12:42:01] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 586 ms, draw 69 ms)
+[12:42:11] Video: 60 fps, 2.4 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 687 ms, draw 67 ms)
+[12:42:16] [input] anti-idle nudge (every 8 minutes)
+[12:42:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 639 ms, draw 69 ms)
+[12:42:31] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 674 ms, draw 55 ms)
+[12:42:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 605 ms, draw 50 ms)
+[12:42:51] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 592 ms, draw 72 ms)
+[12:43:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 580 ms, draw 56 ms)
+[12:43:11] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 608 ms, draw 65 ms)
+[12:43:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 587 ms, draw 97 ms)
+[12:43:31] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 528 ms, draw 50 ms)
+[12:43:41] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 581 ms, draw 52 ms)
+[12:43:51] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 599 ms, draw 57 ms)
+[12:44:01] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 601 ms, draw 77 ms)
+[12:44:11] Video: 60 fps, 2.2 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 635 ms, draw 57 ms)
+[12:44:21] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 595 ms, draw 60 ms)
+[12:44:32] Video: 60 fps, 2.3 Mbit/s, dropped 0 (skipped packets 0, repaired 0, keyframe requests 0; decoded 600, shown 50, broken 0, decode 607 ms, draw 42 ms)
+[12:44:36] Bot: stop
+[12:44:36] Bot: run_bot ended (code 0, <nil>)

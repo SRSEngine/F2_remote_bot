@@ -5,6 +5,7 @@
 - اجرا: `python sbc_prices.py` یک بار. `python sbc_prices.py --loop` همیشه به‌روز. FUT.GG حدود هر ۶ دقیقه قیمت تازه می‌دهد.
 - خروجی: `sbc_prices.csv` برای دیدن، `sbc_prices.json` برای ربات.
 - پنل F2 این ابزار را خودش در پس‌زمینه اجرا می‌کند. تب Prices پنل همین جدول را نشان می‌دهد و با هر قیمت تازه به‌روز می‌شود.
+- تب Players پنل: همه کارت‌های بازی (حدود ۲۰ هزار) با مشخصات و قیمت لحظه‌ای کنسول، با جستجو و فیلتر و مرتب‌سازی؛ با هر قیمت تازه خودش به‌روز می‌شود.
 - ربات قبل از هر خرید از مارکت قیمت شروع را از این فایل می‌خواند؛ قدیمی‌تر از ۲۰ دقیقه → قیمت CSV.
 
 ---
@@ -44,6 +45,14 @@ the row's league first, men's club before women's. Rows read like Play.load_plan
 - Writer retries os.replace (Windows refuses while a bot or Excel has the file open).
 - Tests: scratch test_price.py (7 market_price cases), sim_buy2.py (old BUY scenarios + cap 8/9), test_service.py
   (start / second instance exit 3 / restart / stop). Not yet run on the console.
+
+- Players tab (2026-10-15): the loop also writes `all_players.json` (every card: cols list + rows; `price`, `prev` =
+  price at the previous publish, status, names of nation/league/club/rarity, 6 face stats, wf/sm/foot/age/height/url)
+  after each SBC save. Details come from `players/v2/27/?ids=` (200 per call, DETAIL_CALLS per poll); cards that call
+  leaves out (~460 special cards) via `player-item-definitions/27/<id>/` (other field layout, `detail_def`),
+  DETAIL_SINGLE per poll. Cached in `cache/players.json`. Panel `PlayersTab` (QTableView + PlayersModel, filter/sort in
+  Python) reloads when the file mtime changes. `PriceCountdown` is shared by Prices and Players tabs.
+  Backups: Pannel/Backup/panel-before-players-tab-20261015-121630.py, sbc_prices-before-players-20261015-121630.py.
 
 ## Limits
 - Position filter uses primary position only; the in-game filter may also list alternative positions.

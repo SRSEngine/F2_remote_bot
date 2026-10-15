@@ -435,3 +435,9 @@
 - نتیجه: 02:04:43 بازی باز شد و صفحه SBC آمد (bot=run)
 - عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\D42_1015_020330.png
 
+## 2026-10-15 12:23:24 — A12
+- مشکل: pause بدون خط ⏸ در لاگ، بعد از بازیکن 7/11 در Marquee 1 (اکانت Lynn)؛ ردیف بعدی 8/11 Bronze انگلیس LM؛ صفحه روی Squad و نشانگر روی RM پر (Grey)
+- کار انجام‌شده: Left×3 -> CB چپ؛ Up -> CDM (Newsham)؛ Up سپس Left -> اسلات خالی LM (پایین: X Add Player)؛ Resume
+- نتیجه: 12:23:06 بازیکن 8/11 (LM) اضافه شد و ربات سراغ 9/11 CAM رفت (bot=run)
+- عکس: C:\Users\Reach\Desktop\New Remote\Watchdog\snaps\A12_1015_122217.png
+

@@ -38,6 +38,8 @@ OUT_JSON = os.path.join(HERE, "sbc_prices.json")
 OUT_CSV = os.path.join(HERE, "sbc_prices.csv")
 NAMES_FILE = os.path.join(CACHE, "names.json")
 STATUS_FILE = os.path.join(HERE, "loop_status.json")   # written after every check (panel countdown)
+PLAYERS_FILE = os.path.join(CACHE, "players.json")     # eaId -> card details from the FUT.GG player API
+OUT_PLAYERS = os.path.join(HERE, "all_players.json")    # every card + live price (panel Players tab)
 
 GAME = "27"
 CDN = "https://r2.fut.gg"
@@ -45,10 +47,15 @@ API = "https://www.fut.gg/api/fut"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128 Safari/537.36"
 POLL = 60          # seconds between manifest checks in --loop (the site itself checks every 60 s)
 TOP = 5            # cheapest cards kept per row
+DETAIL_BATCH = 200  # cards per player-API call (details for the Players tab)
+DETAIL_CALLS = 25   # API calls per loop poll while details are missing (~35 s; all cards in a few polls)
+DETAIL_SINGLE = 100  # one-card calls per poll for cards the list call leaves out (~0.4 s each)
 
 POS = {"GK": 0, "RWB": 2, "RB": 3, "CB": 5, "LB": 7, "LWB": 8, "CDM": 10, "RM": 12, "CM": 14,
        "LM": 16, "CAM": 18, "CF": 21, "RW": 23, "ST": 25, "LW": 27}
 QUALITY = {"bronze": (0, 64), "silver": (65, 74), "gold": (75, 99)}
+POS_NAME = {v: k for k, v in POS.items()}
+STATUS_NAME = {0: "Market", 1: "SBC", 2: "Objective", 3: "Other", 4: "Token"}
 BASE_RARITY = 0    # FUT.GG rarity 0 = base card (common + rare); Bronze/Silver/Gold rows use only base cards
 TRADEABLE = 0      # status s[i]: 0 = market card, 1 = SBC, 2 = objective, 4 = token
 ALIASES = {        # names typed in the CSV / shown in game -> FUT.GG name (keys and values normalized)
@@ -259,6 +266,133 @@ def player_names(ids):
     return {int(k): v for k, v in names.items()}
 
 
+# ---------------------------------------------------------------- all players (panel Players tab)
+PLAYER_COLS = ["eaId", "name", "ovr", "pos", "alt", "rarity", "rarity_id", "nation", "league", "club",
+               "price", "prev", "status", "s1", "s2", "s3", "s4", "s5", "s6", "wf", "sm", "foot", "age",
+               "height", "url"]
+_no_details = set()     # ids the list API did not return -> asked one by one (player-item-definitions)
+_dead = set()           # not found one by one either (asked again after a restart)
+
+
+def load_details():
+    try:
+        with open(PLAYERS_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
+
+def detail_row(x):
+    fs = x.get("faceStatsV2") or {}
+    keys = (("gkFaceDiving", "gkFaceHandling", "gkFaceKicking", "gkFaceReflexes", "gkFaceSpeed",
+             "gkFacePositioning") if x.get("position") == "GK" else
+            ("facePace", "faceShooting", "facePassing", "faceDribbling", "faceDefending", "facePhysicality"))
+    return {"name": x.get("commonName") or x.get("cardName") or x.get("lastName") or "",
+            "alt": ",".join(x.get("alternativePositions") or []), "rarity": x.get("rarityName") or "",
+            "stats": [fs.get(k) or 0 for k in keys], "wf": x.get("weakFoot") or 0, "sm": x.get("skillMoves") or 0,
+            "foot": x.get("foot") or "", "age": x.get("age") or 0, "height": x.get("height") or 0,
+            "url": x.get("url") or ""}
+
+
+def detail_def(x):
+    """Same as detail_row, for the one-card endpoint (player-item-definitions; other field layout)."""
+    keys = (("gkFaceDiving", "gkFaceHandling", "gkFaceKicking", "gkFaceReflexes", "gkFaceSpeed",
+             "gkFacePositioning") if x.get("position") == POS["GK"] else
+            ("facePace", "faceShooting", "facePassing", "faceDribbling", "faceDefending", "facePhysicality"))
+    rar = x.get("rarity")
+    age, b = 0, x.get("birthDate")
+    if b:
+        t = datetime.date.today()
+        y, md = divmod(int(b), 10000)
+        age = t.year - y - (md > t.month * 100 + t.day)
+    return {"name": x.get("commonName") or x.get("lastName") or "",
+            "alt": ",".join(POS_NAME.get(q, str(q)) for q in x.get("alternativePositionIds") or []),
+            "rarity": rar.get("name", "") if isinstance(rar, dict) else "",
+            "stats": [x.get(k) or 0 for k in keys], "wf": x.get("weakFoot") or 0, "sm": x.get("skillMoves") or 0,
+            "foot": {1: "Right", 2: "Left"}.get(x.get("foot"), ""), "age": age, "height": x.get("height") or 0,
+            "url": x.get("url") or ""}
+
+
+def fill_details(market, details, calls=DETAIL_CALLS):
+    """Download details of cards missing from cache/players.json, market cards first, at most `calls`
+    API calls. Returns how many cards were added."""
+    order = sorted(range(market.n), key=lambda i: (market.s[i] != TRADEABLE or market.p[i] <= 0, -market.o[i]))
+    need = [market.ids[i] for i in order
+            if str(market.ids[i]) not in details and market.ids[i] not in _no_details]
+    added = 0
+    for k in range(0, min(len(need), calls * DETAIL_BATCH), DETAIL_BATCH):
+        part = need[k:k + DETAIL_BATCH]
+        try:
+            d = json.loads(fetch(f"{API}/players/v2/{GAME}/?ids={','.join(map(str, part))}&count={len(part)}"))
+        except Exception as e:      # noqa: BLE001 - details are optional, try again next poll
+            print("player details not loaded:", e)
+            break
+        got = set()
+        for x in d.get("data", []):
+            got.add(x["eaId"])
+            details[str(x["eaId"])] = detail_row(x)
+            added += 1
+        _no_details.update(i for i in part if i not in got)
+    single = [i for i in need if i in _no_details and i not in _dead][:DETAIL_SINGLE]
+    for i in single:
+        try:
+            x = json.loads(fetch(f"{API}/player-item-definitions/{GAME}/{i}/", tries=1)).get("data")
+        except Exception:           # noqa: BLE001 - 404 = unknown card
+            x = None
+        if x:
+            details[str(i)] = detail_def(x)
+            added += 1
+        else:
+            _dead.add(i)
+    if added:
+        tmp = PLAYERS_FILE + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(details, f, ensure_ascii=False, separators=(",", ":"))
+        replace(tmp, PLAYERS_FILE)
+    return added
+
+
+def previous_prices(version):
+    """eaId -> price before the current FUT.GG publish (from the all_players.json we wrote last)."""
+    try:
+        with open(OUT_PLAYERS, encoding="utf-8") as f:
+            old = json.load(f)
+        c = {k: n for n, k in enumerate(old["cols"])}
+        same = old.get("version") == version
+        return {r[c["eaId"]]: r[c["prev"] if same else c["price"]] for r in old["rows"]}
+    except (OSError, ValueError, KeyError, TypeError):
+        return {}
+
+
+def write_players(market, details):
+    core = market.core
+    nat = {int(x["eaId"]): x["name"] for x in core["nations"]}
+    lg = {int(x["eaId"]): x["name"] for x in core["leagues"]}
+    cl = {int(x["eaId"]): x["name"] for x in core["clubs"]}
+    rar = {int(x["eaId"]): x["name"] for x in core["rarities"]}
+    rar[BASE_RARITY] = "Common/Rare"
+    prev = previous_prices(market.version)
+    rows = []
+    for i in range(market.n):
+        e, p = market.ids[i], market.p[i]
+        d = details.get(str(e)) or {}
+        st = d.get("stats") or [0] * 6
+        rows.append([e, d.get("name", ""), market.o[i], POS_NAME.get(market.pos[i], str(market.pos[i])),
+                     d.get("alt", ""), d.get("rarity") or rar.get(market.r[i], str(market.r[i])), market.r[i],
+                     nat.get(market.nat[i], ""), lg.get(market.lg[i], ""), cl.get(market.cl[i], ""),
+                     p, prev.get(e, p), STATUS_NAME.get(market.s[i], str(market.s[i])), *st,
+                     d.get("wf", 0), d.get("sm", 0), d.get("foot", ""), d.get("age", 0), d.get("height", 0),
+                     d.get("url", "")])
+    pub = (datetime.datetime.fromtimestamp(market.published).isoformat(timespec="seconds")
+           if market.published else None)
+    doc = {"updated": datetime.datetime.now().isoformat(timespec="seconds"), "prices_published": pub,
+           "version": market.version, "cols": PLAYER_COLS, "rows": rows}
+    tmp = OUT_PLAYERS + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(doc, f, ensure_ascii=False, separators=(",", ":"))
+    replace(tmp, OUT_PLAYERS)
+
+
 # ---------------------------------------------------------------- SBC rows (same as Play.load_plan / load_rows)
 def load_entries():
     try:
@@ -431,7 +565,7 @@ def main():
     if not lock:
         print("another price loop is already running - exit")
         return 3
-    seen = None
+    seen, market, details = None, None, load_details()
     while True:
         man, err = None, None
         try:
@@ -446,6 +580,13 @@ def main():
                     print(f"{now}: {len(results)} rows updated (prices published {pub})")
                 else:
                     show(results, now, pub)
+                write_players(market, details)
+            if market is not None:
+                added = fill_details(market, details)
+                if added:
+                    write_players(market, details)
+                    print(f"{datetime.datetime.now():%H:%M:%S}: details of {added} more cards "
+                          f"({len(details)} of {market.n})")
         except Exception as e:      # noqa: BLE001 - keep the loop alive, try again next poll
             err = str(e)
             print(f"{datetime.datetime.now():%H:%M:%S} update failed: {e}")

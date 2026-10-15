@@ -4,6 +4,8 @@ panel.py — Xbox Remote Panel: manage accounts (from CSV) and remotes.
 
 Tabs:
   • Accounts — table of accounts imported from a CSV (like a database). Import CSV button.
+  • Players  — every card in the game with details and the live console price
+               (Prices/all_players.json, written by the background price tool).
   • Monitor  — a wall of live thumbnails of the active remotes (5 per row). Each tile has
                Start / Pause / Stop (bot) and a Show/Hide button for the remote window.
                Thumbnails refresh every 5 seconds. Paused/stopped tiles change color.
@@ -21,13 +23,14 @@ import threading
 import sys
 import time
 
-from PySide6.QtCore import Qt, QThread, Signal, QTimer
+from PySide6.QtCore import Qt, QThread, Signal, QTimer, QAbstractTableModel, QModelIndex
 from PySide6.QtGui import QColor, QFont, QPainter, QPixmap, QImage, QIcon
 from PySide6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, QGridLayout,
     QLabel, QPushButton, QTableWidget, QTableWidgetItem, QHeaderView, QFileDialog,
     QTabWidget, QFrame, QCheckBox, QComboBox, QAbstractItemView, QMessageBox,
     QScrollArea, QStyle, QSizePolicy, QLineEdit, QDialog, QDialogButtonBox, QFormLayout,
+    QTableView, QSpinBox,
 )
 
 import core
@@ -82,11 +85,11 @@ QPushButton#warn {{ background: transparent; border-color: {ORANGE}; color: {ORA
 QPushButton#warn:hover {{ background: #2a2014; }}
 QPushButton#ghost {{ background: transparent; }}
 
-QTableWidget {{ background: {CARD}; border: none; gridline-color: {BORDER};
+QTableWidget, QTableView {{ background: {CARD}; border: none; gridline-color: {BORDER};
     selection-background-color: #1c2a1c; selection-color: {TEXT}; font-size: 13px; }}
 QHeaderView::section {{ background: {CARD2}; color: {MUTED}; border: none;
     border-bottom: 1px solid {BORDER}; padding: 8px 10px; font-weight: 700; }}
-QTableWidget::item {{ padding: 6px 10px; border-bottom: 1px solid {BORDER}; }}
+QTableWidget::item, QTableView::item {{ padding: 6px 10px; border-bottom: 1px solid {BORDER}; }}
 QTableCornerButton::section {{ background: {CARD2}; border: none; }}
 
 QComboBox {{ background: {CARD2}; border: 1px solid {BORDER}; border-radius: 7px; padding: 5px 10px; }}
@@ -1309,6 +1312,46 @@ class PriceService:
         return text, color, tip
 
 
+class PriceCountdown:
+    """'Next refresh in m:ss' line from Prices/loop_status.json (written by the price loop every 60 s)."""
+
+    def __init__(self):
+        self._status, self._mtime = None, None
+
+    @staticmethod
+    def _mmss(sec):
+        sec = max(0, int(sec))
+        return f"{sec // 60}:{sec % 60:02d}"
+
+    def text(self):
+        import json
+        try:
+            m = PRICES_STATUS.stat().st_mtime
+            if m != self._mtime:
+                self._status, self._mtime = json.loads(PRICES_STATUS.read_text(encoding="utf-8")), m
+        except (OSError, ValueError):
+            pass
+        st = self._status
+        now = time.time()
+        if not st or now - st.get("checked", 0) > 3 * st.get("poll", 60) + 30:
+            return "⟳  Price tool is not running - no refresh (it starts with F2)", RED
+        check = self._mmss(st["next_check"] - now)
+        nxt = st.get("next_publish")
+        every = round(st.get("interval", 360) / 60)
+        if nxt and nxt > now:
+            text = (f"⟳  Next refresh in {self._mmss(nxt - now)}  (about {time.strftime('%H:%M:%S', time.localtime(nxt))})"
+                    f"     •  FUT.GG publishes about every {every} min  •  next check in {check}")
+            color = TEXT
+        else:
+            text = (f"⟳  New prices any moment now (FUT.GG publishes about every {every} min)"
+                    f"     •  next check in {check}")
+            color = ORANGE
+        if st.get("error"):
+            text += f"     •  last check failed: {st['error'][:80]}"
+            color = RED
+        return text, color
+
+
 class PricesTab(QWidget):
     """Cheapest console market price of every SBC row (same columns as Prices/sbc_prices.csv).
     Rebuilt every time the background price tool writes a new sbc_prices.json."""
@@ -1330,7 +1373,7 @@ class PricesTab(QWidget):
         self.timer_lbl = QLabel("")
         self.timer_lbl.setStyleSheet(f"color: {TEXT}; font-size: 15px; font-weight: 600;")
         lay.addWidget(self.timer_lbl)
-        self._status, self._status_mtime = None, None
+        self._countdown = PriceCountdown()
         self._tick = QTimer(self); self._tick.timeout.connect(self.tick_timer); self._tick.start(1000)
         self.tick_timer()
         self.table = QTableWidget(0, len(self.COLS))
@@ -1350,42 +1393,11 @@ class PricesTab(QWidget):
         note.setObjectName("subtitle"); note.setWordWrap(True)
         lay.addWidget(note)
 
-    @staticmethod
-    def _mmss(sec):
-        sec = max(0, int(sec))
-        return f"{sec // 60}:{sec % 60:02d}"
-
     def tick_timer(self):
-        """Countdown to the next refresh, from Prices/loop_status.json (written by the loop every 60 s)."""
-        import json
+        """Countdown to the next refresh (only while the tab is visible)."""
         if not self.isVisible():
             return
-        try:
-            m = PRICES_STATUS.stat().st_mtime
-            if m != self._status_mtime:
-                self._status, self._status_mtime = json.loads(PRICES_STATUS.read_text(encoding="utf-8")), m
-        except (OSError, ValueError):
-            pass
-        st = self._status
-        now = time.time()
-        if not st or now - st.get("checked", 0) > 3 * st.get("poll", 60) + 30:
-            self.timer_lbl.setText("⟳  Price tool is not running - no refresh (it starts with F2)")
-            self.timer_lbl.setStyleSheet(f"color: {RED}; font-size: 15px; font-weight: 600;")
-            return
-        check = self._mmss(st["next_check"] - now)
-        nxt = st.get("next_publish")
-        every = round(st.get("interval", 360) / 60)
-        if nxt and nxt > now:
-            text = (f"⟳  Next refresh in {self._mmss(nxt - now)}  (about {time.strftime('%H:%M:%S', time.localtime(nxt))})"
-                    f"     •  FUT.GG publishes about every {every} min  •  next check in {check}")
-            color = TEXT
-        else:
-            text = (f"⟳  New prices any moment now (FUT.GG publishes about every {every} min)"
-                    f"     •  next check in {check}")
-            color = ORANGE
-        if st.get("error"):
-            text += f"     •  last check failed: {st['error'][:80]}"
-            color = RED
+        text, color = self._countdown.text()
         self.timer_lbl.setText(text)
         self.timer_lbl.setStyleSheet(f"color: {color}; font-size: 15px; font-weight: 600;")
 
@@ -1451,6 +1463,314 @@ class PricesTab(QWidget):
                    and row["cheapest"] > row["csv_price"])
         none = sum(1 for row in rows if row.get("cheapest") is None)
         self.count.setText(f"{sbcs} SBCs  •  {len(rows)} rows  •  {more} above CSV  •  {none} without price")
+
+
+# =================== All players (every card + live price) ===================
+PLAYERS_JSON = PRICES_DIR / "all_players.json"
+POS_LIST = ["GK", "RB", "RWB", "CB", "LB", "LWB", "CDM", "CM", "CAM", "RM", "LM", "RW", "LW", "CF", "ST"]
+QUALITY_UI = {"Bronze": (0, 64), "Silver": (65, 74), "Gold": (75, 99)}     # base cards (rarity 0) only
+OVR_COLOR = {"Bronze": "#c8935f", "Silver": "#b9c6cf", "Gold": "#e0bf4f"}
+RARITY_FIXED = ["Any rarity", "Bronze", "Silver", "Gold", "Special (not base)"]
+
+
+def _plain(s) -> str:
+    import unicodedata
+    return unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower()
+
+
+class _PlayerRow:
+    __slots__ = ("vals", "text", "key", "alts", "url", "base", "market", "quality", "named")
+
+
+class PlayersModel(QAbstractTableModel):
+    """Every card in the game (Prices/all_players.json). Filtering and sorting are done in plain Python
+    (fast for 20k rows); the view only asks for the visible cells."""
+    HEAD = ["Name", "OVR", "Pos", "Alt pos", "Rarity", "Nation", "League", "Club", "Price", "Change",
+            "Status", "PAC", "SHO", "PAS", "DRI", "DEF", "PHY", "WF", "SM", "Foot", "Age", "Height", "ID"]
+    GK_HEAD = ["DIV", "HAN", "KIC", "REF", "SPD", "POS"]
+    NUM = {1, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22}
+    C_NAME, C_OVR, C_PRICE, C_CHANGE, C_STATUS, C_ID = 0, 1, 8, 9, 10, 22
+
+    def __init__(self):
+        super().__init__()
+        self.rows: list = []
+        self.view: list = []
+        self.bold = QFont("Segoe UI", 10); self.bold.setBold(True)
+        self.colors = {k: QColor(v) for k, v in (("text", TEXT), ("muted", MUTED), ("up", RED), ("down", GREEN2),
+                                                   ("price", "#f2d27a"))}
+        self.colors.update({k: QColor(v) for k, v in OVR_COLOR.items()})
+
+    def rowCount(self, parent=QModelIndex()):
+        return 0 if parent.isValid() else len(self.view)
+
+    def columnCount(self, parent=QModelIndex()):
+        return 0 if parent.isValid() else len(self.HEAD)
+
+    def headerData(self, s, o, role=Qt.DisplayRole):
+        if o != Qt.Horizontal:
+            return None
+        if role == Qt.DisplayRole:
+            return self.HEAD[s]
+        if role == Qt.ToolTipRole:
+            if 11 <= s <= 16:
+                return f"{self.HEAD[s]}  (goalkeepers: {self.GK_HEAD[s - 11]})"
+            if s == self.C_CHANGE:
+                return "Price change since the previous FUT.GG update (green = cheaper, red = more expensive)"
+            if s == self.C_PRICE:
+                return "Console market price (PS + Xbox) from FUT.GG; '-' = no price / not on the market"
+        return None
+
+    def data(self, idx, role=Qt.DisplayRole):
+        r = self.rows[self.view[idx.row()]]
+        c = idx.column()
+        if role == Qt.DisplayRole:
+            return r.text[c]
+        if role == Qt.ForegroundRole:
+            if c == self.C_CHANGE and r.vals[c]:
+                return self.colors["up" if r.vals[c] > 0 else "down"]
+            if c == self.C_OVR and r.quality:
+                return self.colors[r.quality]
+            if c == self.C_PRICE and r.vals[c] > 0:
+                return self.colors["price"]
+            if c == self.C_NAME:
+                return self.colors["text"] if r.market and r.named else self.colors["muted"]
+            return self.colors["muted"] if c in (self.C_STATUS, self.C_ID) else self.colors["text"]
+        if role == Qt.TextAlignmentRole and c in self.NUM:
+            return int(Qt.AlignRight | Qt.AlignVCenter)
+        if role == Qt.FontRole and c in (self.C_NAME, self.C_OVR, self.C_PRICE):
+            return self.bold
+        if role == Qt.ToolTipRole and c == self.C_NAME:
+            return f"{r.text[0]}  {r.vals[1]} {r.vals[2]}  •  {r.vals[4]}\nDouble-click: open on FUT.GG"
+        return None
+
+    def set_view(self, view):
+        self.beginResetModel()
+        self.view = view
+        self.endResetModel()
+
+    @staticmethod
+    def make_rows(doc):
+        c = {k: n for n, k in enumerate(doc.get("cols", []))}
+
+        def g(x, k, d=None):
+            return x[c[k]] if k in c else d
+
+        out = []
+        for x in doc.get("rows", []):
+            ea, name, ovr = g(x, "eaId"), g(x, "name", ""), g(x, "ovr", 0) or 0
+            price, prev = g(x, "price", 0) or 0, g(x, "prev", 0) or 0
+            change = price - prev if price > 0 and prev > 0 else 0
+            stats = [g(x, f"s{k}", 0) for k in range(1, 7)]
+            status = g(x, "status", "")
+            vals = [name or "", ovr, g(x, "pos", ""), g(x, "alt", ""), g(x, "rarity", ""), g(x, "nation", ""),
+                    g(x, "league", ""), g(x, "club", ""), price, change, status, *stats,
+                    g(x, "wf", 0), g(x, "sm", 0), g(x, "foot", ""), g(x, "age", 0), g(x, "height", 0), ea]
+            r = _PlayerRow()
+            r.vals = vals
+            r.text = [str(v) if v not in (0, "", None) else "" for v in vals]
+            r.named = bool(name)
+            r.text[0] = name or f"#{ea}  (name loading…)"
+            r.text[8] = f"{price:,}" if price > 0 else "-"
+            r.text[9] = f"{change:+,}  ({change / prev:+.0%})" if change else ""
+            r.text[21] = f"{vals[21]} cm" if vals[21] else ""
+            r.text[22] = str(ea)
+            r.key = _plain(" ".join(str(v) for v in vals[:8]))
+            r.alts = set((vals[3] or "").split(","))
+            r.url = g(x, "url", "")
+            r.base = g(x, "rarity_id", -1) == 0
+            r.market = status == "Market" and price > 0
+            r.quality = next((q for q, (lo, hi) in QUALITY_UI.items() if lo <= ovr <= hi), "") if r.base else ""
+            out.append(r)
+        return out
+
+
+class PlayersTab(QWidget):
+    """All cards with details and the live console price. Reloaded every time the background price tool
+    writes Prices/all_players.json (each FUT.GG price update, and while card details are still loading)."""
+
+    def __init__(self):
+        super().__init__()
+        self._mtime = None
+        self._sort_col, self._sort_desc = PlayersModel.C_OVR, True
+        lay = QVBoxLayout(self); lay.setContentsMargins(18, 14, 18, 18); lay.setSpacing(10)
+        top = QHBoxLayout()
+        self.state = QLabel("Players: waiting for the price tool"); self.state.setObjectName("subtitle")
+        self.count = QLabel(""); self.count.setObjectName("count")
+        top.addWidget(self.state); top.addStretch(1); top.addWidget(self.count)
+        lay.addLayout(top)
+        self.timer_lbl = QLabel("")
+        lay.addWidget(self.timer_lbl)
+        self._countdown = PriceCountdown()
+
+        field = f"background: {CARD2}; border: 1px solid {BORDER}; border-radius: 7px; padding: 5px 10px;"
+        bar = QHBoxLayout(); bar.setSpacing(8)
+        self.search = QLineEdit(); self.search.setPlaceholderText("Search name, club, league, nation…")
+        self.search.setClearButtonEnabled(True); self.search.setMinimumWidth(260)
+        self.search.setStyleSheet(field)
+        self.pos = QComboBox(); self.pos.addItems(["Any position"] + POS_LIST)
+        self.pos.setToolTip("Primary or alternative position")
+        self.rar = QComboBox(); self.rar.addItems(RARITY_FIXED)
+        self.rar.setMinimumWidth(180)
+        self.lo = QSpinBox(); self.hi = QSpinBox()
+        for sp, v in ((self.lo, 40), (self.hi, 99)):
+            sp.setRange(40, 99); sp.setValue(v); sp.setStyleSheet(field)
+        self.market = QCheckBox("Market only"); self.market.setChecked(True)
+        self.market.setToolTip("Only cards that can be bought on the transfer market (they have a price)")
+        reset = QPushButton("Reset"); reset.setObjectName("ghost"); reset.clicked.connect(self.reset_filters)
+        bar.addWidget(self.search, 2); bar.addWidget(self.pos); bar.addWidget(self.rar)
+        bar.addWidget(QLabel("OVR")); bar.addWidget(self.lo); bar.addWidget(QLabel("–")); bar.addWidget(self.hi)
+        bar.addWidget(self.market); bar.addWidget(reset); bar.addStretch(1)
+        lay.addLayout(bar)
+
+        self.model = PlayersModel()
+        self.table = QTableView(); self.table.setModel(self.model)
+        vh = self.table.verticalHeader()
+        vh.setVisible(False); vh.setSectionResizeMode(QHeaderView.Fixed); vh.setDefaultSectionSize(30)
+        self.table.setEditTriggers(QAbstractItemView.NoEditTriggers)
+        self.table.setSelectionBehavior(QAbstractItemView.SelectRows)
+        self.table.setShowGrid(False); self.table.setWordWrap(False)
+        self.table.setTextElideMode(Qt.ElideRight)
+        h = self.table.horizontalHeader()
+        h.setSectionsClickable(True); h.setSortIndicatorShown(True)
+        h.setSortIndicator(self._sort_col, Qt.DescendingOrder)
+        h.sectionClicked.connect(self.on_sort)
+        widths = [190, 54, 52, 110, 150, 120, 150, 140, 100, 130, 80] + [48] * 6 + [44, 40, 56, 46, 66, 90]
+        for c, w in enumerate(widths):
+            self.table.setColumnWidth(c, w)
+        self.table.doubleClicked.connect(self.open_card)
+        lay.addWidget(self.table)
+        note = QLabel("Console prices (PS + Xbox market) from FUT.GG, refreshed about every 6 min. Change = "
+                      "since the previous update (green cheaper, red more expensive). Click a header to sort, "
+                      "double-click a card to open it on FUT.GG.")
+        note.setObjectName("subtitle"); note.setWordWrap(True)
+        lay.addWidget(note)
+
+        self._debounce = QTimer(self); self._debounce.setSingleShot(True); self._debounce.setInterval(250)
+        self._debounce.timeout.connect(lambda: self.apply(keep_scroll=False))
+        self.search.textChanged.connect(lambda _: self._debounce.start())
+        for w in (self.pos, self.rar):
+            w.currentIndexChanged.connect(lambda _: self.apply(keep_scroll=False))
+        for w in (self.lo, self.hi):
+            w.valueChanged.connect(lambda _: self._debounce.start())
+        self.market.toggled.connect(lambda _: self.apply(keep_scroll=False))
+        self._tick = QTimer(self); self._tick.timeout.connect(self.tick_timer); self._tick.start(1000)
+
+    # ----- data
+    def showEvent(self, e):
+        super().showEvent(e)
+        self.load()
+        self.tick_timer()
+
+    def update_from(self, text, color, tip):
+        """Called by the main window every 5 s (same price line as the header); reloads on a new file."""
+        self.state.setText(text); self.state.setStyleSheet(f"color: {color};"); self.state.setToolTip(tip)
+        if self.isVisible():
+            self.load()
+
+    def tick_timer(self):
+        if self.isVisible():
+            text, color = self._countdown.text()
+            self.timer_lbl.setText(text)
+            self.timer_lbl.setStyleSheet(f"color: {color}; font-size: 14px; font-weight: 600;")
+
+    def load(self):
+        import json
+        try:
+            m = PLAYERS_JSON.stat().st_mtime
+        except OSError:
+            self.count.setText("No player list yet - the price tool writes Prices/all_players.json")
+            return
+        if m == self._mtime:
+            return
+        try:
+            doc = json.loads(PLAYERS_JSON.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            return                                   # being replaced right now - next tick
+        self._mtime = m
+        self.model.rows = PlayersModel.make_rows(doc)
+        rars = sorted({r.vals[4] for r in self.model.rows if not r.base and r.vals[4]})
+        cur = self.rar.currentText()
+        self.rar.blockSignals(True)
+        self.rar.clear(); self.rar.addItems(RARITY_FIXED + rars)
+        self.rar.setCurrentIndex(max(self.rar.findText(cur), 0))
+        self.rar.blockSignals(False)
+        self.apply(keep_scroll=True)
+
+    # ----- filter + sort
+    def reset_filters(self):
+        ws = (self.search, self.pos, self.rar, self.lo, self.hi, self.market)
+        for w in ws:
+            w.blockSignals(True)
+        self.search.clear(); self.pos.setCurrentIndex(0); self.rar.setCurrentIndex(0)
+        self.lo.setValue(40); self.hi.setValue(99); self.market.setChecked(True)
+        for w in ws:
+            w.blockSignals(False)
+        self.apply(keep_scroll=False)
+
+    def on_sort(self, col):
+        if col == self._sort_col:
+            self._sort_desc = not self._sort_desc
+        else:
+            self._sort_col = col
+            self._sort_desc = col in PlayersModel.NUM and col != PlayersModel.C_ID
+        self.table.horizontalHeader().setSortIndicator(
+            col, Qt.DescendingOrder if self._sort_desc else Qt.AscendingOrder)
+        self.apply(keep_scroll=False)
+
+    def apply(self, keep_scroll=True):
+        rows = self.model.rows
+        q = _plain(self.search.text().strip())
+        pos = self.pos.currentText() if self.pos.currentIndex() > 0 else ""
+        rar = self.rar.currentText() if self.rar.currentIndex() > 0 else ""
+        lo, hi = self.lo.value(), self.hi.value()
+        market = self.market.isChecked()
+        out = []
+        for i, r in enumerate(rows):
+            v = r.vals
+            if market and not r.market:
+                continue
+            if not lo <= v[1] <= hi:
+                continue
+            if pos and v[2] != pos and pos not in r.alts:
+                continue
+            if rar:
+                if rar in QUALITY_UI:
+                    if r.quality != rar:
+                        continue
+                elif rar.startswith("Special"):
+                    if r.base:
+                        continue
+                elif v[4] != rar:
+                    continue
+            if q and q not in r.key:
+                continue
+            out.append(i)
+        c = self._sort_col
+        full = [i for i in out if rows[i].vals[c]]           # empty values / no price always at the end
+        empty = [i for i in out if not rows[i].vals[c]]
+        if c in PlayersModel.NUM:
+            full.sort(key=lambda i: (rows[i].vals[c], rows[i].vals[1]), reverse=self._sort_desc)
+        else:
+            full.sort(key=lambda i: _plain(rows[i].vals[c]), reverse=self._sort_desc)
+        bar = self.table.verticalScrollBar()
+        y = bar.value()
+        self.model.set_view(full + empty)
+        bar.setValue(y if keep_scroll else 0)
+        on_market = sum(1 for r in rows if r.market)
+        loading = sum(1 for r in rows if not r.named)
+        moved = sum(1 for r in rows if r.vals[PlayersModel.C_CHANGE])
+        txt = f"{len(out):,} shown  •  {on_market:,} on the market  •  {len(rows):,} cards"
+        if moved:
+            txt += f"  •  {moved:,} prices changed in the last update"
+        if loading:
+            txt += f"  •  names still loading for {loading:,}"
+        self.count.setText(txt)
+
+    def open_card(self, idx):
+        import webbrowser
+        r = self.model.rows[self.model.view[idx.row()]]
+        if r.url:
+            webbrowser.open("https://www.fut.gg" + r.url)
 
 
 # =================== Account status tab ===================
@@ -1826,6 +2146,8 @@ class MainWindow(QMainWindow):
         self.tabs.addTab(self.status_tab, "Status")
         self.prices_tab = PricesTab()
         self.tabs.addTab(self.prices_tab, "Prices")
+        self.players_tab = PlayersTab()
+        self.tabs.addTab(self.players_tab, "Players")
         lay.addWidget(self.tabs)
         self.tick_prices()
 
@@ -1836,6 +2158,7 @@ class MainWindow(QMainWindow):
         self.price_lbl.setStyleSheet(f"color: {color};")
         self.price_lbl.setToolTip(tip)
         self.prices_tab.update_from(self.prices, text, color, tip)
+        self.players_tab.update_from(text, color, tip)
 
     def tick_watchdog(self):
         text, color, tip = self.watchdog.status()
