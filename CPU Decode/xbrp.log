@@ -73,3 +73,224 @@ Consoles:
 [11:47:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#30)
 [11:47:26] Session state: Failed
 [11:47:27] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#31)
+[11:47:28] Bot: wait
+[11:47:31] Session state: Failed
+[11:47:31] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#32)
+[11:47:36] Session state: Failed
+[11:47:36] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#33)
+[11:47:40] Session state: Failed
+[11:47:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#34)
+[11:47:45] Session state: Failed
+[11:47:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#35)
+[11:47:50] Session state: Failed
+[11:47:50] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#36)
+[11:47:55] Session state: Failed
+[11:47:55] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#37)
+[11:48:00] Session state: Failed
+[11:48:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#38)
+[11:48:05] Session state: Failed
+[11:48:06] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#39)
+[11:48:11] Session state: Failed
+[11:48:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#40)
+[11:48:16] Session state: Failed
+[11:48:17] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#41)
+[11:48:21] Session state: Failed
+[11:48:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#42)
+[11:48:25] Session state: Failed
+[11:48:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#43)
+[11:48:30] Session state: Failed
+[11:48:30] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#44)
+[11:48:35] Session state: Failed
+[11:48:35] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#45)
+[11:48:41] Session state: Failed
+[11:48:41] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#46)
+[11:48:45] Session state: Failed
+[11:48:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#47)
+[11:48:50] Session state: Failed
+[11:48:51] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#48)
+[11:48:55] Session state: Failed
+[11:48:56] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#49)
+[11:49:00] Session state: Failed
+[11:49:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#50)
+[11:49:05] Session state: Failed
+[11:49:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#51)
+[11:49:10] Session state: Failed
+[11:49:10] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#52)
+[11:49:14] Session state: Failed
+[11:49:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#53)
+[11:49:19] Session state: Failed
+[11:49:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#54)
+[11:49:24] Session state: Failed
+[11:49:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#55)
+[11:49:29] Session state: Failed
+[11:49:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#56)
+[11:49:34] Session state: Failed
+[11:49:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#57)
+[11:49:38] Session state: Failed
+[11:49:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#58)
+[11:49:43] Session state: Failed
+[11:49:43] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#59)
+[11:49:48] Session state: Failed
+[11:49:48] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#60)
+[11:49:53] Session state: Failed
+[11:49:53] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#61)
+[11:49:59] Session state: Failed
+[11:49:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#62)
+[11:50:03] Session state: Failed
+[11:50:03] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#63)
+[11:50:08] Session state: Failed
+[11:50:08] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#64)
+[11:50:12] Session state: Failed
+[11:50:12] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#65)
+[11:50:18] Session state: Failed
+[11:50:18] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#66)
+[11:50:23] Session state: Failed
+[11:50:23] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#67)
+[11:50:27] Session state: Failed
+[11:50:28] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#68)
+[11:50:32] Session state: Failed
+[11:50:32] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#69)
+[11:50:37] Session state: Failed
+[11:50:37] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#70)
+[11:50:42] Session state: Failed
+[11:50:42] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#71)
+[11:50:47] Session state: Failed
+[11:50:47] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#72)
+[11:50:52] Session state: Failed
+[11:50:52] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#73)
+[11:50:57] Session state: Failed
+[11:50:57] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#74)
+[11:51:01] Session state: Failed
+[11:51:01] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#75)
+[11:51:07] Session state: Failed
+[11:51:07] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#76)
+[11:51:12] Session state: Failed
+[11:51:12] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#77)
+[11:51:17] Session state: Failed
+[11:51:17] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#78)
+[11:51:21] Session state: Failed
+[11:51:22] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#79)
+[11:51:26] Session state: Failed
+[11:51:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#80)
+[11:51:31] Session state: Failed
+[11:51:31] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#81)
+[11:51:36] Session state: Failed
+[11:51:36] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#82)
+[11:51:40] Session state: Failed
+[11:51:41] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#83)
+[11:51:46] Session state: Failed
+[11:51:46] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#84)
+[11:51:52] Session state: Failed
+[11:51:52] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#85)
+[11:51:57] Session state: Failed
+[11:51:57] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#86)
+[11:52:02] Session state: Failed
+[11:52:02] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#87)
+[11:52:07] Session state: Failed
+[11:52:07] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#88)
+[11:52:11] Session state: Failed
+[11:52:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#89)
+[11:52:16] Session state: Failed
+[11:52:16] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#90)
+[11:52:21] Session state: Failed
+[11:52:21] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#91)
+[11:52:26] Session state: Failed
+[11:52:26] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#92)
+[11:52:30] Session state: Failed
+[11:52:30] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#93)
+[11:52:35] Session state: Failed
+[11:52:35] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#94)
+[11:52:39] Session state: Failed
+[11:52:40] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#95)
+[11:52:45] Session state: Failed
+[11:52:45] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#96)
+[11:52:50] Session state: Failed
+[11:52:50] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#97)
+[11:52:55] Session state: Failed
+[11:52:55] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#98)
+[11:53:00] Session state: Failed
+[11:53:00] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#99)
+[11:53:05] Session state: Failed
+[11:53:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#100)
+[11:53:10] Session state: Failed
+[11:53:11] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#101)
+[11:53:15] Session state: Failed
+[11:53:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#102)
+[11:53:20] Session state: Failed
+[11:53:20] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#103)
+[11:53:24] Session state: Failed
+[11:53:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#104)
+[11:53:29] Session state: Failed
+[11:53:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#105)
+[11:53:34] Session state: Failed
+[11:53:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#106)
+[11:53:39] Session state: Failed
+[11:53:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#107)
+[11:53:44] Session state: Failed
+[11:53:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#108)
+[11:53:48] Session state: Failed
+[11:53:48] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#109)
+[11:53:54] Session state: Failed
+[11:53:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#110)
+[11:53:59] Session state: Failed
+[11:53:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#111)
+[11:54:04] Session state: Failed
+[11:54:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#112)
+[11:54:10] Session state: Failed
+[11:54:10] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#113)
+[11:54:14] Session state: Failed
+[11:54:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#114)
+[11:54:19] Session state: Failed
+[11:54:20] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#115)
+[11:54:25] Session state: Failed
+[11:54:25] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#116)
+[11:54:29] Session state: Failed
+[11:54:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#117)
+[11:54:34] Session state: Failed
+[11:54:34] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#118)
+[11:54:38] Session state: Failed
+[11:54:39] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#119)
+[11:54:44] Session state: Failed
+[11:54:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#120)
+[11:54:49] Session state: Failed
+[11:54:49] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#121)
+[11:54:54] Session state: Failed
+[11:54:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#122)
+[11:54:59] Session state: Failed
+[11:54:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#123)
+[11:55:04] Session state: Failed
+[11:55:04] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#124)
+[11:55:09] Session state: Failed
+[11:55:09] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#125)
+[11:55:14] Session state: Failed
+[11:55:15] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#126)
+[11:55:19] Session state: Failed
+[11:55:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#127)
+[11:55:23] Session state: Failed
+[11:55:24] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#128)
+[11:55:28] Session state: Failed
+[11:55:28] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#129)
+[11:55:33] Session state: Failed
+[11:55:33] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#130)
+[11:55:38] Session state: Failed
+[11:55:38] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#131)
+[11:55:44] Session state: Failed
+[11:55:44] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#132)
+[11:55:49] Session state: Failed
+[11:55:49] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#133)
+[11:55:54] Session state: Failed
+[11:55:54] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#134)
+[11:55:59] Session state: Failed
+[11:55:59] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#135)
+[11:56:05] Session state: Failed
+[11:56:05] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#136)
+[11:56:09] Session state: Failed
+[11:56:09] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#137)
+[11:56:14] Session state: Failed
+[11:56:14] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#138)
+[11:56:19] Session state: Failed
+[11:56:19] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#139)
+[11:56:23] Session state: Failed
+[11:56:23] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#140)
+[11:56:29] Session state: Failed
+[11:56:29] Session ended (session failed: {"code":"WNSError","message":"Xccs : ErrorCallingWNS : Send command failed : State WaitingForServerToRegister"}) - reconnecting in 3s (#141)
